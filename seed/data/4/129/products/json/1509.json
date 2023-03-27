@@ -1,0 +1,61 @@
+{
+  "name": "Эскимо Как Раньше пломбир ванильное, 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 53.99,
+  "priceWithCard": 49.67,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 52,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Как раньше",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "22.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

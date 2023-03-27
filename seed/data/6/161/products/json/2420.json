@@ -1,0 +1,61 @@
+{
+  "name": "Мини-кексы Юбилейное с кусочками молочного шоколада 140г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 120.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Мука пшеничная, кусочки молочного шоколада (сахар, молоко сухое цельное, какао тертое, масло какао, сыворотка сухая молочная, эмульгатор (лецитин соевый), ароматизатор), масло растительное, продукт яичный, сахар, сироп глюкозно-фруктозный, вода, агент влагоудерживающий (глицерин), разрыхлители (дигидропирофосфат натрия, гидрокарбонат натрия), соль, ароматизатор, загуститель (ксантановая камедь), сироп глюкозный, эмульгаторы (эфиры глицерина и молочной и жирных кислот, эфиры полиглицерина и жирных кислот), молоко сухое обезжиренное.",
+  "information": [
+    {
+      "value": "Юбилейное",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "431",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

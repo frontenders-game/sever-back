@@ -4,7 +4,9 @@ import {
     createProductSchema,
     productIdSchema,
     responseProductImageSchema,
+    responseProductPromoSchema,
     responseProductReviewSchema,
+    responseProductInformationSchema,
     responseProductSchema
 } from "../../modules/products/product.schema";
 import {
@@ -22,19 +24,21 @@ import { registerUserSchema } from "../../modules/users/user.schema";
 
 export default function addSchemas(server: FastifyInstance) {
     [
-        createProductPromoSchema,
         createProductInformationSchema,
-        responseProductReviewSchema,
-        responseProductImageSchema,
+        createProductPromoSchema,
         productIdSchema,
         createProductSchema,
+        responseProductInformationSchema,
+        responseProductPromoSchema,
+        responseProductReviewSchema,
+        responseProductImageSchema,
         responseProductSchema,
-        registerUserSchema,
         categoryIdSchema,
         createCategorySchema,
         responseCategorySchema,
         subcategoryIdSchema,
         createSubcategorySchema,
-        responseSubcategorySchema
+        responseSubcategorySchema,
+        registerUserSchema
     ].forEach(schema => server.addSchema(schema))
 }

@@ -1,0 +1,66 @@
+{
+  "name": "Семена Mixbar подсолнечника жареные с добавлением морской соли 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 55.19,
+  "promo": {
+    "discountedPriceRegular": "50.39",
+    "discountedPriceWithCard": "46.36",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "Семена подсолнечника жареные, cоль поваренная пищевая, соль садочная морская.",
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "20.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "52.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "573",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

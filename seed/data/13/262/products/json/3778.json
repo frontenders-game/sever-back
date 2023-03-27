@@ -1,0 +1,34 @@
+{
+  "name": "Прокладки Always Platinum ultra normal plus, 8шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 153.59,
+  "promo": {
+    "discountedPriceRegular": "140.79",
+    "discountedPriceWithCard": "135.16",
+    "discountPercent": "12",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Always",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

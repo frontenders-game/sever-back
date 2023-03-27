@@ -1,0 +1,29 @@
+{
+  "name": "Вода Заповедник Здоровья минеральная газированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 60.99,
+  "priceWithCard": 55.5,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "анионы: 5500-8000; so???: 5-50; cl?: 2200-4800; катионы: (nа? + k?): 3200-6000; ca??: <200; mg??: <300;биологически активные компоненты?мг/л: (h?bo?):10-80;минерализация  г/л: 12,0-18,5;содержит фторид. допускается естественный осадок минеральных солей",
+  "information": [
+    {
+      "value": "Заповедник Здоровья",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

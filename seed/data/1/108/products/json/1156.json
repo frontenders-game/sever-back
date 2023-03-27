@@ -1,0 +1,61 @@
+{
+  "name": "Сметана Искренне Ваш 10% 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "сливки нормализованные, закваска",
+  "information": [
+    {
+      "value": "Искренне Ваш",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "100",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

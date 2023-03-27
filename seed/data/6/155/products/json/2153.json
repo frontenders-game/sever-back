@@ -1,0 +1,61 @@
+{
+  "name": "Конфета Акконд Отломи 48г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 37.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "сахар, жир растительный, мука пшеничная, арахис, патока, цельное сгущенное молоко с сахаром (молоко цельное, молоко обезжиренное, сахара-сахароза, лактоза), сыворотка сухая молочная, сухое обезжиренное молоко, тертое какао, рис воздушный (крупа рисовая, мука пшеничная, сахар, экстракт ячменно-солодовый (солод ячменный, вода, солод ржаной), соль, влагоудерживающие агенты-сорбитовый сироп, глицерин; глюкоза, соль, эмульгатор-соевый лецитин, разрыхлители-гидрокарбонат натрия, гидрокарбонат аммония; продукты яичные, ароматизатор-концентрированное молоко, антиокислители-аскорбиновая кислота, альфа-токоферол. Может содержать следы орехов, арахиса, кунжута, диоксида серы",
+  "information": [
+    {
+      "value": "Акконд",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "519",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

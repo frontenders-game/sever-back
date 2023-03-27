@@ -1,0 +1,29 @@
+{
+  "name": "Крем EVO laboratoires Пантенол универсальный 46мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 105.59,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": " Aqua, Panthenol, Sorbitol, Paraffinum Liquidum, Dimethicone, Helianthus Annuus (Sunflower) Seed Oil, Cetearyl Alcohol (and) Potassium Cetyl Phosphate, Cetearyl Alcohol, Phenoxyethanol (and) Ethylhexylglycerin, Caprylic/Capric Triglyceride, PEG-7 Glyceryl Cocoate, Acrylates/Vinyl Isodecanoate Crosspolymer, Carbomer, Polysorbate 20, Tetradibutyl Pentaerithrityl Hydroxyhydrocinnamate, Tocopheryl Acetate, Sodium Hydroxide, Disodium EDTA, Citric Acid.",
+  "information": [
+    {
+      "value": "Evo Laboratoires",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

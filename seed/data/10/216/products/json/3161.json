@@ -1,0 +1,61 @@
+{
+  "name": "Корм сухой Chappi Мясное изобилие с овощами и травами для взрослых собак 2.5кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 499.99,
+  "priceWithCard": 469.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "злаки и продукты их переработки, мука животного происхождения (в том числе мука из птицы и говяжья), продукты животного происхождения, жир животный, масло подсолнечное, минеральные вещества, витамины, овощи и продукты их переработки, травы",
+  "information": [
+    {
+      "value": "Chappi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "18",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "350",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Каша молочная Агуша Вставай-ка овсянка-малина с 6 месяцев 2.5% 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 37.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "молоко нормализованное, вода, сахар, мука овсяная экструдированная, сахар, преобиотические вещества (фибрегам, олизофруктоза), концентрированный сок из свеклы, ароматизатор натуральный \"Малина\", натуральный фруктовый порошок \"Малина\"",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "71",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

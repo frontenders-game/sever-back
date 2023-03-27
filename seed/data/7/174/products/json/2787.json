@@ -1,0 +1,34 @@
+{
+  "name": "Чай Принцесса Нури Лимон чёрный 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 74.99,
+  "priceWithCard": 71.24,
+  "promo": {
+    "discountedPriceRegular": "59.99",
+    "discountedPriceWithCard": "56.99",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "чай черный байховый, ароматизатор лимона идентичный натуральному, цедра лимона",
+  "information": [
+    {
+      "value": "Принцесса Нури",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

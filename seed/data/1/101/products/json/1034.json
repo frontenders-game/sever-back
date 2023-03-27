@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт Активиа малина 3% 110г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.99,
+  "priceWithCard": 34.03,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "=нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (вода; сахар; малина; стабилизатор – Е1442; концентрированный сок черной моркови; ароматизатор; регулятор кислотности – лимонная кислота), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена, соевого лецитина, орехов, яйца куриного",
+  "information": [
+    {
+      "value": "Активиа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "91",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

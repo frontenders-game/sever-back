@@ -1,0 +1,34 @@
+{
+  "name": "Кофе Egoiste Noir натуральный растворимый сублимированный 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 659.99,
+  "priceWithCard": 633.59,
+  "promo": {
+    "discountedPriceRegular": "442.19",
+    "discountedPriceWithCard": "424.51",
+    "discountPercent": "33",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "100% арабика",
+  "information": [
+    {
+      "value": "Egoist",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

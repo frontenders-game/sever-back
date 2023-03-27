@@ -1,0 +1,53 @@
+{
+  "name": "Грудинка свиная Великолукский МК сырокопченая категория Б нарезка охлажденная 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 193.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 37,
+  "ingredients": "свинина (грудорёберная часть), натуральные пряности (кориандр, ягоды можжевельника, перец чёрный), соль, стабилизатор (Е 450i), сахар, антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
+  "information": [
+    {
+      "value": "Великолукский мясокомбинат",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "33",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "350",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

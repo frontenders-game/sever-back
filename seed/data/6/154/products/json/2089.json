@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Alpen Gold молочный Соленый миндаль и Карамель 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 51.14,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Сахар, какао тертое, масло какао, миндаль обжаренный соленый дробленый (миндаль, масло пальмовое, соль поваренная пищевая), сухое цельное молоко, сухая молочная сыворотка, кусочки карамели (сахар, сироп глюкозный, разрыхлитель (сода пищевая)), молочный жир, эмульгаторы (лецитин соевый, Е476), ароматизатор идентичный натуральному Ванилин.",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

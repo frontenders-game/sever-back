@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Лесной Бальзам с соком лимона 113г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 76.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 24,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Лесной Бальзам",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

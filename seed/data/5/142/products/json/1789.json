@@ -1,0 +1,66 @@
+{
+  "name": "Сок Сады Придонья яблоко-черная смородина 0.2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.49,
+  "priceWithCard": 32.77,
+  "promo": {
+    "discountedPriceRegular": "30.01",
+    "discountedPriceWithCard": "28.51",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 39,
+  "ingredients": "яблочный сок, сок черной смородины",
+  "information": [
+    {
+      "value": "Сады Придонья ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.01",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.01",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

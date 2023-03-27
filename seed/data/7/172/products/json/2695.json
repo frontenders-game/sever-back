@@ -1,0 +1,42 @@
+{
+  "name": "Кофе Jacobs Monarch классический натуральный жареный в зёрнах 800г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 1299.0,
+  "priceWithCard": 1208.07,
+  "promo": {
+    "discountedPriceRegular": "909.30",
+    "discountedPriceWithCard": "845.65",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "зерна кофе",
+  "information": [
+    {
+      "value": "Jacobs",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "218",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

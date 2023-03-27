@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Alpen Gold Oreo Нежная Клубника с клубничной начинкой и кусочками печенья 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 125.99,
+  "priceWithCard": 122.21,
+  "promo": {
+    "discountedPriceRegular": "88.19",
+    "discountedPriceWithCard": "85.55",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "cахар, жир растительный (масло пальмовое), печенье дробленое «Орео» (мука пшеничная, сахар, масло пальмовое, какао-порошок, сироп глюкозно-фруктозный, крахмал кукурузный, разрыхлители (гидрокарбонат натрия, гидрокарбонат аммония), соль, эмульгатор (лецитин соевый), ароматизатор, регулятор кислотности (Е 524)), сыворотка сухая молочная, какао тертое, масло какао, молоко сухое цельное, жир молочный, порошок клубничный, эмульгаторы (лецитин соевый, Е 476), молоко сухое обезжиренное, регулятор кислотности (кислота лимонная), ароматизаторы",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "541",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

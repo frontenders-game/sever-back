@@ -1,0 +1,29 @@
+{
+  "name": "Кофе в зернах Venetto натуральный жареный 1кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 899.99,
+  "priceWithCard": 845.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 13,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Venetto",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Италия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

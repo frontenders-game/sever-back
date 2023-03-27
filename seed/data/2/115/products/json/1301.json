@@ -1,0 +1,61 @@
+{
+  "name": "Слойка Аладушкин Свердловская 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 28.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, сахар-песок, маргарин (эмульгатор - моно и диглицериды жирных кислот, консервант - кислота сорбиновая, регулятор кислотности - лимонная кислота, краситель - каротин), вода питьевая, продукты яичные (меланж), дрожжи хлебопекарные прессованные, молоко сухое обезжиренное, соль поваренная пищевая, смесь сухая для приготовления хлебобулочных изделий (стабилизаторы: глицерина и диацетилвинной и жирной кислот эфиры, гуаровая камедь, антиокислитель - аскорбиновая кислота), ароматизатор идентичный натуральному - ванилин .",
+  "information": [
+    {
+      "value": "Аладушкин",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "39",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "46",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "558",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

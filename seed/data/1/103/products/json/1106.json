@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный А. Ростагрокомплекс в темном шоколаде с ванилью 26% 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.48,
+  "priceWithCard": 61.9,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 60,
+  "ingredients": "творог, сахар, шоколад темный (какао тертое, сахар, какао-масло, эмульгатор – лецитины (соевый лецитин), ароматизатор натуральный: ваниль),  сливочное масло, экстракт ванили",
+  "information": [
+    {
+      "value": "А.Ростагрокомплекс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Кофе Lebo Extra арабика молотый 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 307.19,
+  "promo": {
+    "discountedPriceRegular": "220.79",
+    "discountedPriceWithCard": "211.96",
+    "discountPercent": "31",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 8,
+  "ingredients": "кофе жареный молотый Арабика среднеобжаренный",
+  "information": [
+    {
+      "value": "Lebo",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

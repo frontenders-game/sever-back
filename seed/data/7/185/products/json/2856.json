@@ -1,0 +1,66 @@
+{
+  "name": "Набор для глинтвейна Сибирские просторы Красное вино 38г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 108.99,
+  "priceWithCard": 106.81,
+  "promo": {
+    "discountedPriceRegular": "80.65",
+    "discountedPriceWithCard": "79.04",
+    "discountPercent": "26",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 38,
+  "ingredients": "яблоко сушеное, сушеная слива, сушеная вишня,апельсин сушеный, корица, гвоздика, бадьян, кардамон, перец душистый",
+  "information": [
+    {
+      "value": "Сибирские просторы",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "236.2",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

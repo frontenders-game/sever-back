@@ -1,0 +1,58 @@
+{
+  "name": "Лакомство Dreamies С лососем и сыром подушечки для взрослых кошек 60г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 90.99,
+  "promo": {
+    "discountedPriceRegular": "79.99",
+    "discountedPriceWithCard": "72.79",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "злаки и продукты их переработки, продукты животного происхождения (в том числе из лосося), животные жиры и растительные масла (в том числе подсолнечное масло), гидролизат куриного белка, сырный порошок, краситель, минеральные вещества, витамины, пивные дрожжи, аминокислоты (в том числе таурин), антиоксиданты",
+  "information": [
+    {
+      "value": "Dreamies",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "34",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

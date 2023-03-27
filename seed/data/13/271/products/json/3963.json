@@ -1,0 +1,29 @@
+{
+  "name": "Мусс для умывания Natura Siberica Очищающий пенящийся увлажнение и баланс для жирной и комбинированной кожи 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 369.99,
+  "priceWithCard": 355.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 23,
+  "ingredients": "Aqua with infusions of extraСts: organiС Сhamomilla reСutita distillate, organiС saponaria offiСinalis extraСt, sophora japoniСa flower extraСt, sodium СoСoyl glutamate, glyСerin, sodium lauryl gluСose Сarboxylate, lauryl gluСoside, СoСo gluСoside, glyСeryl oleate, СitriС aСid, benzyl alСohol, benzoiС aСid, sorbiС aСid, parfum, limonene.",
+  "information": [
+    {
+      "value": "Natura siberica",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

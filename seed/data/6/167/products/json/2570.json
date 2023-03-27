@@ -1,0 +1,61 @@
+{
+  "name": "Щербет Караван-сарай молочно-арахисовый 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 74.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "сахар, патока крахмальная, очищенное обжаренное ядро арахиса, молоко сухое цельное, маргарин (рафинированные дезодорированные масла в натуральном и модифицированном виде (подсолнечное масло, пальмовое масло), вода, эмульгаторы (моно-диглицериды жирных кислот (Е4710)), соевый лецитин (Е322), соль поваренная пищевая, ароматизатор \"Сливки-молоко\", краситель Е 160 а, регулятор кислотности - лимонная кислота), белок яичный сухой",
+  "information": [
+    {
+      "value": "Караван-Сарай",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "76",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

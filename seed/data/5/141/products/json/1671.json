@@ -1,0 +1,29 @@
+{
+  "name": "Вода Славяновская минеральная природная лечебно-столовая газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.49,
+  "priceWithCard": 47.02,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Анионы: гидрокарбонат HCO3 - 1200-1500; сульфат SO4 - 800-1000; Хлорид Cl- 250-350. Катионы: Кальций Ca2+ - 250-350; Магний Мg2+ - менее 50; Натрий+Калий Na+K - 600-800. Минерализация 3-4.",
+  "information": [
+    {
+      "value": "Славяновская",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

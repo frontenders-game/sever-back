@@ -1,0 +1,61 @@
+{
+  "name": "Эклеры Фили-Бейкер заварные, 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 185.99,
+  "priceWithCard": 169.25,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": "Молоко сгущенное цельное с сахаром (молоко, сахар, лактоза), крем на растительных маслах (вода, жир растительный, сахар, белок молочный, стабилизатор - альгинат натрия, эмульгатор лецитин, соль, ароматизатор, краситель - каротин), яйца куриные, мука пшеничная в/с, сметанный продукт (нормализованные пастеризованные сливки, молоко сухое обезжиренное, закваска молочнокислых микроорганизмов), маргарин для песочного теста (масла растительные дезодорированные подсолнечное, кокосовое, вода, эмульгатор лецитин), сахар-песок, соль, консервант сорбиновая кислота, пищевая добавка - ароматизатор ванилин.",
+  "information": [
+    {
+      "value": "Фили-Бейкер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "36.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "320",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

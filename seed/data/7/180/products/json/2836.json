@@ -1,0 +1,61 @@
+{
+  "name": "Какао-напиток Хрутка быстрорастворимый 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 289.99,
+  "priceWithCard": 263.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "сахар, какао-порошок с пониженным содержанием жира, сыворотка молочная сухая, эмульгатор (соевый лецитин), ароматизатор натуральный, корица",
+  "information": [
+    {
+      "value": "Хрутка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "83",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "391",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

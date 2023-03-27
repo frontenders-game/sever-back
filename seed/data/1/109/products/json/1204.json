@@ -1,0 +1,61 @@
+{
+  "name": "Кефир Станция Молочная 3.2%, 930г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Молоко цельное, молоко обезжиренное, закваска, приготовленная на кефирных грибках",
+  "information": [
+    {
+      "value": "Станция Молочная ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "57",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

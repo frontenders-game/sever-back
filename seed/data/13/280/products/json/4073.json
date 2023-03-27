@@ -1,0 +1,29 @@
+{
+  "name": "Бумага для выпечки Econta, 38смх8м",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 46.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Подпергамент марки \"П\"",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

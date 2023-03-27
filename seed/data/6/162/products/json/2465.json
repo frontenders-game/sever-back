@@ -1,0 +1,61 @@
+{
+  "name": "Зефир Шарлиз с ароматом ванили",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 419.99,
+  "priceWithCard": 394.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Сахар; глазурь кондитерская (сахар, заменитель какао-масла лауринового типа (фракция гидрогенизированного пальмоядрового масла, эмульгаторы (лецитин соевый, Е492)), какао-порошок, эмульгаторы (лецитин соевый, Е476), соль); патока крахмальная, пюре яблочное (пюре яблочное, консерванты: сорбат калия, бензоат натрия), вода питьевая, агент желирующий пектин, белок яичный сухой, регулятор кислотности лимонная кислота, агент влагоудерживающий лактат натрия, ароматизатор «Ваниль», консервант сорбат калия. Может содержать молоко и продукты его переработки, диоксид серы.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "75.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "370",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

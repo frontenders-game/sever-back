@@ -1,0 +1,45 @@
+{
+  "name": "Сахар тростниковый Global Village нерафинированный кристаллический 750г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 195.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Сахар.",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "99",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "396",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

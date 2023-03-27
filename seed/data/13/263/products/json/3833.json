@@ -1,0 +1,34 @@
+{
+  "name": "Паста зубная Colgate Total 12 профессиональная чистка гель 75мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 234.99,
+  "promo": {
+    "discountedPriceRegular": "159.99",
+    "discountedPriceWithCard": "150.39",
+    "discountPercent": "36",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "glycerin, aqua, hydrated silica, sodium lauryl sulfate, aroma, arginine, zinc oxide, cellulose gum, poloxamer 407, zinc citrate, tetrasodium pyrophosphate, xanthan gum, benzyl alcohol, cocamidopropyl betaine, sodium fluoride, sodium saccharin, sucralose, eugenol, ci 77891, ci 74260, ci 47005, contains: sodium fluoride. total fluoride content: 1450 ppm",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

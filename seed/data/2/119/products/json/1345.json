@@ -1,0 +1,61 @@
+{
+  "name": "Сушка Зерница Челночок, 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.34,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, маргарин (масла растительные дезодорированные, вода питьевая, эмульгаторы (моно- и диглицериды жирных кислот, лецитины), соль пищевая, краситель каротины, ароматизатор, регулятор кислотности лимонная кислота), масло подсолнечное нерафинированное, соль пищевая, дрожжи хлебопекарные прессованные.",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "72",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

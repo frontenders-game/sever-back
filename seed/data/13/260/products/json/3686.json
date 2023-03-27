@@ -1,0 +1,29 @@
+{
+  "name": "Тряпка Econta для пола универсальная, 50х60см",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 38.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 44,
+  "ingredients": "Вискоза, полиэфирное волокно.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

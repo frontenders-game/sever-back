@@ -1,0 +1,58 @@
+{
+  "name": "Пастила Шарлиз Белевская классическая 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 189.99,
+  "promo": {
+    "discountedPriceRegular": "169.99",
+    "discountedPriceWithCard": "161.49",
+    "discountPercent": "15",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "яблоки, сахар, яичный белок",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "296",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

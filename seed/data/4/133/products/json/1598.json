@@ -1,0 +1,61 @@
+{
+  "name": "Смесь овощная Vитамин Сотэ с прованскими травами быстрозамороженная 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 183.99,
+  "priceWithCard": 171.11,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "баклажан, цукини, сладкий перец, лук, прованские травы (базилик, тимьян, орегано, майоран)",
+  "information": [
+    {
+      "value": "Vитамин",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "29",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

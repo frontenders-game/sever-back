@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Натахтари Груша газированный 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 184.99,
+  "priceWithCard": 170.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "подготовленная вода, ароматизатор груши идентичный натуральному, сахар белый, консервант (бензоат натрия), регулятор кислотности (лимонная кислота), краситель (карамельный колер (e150d))",
+  "information": [
+    {
+      "value": "Натахтари",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Грузия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "47",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

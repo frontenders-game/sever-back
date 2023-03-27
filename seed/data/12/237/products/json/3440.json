@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса Великолукский МК Любительская варёная 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 279.99,
+  "priceWithCard": 254.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "свинина, говядина, шпик, натуральные пряности (перец чёрный, орех мускатный), вода питьевая, соль, сахар, стабилизатор (Е450 iii), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
+  "information": [
+    {
+      "value": "Великолукский мясокомбинат",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "300",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

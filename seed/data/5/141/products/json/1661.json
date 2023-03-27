@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Липецкая росинка Лимон-лайм газированный 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 66.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "вода минеральная природная столовая питьевая, сахар (S)* или глюкозно-фруктозный сироп и сахар (G)* или глюкозно-фруктозный сироп (F)*, концентрированный яблочный сок, концентрированный сок лимона, регулятор кислотности – лимонная кислота, ароматизаторы натуральные",
+  "information": [
+    {
+      "value": "Липецкая Росинка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "25",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

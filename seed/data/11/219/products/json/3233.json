@@ -1,0 +1,58 @@
+{
+  "name": "Десерт ФрутоНяня Яблоко, вишня, черноплодная рябина, смородина с 6 месяцев 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 63.99,
+  "priceWithCard": 58.87,
+  "promo": {
+    "discountedPriceRegular": "49.27",
+    "discountedPriceWithCard": "45.33",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Пюре из яблок концентрированное, пюре из вишни, сок из рябины черноплодной концентрированный, пюре из смородины черной, сахар, вода питьевая специально подготовленная.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

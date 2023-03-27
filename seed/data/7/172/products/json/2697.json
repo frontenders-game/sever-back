@@ -1,0 +1,37 @@
+{
+  "name": "Кофе Черная Карта в зернах 800г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 699.99,
+  "priceWithCard": 636.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Кофе натуральный жареный.",
+  "information": [
+    {
+      "value": "Черная Карта",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "71",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

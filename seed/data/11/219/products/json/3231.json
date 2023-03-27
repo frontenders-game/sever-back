@@ -1,0 +1,53 @@
+{
+  "name": "Пюре Honey Kid из яблок, манго, папайи и бананов с 8 месяцев 220г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 82.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "16",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "70",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

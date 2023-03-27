@@ -1,0 +1,29 @@
+{
+  "name": "Скраб для лица Чистая Линия Абрикосовые косточки очищающий 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 122.99,
+  "priceWithCard": 116.84,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Aqua*, Prunus Armeniaca (Apricot) Seed Powder (измельченная скорлупа абрикосовых косточек)*, Silica, Glycereth-2 Cocoate, Cetearyl Alcohol, Glycerin*, Glyceryl Stearate, Paraffinum Liquidum, Zea Mays (Corn) Oil*, Dimethicone, Kaolin, Stearic Acid, Urea, Chamomilla Recutita (Matricaria) Flower/Leaf Extract (экстракт цветков/листьев ро-машки)*, Glycine Soja (Soybean) Oil*, Disodium EDTA, Ethylhexylglycerin, Methylchloroisothiazolinone, Methylisothiazolinone, Palmitic Acid, Parfum, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Potassium Cetyl Phosphate, Sodium Chloride, Sodium Lauryl Sulfate, Sodium Sulfate, Triethanolamine, Xanthan Gum, Hexyl Cinnamal, Limonene, Linalool.*100% натуральные компоненты.",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Средство Радуга Яблоко для мытья посуды 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 51.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "вода питьевая (30% и более), анионный ПАВ (менее 5%), амфортерный ПАВ (менее 5%), консервант (менее 5%), отдушка (менее 5%), краситель пищевой (менее 5%)",
+  "information": [
+    {
+      "value": "Радуга",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток 100 KWT Raw Energy энергетический 0.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "вода питьевая; сахар; вкусо-ароматическая основа «Энергия» (регулятор кислотности -  лимонная кислота, таурин, кофеин, ниацин, пантотеновая кислота, консервант – сорбат калия, витамин В6); регуляторы кислотности: лимонная кислота, цитрат натрия 3-замещенный; ароматизатор «Тутти-Фрутти»; красители: сахарный колер IV, желтый хинолиновый;  консервант - бензоат натрия",
+  "information": [
+    {
+      "value": "100 KWT",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь для волос Garnier Fructis рост во всю силу, 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 349.99,
+  "priceWithCard": 328.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Aqua / water, sodium laureth sulfate, cocamidopropyl betaine, sodium lauryl sulfate, glycol distearate, sodium chloride, amodimethicone, ppg-5-ceteth-20, guar hydroxypropyltrimonium chloride, niacinamide, coco-betaine, saccharum officinarum extract / sugar cane extract, sodium benzoate, hydroxypropyltrimonium lemon protein, sodium hydroxide, phenoxyethanol, trideceth-6, salicylic acid, limonene, fumaric acid, camellia sinensis leaf extract, linalool, 2-oleamido-1,3-octadecanediol, pyrus malus fruit extract / apple fruit extract, carbomer, pyridoxine hcl, pyrus malus water / apple fruit water, citric acid, cetrimonium chloride, citronellol, citrus limon peel extract / lemon peel extract, leuconostoc / radish root ferment filtrate, parfum / fragrance.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

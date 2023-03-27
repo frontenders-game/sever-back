@@ -1,0 +1,37 @@
+{
+  "name": "Корм сухой Dingo с говядиной для взрослых собак 600г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 94.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Dingo",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "324",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Картофель мытый 2.5кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 165.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Картофель.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "16.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "77",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

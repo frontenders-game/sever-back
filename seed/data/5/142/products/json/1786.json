@@ -1,0 +1,50 @@
+{
+  "name": "Сок ФрутоНяня яблочный без сахара осветленный 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.99,
+  "priceWithCard": 42.67,
+  "promo": {
+    "discountedPriceRegular": "32.99",
+    "discountedPriceWithCard": "32.00",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "сок из яблок. Изготовлен из концентрированного сока",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "44.8",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Энергетический напиток Red Bull 0.25л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 136.99,
+  "priceWithCard": 134.25,
+  "promo": {
+    "discountedPriceRegular": "90.41",
+    "discountedPriceWithCard": "88.61",
+    "discountPercent": "34",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 36,
+  "ingredients": "газированная вода, сахароза, глюкоза, регуляторы кислотности (лимонная кислота, гидрокарбонат натрия, карбонат магния), таурин (400 мг/100 мл), кофеин (32 мг/100 мл), витамины (ниацин, пантотеновая кислота, В6, В12), ароматизаторы, красители (сахарный колер|простой, рибофлавин). Рекомендуемое суточное потребление не более одной банки; не рекомендуется употребление детьми в возрасте до 18 лет, при беременности и кормлении грудью, а также лицами, страдающими повышенной нервной возбудимостью, бессонницей, артериальной гипертензией",
+  "information": [
+    {
+      "value": "Red Bull",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Австрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

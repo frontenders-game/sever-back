@@ -1,0 +1,26 @@
+{
+  "name": "Сельдерей стебель 1шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 103.49,
+  "priceWithCard": 95.21,
+  "promo": {
+    "discountedPriceRegular": "90.04",
+    "discountedPriceWithCard": "82.83",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Болгария",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

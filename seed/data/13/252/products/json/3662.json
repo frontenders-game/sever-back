@@ -1,0 +1,29 @@
+{
+  "name": "Освежитель воздуха Econta Океан 300мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 55.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "<5%: 2-(4-Тертбутилбензил) пропиональдегид, цитронеллол, триэтаноламин, бензоат натрия, нитрит натрия, неионогенное поверхностно-активное вещество (НПАВ), триэтиленгликоль, отдушка; ⩾ 30%: алифатические углеводороды (бутан, изобутан, пропан), вода",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

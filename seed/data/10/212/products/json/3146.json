@@ -1,0 +1,66 @@
+{
+  "name": "Корм сухой Felix Мясное объедение с говядиной для взрослых кошек 600г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 237.49,
+  "promo": {
+    "discountedPriceRegular": "209.99",
+    "discountedPriceWithCard": "199.49",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "злаки, мясо и мясные ингредиенты (включая говядину), экстракты растительного белка, животные жиры, продукты переработки растительного сырья, дрожжи, консерванты, минеральные вещества, аминокислоты, красители, витамины, антиоксиданты",
+  "information": [
+    {
+      "value": "Purina One",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "35",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "262.5",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

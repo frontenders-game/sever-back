@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад горький Россия-Щедрая Душа Российский 70% какао, 82г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 52.24,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Какао тертое, сахар, какао-порошок с пониженным содержанием жира, масло какао, молочный жир, спирт этиловый, ароматизаторы натуральные.nВ шоколадной массе: сухой общий остаток какао – 70%.",
+  "information": [
+    {
+      "value": "Россия - Щедрая Душа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "41",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "31",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "569",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Подгузники-трусики Honey Kid Junior 11-25кг 16шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 469.99,
+  "priceWithCard": 437.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "целлюлоза, нетканый материал, суперабсорбент, ламинированый нетканый материал, клей, эластичная нить, лента для утилизации",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

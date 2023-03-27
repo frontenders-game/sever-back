@@ -1,0 +1,29 @@
+{
+  "name": "Вода Ессентуки №4 минеральная лечебно-столовая газированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 91.99,
+  "priceWithCard": 90.15,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "Гидрокарбонаты 3400-4800, сульфаты <25, хлориды 1300-1900, натрий + калий 2500-3000, кальций <150, магний <100.Биологически активные компоненты Н3BO3:30-60, Диоксид углерода в источнике 500-1800.",
+  "information": [
+    {
+      "value": "Ессентуки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

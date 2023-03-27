@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Lacalut sensitive multi care 60г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 195.49,
+  "priceWithCard": 185.72,
+  "promo": {
+    "discountedPriceRegular": "170.08",
+    "discountedPriceWithCard": "161.58",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 49,
+  "ingredients": "aqua, hydrogenated starch hydrolysate, hydrated silica, poloxamer 188, cocamidopropyl betaine, potassium chloride, cellulose gum, aroma, propylene glycol, aluminum lactate, zinc gluconate, olaflur, sodium fluoride, sodium saccharin, chlorhexidine digluconate, bisabolol, ci 77891. содержание ионов фтора 1450 ppm. абразивность 25-35",
+  "information": [
+    {
+      "value": "Lacalut",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

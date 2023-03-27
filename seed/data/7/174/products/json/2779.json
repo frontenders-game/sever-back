@@ -1,0 +1,29 @@
+{
+  "name": "Чай Dilmah чёрный крупнолистовой 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 244.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Чай черный цейлонский.",
+  "information": [
+    {
+      "value": "Dilmah",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

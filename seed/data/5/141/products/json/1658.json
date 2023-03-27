@@ -1,0 +1,29 @@
+{
+  "name": "Вода Пилигрим минеральная газированная 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "гидрокарбонаты (HCO3) 30-160 мг/л, сульфаты (SO4) 5-20 мг/л, хлориды (Cl) 5-30 мг/л, кальций (Ca) 10-100 мг/л, магний (Mg) 0-20 мг/л, натрий + калий (Na+K) 10-50 мг/л",
+  "information": [
+    {
+      "value": "Пилигрим",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

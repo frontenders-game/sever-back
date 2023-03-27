@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса Мясная История Домашняя натуральная полукопченая 130г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 106.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "свинина, шпик, вода питьевая, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), пряности (чеснок), экстракты пряностей (перец, мускат, сельдерей, тмин), декстроза, усилитель вкуса и аромата (глутамат натрия), антиокислитель (аскорбат натрия), регуляторы кислотности (трифосфат натрия, пирофосфат натрия), белок животный свиной. Изготовлена на предприятии перерабатывающем молочные продукты, горчицу, яичные продукты, говядину, баранину, мясо птицы",
+  "information": [
+    {
+      "value": "Мясная история",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "308",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

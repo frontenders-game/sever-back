@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Splat Professianal биоактивная лечебные травы, 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 188.99,
+  "priceWithCard": 185.21,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Hydrogenated Starch Hydrolysate, Hydrated Silica, Aqua, PEG-8, Sodium Coco-Sulfate, Aroma, Xanthan Gum, Calcium Lactate, Sodium Monofluorophosphate, PVP, Sodium Methylparaben, Sodium Saccharin, Propylene Glycol, Hippophae Rhamnoides Fruit Extract, Crataegus Monogyna Fruit Extract, Chamomilla Recutita Flower Extract, Salvia Officinalis Extract, Papain, Pelargonium Graveolens Stem Leaf Oil, CI 42090, CI 19140, Citric Acid, Sodium Benzoate, Potassium Sorbate, Limonene. Fluoride content – 0, 1 % (1000 ppm).",
+  "information": [
+    {
+      "value": "Splat",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

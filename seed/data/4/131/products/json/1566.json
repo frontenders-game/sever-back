@@ -1,0 +1,66 @@
+{
+  "name": "Наггетсы Мираторг Классические куриные, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 145.59,
+  "promo": {
+    "discountedPriceRegular": "110.39",
+    "discountedPriceWithCard": "100.46",
+    "discountPercent": "31",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "Филе грудки куриное, филе окорочка куриного с кожей, вода питьевая, мука (пшеничная, кукурузная), крахмал (картофельный, кукурузный, тапиоковый), волокна пищевые (клетчатка соевая, пшеничная), масло подсолнечное, белок соевый, загустители (метилцеллюлоза, гуаровая камедь), соль, регуляторы кислотности (карбонат натрия, глюконат натрия). дрожжи, куркума, паприка, красители (аннато, экстракт паприки), экстракт дрожжевой (содержит ячмень), антиокислитель аскорбиновая кислота, глютен пшеничный, ароматизатор натуральный.",
+  "information": [
+    {
+      "value": "Мираторг",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "18.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "204.3",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

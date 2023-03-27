@@ -1,0 +1,58 @@
+{
+  "name": "Вафли Cuisine royale сливочные рифленые 120г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 45.49,
+  "promo": {
+    "discountedPriceRegular": "39.99",
+    "discountedPriceWithCard": "36.39",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Cuisine Royale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

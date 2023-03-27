@@ -1,0 +1,53 @@
+{
+  "name": "Кукуруза сахарная в початках вареная 1уп.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 132.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Кукуруза вареная.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "22",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "130",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Aqua Minerale Juicy черешня 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 68.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "вода, сахар, мультифруктовый концентрированный сок (сок черешни, яблочный сок, лимонный сок, сок лайма), регуляторы кислотности (E330, E331(iii)), консерванты (E202, E211), ароматизатор натуральный, концентрированный сок черной моркови",
+  "information": [
+    {
+      "value": "Aqua Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "19",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

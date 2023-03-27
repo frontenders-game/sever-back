@@ -1,0 +1,66 @@
+{
+  "name": "Пломбир Чистая Линия Московская лакомка 12%, 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 128.99,
+  "priceWithCard": 118.67,
+  "promo": {
+    "discountedPriceRegular": "95.45",
+    "discountedPriceWithCard": "87.82",
+    "discountPercent": "26",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "Молоко коровье цельное – 51,5%, сливки натуральные – 21,6%, молоко сгущенное цельное с сахаром – 17,7% (молоко цельное, молоко обезжиренное, сахароза, лактоза), сахар – 5.5%, глюкозный сироп – 2.0%, цитрусовые волокна – 0.6%, яичный желток – 0.5%, молочный белок – 0.5%, ароматизатор натуральный ваниль – 0.1% Шоколадная глазурь: масло сливочное, сахар, какао-порошок, эмульгатор лецитин, натуральный ароматизатор ванили.",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "20.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "309",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

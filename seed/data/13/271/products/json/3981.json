@@ -1,0 +1,29 @@
+{
+  "name": "Крем для лица Чёрный Жемчуг Интенсивное омоложение 56+ ночной 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 349.99,
+  "priceWithCard": 335.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Aqua, Cyclopentasiloxane, Cetearyl Alcohol, Propylene Glycol, Dimethicone, Butyrospermum Parkii (Shea Butter), Isopropyl Myristate, Hydrogenated Polyisobutene, Isopropyl Isostearate, Isodecyl Neopentanoate, Glycerin, Persea Gratissima (Avocado) Oil, Alanine, Allantoin, Ammonium Lactate, Betaine, Butylene Glycol, Camellia Japonica Seed Oil (масло камелии)4, Caprylyl Glycol, Cetearyl Methicone, Cholesterol, Diazolidinyl Urea, Dimethicone Crosspolymer, Dimethiconol, Dipropylene Glycol, Disodium Cetearyl Sulfosuccinate, Disodium EDTA, Ethylhexylglycerin, Ethylparaben, Fucus Serratus Extract, Glyceryl Caprylate, Glyceryl Stearate Citrate, Hydrogenated Lecithin, Hydroxyethyl Urea, Isohexadecane, Maltitol, Methylparaben, 1-Methylhydantoin-2-imide, Parfum, PEG/PPG-18/18 Dimethicone, PEG-40 Hydrogenated Castor Oil, PEG-40 Stearate, Phenoxyethanol, Polymethylsilsesquioxane, Potassium Cetyl Phosphate, Potassium Sorbate, Propylparaben, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Retinyl Palmitate, Serine, Sodium Benzoate, Sodium Polyacrylate, Steareth-2, Steareth-21, Tocopherol, Tocopheryl Acetate, Trideceth-6, Undaria Pinnatifida Extract (экстракт водорослей ундария)7, Verbena Оfficinalis Extract (экстракт вербены)4, Xanthan Gum.",
+  "information": [
+    {
+      "value": "Черный жемчуг",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

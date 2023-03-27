@@ -1,0 +1,29 @@
+{
+  "name": "Набор клеев Centrum канцелярских 2шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 94.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Centrum",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

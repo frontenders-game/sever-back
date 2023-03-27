@@ -1,0 +1,34 @@
+{
+  "name": "Гель для стирки Ласка Эффект восстановления цветного 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 429.99,
+  "priceWithCard": 395.59,
+  "promo": {
+    "discountedPriceRegular": "352.59",
+    "discountedPriceWithCard": "324.38",
+    "discountPercent": "18",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "5-15% анионные ПАВ; <5% неионогенные ПАВ, мыло, фосфонаты, консервант, энзимы, отдушка (в т.ч. бутилфенил метилпропиональ, гексилциннамаль, цитронеллол).",
+  "information": [
+    {
+      "value": "Ласка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

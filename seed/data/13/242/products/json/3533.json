@@ -1,0 +1,29 @@
+{
+  "name": "Порошок стиральный Persil Color Свежесть от Vernel 450г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 126.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "5-15% анионные ПАВ; <5% неионогенные ПАВ, поликарбоксилаты, фосфонаты, энзимы, отдушка",
+  "information": [
+    {
+      "value": "Persil",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

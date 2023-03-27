@@ -1,0 +1,29 @@
+{
+  "name": "Средство чистящее Bref Колор Актив для унитаза цветочная свежесть 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 227.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": ">30% анионных ПАВ, солей неорганических, 5-15% неионогенных ПАВ, <5% красителя, комлексообразователя, растворителя, отдушки (в т.ч. альфа-изометилионона).",
+  "information": [
+    {
+      "value": "Bref",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Венгрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

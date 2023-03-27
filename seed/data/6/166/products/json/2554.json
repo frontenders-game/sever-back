@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Яшкино лимон-лайм 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 94.49,
+  "priceWithCard": 87.88,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "мука пшеничная общего назначения, сахар, жир кондитерский (растительные масла, в том числе соевое, антиокислитель: токоферолы, концентрат смеси), молоко сухое обезжиренное, крахмал кукурузный,  соль, эмуль-гатор: лецитин соевый, краситель натуральный: лютеин, ароматизатор натуральный: лимон-лайм, разрыхлители: карбонаты натрия, карбонаты аммония;  регулятор кислотности: лимонная кислота; вода. Может содержать следы яичных продуктов",
+  "information": [
+    {
+      "value": "Яшкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "62",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "540",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Напиток кофейный Nescafé Classic Cappuccino растворимый 18г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.99,
+  "priceWithCard": 30.35,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 154,
+  "ingredients": "Сахар, глюкозный сироп, масло пальмоядровое, масло кокосовое, кофе натуральный растворимый NESCAFE, сухая молочная сыворотка, ароматизаторы, стабилизаторы (E340)ii), E331(iii), E452(i), E471, E471е), обезжренное сухое молоко, казинат натрия (молочный), агент антислеживающий (Е551), соль",
+  "information": [
+    {
+      "value": "Nescafe",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "77",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "428",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

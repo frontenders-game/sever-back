@@ -1,0 +1,66 @@
+{
+  "name": "Сметана Большая Кружка Классическая 20% 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 83.99,
+  "priceWithCard": 82.31,
+  "promo": {
+    "discountedPriceRegular": "70.55",
+    "discountedPriceWithCard": "69.14",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": "нормализованные сливки, закваска молочнокислых культур",
+  "information": [
+    {
+      "value": "Большая кружка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "204",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

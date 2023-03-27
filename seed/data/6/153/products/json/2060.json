@@ -1,0 +1,66 @@
+{
+  "name": "Арахисовая паста Cuisine Royale кремовая 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 158.09,
+  "promo": {
+    "discountedPriceRegular": "130.89",
+    "discountedPriceWithCard": "121.73",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": "жаренный арахис 90%, сахар, гидрогенизированные растительные масла (семена хлопчатника, соевые бобы, рапс), соль. Продукт может содержать следы фисташек, фундука и сои",
+  "information": [
+    {
+      "value": "Cuisine Royale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Индия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "25",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "50",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "21.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "638",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

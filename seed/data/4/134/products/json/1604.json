@@ -1,0 +1,66 @@
+{
+  "name": "Креветки  Vici королевские в/м 450г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 542.99,
+  "priceWithCard": 532.13,
+  "promo": {
+    "discountedPriceRegular": "342.08",
+    "discountedPriceWithCard": "335.24",
+    "discountPercent": "37",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "креветки белоногие (Litopenaeus vannamei) неразделанные, вода (защитная глазурь), соль, пряности, антиокислитель: пиросульфит натрия Е 223",
+  "information": [
+    {
+      "value": "Vici",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "1.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "84.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

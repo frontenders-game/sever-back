@@ -1,0 +1,29 @@
+{
+  "name": "Презервативы In Time №3 особо тонкие 3шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 115.99,
+  "priceWithCard": 113.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Латекс.",
+  "information": [
+    {
+      "value": "In Time",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Корея",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

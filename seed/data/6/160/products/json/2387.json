@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Кременкульское Сказ от Марии с клубничной начинкой 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 103.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "мука пшеничная высший сорт, сахар, вода питьевая, жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде, в том числе соевое), молоко сухое цельное, разрыхлители (карбонаты аммония, гидрокарбонат натрия), соль поваренная пищевая, эмульгатор (соевый лецитин) регуляторы кислотности (пирофосфат натрия, лимонная кислота), антиокислитель (пиросульфит натрия), экстракт клубники, ароматизатор «Ванилин», ароматизатор «Клубника со сливками», консервант (сорбиновая кислота), краситель «Кармуазин».",
+  "information": [
+    {
+      "value": "Кременкульское",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

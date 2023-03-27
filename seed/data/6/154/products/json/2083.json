@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад молочный Milka с начинкой со вкусом ванили и печеньем Орео, 92г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 91.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "сахар, мука пшеничная, масло какао, молоко сухое обезжиренное, жир растительный, какао тертое, сыворотка сухая молочная, жир молочный, какао-порошок, сироп глюкозно-фруктозный, крахмал пшеничный, эмульгаторы (лецитин соевый, лецитин подсолнечный), разрыхлители (гидрокарбонат калия, гидрокарбонат аммония, гидрокарбонат натрия), соль, ароматизаторы",
+  "information": [
+    {
+      "value": "Milka",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "553",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

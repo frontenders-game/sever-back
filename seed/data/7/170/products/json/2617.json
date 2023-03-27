@@ -1,0 +1,66 @@
+{
+  "name": "Кофе Fresco Doppio растворимый с добавлением молотого, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 459.99,
+  "priceWithCard": 441.59,
+  "promo": {
+    "discountedPriceRegular": "271.39",
+    "discountedPriceWithCard": "260.54",
+    "discountPercent": "41",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Сублимированный кофе, жаренный молотый кофе.",
+  "information": [
+    {
+      "value": "Fresco",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "18.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "337.1",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

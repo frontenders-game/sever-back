@@ -1,0 +1,61 @@
+{
+  "name": "Сливки Клевер для взбивания ультрапастеризованные 35% 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 203.99,
+  "priceWithCard": 187.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "сливки из цельного молока, стабилизатор консистенции (каррагинан, гуаровая камедь)",
+  "information": [
+    {
+      "value": "Клевер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "35",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "333",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

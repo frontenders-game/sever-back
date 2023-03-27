@@ -1,0 +1,66 @@
+{
+  "name": "Кофе Jacobs Monarch классический натуральный жареный в зернах 230г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 439.99,
+  "priceWithCard": 400.39,
+  "promo": {
+    "discountedPriceRegular": "272.79",
+    "discountedPriceWithCard": "248.24",
+    "discountPercent": "38",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "Кофе жареный в зернах.",
+  "information": [
+    {
+      "value": "Jacobs",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "102",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

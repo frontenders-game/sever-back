@@ -1,0 +1,53 @@
+{
+  "name": "Дымовица Останкино из лопатки варено-копченая нарезка 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 134.99,
+  "priceWithCard": 129.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "свинина, вода, комплексные пищевые добавки (регуляторы кислотности: Е450 (i, iii, v), Е451 (i), Е262 (i, ii), Е331 (iii) ; стабилизаторы: Е407, Е415, Е452 (i), Е1442; соевый белок, сахар, антиокислитель Е301, пряности, усилитель вкуса и аромата Е621, ароматизаторы); крахмал картофельный, соль, нитритно-посолочная смесь (соль, фиксатор окраски Е250), краситель Е120",
+  "information": [
+    {
+      "value": "Останкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "97",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

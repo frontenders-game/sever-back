@@ -1,0 +1,66 @@
+{
+  "name": "Майонез Ряба Провансаль Оливковый 67% 395мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 106.69,
+  "promo": {
+    "discountedPriceRegular": "90.19",
+    "discountedPriceWithCard": "87.49",
+    "discountPercent": "18",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Масла растительные (подсолнечное и оливковое), вода, сахар, уксус, эфирное горчичное масло, натуральный бета-каротин (провитамин А).",
+  "information": [
+    {
+      "value": "Ряба",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "67",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "620",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

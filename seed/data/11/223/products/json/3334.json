@@ -1,0 +1,61 @@
+{
+  "name": "Каша ФрутоНяня Молочная с персиком пять злаков с 6 месяцев 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 53.99,
+  "priceWithCard": 51.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Молоко сухое цельное, пюре из персиков, фруктоза, мальтодекстрин, мука рисовая, мука кукурузная, мука пшеничная, мука гречневая, мука овсяная, пребиотик-инулин, натуральный ароматизатор \"Персик\", вода",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "69.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

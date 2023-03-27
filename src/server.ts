@@ -2,7 +2,7 @@ import Fastify, { FastifyInstance, FastifyReply, FastifyRequest  } from 'fastify
 import fastifyStatic from '@fastify/static'
 import path from 'path'
 import multipart from "@fastify/multipart"
-import { TypeBoxTypeProvider } from "@fastify/type-provider-typebox";
+import { TypeBoxTypeProvider } from '@fastify/type-provider-typebox'
 import AutoLoad from '@fastify/autoload';
 import addSwagger from "./utils/server/swagger";
 import { JWT } from '@fastify/jwt'; // fastifyJWT,
@@ -43,7 +43,7 @@ export function buildServer() {
                 verbose: true
             },
             plugins: [
-                [ajvKeywords, 'transform']
+                [ajvKeywords, ['transform' ]]
                 // Usage: [plugin, pluginOptions] - Plugin with options
                 // Usage: plugin - Plugin without options
             ]
@@ -57,10 +57,10 @@ export function buildServer() {
                 }
             }
         },
-    }).withTypeProvider<TypeBoxTypeProvider>();
+    }).withTypeProvider<TypeBoxTypeProvider>()
 
     server.setSchemaErrorFormatter((errors, scope) => normalizeAjvErrors(errors, scope))
-
+    // console.log(path.join(__dirname, '../../public/'))
     // server.register(fastifyJWT, {secret: env.JWT_SECRET})
     server.register(multipart, {attachFieldsToBody: true})
         .register(fastifyStatic, {root: path.join(__dirname, '../../public/'), prefix: "/public/"})

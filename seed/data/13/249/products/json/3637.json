@@ -1,0 +1,34 @@
+{
+  "name": "Пятновыводитель Vanish Oxi Action 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 445.99,
+  "priceWithCard": 428.15,
+  "promo": {
+    "discountedPriceRegular": "312.19",
+    "discountedPriceWithCard": "299.70",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "30% и более кислородсодержащий отбеливатель; менее 5%: неионогенные и анионные ПАВ, цеолиты; энзимы, ароматизатор.",
+  "information": [
+    {
+      "value": "Vanish",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

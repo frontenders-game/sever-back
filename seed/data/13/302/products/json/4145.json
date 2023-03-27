@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Honey Kid влажные детские с алоэ 20шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 43.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

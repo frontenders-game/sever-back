@@ -1,0 +1,61 @@
+{
+  "name": "Драже M&M's с арахисом 45г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.49,
+  "priceWithCard": 50.13,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "Молочный шоколад (сахар, какао тертое, сухое цельное молоко, лактоза, какао масло, эквивалент масла какао (масло пальмовое, масло ши), эмульгатор (соевый лецитин), ароматизаторы (ванилин, масляная кислота)); сахар, арахис, крахмал кукурузный, масло пальмовое рафинированное дезодорированное, глюкозный сироп (кукурузный, пшеничный), загуститель (декстрин), красители (Е171, красный свекольный, куркумин, каротины, Е172, Е133), глазирователь (воск карнаубский), жир специального назначения (масло кокосовое, масло пальмоядровое). Может содержать незначительное количество глютена ячменя.",
+  "information": [
+    {
+      "value": "M&Ms",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "511",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

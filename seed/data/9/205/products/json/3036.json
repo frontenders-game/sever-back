@@ -1,0 +1,61 @@
+{
+  "name": "Хлебцы Агуша яблоко-вишня мультизлаковые мини 30г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "пшеница, сок яблочный концентрированный, крупа рисовая шлифованная (рис круглозерный), пюре яблочное, сок вишневый концентрированный, крупа гречневая, ароматизатор натуральный \"Вишня\"",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "18",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "91.7",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Пудинг Чудо Ваниль 1шт. 3% 125г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 31.99,
+  "priceWithCard": 29.43,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "А - молоко нормализованное, сахар, стабилизаторы (Е1422,гуаровая камедь, каррагинан), ароматизатор, краситель - аннато.",
+  "information": [
+    {
+      "value": "Чудо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "14",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "93",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Гель-скраб-маска для лица Garnier Чистая кожа 3в1 с глиной для жирной кожи 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 549.99,
+  "priceWithCard": 527.99,
+  "promo": {
+    "discountedPriceRegular": "379.49",
+    "discountedPriceWithCard": "364.31",
+    "discountPercent": "31",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Аqua/water, kaolin, glycerin, butylene glycol, zea mays starch/corn starch, ci 77891/titanium dioxide, decyl glucoside, polyethylene, sodium laureth sulfate, chondrus crispus (carrageenan), peg-7 glyceryl cocoate, benzyl salicylate, ci 42090/blue 1 lake, eucalyptus globulus extract/eucalyptus globulus leaf extract, limonene, linalool, menthol, phenoxyethanol, propylene glycol, pumice, salicylic acid, smithsonite/smithsonite extract, sodium hydroxide, tetrasodium edta, xanthan gum, zinc gluconate, parfum/fragrance.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Франция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

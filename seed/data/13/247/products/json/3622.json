@@ -1,0 +1,34 @@
+{
+  "name": "Порошок стиральный Honey Kid Универсальный детский 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 94.99,
+  "promo": {
+    "discountedPriceRegular": "79.99",
+    "discountedPriceWithCard": "75.99",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "сульфат натрия",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

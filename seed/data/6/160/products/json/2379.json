@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Шарлиз Кокосанка сдобное 270г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 156.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Кокосовая стружка, сахар-песок, патока, мука пшеничная в с, вода, маргарин, крахмал, яичный порошок, консервант - сорбат калия, стабилизатор - гуаровая камедь (Е412).",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "479",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

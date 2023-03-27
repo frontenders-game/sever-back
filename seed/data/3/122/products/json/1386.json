@@ -1,0 +1,58 @@
+{
+  "name": "Морковь мытая",
+  "unitsOfMeasurement": "кг",
+  "step": "0.5",
+  "priceRegular": 74.74,
+  "priceWithCard": 69.51,
+  "promo": {
+    "discountedPriceRegular": "65.02",
+    "discountedPriceWithCard": "60.47",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 35,
+  "ingredients": "морковь",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "35",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

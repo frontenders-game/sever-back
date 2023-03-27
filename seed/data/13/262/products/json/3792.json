@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки ежедневные Pupi Multiform, 20шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 48.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Нетканый материал, айрлайд, п/э пленка, клей, силиконизированная бумага.",
+  "information": [
+    {
+      "value": "Pupi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ассорти орехово-фруктовое",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 399.99,
+  "priceWithCard": 367.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Цукаты,фундук бланш,изюм,арахис жареный.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

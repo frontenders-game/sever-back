@@ -1,0 +1,61 @@
+{
+  "name": "Батончик 35 со вкусом шоколада 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 15.99,
+  "priceWithCard": 15.51,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "сахар, масла растительные, в том числе соевое, мука пшеничная, какао-порошок алкализованный, сыворотка молочная сухая, продукты сухие экструзионной технологии «рис воздушный» (крупа рисовая, мука пшеничная, сахар, соль), какао тертое, молоко сухое обезжиренное, крахмал кукурузный, соль, разрыхлитель гидрокарбонат натрия, эмульгаторы (лецитин соевый, Е476, Е492), ароматизатор «Шоколад», антиокислитель: токоферолы, концентрат смеси. Может содержать незначительное количество яичного белка, продуктов переработки орехов, арахиса. Противопоказано при индивидуальной непереносимости к белку молока.",
+  "information": [
+    {
+      "value": "35",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "35",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

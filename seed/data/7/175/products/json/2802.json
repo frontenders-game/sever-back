@@ -1,0 +1,29 @@
+{
+  "name": "Чай Первая Цена зеленый мелкий 20х1.2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 34,
+  "ingredients": "чай зеленый мелкий пакетированный",
+  "information": [
+    {
+      "value": "Первая Цена",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

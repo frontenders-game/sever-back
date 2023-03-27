@@ -1,0 +1,29 @@
+{
+  "name": "Сметана Сарафаново 15%, 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 52.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Нормализованные сливки, закваска молочнокислых микроогранизмов.",
+  "information": [
+    {
+      "value": "Сарафаново",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

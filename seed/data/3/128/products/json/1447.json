@@ -1,0 +1,50 @@
+{
+  "name": "Цукаты Mixbar Ананас и папайя, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 130.19,
+  "promo": {
+    "discountedPriceRegular": "110.59",
+    "discountedPriceWithCard": "102.85",
+    "discountPercent": "21",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Ананас цукаты (ананас сушеный, сахар, регулятор кислотности лимонная кислота, консервант Е220, красители Е102, Е110, Е124, Е133), папайя цукаты (папайя сушеная, сахар, регулятор кислотности лимонная кислота, консервант Е220, краситель Е124). Продукт может содержать следы кунжута, арахиса и других орехов.",
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "90",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

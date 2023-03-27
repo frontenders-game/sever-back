@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь TreSemmé Repair and Protect восстанавливающий 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 369.99,
+  "priceWithCard": 351.49,
+  "promo": {
+    "discountedPriceRegular": "270.09",
+    "discountedPriceWithCard": "256.59",
+    "discountPercent": "27",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, biotin, dimethiconol, gluconolactone, glycerin, guar hydroxypropyltrimonium chloride, sodium sulfate, trehalose, butylated hydroxytoluenecarbomer, citric acid, cocamide mea, disodium edta, disodium phosphate, ethylhexyl methoxycinnamate, glycol distearate, mica, parfum, peg-45m, phenoxyethanol, ppg-9, silica, sodium benzoate, sodium chloride, sodium hydroxide, tea-dodecylbenzenesulfonate, tea-sulfate, titanium dioxide, urea, benzyl salicylate, butylphenyl methylpropional, hexyl cinnamal, limonene, linalool",
+  "information": [
+    {
+      "value": "Tresemme",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

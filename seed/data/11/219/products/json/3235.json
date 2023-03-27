@@ -1,0 +1,45 @@
+{
+  "name": "Пюре Дары Кубани Витаминный салатик из груш с 4 мес. 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 32.75,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "грушевое пюре, вода питьевая. Продукт изготовлен из концентрированного пюре",
+  "information": [
+    {
+      "value": "Дары Кубани",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "60",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

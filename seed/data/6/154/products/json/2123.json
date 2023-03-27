@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Alpen Gold Max Fun взрывная карамель мармелад печенье 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 159.79,
+  "promo": {
+    "discountedPriceRegular": "151.29",
+    "discountedPriceWithCard": "142.21",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Сахар, какао тертое, масло какао, сухое цельное молоко, сухая молочная сыворотка, молочный жир, эмульгаторы (лецитин соевый, Е476), ароматизатор, мармелад жевательный фигурный (патока кукурузная, cахар, вода, желатин, регулятор кислотности - лимонная кислота, концентрат сока винограда, агент влагоудерживающий (сорбит), красители (экстракт шпината, экстракт крапивы, экстракт бузины, Е100), глазирователь (смесь воска карнаубского и растительных масел), ароматизаторы натуральные, ароматизатор, масло лимона), печенье овсяное со вкусом карамели (мука овсяная, cахар, cахар инверный, жир растительный, крахмал тапиоковый, разрыхлители (сода пищевая, Е503), соль, ароматизатор натуральный), взрывная карамель (cахар, сироп глюкозный, лактоза).",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "27.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "515",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

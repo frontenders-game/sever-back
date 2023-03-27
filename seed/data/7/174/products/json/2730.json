@@ -1,0 +1,29 @@
+{
+  "name": "Чай Greenfield spring melody черный 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 189.99,
+  "priceWithCard": 178.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "чай черный байховый, ароматизатор, лист черной смородины, мята, чабрец",
+  "information": [
+    {
+      "value": "Greenfield",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

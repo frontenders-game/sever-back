@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Спартак со вкусом лимона 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "мука пшеничная высшего сорта, сахар, маргарин, яичный порошок, инвертный сироп, соль поваренная пищевая йодированная, сода пищевая (натрий двууглекислый), молоко сухое (массовая доля жира 25%), ароматизатор натуральный «Лимонное масло», углеаммонийная соль, ароматизатор «Ванилин",
+  "information": [
+    {
+      "value": "Спартак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

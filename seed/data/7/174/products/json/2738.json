@@ -1,0 +1,29 @@
+{
+  "name": "Чай Riston Original blend черный листовой 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 105.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "чай черный байховый среднелистовой",
+  "information": [
+    {
+      "value": "Riston",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Холодный чай Lipton лимон 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 147.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Вода, сахар, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), экстракт черного чая, концентрированный лимонный сок, ароматизатор, антиокислитель аскорбиновая кислота, подсластитель натуральный экстракт стевии.",
+  "information": [
+    {
+      "value": "Lipton",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "30",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

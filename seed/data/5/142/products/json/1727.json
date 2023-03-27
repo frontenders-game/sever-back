@@ -1,0 +1,45 @@
+{
+  "name": "Сок Сады Придонья яблочный прямого отжима 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 88.49,
+  "priceWithCard": 84.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "Яблочный сок прямого отжима - уникален! Он производится методом прямого отжима из свежих яблок, выращенных на плодородной донской земле. Асептическая (без доступа воздуха) технология розлива сохраняет качество и вкус \"живого\" сока на длительный срок.",
+  "information": [
+    {
+      "value": "Сады Придонья ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "44",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

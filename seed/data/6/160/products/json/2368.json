@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Невская Сушка Звездочка Турецкая 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 122.19,
+  "promo": {
+    "discountedPriceRegular": "90.99",
+    "discountedPriceWithCard": "85.53",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, сахар, маргарин (рафинированные дезодорированные растительные масла (пальмовое, модифицированное пальмовое, кокосовое, подсолнечное), вода, эмульгаторы (Е471, Е433, лецитин соевый), консерванты (сорбиновая кислота, бензоат натрия), ароматизатор, краситель каротины, регулятор кислотности лимонная кислота, разрыхлитель E500. Продукт может содержать следы арахиса и продукты его переработки",
+  "information": [
+    {
+      "value": "Невская Сушка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "450",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

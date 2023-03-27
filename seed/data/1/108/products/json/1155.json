@@ -1,0 +1,61 @@
+{
+  "name": "Продукт Масленыч Сметайка 15% 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 29.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "сливки нормализованные, молоко обезжиренное, заменитель молочного жира (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (пальмовое масло и его фракции, подсолнечное масло), эмульгаторы Е471, соевый лецитин, антиокислители Е320, Е321), комплексная пищевая добавка (стабилизатор (Е1442), концентрат сывороточного белка, загуститель(Е412), закваска",
+  "information": [
+    {
+      "value": "Масленыч",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "200",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

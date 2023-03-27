@@ -1,0 +1,29 @@
+{
+  "name": "Средство для снятия лака Econta без ацетона 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "смесь гомологов этилацетата, вода питьевая, изопропанол, глицерин, масло касторовое гидрогенизированное, парфюмерная композиция",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

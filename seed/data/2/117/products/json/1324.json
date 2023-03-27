@@ -1,0 +1,61 @@
+{
+  "name": "Галеты Любятово Классические, 185г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 70.49,
+  "priceWithCard": 64.15,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Мука пшеничная, сахар, соль, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия (сода пищевая); дрожжи хлебопекарные, регулятор кислотности: лимонная кислота, антиокислитель: пиросульфит натрия Продукт содержит глютен, сульфиты Продукт может содержать следы молочного белка, сои.",
+  "information": [
+    {
+      "value": "Любятово",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "76",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Yes! Tea Лесные ягоды холодный черный чай 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 94.49,
+  "priceWithCard": 86.93,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "вода, сахар, регуляторы кислотности (лимонная кислота, Е331iii), экстракт черного чаёчка (экстракт чернoго чaя, мальтодекстрин, регулятор кислотности Е524), натуральные пищевые ароматизаторы («тип Чeрный Чaй», «тип Черника», «тип Малина» (регулятор кислотности Е260, антиокислитель аскорбиновая кислота), «тип Клубника», концентрированные соки (малиновый, клубничный, черничный)",
+  "information": [
+    {
+      "value": "СТМ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "32",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

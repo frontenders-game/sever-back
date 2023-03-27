@@ -1,0 +1,61 @@
+{
+  "name": "Шинка Иней Пряная из свинины копчено-вареная 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 164.99,
+  "priceWithCard": 156.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "свинина, вода питьевая, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), крахмал картофельный, стабилизаторы (трифосфат натрия), загустители (каррагинан, ксантановая камедь), регуляторы кислотности (цитрат натрия, ацетат натрия), пищевые волокна (гороховые, бамбуковые, цитрусовые),  антиокислитель (аскорбиновая кислота), усилитель вкуса и аромата (глутамат натрия), декстроза, пряности (перец черный, перец белый, мускатный орех), краситель (кармины)",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "91",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

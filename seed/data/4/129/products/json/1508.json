@@ -1,0 +1,66 @@
+{
+  "name": "Эскимо Свитлогорье пломбир ванильное в глазури 15%, 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 108.99,
+  "priceWithCard": 101.36,
+  "promo": {
+    "discountedPriceRegular": "65.39",
+    "discountedPriceWithCard": "60.82",
+    "discountPercent": "40",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 31,
+  "ingredients": "Молоко цельное, глазурь сливочная какаосодержащая (масло сливочное, сахар, какао-порошок), масло сливочное, молоко цельное сгущенное с сахаром (молоко нормализованное, сахар, лактоза), сахар, вода питьевая, молоко сухое цельное,сухое обезжиренное, эмульгатор (моно- и диглицериды жирных кислот), стабилизатор (камедь рожкового дерева, гуаровая камедь, каррагинан), экстракт ванили натуральный",
+  "information": [
+    {
+      "value": "Свитлогорье",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "20.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "310",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

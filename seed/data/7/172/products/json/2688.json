@@ -1,0 +1,29 @@
+{
+  "name": "Кофе в зернах Venetto Arabica Blend жареный 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 239.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "100% Арабика",
+  "information": [
+    {
+      "value": "Venetto",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Италия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

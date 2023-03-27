@@ -1,0 +1,34 @@
+{
+  "name": "Вода Evian негазированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 189.99,
+  "promo": {
+    "discountedPriceRegular": "157.99",
+    "discountedPriceWithCard": "150.09",
+    "discountPercent": "21",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "кальций 70-90 мг/л,, магний 20-40 мг/л,, натрий 0.1-7 мг/л; калий 0.01-3 мг/л, сульфаты 0.1-15 мг/л,, хлориды 0.1-15 мг/л,, гидрокарбонаты 320-370 мг/л,, нитраты 0.1-5 мг/л, фториды 0.01-0.5; общая минерализация 0.3-0.75 г/л",
+  "information": [
+    {
+      "value": "Evian",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Франция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

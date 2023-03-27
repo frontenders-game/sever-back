@@ -1,0 +1,29 @@
+{
+  "name": "Лампа GP LEDA60 светодиодная 806lm E27 8W теплый свет 1шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 189.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "Металл, пластик.",
+  "information": [
+    {
+      "value": "GP",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

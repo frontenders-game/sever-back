@@ -1,0 +1,61 @@
+{
+  "name": "Айран Лесная Сказка Актив 1%, 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 48.49,
+  "priceWithCard": 46.55,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 28,
+  "ingredients": "Произведен из восстановленного молока с использованием бактериальной закваски (чистые культуры термофильных молочнокислых стрептококков,молочнокислой болгарской палочки и лактосбраживающих дрожжей),воды питьевой,соли поваренной пищевой.",
+  "information": [
+    {
+      "value": "Лесная Сказка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "27",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

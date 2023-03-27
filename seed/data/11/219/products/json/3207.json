@@ -1,0 +1,45 @@
+{
+  "name": "Пюре Фрумка из яблок для детей от 4 мес. 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.99,
+  "priceWithCard": 36.09,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "пюре из яблок",
+  "information": [
+    {
+      "value": "Фрумка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "38",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

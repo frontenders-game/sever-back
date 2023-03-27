@@ -1,0 +1,61 @@
+{
+  "name": "Корм влажный Purina ONE с курицей, коричневым рисом и томатами для взрослых собак мелких пород при склонности к набору веса 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 34.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "мясо и продукты его переработки (из которых курица 4%), экстракты растительного белка, рыба и продукты ее переработки, продукты переработки растительного сырья, злаки (0.8% коричневого риса эквивалентно 4.8% готового коричневого риса), овощи (0.8% сухих томатов, эквивалентно 7.2% томатов), минеральные вещества, загустители, сахара, масла и жиры, аминокислоты, витамины",
+  "information": [
+    {
+      "value": "Purina One",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "85.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "77",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

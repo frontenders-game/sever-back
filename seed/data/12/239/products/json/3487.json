@@ -1,0 +1,58 @@
+{
+  "name": "Грудинка Коптильный двор из свинины копчено-вареная 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": {
+    "discountedPriceRegular": "120.39",
+    "discountedPriceWithCard": "110.76",
+    "discountPercent": "14",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Состав: свинина, вода, мальтодекстрин, загустители (каррагинан из водорослей euchema, ксантановая камедь), соль нитритная (соль, фиксатор окраски нитрит натрия), декстроза, пшеничные волокна, регуляторы кислотности (трифосфат натрия, лимонная кислота, диацетат натрия, ацетат натрия), агент влагоудерживающий лактат натрия, стабилизаторы (пирофосфаты натрия, полифосфат натрия), животный белок, антиокислитель аскорбат натрия, ароматизаторы, глюкоза, сыворотка молочная сухая, дрожжевые экстракты, порошок гемоглобина, краситель кармины.",
+  "information": [
+    {
+      "value": "Коптильный двор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "314",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

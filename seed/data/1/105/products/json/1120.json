@@ -1,0 +1,45 @@
+{
+  "name": "Маргарин Сливочник Столовый 40% 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 36.37,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "вода, масла растительные дезодорированные (в том числе модифицированные), соль, эмульгаторы (Е471, Е476), консервант (сорбат калия), регулятор кислотности (кислота лимонная), ароматизатор, красители (аннато, куркумин)",
+  "information": [
+    {
+      "value": "Сливочник",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "40",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

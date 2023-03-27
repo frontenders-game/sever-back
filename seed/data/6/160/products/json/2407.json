@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Шарлиз Акульчев вафельное рассыпчатое, 225г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 112.79,
+  "promo": {
+    "discountedPriceRegular": "89.99",
+    "discountedPriceWithCard": "84.59",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Мука пшеничная высший сорт, сахар-песок, заменитель молочного жира (смесь рафинированных и частично гидрогенизированных растительных жиров и масел (пальмовое масло, подсолнечное масло, пальмоядровое масло), эмульгаторы - моно - и диглицериды пищевых жирных кислот), продукты яичные (меланж), сывротка молочная сухая, соль поваренная пищевая, разрыхлитель - карбонат аммония Е503, эмульгатор - лецитин соевый Е322, ароматизатор натуральный Ваниль. Содержит пшеницу, глютен, продукты яичные, молочные продукты, лецитин соевый. Может содержать следы арахиса.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "484.5",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

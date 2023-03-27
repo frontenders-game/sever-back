@@ -1,0 +1,53 @@
+{
+  "name": "Драже Skittles фрукты 38г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 40.99,
+  "priceWithCard": 38.12,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Сахар, глюкозный сироп, жир специального назначения, кислоты: лимонная, яблочная; загустители: крахмал кукурузный, картофельный (е1400, е1422); натуральные и искуственные ароматизаторы, регулятор кислотности е331, глазирователи: е903, е904, жир специального назначения, красители: е120,е100, е171, е160А, е132,е133, е160Е.",
+  "information": [
+    {
+      "value": "Skittles",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "91",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "406",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Зубочистки Econta бамбук 180шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 27.99,
+  "priceWithCard": 25.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "бамбук",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Гонконг",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

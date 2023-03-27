@@ -1,0 +1,29 @@
+{
+  "name": "Гель для душа Bodyart for men Морская свежесть, 250 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 92.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 7,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Chloride, Sodium Laureth Sulfate (and) Clycol Distearate (and) Cocamide MEA (and) Laureth-10, Coco-Glucoside (and) Glyceryl Pleate, Propylene Glycol, Maris Sal, Sargassum Pallidum Extract, Laminaria Japonica Extract, Fucus Vesiculosus Extract, Laminaria Digitata Extract, Benzyl Alcohol, Methylisothiazolinone, Methyloroisothiazolinone, Parfum, Disodium EDTA, Citric Acid, CI 42090, CI 45100, CI 14720.",
+  "information": [
+    {
+      "value": "Bodyart",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

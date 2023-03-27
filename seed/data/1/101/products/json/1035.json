@@ -1,0 +1,66 @@
+{
+  "name": "Йогурт Viola Verry Berry манго 2.6% 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 91.19,
+  "priceWithCard": 87.54,
+  "promo": {
+    "discountedPriceRegular": "60.19",
+    "discountedPriceWithCard": "57.78",
+    "discountPercent": "34",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "нормализованное молоко, наполнитель фруктовый с манго (манго, сахар, вода питьевая, кукурузный крахмал, натуральный ароматизатор), сухое обезжиренное молоко, молочный белок, йогуртовая закваска",
+  "information": [
+    {
+      "value": "Viola",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "16.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "103",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

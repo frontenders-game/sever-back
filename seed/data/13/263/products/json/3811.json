@@ -1,0 +1,29 @@
+{
+  "name": "Зубная щётка Colgate Зиг заг средней жёсткости 2 + 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 214.99,
+  "priceWithCard": 208.54,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "100% пластик.",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Индия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

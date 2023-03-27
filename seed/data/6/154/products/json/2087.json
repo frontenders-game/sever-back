@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Ritter Sport Белый Цельный лесной орех и хлопья 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 119.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "сахар, масло какао, сухое цельное молоко, ядро ореха лещины, лактоза, рис, молочный жир, эмульгатор (соевый лецитин), соль, экстракт ячменного солода. Возможно наличие следов арахиса, орехов и яиц. Содержание масла какао - не менее 20%. Содержание в шоколадной массе: общего сухого остатка какао - не менее 26%",
+  "information": [
+    {
+      "value": "Ritter Sport",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "38",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "574",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

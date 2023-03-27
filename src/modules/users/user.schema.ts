@@ -100,8 +100,8 @@ export type PhoneLoginInput = Static<typeof phoneLoginSchema>
 //     isConfirmed: Type.Boolean({default: false}),
 //     temporaryToken: Type.String(),
 //     temporaryExpirationToken: Type.String({format: 'date-time'}),
-//     createdAt: Type.String({format: "date-time"}),
-//     updatedAt: Type.String({format: "date-time"}),
+//     createdAt: dateTimeType,
+//     updatedAt: dateTimeType,
 // }
 
 

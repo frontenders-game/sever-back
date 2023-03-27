@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Aqua Minerale с соком Черешня газированный 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": "Вода, сахар, мультифруктовый концентрированный сок (концентрированный сок черешни, яблочный концентрированный сок, лимонный концентрированный сок, концентрированный сой лайма), регулятор кислотности (Е330, Е331), консерванты (Е202, Е211), ароматизатор натуральный, концентрированный сок черной моркови.",
+  "information": [
+    {
+      "value": "Aqua Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "19",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

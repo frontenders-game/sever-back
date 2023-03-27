@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Славянка Левушка шоколадные глазированные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 549.99,
+  "priceWithCard": 533.49,
+  "promo": {
+    "discountedPriceRegular": "401.49",
+    "discountedPriceWithCard": "389.45",
+    "discountPercent": "27",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Сахар, патока, какао-тертое, эквивалент масла какао (масла растительные, эмульгатор лецитин соевый, антиокислитель Е306, кислота лимонная), молоко цельное сгущенное с сахором (сахара: сахароза, лактоза, молоко цельное) агент желирующий пектин, заменитель масла какао (масла растительные, антиокислитель Е306), сыворотка молочная сухая, красители (диоксид титана, сахарный колер), эмульгаторы (лецитин соевый, Е476), жир растительный (масла растительные, влагоудерживающий Е420. Может содержать следы муки пшеничной, яичного белка, фундука.",
+  "information": [
+    {
+      "value": "Славянка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "74.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "371",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

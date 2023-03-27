@@ -1,0 +1,29 @@
+{
+  "name": "Батарейки Duracell ААА MN2400 К4 4шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 307.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Щелочные батарейки.",
+  "information": [
+    {
+      "value": "Duracell",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

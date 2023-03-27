@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Dirol Мята и мелисса без сахара 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.19,
+  "priceWithCard": 40.17,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Подсластители (сорбит, мальтит, мальтитный сироп, сукралоза, ацесульфам калия), резиновая основа, загуститель (Е414), ароматизаторы, влагоудерживающий агент (Е422), эмульгатор (лецитин), краситель (Е171), глазирователь (Е903), антиокислитель (321).",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "68",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "174",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Имбирь Kotanyi молотый 15г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.49,
+  "priceWithCard": 67.41,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 45,
+  "ingredients": "Имбирь молотый. Может содержать следы глютеносодержащих злаков, яиц, сои, сельдерея, семян кунжута, орехов, молока (лактозы), горчицы.",
+  "information": [
+    {
+      "value": "Kotaniy",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Австрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "316",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

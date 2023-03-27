@@ -1,0 +1,53 @@
+{
+  "name": "Салями полукопчёная Останкино Венская, 420г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 290.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 16,
+  "ingredients": "Свинина, белковый стабилизатор, говядина, шпик, комплексные пищевые добавки (молоко сухое обезжиренное, жир растительный, лактоза, сахар, регуляторы кислотности: Е450(i,iii), E451(i); стабилизаторы: Е401, Е415, Е417, Е452(i); пряности (в т.ч.мускатный орех), ароматизаторы, антиокислители: аскорбиновая и лимонная кислоты, усилитель вкуса и аромата Е621, уплотнитель Е516); соевый белок, соль, пшеничная клетчатка, нитритно-посолочная смесь (соль, фиксатор окраски Е250), красители: Е120, рис красный ферментированный.",
+  "information": [
+    {
+      "value": "Останкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "37",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

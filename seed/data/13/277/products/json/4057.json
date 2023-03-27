@@ -1,0 +1,34 @@
+{
+  "name": "Набор Пять Идей пасхальный Классический 1 шт. в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 59.79,
+  "promo": {
+    "discountedPriceRegular": "50.04",
+    "discountedPriceWithCard": "46.04",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "1) комплексные пищевые добавки - красители пищевые для яиц, маркировка «Роскошь России» – 4 шт. (изумрудный, фиолетовый, сапфировый, пурпурный). 2) изделие хозяйственного обихода из полимерных материалов: одноразовые перчатки с маркировкой «HK, Kiana Group Co., Limited» – 1 пара",
+  "information": [
+    {
+      "value": "Пять идей",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

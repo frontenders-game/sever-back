@@ -1,0 +1,29 @@
+{
+  "name": "Газета Панорама ТВ Петербург.Сканворды",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 55.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 62,
+  "ingredients": "Бумага.",
+  "information": [
+    {
+      "value": "Кросс Панорама ТВ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Чебурек Твистер Чебурито с мясом замороженный, 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 23.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 34,
+  "ingredients": "Тесто (мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное, соль), фарш (фарш куриный ММО, лук репчатый, вода питьевая, жир говяжий, шкура свиная, мука соевая, соль, петрушка, шпинат, усилитель вкуса и аромата глутамат натрия – 1 замещенный, краситель колер карамельный IV), жир жидкий для фритюра (масла растительные, антиокислитель лимонная кислота).nПроизведено на предприятии, использующем горчичные продукты.",
+  "information": [
+    {
+      "value": "Restoria",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "31.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "294",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

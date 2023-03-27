@@ -1,0 +1,29 @@
+{
+  "name": "Дезодорант шариковый Nivea Love be trendy 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 237.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

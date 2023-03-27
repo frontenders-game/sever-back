@@ -1,0 +1,29 @@
+{
+  "name": "Полотенца бумажные Zewa 1/2 листа 2шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 124.99,
+  "priceWithCard": 114.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "100% целлюлоза.",
+  "information": [
+    {
+      "value": "Zewa",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

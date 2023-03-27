@@ -1,0 +1,66 @@
+{
+  "name": "Сухари Ого Сахарные с изюмом, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 116.39,
+  "promo": {
+    "discountedPriceRegular": "93.59",
+    "discountedPriceWithCard": "90.78",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Мука пшеничная хлебопекарная высший сорт, вода питьевая, сахар, маргарин (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде, в том числе соевое, вода, эмульгаторы полиглицерина и жирных кислот, моно- и диглицериды жирных кислот, соль, сахар, консервант сорбат калия, регулятор кислотности лимонная кислота, ароматизатор, краситель бета каротин, антиокислители аскорбиновая кислота, альфа-токоферол), регулятор кислотности (лимонная кислота), ароматизатор (бета каротин)), меланж яичный, виноград сушеный (изюм), дрожжи хлебопекарные, соль пищевая. Возможны незначительные следы, семян кунжута, мака, ядра арахиса, горчичного масла.",
+  "information": [
+    {
+      "value": "Ого",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

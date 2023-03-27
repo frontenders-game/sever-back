@@ -1,0 +1,61 @@
+{
+  "name": "Пельмени Горячая Штучка Бульмени с говядиной и свининой 900г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 355.99,
+  "priceWithCard": 348.87,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Мука пшеничная хлебопекарная высший сорт, вода питьевая, говядина, свинина, мясо цыпленка-бройлера механической обвалки, лук репчатый свежий, соевый белок, масло растительное, соль, перец черный молотый, улучшитель теста (разрыхлитель: пирофосфаты, антиокислители: аскорбиновая кислота, лимонная кислота), загустители (каррагинан из водорослей euchema, гуаровая камедь), пшеничная клетчатка, смесь специй и пряностей. В заботе о вашем здоровье, мы обязаны указать возможность содержания в наших продуктах следующих аллергенов: горчица, кунжут, сельдерей, орехи, молоко, яйца и продукты их переработки.",
+  "information": [
+    {
+      "value": "Горячая штучка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "240",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

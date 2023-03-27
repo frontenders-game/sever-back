@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты КФ Крупской Северная Аврора",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 499.99,
+  "priceWithCard": 484.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "сахар, молоко цельное сгущенное с сахаром (сахароза, лактоза, молоко цельное), патока, какао тертое, эквивалент масла какао (масла растительные, лецитин соевый, антиокислители Е306, кислота лимонная), спирт этиловый ректификованный, заменитель масла какао (масло растительное, эмульгаторы Е492, лецитин соевый, антиокислитель Е306), арахис тертый, эмульгаторы (лецитин соевый, Е476), ароматизаторы, какао-порошок",
+  "information": [
+    {
+      "value": "Фабрика им. Крупской",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "8.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "383",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

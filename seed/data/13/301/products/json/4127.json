@@ -1,0 +1,34 @@
+{
+  "name": "Подгузники-трусики Pampers 6-11кг 52шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 1499.0,
+  "priceWithCard": 1454.03,
+  "promo": {
+    "discountedPriceRegular": "959.36",
+    "discountedPriceWithCard": "930.58",
+    "discountPercent": "36",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "petrolatum, stearyl alcohol, paraffinum liquidum, aloe barbadensis leaf extract ",
+  "information": [
+    {
+      "value": "Pampers",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Mentos Нежная мята 15.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.19,
+  "priceWithCard": 33.51,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "подсластилели (E967, E420, E421, E965, E951, E950, E955), основа резиновая, агент влагоудерживающий (E422), ароматизаторы, мальтодекстрин, пищевая добавка (E451i), крахмал (рисовый, кукурузный), экстракт белого чая, эмульгаторы (E473,  E322), загустители (E466, E415), растительное масло, глазирователь (E903), красители (E133, E100), антиокислитель (E321). Содержит соевый лецитин. Содержит источник фенилаланина. Содержит подсластители",
+  "information": [
+    {
+      "value": "Mentos",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "170",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Антиперспирант-дезодорант Garnier Mineral Активный Контроль спрей, 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 254.99,
+  "priceWithCard": 239.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": "Isobutane, butane, propane, cyclopentasiloxane, aluminum chlorohydrate, triethyl citrate, parfum/fragrance, hydroxyisohexyl 3-cyclohexene carboxaldehyde, stearalkonium bentonite, dimethiconol, limonene, zinc pca, linalool, benzyl salicylate, benzyl alcohol, isopropyl palmitate, alpha-isomethyl ionone, geraniol, butylphenyl methylpropional, citronellol, coumarin, hexyl cinnamal.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

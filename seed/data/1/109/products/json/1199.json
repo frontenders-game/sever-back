@@ -1,0 +1,61 @@
+{
+  "name": "Напиток кисломолочный Имунеле Малина-Морошка 1.2% 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 28.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "А - молоко нормализованное, сахар, вода, глюкозно-фруктозный сироп, концентрированный малиновый сок, стабилизатор - пектин, ароматизаторы, витаминно-минеральный премикс, краситель - бета-каротин, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), закваска, пробиотические микроорганизмы (Lactobacillus Casei, Lactobacillus Rhamnosus).",
+  "information": [
+    {
+      "value": "Имунеле",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "68",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

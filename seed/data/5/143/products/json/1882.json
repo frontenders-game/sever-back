@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Черноголовка Дюшес 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 114.99,
+  "priceWithCard": 104.64,
+  "promo": {
+    "discountedPriceRegular": "80.49",
+    "discountedPriceWithCard": "73.25",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "вода артезианская подготовленная, сахар, регулятор кислотности кислота лимонная, настой цитрусовый лимонный, ароматизатор натуральный, краситель сахарный колер Е150d, консервант бензоат натрия",
+  "information": [
+    {
+      "value": "Черноголовка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "40",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

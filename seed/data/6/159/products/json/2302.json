@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Konti Княжеские, кг",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 749.99,
+  "priceWithCard": 712.49,
+  "promo": {
+    "discountedPriceRegular": "502.49",
+    "discountedPriceWithCard": "477.37",
+    "discountPercent": "33",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Сахар, жир растительный гидрогенизированный (рафинированные, дезодорированные растительные масла: подсолнечное, пальмовое и его фракции, подсолнечное гидрогенизированное, пальмовое гидрогенизированное, эмульгаторы Е 492, лецитин соевый, антиокислители Е 306), сыворотка сухая молочная, какао-порошок, ядро арахиса жареное дробленое, вафельная крошка (мука пшеничная, сахар, растительный жир (подсолнечное масло, рапсовое масло), молочный жир, молочный сахар, молочный белок, соль, экстракт солода (ячмень), разрыхлитель Е 500ii, эмульгатор лецитин из подсолнечника, антиокислитель Е 306), ядро арахиса жареное тертое, мука пшеничная общего назначения, ядро ореха фундука жареное тертое, эмульгатор лецитин соевый, ароматизаторы, эмульгатор Е 476.",
+  "information": [
+    {
+      "value": "Konti",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

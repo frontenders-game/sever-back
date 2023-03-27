@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Colgate тройное действие 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 166.59,
+  "promo": {
+    "discountedPriceRegular": "151.29",
+    "discountedPriceWithCard": "148.27",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "calcium carbonate, aqua, sorbitol, sodium lauryl sulfate, hydrated silica, sodium monofluorophosphate, aroma, cellulose gum, magnesium aluminum silicate, sodium carbonate, benzyl alcohol, sodium saccarin, sodium bicarbonate,limonene, eugenol, cl 74260, ci 74160",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

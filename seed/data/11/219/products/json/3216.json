@@ -1,0 +1,58 @@
+{
+  "name": "Пюре ФрутоНяня Шарлотка с 6 месяцев, 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 63.99,
+  "priceWithCard": 62.71,
+  "promo": {
+    "discountedPriceRegular": "49.27",
+    "discountedPriceWithCard": "48.29",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Пюре из яблок, печенье (мука пшеничная, сахар, масло сливочное, яйцо куриное, экстракт солодовый, молоко сухое цельное, крахмал кукурузный, разрыхлитель - гидрокарбонат натрия), сок яблочный концентрированный, экстракт ванили, экстракт корицы, вода питьевая.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "60",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

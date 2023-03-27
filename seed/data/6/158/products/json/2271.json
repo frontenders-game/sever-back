@@ -1,0 +1,61 @@
+{
+  "name": "Набор конфет Коркунов ассорти из тёмного и молочного шоколада 192г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 522.99,
+  "priceWithCard": 512.53,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 52,
+  "ingredients": "Молочный шоколад: сахар, сухое цельное молоко, какао масло, какао тертое, молочный жир, эмульгаторы (соевый лецитин, Е492), ароматизатор (ванилин); начинка: сахар, фундук, жир специального назначения (масло пальмовое, масло пальмоядровое, эмульгатор (подсолнечный лецитин)), сухое цельное молоко, глюкоза, молочный жир, какао порошок, эмульгатор (соевый лецитин), ароматизатор (ванилин). Содержат глютен. Могут содержать незначительное количество дробленой вафли, яичного белка, миндаля.",
+  "information": [
+    {
+      "value": "Коркунов",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "36.7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "565",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

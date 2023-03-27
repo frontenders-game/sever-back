@@ -1,0 +1,34 @@
+{
+  "name": "Чай Майский Корона Российской Империи черный цейлонский листовой 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 140.99,
+  "promo": {
+    "discountedPriceRegular": "110.99",
+    "discountedPriceWithCard": "104.33",
+    "discountPercent": "26",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 31,
+  "ingredients": "цейлонский черный крупнолистовой чай",
+  "information": [
+    {
+      "value": "Майский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

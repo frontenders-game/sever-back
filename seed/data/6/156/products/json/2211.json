@@ -1,0 +1,61 @@
+{
+  "name": "Яйцо Kinder Сюрприз из молочного шоколада с игрушкой в ассортименте 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 77.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 67,
+  "ingredients": "молочный шоколад, (сахар, сухое цельное молоко, масло какао, тертое какао, эмульгатор: лецитины, ароматизатор), сухое обезжиренное молоко, сахар, растительные жиры, молочный жир, эмульгатор: лецитины, ароматизатор",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "52.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "552",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Мороженое пломбир Чистая Линия ванильное 12%, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 225.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Молоко коровье цельное – 51.5%, сливки натуральные – 21.6%, молоко сгущенное цельное с сахаром – 17.7% (молоко цельное, молоко обезжиренное, сахароза, лактоза), сахар – 5.5%, глюкозный сироп – 2%, цитрусовые волокна – 0.6%, яичный желток - 0.5%, молочный белок – 0.5%, натуральный ароматизатор ванили – 0.1%.",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "20.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "205",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

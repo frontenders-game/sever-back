@@ -1,0 +1,34 @@
+{
+  "name": "Чай Ahmad Tea Earl Grey черный 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 387.99,
+  "promo": {
+    "discountedPriceRegular": "279.99",
+    "discountedPriceWithCard": "271.59",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "чай чёрный байховый среднелистовой, пищевой ароматизатор бергамот. Не содержит ГМО",
+  "information": [
+    {
+      "value": "Ahmad Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

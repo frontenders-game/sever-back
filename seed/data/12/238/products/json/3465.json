@@ -1,0 +1,53 @@
+{
+  "name": "Сосиски Клинский Венские 470г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 307.29,
+  "priceWithCard": 298.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Свинина, говядина, вода, белок (соевый) растительный, соль нитритная (соль, фиксатор окраски Е250), комплексная пищевая добавка (регуляторы кислотности Е 450, Е 451, антиокислитель Е 300, усилитель вкуса и аромата Е 621, пряности и экстракты пряностей, сахара), краситель пищевой Е120.",
+  "information": [
+    {
+      "value": "Клинский МК",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

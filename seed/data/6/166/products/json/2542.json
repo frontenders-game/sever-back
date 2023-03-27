@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Спартак лимонные 72г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 25.99,
+  "priceWithCard": 23.65,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 46,
+  "ingredients": "сахарная пудра, мука пшеничная высшего сорта, жир кондитерский, эмульгатор (Лецитин), масло кокосовое, кислота лимонная пищевая, соль поваренная пищевая йодированная, сода пищевая (натрий двууглекислый), ароматизатор натуральный «Лимонное масло», крошка этих же вафель.",
+  "information": [
+    {
+      "value": "Спартак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "540",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

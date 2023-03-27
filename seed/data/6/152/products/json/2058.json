@@ -1,0 +1,61 @@
+{
+  "name": "Эскимо Айсберри пломбир в шоколадной глазури круглое, 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 73.99,
+  "priceWithCard": 70.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Пломбир: молоко коровье цельное, масло сливочное, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза)), сахар, вода питьевая, молоко цельное сухое, сухой глюкозный сироп, комплексная пищевая добавка (эмульгатор - моно - и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева, тары камедь, каррагинан), ароматизатор пищевой \"Ваниль\". Шоколадная глазурь: масло растительное, сахар, какао-порошок, эмульгатор лецитин (соевый), ароматизатор пищевой \"Ваниль\". Массовая доля жира - 21%.",
+  "information": [
+    {
+      "value": "Филевское",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "22",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

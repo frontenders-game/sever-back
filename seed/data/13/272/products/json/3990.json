@@ -1,0 +1,29 @@
+{
+  "name": "Пластырь Mipao Каури прозрачный косметический 76x25мм 15шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 57.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Mipao",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

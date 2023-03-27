@@ -1,0 +1,45 @@
+{
+  "name": "Напиток сокосодержащий Global Village Садовая черешня 950мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 63.69,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 21,
+  "ingredients": "Сок яблочный, сок вишни, сок черешни, сахар, регулятор кислотности – лимонная кислота, натуральный ароматизатор «тип Черешня», вода.",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "64",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

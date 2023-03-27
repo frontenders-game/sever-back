@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир Вологодский Пломбир стаканчик 15%, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 76.49,
+  "priceWithCard": 70.37,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "Пломбир: молоко коровье цельное, молоко цельное сгущённое с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза)), вода питьевая, масло сливочное, сухой глюкозный сироп, комплексная пищевая добавка (эмульгатор - моно- и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева, тары камедь, каррагинан) \nВафельный стаканчик:  мука пшеничная,  какао-порошок, картофельный крахмал, вода питьевая, сахар,  эмульгатор лецитин (соевый), масло кокосовое, соль, яичный порошок, разрыхлитель гидрокарбонат натрия (сода пищевая). Массовая доля жира -14%",
+  "information": [
+    {
+      "value": "Вологодское Мороженое",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "23",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "230",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

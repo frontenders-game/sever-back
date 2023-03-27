@@ -1,0 +1,29 @@
+{
+  "name": "Пена для бритья Endeavor sensitive для чувствительной кожи 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 126.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "вода, триэтаноламин, стеариновая кислота, пальмитиновая кислота, глицерин, изобутан, пропан, бутан, кокоглюкозид, глицерилолеат, лаурет-23, поликватерниум-7, динатриевый эдта, парфюмерная вода, бензиловый спирт, метилхлоризотиазолинон, метилизотиазолинон, токоферилацетат, экстракт цветков/листьев ромашки обыкновенной (matricaria)",
+  "information": [
+    {
+      "value": "Endeavor",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

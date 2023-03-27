@@ -1,0 +1,29 @@
+{
+  "name": "Гель Nivea Men Комфорт Fresh после бритья 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 369.99,
+  "priceWithCard": 344.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "aqua, alcohol denat.(12% об.), glycerin, peg-8, maltodextrin, citrus limon juice, ascorbic acid, distarch phosphate, phenoxyethanol, peg-40 hydrogenated castor oil, acrylates/c10-30 alkyl acrylate crosspolymer, carbomer, sodium hydroxide, menthol, sodium sulfate, citral, limonene, geraniol, hexyl cinnamal, citronellol, linalool, ethyl benzoate, parfum, ci 42090",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

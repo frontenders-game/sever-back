@@ -1,0 +1,61 @@
+{
+  "name": "Кефир Простоквашино 2.5% 930 г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 72.99,
+  "priceWithCard": 67.88,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Р - нормализованное молоко, закваска на кефирных грибках У - нормализованное молоко, восстановленное молоко из сухого молока, закваска на кефирных грибках",
+  "information": [
+    {
+      "value": "Простоквашино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "51",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

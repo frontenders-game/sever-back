@@ -1,0 +1,21 @@
+{
+  "name": "Корм влажный Katty с курицей в соусе для кошек 415г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 64.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

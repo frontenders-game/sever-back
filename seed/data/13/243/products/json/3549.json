@@ -1,0 +1,29 @@
+{
+  "name": "Гель для стирки Ariel Color 1.3л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 499.99,
+  "priceWithCard": 464.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Фосфонаты, Мыло, Энзимы, Консерванты, Ароматизирующие Добавки, Цитронеллол, Кумарин, Гексилкоричный Альдегид, Лимонен, Линалоол.",
+  "information": [
+    {
+      "value": "Ariel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

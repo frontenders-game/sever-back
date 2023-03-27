@@ -1,0 +1,66 @@
+{
+  "name": "Соус Рестория Сметанный с грибами 42% 233г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.99,
+  "promo": {
+    "discountedPriceRegular": "70.39",
+    "discountedPriceWithCard": "66.87",
+    "discountPercent": "12",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "вода, масло подсолнечное, сахар, загустители (Е1442, ксантановая камедь), яичный желток, ароматизаторы, соль, шампиньоны сушеные, сметана, регулятор кислотности - уксусная кислота, лук сушеный, консерванты (сорбиновая кислота, Е385) Продукт содержит лактозу, может содержать следы сельдерея, горчицы и продуктов их переработки",
+  "information": [
+    {
+      "value": "Рестория",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "42",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

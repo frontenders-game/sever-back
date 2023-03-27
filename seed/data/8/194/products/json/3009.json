@@ -1,0 +1,61 @@
+{
+  "name": "Пюре Доширак картофельное со вкусом курицы, 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 45.49,
+  "priceWithCard": 42.31,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 36,
+  "ingredients": "Картофельные хлопья, жир растительный, соль йодированная, гренки, лук жареный, усилитель вкуса (глутамат натрия), сахар, белый перец, куркума, ароматизатор идентичный натуральному \"вареная курица\", петрушка, лук сушеный зеленый.",
+  "information": [
+    {
+      "value": "Доширак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "71.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "353",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

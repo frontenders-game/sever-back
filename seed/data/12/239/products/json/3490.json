@@ -1,0 +1,53 @@
+{
+  "name": "Ребра свиные Мясная Ферма копчено-вареные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.5",
+  "priceRegular": 474.99,
+  "priceWithCard": 432.24,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "свинина, вода, посолочная смесь (соль пищевая, фиксатор окраски - нитрит натрия), комплексная пищевая добавка (стабилизаторы Е450, Е452, регулятор кислотности Е451), комплексная пищевая добавка (регуляторы кислотности Е262, Е331, агент влагоудерживающий Е325, антиокислитель Е301) .\nНа предприятии используется горчица, соя, орехи, яичный порошок, молоко и продукты его переработки",
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "33",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "330",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

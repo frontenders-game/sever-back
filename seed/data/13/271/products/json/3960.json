@@ -1,0 +1,29 @@
+{
+  "name": "Бальзам для губ Nivea Интенсивная защита 4.8г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 219.99,
+  "priceWithCard": 211.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 47,
+  "ingredients": "Octyldodecanol, Cera Microcristallina, Cetyl Palmitate, Ricinus Communis Seed Oil, Ethylhexyl Methoxycinnamate, Hydrogenated Polydecene, Polyglyceryl-3 Diisostearate, Myristyl Myristate, Cetearyl Alcohol, Bis-Diglyceryl Polyacyladipate-2, Butyl Methoxydibenzoylmethane, C20-40 Alkyl Stearate, Octocrylene, Copernicia Cerifera Cera, Butyrospermum Parkii Butter, Panthenol, Bisabolol, Tocopheryl Acetate, Glyceryl Glucoside, Glycerin, Aqua, Cera Alba, BHT, Benzyl Alcohol, Citral, Hexyl Cinnamal, Limonene, Geraniol, Linalool, Parfum, CI 77492.",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

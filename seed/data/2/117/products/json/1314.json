@@ -1,0 +1,61 @@
+{
+  "name": "Крекер Яшкино Классический, 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Мука пшеничная в/с, маргарин (рафинированные дезодорированные масла (подсолнечное, пальмовое), вода, эмульгаторы (Е471, соевый лецитин), соль поваренная, краситель E160a, ароматизатор, регулятор кислотности лимонная кислота), сахар, масло подсолнечное рафинированное дезодорированное, соль поваренная, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия), регулятор кислотности лимонная кислота, антиокислотели пиросульфит натрия.",
+  "information": [
+    {
+      "value": "Яшкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "450",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

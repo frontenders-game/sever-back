@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Любимый Тропические Фрукты сокосодержащий 1.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 118.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "яблочный сок, апельсиновый сок, ананасовый сок, арбузный сок, банановое пюре, лимонный сок, пюре из манго, сок из киви, сок из маракуйи, сахар (S)** или сахар и глюкозно-фруктозный сироп (G)**, β-каротин, регулятор кислотности – лимонная кислота, ароматизатор натуральный, вода",
+  "information": [
+    {
+      "value": "Любимый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

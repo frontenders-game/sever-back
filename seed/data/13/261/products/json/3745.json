@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь Gliss Kur Жидкий Шёлк 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 359.99,
+  "priceWithCard": 345.59,
+  "promo": {
+    "discountedPriceRegular": "280.79",
+    "discountedPriceWithCard": "269.56",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Prunus Armeniaca Kernel Oil, Hydrolyzed Silk, Sericin, Panthenol, Cocodimonium Hydroxypropyl Hydrolyzed Keratin, Hydrolyzed Keratin, Disodium Cocoamphodiacetate, Cocamide Mea, PEG-7 Glyceryl Cocoate, Polyquaternium-10, Sodium Benzoate, Citric Acid, Parfum, PEG-40 Hydrogenated Castor Oil, Hydrogenated Castor Oil, Limonene, Mica, Peg-120 Methyl Glucose Dioleate, Phenoxyethanol, Propylene Glycol, Hexyl Cinnamal, Citronellol, Coumarin, Linalool.",
+  "information": [
+    {
+      "value": "Gliss Kur",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

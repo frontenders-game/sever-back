@@ -1,0 +1,53 @@
+{
+  "name": "Лопатка свиная бескостная охлажденная",
+  "unitsOfMeasurement": "кг",
+  "step": "1.7",
+  "priceRegular": 239.99,
+  "priceWithCard": 227.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "свинина",
+  "information": [
+    {
+      "value": "Тендер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "18",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "27",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "315",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

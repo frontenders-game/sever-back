@@ -1,0 +1,50 @@
+{
+  "name": "Нектар Soko Grande Апельсин-манго с мякотью, 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 124.19,
+  "priceWithCard": 114.25,
+  "promo": {
+    "discountedPriceRegular": "108.05",
+    "discountedPriceWithCard": "99.40",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 23,
+  "ingredients": "Апельсиновый сок, пюре из манго, сахар, регулятор кислотности - кослота лимонная, вода.",
+  "information": [
+    {
+      "value": "Soko Grande",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "55",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

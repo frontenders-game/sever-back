@@ -1,0 +1,29 @@
+{
+  "name": "Соль для ванн Bodyart морская 900г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 66.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "Природная соль (натрия хлорид).",
+  "information": [
+    {
+      "value": "Bodyart",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

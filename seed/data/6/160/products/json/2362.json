@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Forsite Сэндвич сахарное с шоколадно-сливочным вкусом 220г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "мука пшеничная в/с, масла растительные, сахар, сыворотка молочная сухая деминерализованная, лактоза, глюкозно-фруктозный сироп, какао-порошок, продукты яичные, соль, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия; эмульгаторы: соевый лецитин, моно- и диглицериды жирных кислот; сливки сухие, ароматизаторы, антиокислители: аскорбиновая кислота, концентрат смеси токоферолов, альфа- Токоферол; регулятор кислотности: лимонная кислота; краситель: каротины. Может содержать следы диоксида серы, арахиса, орехов",
+  "information": [
+    {
+      "value": "Forsite",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

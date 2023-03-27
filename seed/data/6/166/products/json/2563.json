@@ -1,0 +1,66 @@
+{
+  "name": "Вафли Шарлиз Парижские сахарные, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 68.59,
+  "promo": {
+    "discountedPriceRegular": "60.19",
+    "discountedPriceWithCard": "58.99",
+    "discountPercent": "14",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Мука пшеничная общего назначения, маргарин (масла растительные: пальмовое, подсолнечное, кокосовое; эмульгаторы: моно - и диглицериды жирных кислот, полиглицерина и жирных кислот эфиры; ароматизатор, регулятор кислотности - кислота лимонная, краситель - бета-каротин, консервант-сорбат калия), сахар, продукты яичные, сыворотка молочная сухая, соль. (Может содержать следы арахиса, кунжута, соевой муки, молока сухого).",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

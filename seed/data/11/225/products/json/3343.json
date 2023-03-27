@@ -1,0 +1,61 @@
+{
+  "name": "Смесь Nutrilon 1 Premium молочная с рождения 600г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 659.99,
+  "priceWithCard": 640.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 7,
+  "ingredients": "Деминерализованная молочная сыворотка, смесь растительных масел (пальмовое, рапсовое, кокосовое, подсолнечное, Mortierella alpina), лактоза, обезжиренное молоко, пребиотики (галактоолигосахариды, фруктоолигосахариды), концентрат белков молочной сыворотки, минеральные вещества (Ca, K, Cl, P, Na, Mg, Fe, Zn, Cu, I, Mn, Se), рыбий жир*, витаминный комплекс (C, E, ниацин, пантотеновая кислота, фиолетовая кислота, A, биотин, B12, B1, D3, B6, K, B2), холин, эмульгатор соевый лецитин, таурин, нуклеотиды, инозитол, L-триптофан, L-карнитин. *Жировой компонент молочной смеси разработан на основе данных о жирно-кислотном составе грудного молока.",
+  "information": [
+    {
+      "value": "Nutrilon",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24.7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "488",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Крем для обуви Econta чёрный, 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "> 30% - воск, вазелин; 15% или >, но < 30% - парафин; 5% или >, но < 15% - растительное масло, <5% ароматизаторы (в состав входит кумарин, гераниол, линалоол, циннамаль), красители.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

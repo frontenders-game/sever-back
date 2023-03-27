@@ -1,0 +1,45 @@
+{
+  "name": "Жевательная резинка Chupa Chups Big Babol Клубника 21г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 33.99,
+  "priceWithCard": 32.63,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "сахар, основа резиновая, патока (из пшеницы), агент влагоудерживающий (глицерин), регулятор кислотности (лимонная кислота), ароматизатор, краситель (кармины), клубничный сок порошок, эмульгатор (соевый лецитин), антиокислитель (Е321)",
+  "information": [
+    {
+      "value": "Chupa Chups",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "75",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "1262",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

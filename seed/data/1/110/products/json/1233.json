@@ -1,0 +1,58 @@
+{
+  "name": "Соус майонезный Ряба Постный провансаль 50%, 372г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 103.39,
+  "promo": {
+    "discountedPriceRegular": "80.29",
+    "discountedPriceWithCard": "75.47",
+    "discountPercent": "27",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Масло подсолнечное, вода, сахар, крахмал кукурузный, соль, уксус, ароматизатор натуральный \"белый перец\", эфирное горчичное масло, провитамин А.",
+  "information": [
+    {
+      "value": "Ряба",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "50",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

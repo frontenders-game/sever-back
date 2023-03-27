@@ -1,0 +1,66 @@
+{
+  "name": "Напиток соевый Nemoloko с бананом 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 115.99,
+  "priceWithCard": 107.87,
+  "promo": {
+    "discountedPriceRegular": "93.95",
+    "discountedPriceWithCard": "87.37",
+    "discountPercent": "19",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "вода питьевая, соевая мука, соевый белок (изолят), сахар, рапсовое масло, сок банановый концентрированный, витаминно-минеральный премикс (витамин D2, витамин В2 (рибофлавин), кальций (трикальций фосфат), кальция карбонат), соль, концентрат сафлора, натуральный ароматизатор",
+  "information": [
+    {
+      "value": "Nemoloko",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "27",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Сахар Global Village кусковой прессованный колотый 420г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 132.99,
+  "promo": {
+    "discountedPriceRegular": "110.59",
+    "discountedPriceWithCard": "105.06",
+    "discountPercent": "21",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "сахар белый",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "100",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

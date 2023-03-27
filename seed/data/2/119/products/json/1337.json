@@ -1,0 +1,61 @@
+{
+  "name": "Мини-сушки Невская Сушка с маком, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 91.99,
+  "priceWithCard": 84.63,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "Мука пшеничная хлебопекарная в/с, вода питьевая, масло подсолнечное, мак пищевой , соль поваренная пищевая, сахар - песок, дрожжи хлебопекарные прессованные. Продукт может содержать следы арахиса, кунжута и яичных продуктов.",
+  "information": [
+    {
+      "value": "Невская Сушка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "71",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "370",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

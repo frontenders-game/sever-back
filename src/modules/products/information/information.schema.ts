@@ -26,6 +26,7 @@ export type CreateProductInformationInput = Static<typeof createProductInformati
 export const responseProductInformationSchema = Type.Intersect([
     productInformationIdSchema,
     createProductInformationSchema
-])
+],
+    {$id: "responseProductInformationSchema", additionalProperties: false})
 
 export type InformationResponse = Static<typeof responseProductInformationSchema>

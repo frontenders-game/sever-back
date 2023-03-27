@@ -1,0 +1,29 @@
+{
+  "name": "Кофе растворимый Москофе Индийский 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 163.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "100% натуральный порошкообразный растворимый кофе",
+  "information": [
+    {
+      "value": "Москофе",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Индия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

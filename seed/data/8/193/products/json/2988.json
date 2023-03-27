@@ -1,0 +1,66 @@
+{
+  "name": "Спагетти Barilla Spaghetti n.5 из твёрдых сортов пшеницы группа А высший сорт, 450г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 94.99,
+  "priceWithCard": 87.39,
+  "promo": {
+    "discountedPriceRegular": "80.74",
+    "discountedPriceWithCard": "74.28",
+    "discountPercent": "15",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 35,
+  "ingredients": "мука из твердой пшеницы высшего сорта, вода.",
+  "information": [
+    {
+      "value": "Barilla",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "69.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "359",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

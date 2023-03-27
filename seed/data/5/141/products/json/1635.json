@@ -1,0 +1,29 @@
+{
+  "name": "Вода Honey Kid для детей питьевая негазированная 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Вода.",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

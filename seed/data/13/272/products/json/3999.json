@@ -1,0 +1,29 @@
+{
+  "name": "Презервативы In Time №3 классические, 3шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 114.99,
+  "priceWithCard": 111.54,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Латекс.",
+  "information": [
+    {
+      "value": "In Time",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Корея",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

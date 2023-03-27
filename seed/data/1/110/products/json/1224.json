@@ -1,0 +1,66 @@
+{
+  "name": "Соус Рестория сырный 233г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 60.44,
+  "promo": {
+    "discountedPriceRegular": "58.49",
+    "discountedPriceWithCard": "54.40",
+    "discountPercent": "10",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "вода, масло подсолнечное, загустители (Е1442, ксантановая камедь), сахар, соль, яичный желток, продукт сырный молокосодержащий (сыр, эмульгирующая соль Е339, растительный жир), регулятор кислотности - уксусная кислота, ароматизаторы натуральные, консерванты (сорбиновая кислота, Е385), красители (каротин, экстракт  паприки). Продукт содержит лактозу, может содержать следы сельдерея, горчицы и продуктов их переработки",
+  "information": [
+    {
+      "value": "Рестория",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "42",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

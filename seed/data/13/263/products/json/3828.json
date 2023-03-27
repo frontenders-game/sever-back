@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Colgate МаксБлеск кристальная мята, 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 289.99,
+  "priceWithCard": 272.59,
+  "promo": {
+    "discountedPriceRegular": "162.39",
+    "discountedPriceWithCard": "152.65",
+    "discountPercent": "44",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Aqua, Hydrated Silica, Sorbitol, PEG-12, Sodium Bicarbonate, Aroma, Sodium Lauryl Sulfate, Xanthan Gum, Cellulose Gum, Sodium Fluoride, Sodium Saccharin, Limonene, CI 77891, CI 74160, Активный ингредиент: Фторид натрия 0.32% w/w (1450ppm F-).",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

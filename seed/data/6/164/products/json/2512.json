@@ -1,0 +1,50 @@
+{
+  "name": "Джем Махеевъ клубничный, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 139.49,
+  "promo": {
+    "discountedPriceRegular": "110.99",
+    "discountedPriceWithCard": "103.22",
+    "discountPercent": "26",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Клубника, сахар, вода, глюкозно-фруктозный сироп, пектин, кислота лимонная, консервант сорбат калия.",
+  "information": [
+    {
+      "value": "Махеевъ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "330",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

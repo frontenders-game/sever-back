@@ -1,0 +1,61 @@
+{
+  "name": "Коктейль молочный Чудо Клубника 2% 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 48.99,
+  "priceWithCard": 48.01,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "А - молоко нормализованное, сахар, ароматизатор «Клубничный» , стабилизатор – каррагинан, краситель – кармин.",
+  "information": [
+    {
+      "value": "Чудо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "65",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

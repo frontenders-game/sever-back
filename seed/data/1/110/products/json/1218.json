@@ -1,0 +1,66 @@
+{
+  "name": "Соус Astoria Чесночный Оригинальный 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 103.39,
+  "promo": {
+    "discountedPriceRegular": "70.39",
+    "discountedPriceWithCard": "66.17",
+    "discountPercent": "36",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 24,
+  "ingredients": "вода, масло подсолнечное, чеснок сушеный, сахар, соль, яичный желток, загустители (Е1442, ксантановая камедь), лук сушеный, регулятор кислотности уксусная кислота, специи и пряности (кориандр, перец красный, перец черный, паприка красная, пряность  &#38#34;Карри&#38#34;),  ароматизаторы  натуральные,  консерванты (сорбиновая кислота, Е385). Продукт может содержать следы сельдерея, молока, горчицы и продуктов их переработки",
+  "information": [
+    {
+      "value": "Astoria",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "42",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "7.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

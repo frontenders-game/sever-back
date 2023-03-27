@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад BabyFox молочный с молочной начинкой 47г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.99,
+  "priceWithCard": 34.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Молочный шоколад (сахар, молоко сухое цельное, масло какао, какао тертое, молоко сухое обезжиренное, обезвоженный молочный жир, эмульгатор - соевый лецитин, ароматизатор \"Ваниль\"), сахар, жир кондитерский (масло пальмовое рафинированное дезодорированное, эмульгатор - соевый лецитин, антиокислитель - концентрат смеси токоферолов), молоко сухое цельное, обезвоженный молочный жир, молоко сухое обезжиренное, эмульгатор - соевый лецитин, соль, ароматизатор натуральный (содержит молочный белок, экстракт сливочного масла, экстракт сливок, лактозу).",
+  "information": [
+    {
+      "value": "KDV",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "39",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "49",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "580",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

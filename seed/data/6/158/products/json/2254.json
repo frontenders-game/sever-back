@@ -1,0 +1,61 @@
+{
+  "name": "Трюфели Chocmod cocoa dusted truffles 160г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 223.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "жир кондитерский (масло кокосовое рафинированное дезодорированное), сахар, какао-порошок с низким содержанием жира, сыворотка молочная сухая, какао-порошок 1 %, эмульгатор: соевый лецитин; натуральный ароматизатор: ваниль",
+  "information": [
+    {
+      "value": "Chocmod",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Франция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "45",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "42",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "600",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный Свитлогорье с ванилином в карамельной глазури 23%, 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 55.99,
+  "priceWithCard": 51.51,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Творог, сахар-песок, кондитерская глазурь \"Карамельная\" (сахар, заменитель какао масла – лауриновый (CBS), какао порошок, молоко сухое обезжиренное, эмульгатор - лецитин, ароматизатор пищевой, карамель, краситель натуральный - бета-каротин), сливочное масло, ароматизатор пищевой).",
+  "information": [
+    {
+      "value": "Свитлогорье",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "32",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "389",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

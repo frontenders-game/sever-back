@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт питьевой Активиа злаки 1.6% 870г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 145.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (вода, сахар, мюсли (пшеница, овес), ржаные отруби, концентрированный сок яблока, ароматизатор натуральный, сок лимона концентрированный, кукурузный крахмал), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®",
+  "information": [
+    {
+      "value": "Активиа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "70",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

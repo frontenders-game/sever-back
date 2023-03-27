@@ -1,0 +1,29 @@
+{
+  "name": "Освежитель воздуха Glade Пион и сочные ягоды 300мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 151.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 38,
+  "ingredients": "Вода, бутан/пропан/изобутан ≥15% но <30%, н-ПАВ <5%, фосфаты <5%, отдушка, растворители, гидроксид аммония, консервант, гексилкоричный альдегид, линалоол.",
+  "information": [
+    {
+      "value": "Glade",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Чай Принцесса Ява Традиционный зеленый 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 112.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "чай зеленый байховый китайский",
+  "information": [
+    {
+      "value": "Принцесса Ява",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

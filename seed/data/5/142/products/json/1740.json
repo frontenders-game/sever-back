@@ -1,0 +1,45 @@
+{
+  "name": "Морс ФрутоНяня клюква-черника-вишня 0.2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 33.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "пюре из клюквы, пюре из черники, сок из вишни, сахар, регулятор кислотности - кислота лимонная, вода. Изготовлен из концентрированного сока. Объемная доля сока и пюре - не менее 15%",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "43.2",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток сокосодержащий Rich Dolce вишня-грейпфрут газированный 330мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 83.19,
+  "priceWithCard": 79.86,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Яблочный сок, вишнёвый сок, грейпфрутовый сок, регулятор кислотности - лимонная кислота, натуральный ароматизатор, натуральный ароматизатор тип Черешня, вода. Изготовлен из концентрированных соков.",
+  "information": [
+    {
+      "value": "Rich",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "28",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

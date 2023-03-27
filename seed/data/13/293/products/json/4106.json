@@ -1,0 +1,21 @@
+{
+  "name": "Газета ТелеСемь",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 52.99,
+  "priceWithCard": 50.87,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Бумага.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

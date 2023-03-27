@@ -1,22 +1,27 @@
 import { Static, Type } from "@sinclair/typebox";
-import {
-    nameType,
-    responseMessage,
-    slugType,
-    uuidParamsType,
-    uuidType
-} from "../shared/schemas";
-import { createProductPromoSchema } from "./promo/promo.schema";
-import { createProductInformationSchema } from "./information/information.schema";
+import { nameType, responseMessage, slugType,   uuidParamsType, uuidType } from "../shared/schemas";
+import { createProductPromoSchema, responseProductPromoSchema } from "./promo/promo.schema";
+import { createProductInformationSchema, responseProductInformationSchema } from "./information/information.schema";
 import { responseProductReviewSchema } from "./review/review.schema";
 import { responseProductImageSchema } from "./images/image.schema";
 import { routeSchema } from "../../types";
 
 
+const basicProduct = {
+    name: nameType,
+    isNew: Type.Boolean({default: false}),
+    unitsOfMeasurement: Type.String({default: 'шт'}),
+    step: Type.Number({default: 1}),
+    priceRegular: Type.Number({minimum: 1}),
+    priceWithCard: Type.Optional(Type.Number({minimum: 1})),
+    ingredients: Type.Optional(Type.String()),
+    stockCount: Type.Integer({default: 0}),
+    subcategoryId: uuidType,
+}
 
 export const productIdSchema = Type.Object(
     {
-        id:  uuidType
+        id: uuidType
     },
     {$id: "productIdSchema", additionalProperties: false}
 )
@@ -24,14 +29,7 @@ export const productIdSchema = Type.Object(
 export type ProductId = Static<typeof productIdSchema>
 
 export const createProductSchema = Type.Object({
-        name: nameType,
-        unitsOfMeasurement: Type.String({default: 'шт.'}),
-        step: Type.Number({default: 1}),
-        priceRegular: Type.Number({minimum: 1}),
-        priceWithCard: Type.Optional(Type.Number({minimum: 1})),
-        ingredients: Type.Optional(Type.String()),
-        stockCount: Type.Integer({default: 0}),
-        subcategoryId:  uuidType,
+        ...basicProduct,
         promo: Type.Optional(Type.Ref(createProductPromoSchema)),
         information: Type.Optional(Type.Array(Type.Ref(createProductInformationSchema)))
     },
@@ -43,19 +41,20 @@ export type CreateProductInput = Static<typeof createProductSchema>
 export const updateProductSchema = Type.Intersect([createProductSchema, productIdSchema])
 export type UpdateProductInput = Static<typeof updateProductSchema>
 
-export const responseProductSchema = Type.Intersect(
-    [
-        updateProductSchema,
+export const responseProductSchema =
         Type.Object({
+            id: uuidType,
+            ...basicProduct,
             slug: slugType,
-            isNew: Type.Boolean(),
             images: Type.Optional(Type.Array(Type.Ref(responseProductImageSchema))),
-            categoryId:  uuidType,
+            categoryId: uuidType,
             averageRating: Type.Integer({default: 0, minimum: 0}),
             reviewsCount: Type.Integer({default: 0, minimum: 0}),
-            reviews: Type.Optional(Type.Array(responseProductReviewSchema))
-        })
-    ],
+            reviews: Type.Optional(Type.Array(Type.Ref(responseProductReviewSchema))),
+            // @todo serialize
+            promo: Type.Any(), //Type.Union([Type.Optional(Type.Ref(responseProductPromoSchema)) , Type.Null()]),  //
+            information: Type.Optional(Type.Array(Type.Ref(responseProductInformationSchema)))
+        },
     {$id: "responseProductSchema", additionalProperties: false}
 )
 export type ResponseProduct = Static<typeof responseProductSchema>
@@ -111,5 +110,7 @@ export {
     createProductPromoSchema,
     createProductInformationSchema,
     responseProductReviewSchema,
-    responseProductImageSchema
+    responseProductPromoSchema,
+    responseProductImageSchema,
+    responseProductInformationSchema
 }

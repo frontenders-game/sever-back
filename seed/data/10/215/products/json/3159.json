@@ -1,0 +1,61 @@
+{
+  "name": "Корм влажный Purina ONE с курицей, морковью и зеленой фасолью для взрослых собак мелких и карликовых пород 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 33.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 41,
+  "ingredients": "мясо и продукты его переработки (из которых курица 4%), экстракты растительного белка, рыба и продукты ее переработки, продукты переработки растительного сырья, овощи (0.8% сухой моркови, эквивалентно 7.2% моркови, 0.8% сухой зеленой фасоли, эквивалентно 7.2% зеленой фасоли), минеральные вещества, загустители, сахара, масла и жиры, витамины, аминокислоты",
+  "information": [
+    {
+      "value": "Purina One",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "85.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "84",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

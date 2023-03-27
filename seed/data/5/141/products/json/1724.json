@@ -1,0 +1,34 @@
+{
+  "name": "Вода Шишкин лес Спорт негазированная 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 47.99,
+  "promo": {
+    "discountedPriceRegular": "39.99",
+    "discountedPriceWithCard": "38.39",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 47,
+  "ingredients": "содержание анионов и катионов, мг/л, не более: натрий - 200, кальций - 20, магний - 5, сульфаты - 100, F - 1.5, гидрокарбонаты - 400",
+  "information": [
+    {
+      "value": "Шишкин лес",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

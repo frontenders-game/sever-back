@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Snickers Minis",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 899.99,
+  "priceWithCard": 827.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, сухое цельное молоко (W) или сухое обезжиренное молоко (R), лактоза, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)); глюкозный сироп (кукурузный, пшеничный), арахис, сахар, масло пальмовое рафинированное дезодорированное, сухое обезжиренное молоко, соль, сухой яичный белок, ароматизатор (ванилин). Молочный шоколад содержит: общий сухой остаток какао - не менее 25 %; сухой обезжиренный остаток какао - не менее 2,5 %; сухой молочный остаток - не менее 12 %; молочный жир - не менее 2,5 %; трансизомеров ненасыщенных жирных кислот - не более 1 %. Содержит глютен. Может содержать незначительное количество фундука, миндаля",
+  "information": [
+    {
+      "value": "Snickers",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "499",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

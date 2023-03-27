@@ -1,0 +1,61 @@
+{
+  "name": "Жевательный Мармелад Chupa Chups Роллсы с Апельсиново-лимонным вкусом кислые 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 137.99,
+  "priceWithCard": 126.95,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "сахар, глюкозный сироп, крахмал (кукурузный), загуститель (крахмал окисленный), регуляторы кислотности (лимонная кислота, яблочная кислота, малаты натрия, цитрат натрия 3-замещенный), агент влагоудерживающий (сорбит), растительное масло, ароматизатор, соль, красители (куркумин, кармины, бриллиантовый голубой FCF)",
+  "information": [
+    {
+      "value": "Chupa Chups",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "86",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Набор конфет Fruit-tella + Chupa Chups Весенний 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 284.99,
+  "promo": {
+    "discountedPriceRegular": "209.99",
+    "discountedPriceWithCard": "199.49",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "глюкозный сироп, сахар, желатин, регулятор кислотности (лимонная кислота), концентрированные соки из фруктов (яблочный, клубничный, лимонный, ананасовый, апельсиновый, малиновый), натуральные ароматизаторы, растительное масло, концентрированный сок черной моркови, концентрат сафлора и спирулины, концентрат сафлора, карамелизованный сахарный сироп, глазирователи (воск карнаубский, воск пчелиный, белый), экстракт редиса. Может содержать следы молока",
+  "information": [
+    {
+      "value": "Fruit-tella",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "320",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Гель для бритья Arco Men Anti-Irritation 200 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 348.99,
+  "priceWithCard": 321.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Aqua, Glycerin, Palmitic Acid, Triethanolamine, Isopentane, Glyceryl Oleate, Isobutane, Stearic Acid, Parfum, Hydroxyethyl cellulose, Xanthan Gum, PEG-90M, Myristic Acid, Lauric Acid, Dimethicone, PEG-23M, Dimethiconol, Silica, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice, Potassium Sorbate, Sodium Benzoate, Chamomilla Recutita Extract, Hexyl Cinnamal, Limonene, Linalool, CI74260, CI19140, CI77266.",
+  "information": [
+    {
+      "value": "Arko",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

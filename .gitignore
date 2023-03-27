@@ -1,9 +1,8 @@
 node_modules
+.build
+.public/products/images
 # Keep environment variables out of version control
 .env
-.build
-*64x64.jpg
-*300x300.jpg
 
-# except build/public
-!.build/puclic
+# except c
+

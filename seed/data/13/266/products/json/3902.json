@@ -1,0 +1,29 @@
+{
+  "name": "Крем-мыло Nivea с миндальным маслом 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 124.99,
+  "priceWithCard": 116.24,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "sodium tallowate, sodium cocoate, aqua, glycerin, parfum, simmondsia chinensis seed oil, mel, glyceryl glucoside, maltodextrin, sodium thiosulfate, sodium chloride, tetrasodium etidronate, disteardimonium hectorite, trilaureth-4 phosphate, linalool, ci 77891, ci 11680, ci 12490",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

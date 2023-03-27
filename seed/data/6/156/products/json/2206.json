@@ -1,0 +1,66 @@
+{
+  "name": "Яйцо Конфитрейд Волшебное Яйцо с сюрпризом 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 83.69,
+  "promo": {
+    "discountedPriceRegular": "55.79",
+    "discountedPriceWithCard": "51.89",
+    "discountPercent": "38",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "сахар, заменитель масла какао нетемперируемый лауринового типа (растительное масло, эмульгаторы: сорбитан тристеарат, соевый лецитин), сыворотка молочная сухая, какао-порошок, сухое цельное молоко, эмульгатор (соевый лецитин), ароматизаторы («ванилин», «сливки», «шоколад»). Возможно наличие следов арахиса, орехов. Массовая доля общего сухого остатка какао - менее 15 %",
+  "information": [
+    {
+      "value": "Конфитрейд",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "33",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "553",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

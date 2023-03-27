@@ -1,0 +1,29 @@
+{
+  "name": "Мешки для мусора Econta 30л 30 шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 47.99,
+  "priceWithCard": 44.63,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 67,
+  "ingredients": "полиэтилен низкого давления.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

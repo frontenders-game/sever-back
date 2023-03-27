@@ -1,0 +1,45 @@
+{
+  "name": "Сахар Русский белый прессованный кусковой 1кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 82.99,
+  "priceWithCard": 78.84,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 29,
+  "ingredients": "Сахар",
+  "information": [
+    {
+      "value": "Тендер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "100",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

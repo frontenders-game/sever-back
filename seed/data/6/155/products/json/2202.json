@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Jets Мягкая карамель с печеньем 42г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 19.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 67,
+  "ingredients": "патока, сахар, масла растительные (в т. ч. соевое), мука пшеничная, сыворотка молочная сухая деминерализованная, какао-порошок, соль, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза), лактоза); эмульгаторы: E322 (соевый), E476, сорбитан тристеарат, моно- и диглицериды жирных кислот; разрыхлители: гидрокарбонат аммония, гидророкарбонат натрия; ароматизаторы, краситель: каротины (бета-каротин); антиокислители: аскорбиновая кислота, концентрат смеси токоферолов; регулятор кислотности: лимонная кислота. Может содержать диоксид серы, следы кунжута, арахиса, орехов, продуктов яичных",
+  "information": [
+    {
+      "value": "Jets",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "480",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

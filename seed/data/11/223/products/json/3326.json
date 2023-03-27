@@ -1,0 +1,61 @@
+{
+  "name": "Кашка молочная Heinz овсяная с бананом для детей с 6 мес. 0.2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 66.99,
+  "priceWithCard": 65.65,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "молоко нормализованное, вода, мука овсяная, пюре банановое, фруктоза, крахмал кукурузный. Продукт содержит глютен",
+  "information": [
+    {
+      "value": "Heinz",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "67.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

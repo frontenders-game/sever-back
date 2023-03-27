@@ -1,0 +1,58 @@
+{
+  "name": "Буженина Новгородский бекон Столичная варено-копченая",
+  "unitsOfMeasurement": "кг",
+  "step": "0.41",
+  "priceRegular": 899.99,
+  "priceWithCard": 863.99,
+  "promo": {
+    "discountedPriceRegular": "701.99",
+    "discountedPriceWithCard": "673.91",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": "свинина, комплексная пищевая добавка (регулятор кислотности трифосфаты), загуститель (каррагинан), крахмал, соевый белок, ароматизатор, усилитель вкуса и аромата глутамат натрия, антиокислитель (аскорбат натрия), посолочно-нитритная смесь (соль, фиксатор окраски нитрит натрия), соль, регуляторы кислотности (e252, e331ili, e262i), экстракт черного перца (перец декстроза), краситель кармин. Возможно наличие в незначительных количествах молока, кунжута, сельдерея, горчицы и продуктов их переработки, глютена",
+  "information": [
+    {
+      "value": "Новгородский бекон",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "312",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

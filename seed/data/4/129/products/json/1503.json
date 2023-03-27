@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир 48 копеек 12%, 210г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 170.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "Молоко коровье цельное, глюкозный сироп, масло сливочное, сахар, сливки натуральные, молоко сухое обезжиренное, ароматизаторы, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева.",
+  "information": [
+    {
+      "value": "48 Копеек",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "24.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "218",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

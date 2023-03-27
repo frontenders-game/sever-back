@@ -1,0 +1,29 @@
+{
+  "name": "Подгузники-трусики Nishoomi 3M 6-11 кг 48шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 1199.0,
+  "priceWithCard": 1163.03,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "нетканый материал, бамбуковое волокно, суперабсорбент, пленка полиэтиленовая, спандекс, клей",
+  "information": [
+    {
+      "value": "Nishoomi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

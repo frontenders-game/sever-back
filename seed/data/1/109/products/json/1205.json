@@ -1,0 +1,66 @@
+{
+  "name": "Напиток кисломолочный Actimel с черника-ежевика обогащенный цинком 1.5% 95г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 34.87,
+  "promo": {
+    "discountedPriceRegular": "29.24",
+    "discountedPriceWithCard": "27.20",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (вода; пюре черники; пюре ежевики; сахар; стабилизатор – Е1442; ароматизатор; регуляторы кислотности – Е331(iii), глюконат цинка (цинк), лимонная кислота), молоко сухое обезжиренное, глюкоза, витамин B6, витамин D3, йогуртовая закваска, лактобактерии L. CASEI IMUNITASS",
+  "information": [
+    {
+      "value": "Actimel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "69",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "69",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Корм влажный Sheba Говядина ломтики в соусе для взрослых кошек 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.99,
+  "priceWithCard": 34.95,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 60,
+  "ingredients": "мясо и субпродукты (в том числе говядина), злаки и продукты их переработки, аминокислоты (в том числе таурин), минеральные вещества,витамины, сахара, загустители, натуральный карамельный краситель",
+  "information": [
+    {
+      "value": "Sheba",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "73",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

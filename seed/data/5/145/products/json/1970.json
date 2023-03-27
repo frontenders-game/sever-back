@@ -1,0 +1,45 @@
+{
+  "name": "Напиток безалкогольный Flash Up Ultra Energy энергетический газированный 450 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 55.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "вода питьевая очищенная, сахар, концентрированный клюквенный сок, регулятор кислотности – лимонная кислота, экстракт иван-чая, натуральный ароматизатор «Ягодный»",
+  "information": [
+    {
+      "value": "Flash Energy",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

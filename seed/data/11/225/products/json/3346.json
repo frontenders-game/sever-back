@@ -1,0 +1,61 @@
+{
+  "name": "Смесь Nutrilon 2 Premium молочная с 6 месяцев 600г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 659.99,
+  "priceWithCard": 640.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "лактоза, смесь растительных масел* (пальмовое, рапсовое, кокосовое, подсолнечное, Mortierella alpina), мальтодекстрин, обезжиренное молоко, концентрат белков молочной сыворотки, пребиотики (галактоолигосахариды, фруктоолигосахариды),  минеральные вещества (Ca, K, Cl, P, Na, Mg, Fe, Zn, Cu, I, Mn, Se), рыбий жир*, витаминный комплекс (C, E, ниацин, пантотеновая кислота, фиолетовая кислота, А, биотин, B1, D3, B12, B6, B2, K), холин, таурин, эмульгатор соевый лецитин, инозитол, L-триптофан, нуклеотиды, L-карнитин. *Жировой компонент молочной смеси разработан на основе данных о жирно-кислотном составе грудного молока",
+  "information": [
+    {
+      "value": "Nutrilon",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

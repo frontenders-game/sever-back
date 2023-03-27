@@ -1,0 +1,45 @@
+{
+  "name": "Сахарная вата Счастливые дети в шарике 16г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.99,
+  "priceWithCard": 30.68,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 39,
+  "ingredients": "сахар-песок",
+  "information": [
+    {
+      "value": "Счастливые Дети",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "100",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

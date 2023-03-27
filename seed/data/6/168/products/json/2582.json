@@ -1,0 +1,53 @@
+{
+  "name": "Жевательная резинка Dirol Арбузная свежесть без сахара 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 36.37,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 58,
+  "ingredients": "подсластители (сорбит, мальтит, мальтитный сироп, аспартам, сукралоза, ацесульфам калия), резиновая основа, регуляторы кислотности (Е330, Е296), ароматизаторы, загуститель (Е414), влагоудерживающий агент (Е422), краситель (Е171), масло растительное (кокосовое), эмульгатор (лецитин подсолнечный), глазирователь (Е903), антиокислитель (Е321)",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "68",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "181",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

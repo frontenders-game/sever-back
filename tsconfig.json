@@ -5,6 +5,7 @@
     "target": "es2018",
     "lib": ["es2018"],
     "resolveJsonModule": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "strict": true
   }
 }

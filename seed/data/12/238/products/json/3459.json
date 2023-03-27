@@ -1,0 +1,61 @@
+{
+  "name": "Сардельки Иней Мясные 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 290.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "свинина, мясо кур, шкурка свиная, вода питьевая, животный белок говяжий, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), крахмал картофельный, стабилизаторы (пирофосфаты, полифосфат натрия), усилитель вкуса и аромата (глутамат натрия), регуляторы кислотности (ацетат натрия, цитрат натрия), антиокислитель (лимонная кислота), молоко сухое, ароматизаторы (орех мускатный, перец черный, перец белый),  пряности молотые (перец белый, чеснок), сахар, краситель (кармины)",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "200",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

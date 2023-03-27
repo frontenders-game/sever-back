@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Alpen Gold молочный с клубнично-йогуртовой начинкой 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 57.59,
+  "promo": {
+    "discountedPriceRegular": "50.39",
+    "discountedPriceWithCard": "48.38",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 75,
+  "ingredients": "сахар, жир растительный (масло пальмовое), сыворотка сухая молочная, какао тертое, масло какао, молоко сухое цельное, жир молочный, порошок клубничный, йогуртовый порошок, молоко сухое обезжиренное, эмульгаторы (лецитин соевый, Е476), ароматизаторы, регулятор кислотности (кислота лимонная). Может содержать следы арахиса, других орехов и пшеницы.",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "33",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "552",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

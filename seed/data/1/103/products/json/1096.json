@@ -1,0 +1,66 @@
+{
+  "name": "Пирожное Kinder Maxi King орехи и Карамель 35г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 87.29,
+  "promo": {
+    "discountedPriceRegular": "76.49",
+    "discountedPriceWithCard": "74.20",
+    "discountPercent": "15",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 39,
+  "ingredients": "Молочный шоколад (масло какао, сахар, сухое цельное молоко, тертое какао, эмульгатор: лецитины, ароматизатор; общее содержание сухого остатка какао: не менее 48,5%, сухой обезжиренный остаток какао: не менее 5%, сухой общий остаток молока: не менее 15,3%, молочный жир: не менее 4,1%), пастеризованное молоко, сахар, карамель (сгущенное молоко с сахаром, сахар, лесные орехи, растительный жир, ароматизатор), лесные орехи, растительный жир, сухое обезжиренное молоко, мука: пшеничная и рисовая, молочный жир, тапиковый крахмал, эмульгаторы: моно- и диглицериды жирных кислот и лецитины, соль, ароматизатор, разрыхлитель: гидрокарбонат натрия, загуститель: тары камедь.",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "37.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "38.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "521",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

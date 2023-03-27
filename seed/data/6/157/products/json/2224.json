@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Мамба Кола и фрукты жевательные 79.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 94.49,
+  "priceWithCard": 87.88,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 31,
+  "ingredients": "глюкозный сироп, сахар, пальмовое масло, агент влагоудерживающий сорбитовый сироп (Е420ii), стабилизатор крахмал ацетилированный (Е1420), регулятор кислотности лимонная кислота (Е330), карамельный сироп, ароматизаторы, эмульгатор полиоксиэтилен (20) сорбитан моностеарат, Твин 60 (Е435), антиокислитель альфа-Токоферол (Е307).",
+  "information": [
+    {
+      "value": "Mamba",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "84.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "388",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

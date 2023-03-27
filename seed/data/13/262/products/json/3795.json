@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Naturella Ultra camomile normal 20шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 234.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Petrolatum, Behenyl Alcohol, Zinc Oxide, Silica Dimethicone Silylate, Isononyl Isononanoate, Glycerin, Niacinamide, Panthenol, Polyhydroxystearic Acid, Glycine Soja Oil, Chamomilla Recutita Flower Extract, Bisabolol, Hexamidine Diisethionate, Parfum, Linalool, Hexyl Cinnamal, Butylphenyl Methylpropional, Eugenol, Geraniol.",
+  "information": [
+    {
+      "value": "Naturella",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Венгрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

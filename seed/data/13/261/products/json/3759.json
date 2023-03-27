@@ -1,0 +1,29 @@
+{
+  "name": "Лак для волос Прелесть Классик экстрасильная фиксация, 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 162.99,
+  "priceWithCard": 158.1,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Alcohol Denat. (Ethanol) 51,31 % vol., Isobutane, Propane, Butane, Acrylates/Octylacrylamide Copolymer, Aminomethyl Propanol, Parfum, Ethylhexyl salicylate, Hexyl Cinnamal, Limonene, Linalool, Citronellol, Geraniol.",
+  "information": [
+    {
+      "value": "Прелесть",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

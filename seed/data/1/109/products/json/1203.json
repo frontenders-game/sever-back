@@ -1,0 +1,61 @@
+{
+  "name": "Напиток кисломолочный Имунеле Земляника 1.2% 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "А - молоко нормализованное, сахар, вода, глюкозно-фруктозный сироп, концентрированный яблочный сок, концентрированный сок из земляники садовой, концентрированное пюре из земляники садовой, ароматизатор, стабилизатор - пектин, витаминно-минеральный премикс, краситель - кармин, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), закваска, пробиотические микроорганизмы (Lactobacillus Casei, Lactobacillus Rhamnosus).",
+  "information": [
+    {
+      "value": "Имунеле",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "72",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

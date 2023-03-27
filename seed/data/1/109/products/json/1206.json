@@ -1,0 +1,66 @@
+{
+  "name": "Напиток кисломолочный Actimel Kids клубника-банан 1.5% 95г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 35.99,
+  "promo": {
+    "discountedPriceRegular": "29.24",
+    "discountedPriceWithCard": "28.07",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (вода; глюкозно-фруктозный сироп; пюре банана; концентрированное пюре клубники; загуститель – Е1442; ароматизатор натуральный; концентрированный сок черной моркови; регуляторы кислотности – лимонная кислота, цитраты натрия, витамин D3), молоко сухое обезжиренное, глюкоза, йогуртовая закваска, лактобактерии L. CASEI IMUNITASS, витамин D3, витамин B6.  Количество молочнокислых микроорганизмов – не менее 1х107 КОЕ/г.  Количество L. CASEI IMUNITASS – не менее 2х108 КОЕ/г",
+  "information": [
+    {
+      "value": "Actimel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "69",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

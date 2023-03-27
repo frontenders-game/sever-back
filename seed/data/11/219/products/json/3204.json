@@ -1,0 +1,45 @@
+{
+  "name": "Пюре фруктовое Агуша мультифрукт с 6 месяцев 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 51.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "яблочное пюре, грушевое пюре, персиковое пюре, концентрированный яблочный сок, банановое пюре, концентрированный апельсиновый сок, концентрированный лимонный сок",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "65",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

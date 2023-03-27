@@ -1,0 +1,66 @@
+{
+  "name": "Хлебные палочки Saltletts Классические солёные, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 84.99,
+  "priceWithCard": 77.34,
+  "promo": {
+    "discountedPriceRegular": "70.54",
+    "discountedPriceWithCard": "64.19",
+    "discountPercent": "17",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное, соль морская пищевая, соль поваренная пищевая, регулятор кислотности: гидроксид натрия, дрожжи хлебопекарные прессованные, экстракт солодовый жидкий (солод ячменный, вода питьевая, солод ржаной), разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия. Продукт может содержать следы семян кунжута.",
+  "information": [
+    {
+      "value": "Saltletts",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

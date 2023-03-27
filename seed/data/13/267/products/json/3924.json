@@ -1,0 +1,29 @@
+{
+  "name": "Кассеты Endeavor сменные с 5 лезвиями 2шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 349.99,
+  "priceWithCard": 342.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "нержавеющая сталь",
+  "information": [
+    {
+      "value": "Endeavor",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Чехия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный А. Ростагрокомплекс в молочном шоколаде с ванилью 26% 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.48,
+  "priceWithCard": 63.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 36,
+  "ingredients": "творог, сахар, шоколад молочный (сахар, какао-масло, сухое цельное молоко, какао тертое, эмульгатор – лецитин (соевый лецитин), ароматизатор натуральный: ваниль), сливочное масло, экстракт ванили",
+  "information": [
+    {
+      "value": "А.Ростагрокомплекс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "33",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

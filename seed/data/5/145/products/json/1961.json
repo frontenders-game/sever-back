@@ -1,0 +1,45 @@
+{
+  "name": "Напиток E-On Lemongrass 2.0 энергетический газированный 0.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 78.19,
+  "priceWithCard": 71.93,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "подготовленная вода, сахар, концентрированный лимонный сок,\nрегуляторы кислотности кислота лимонная и цитрат натрия, экстракт лемонграсса, ароматизатор, экстракт женьшеня, таурин, кофеин, l-карнитин, экстракт гуараны, витамины: пантотеновая кислота (в5), в6, фолиевая кислота (вс), ниацин (рр), биотин, в12, красящий концентрат экстракт сафлора",
+  "information": [
+    {
+      "value": "E-On",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "43",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

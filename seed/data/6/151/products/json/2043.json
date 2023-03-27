@@ -1,0 +1,29 @@
+{
+  "name": "Стаканы одноразовые Econta 200мл 12шт в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 17.99,
+  "priceWithCard": 17.45,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 54,
+  "ingredients": "Пластик.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

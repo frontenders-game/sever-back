@@ -1,0 +1,53 @@
+{
+  "name": "Кофе Moccona Continental Gold натуральный растворимый 95г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 254.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "кофе",
+  "information": [
+    {
+      "value": "Moccona",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "109",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

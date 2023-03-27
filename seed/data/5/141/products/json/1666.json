@@ -1,0 +1,29 @@
+{
+  "name": "Вода Джермук минеральная лечебно-столовая газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 115.99,
+  "priceWithCard": 110.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "анионы (мг/л): гидрокарбонаты 1500-200, сульфаты 400-600, хлориды 150-250; катионы (мг/л): натрий и калий 700-1000, магний 40-70, кальций 130-180; кремниевая кислота (мг/л): 70-120.",
+  "information": [
+    {
+      "value": "Джермук",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Армения",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Шарлиз Голландские с карамельной начинкой 290г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 96.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 31,
+  "ingredients": "мука пшеничная в/с, сахар, глюкозный сироп, растительные масла, влагоудерживающий агент: сорбитовый сироп; мука соевая, продукты яичные, цельное сгущенное молоко с сахаром (молоко цельное, молоко обезжиренное, сахар(сахароза), лактоза); соль, эмульгатор: лецитины соевые; ароматизаторы, регулятор кислотности: лимонная кислота; разрыхлитель: гидрокарбонат натрия; краситель: каротины; антиокислитель: Токоферолы, концентрат смеси. Может содержать следы диоксида серы.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

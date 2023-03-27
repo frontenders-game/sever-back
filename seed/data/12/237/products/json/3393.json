@@ -1,0 +1,53 @@
+{
+  "name": "Салями Останкино Итальянская сырокопченая нарезка 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 219.99,
+  "priceWithCard": 204.59,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "свинина, шпик, соевый белок, комплексные пищевые добавки смесь нитритно-посолочная (соль, фиксатор окраски нитрит натрия), декстроза, регулятор кислотности глюконо дельта лактон, пищевые волокна, усилитель вкуса и аромата Е621, ароматизатор, антиокислитель Е300, красители: кармины, Е150с, красный рисовый); соль, стартовая культура. Возможно наличие следовых количеств мяса говядины и птицы. На предприятии используются яйца, молоко, горчица, сельдерей, злаки и продукты их переработки",
+  "information": [
+    {
+      "value": "Останкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "50",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "514",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

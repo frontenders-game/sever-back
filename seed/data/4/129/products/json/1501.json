@@ -1,0 +1,66 @@
+{
+  "name": "Мороженое пломбир Сарафаново шоколадный на сливках рожок 15% 110г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 95.99,
+  "priceWithCard": 92.15,
+  "promo": {
+    "discountedPriceRegular": "71.99",
+    "discountedPriceWithCard": "69.11",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "мороженое (сливки, сахар, молоко цельное сгущенное с сахаром (нормализованное молоко, сахароза, лактоза), вода, какао-порошок, масло сливочное, молоко сухое обезжиренное, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан, антиокислители: альфа-токоферол, аскорбилпальмитат); сахарный вафельный  рожок (мука пшеничная хлебопекарная первого сорта, сахар, масло кокосовое рафинированное дезодорированное, эмульгатор соевый лецитин, пшеничные волокна (клетчатка), ароматизатор ванилин); глазурь (кокосовое масло, пальмоядровое масло, пальмовое масло, сахар, сыворотка молочная сухая, эмульгатор подсолнечный лецитин, натуральный ароматизатор ванили)",
+  "information": [
+    {
+      "value": "Сарафаново",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "33.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "297",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Говядина Иней Отборная варёно-копчёная нарезка, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 195.99,
+  "priceWithCard": 178.35,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Говядина, вода питьевая, посолочная смесь (соль, фиксатор окраски (нитрит натрия)), регуляторы кислотности (пирофосфаты, трифосфаты, цитраты натрия), животный белок, усилитель вкуса и аромата (глутамат натрия), загустители (каррагинан, гуаровая камедь, ксантановая камедь), антиокислитель (изоаскорбат натрия), декстроза, экстракты специй, растительная клетчатка.",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "78",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

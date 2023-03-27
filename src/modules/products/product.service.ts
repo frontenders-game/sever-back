@@ -8,7 +8,15 @@ export async function getProductService(productId: string) {
             id: productId,
         },
         include: {
-            promo: true,
+            promo: {
+                select: {
+                    id: true,
+                    discountedPriceRegular: true,
+                    discountedPriceWithCard: true,
+                    discountPercent: true,
+                    isActive: true,
+                }
+            },
             reviews: true,
             images: true
         }

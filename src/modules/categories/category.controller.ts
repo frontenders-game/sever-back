@@ -15,7 +15,6 @@ export async function getCategoryHandler(
 ) {
     const id = request.params.id
     const category = await getCategoryService(id)
-    console.log(category)
     return category
         ? reply.code(200).send({message: "Success", data: category})
         : reply.code(404).send({error: `Category with id ${id} not found.`});

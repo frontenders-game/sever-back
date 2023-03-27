@@ -1,0 +1,58 @@
+{
+  "name": "Смесь овощная Global Village Азиатская с соусом, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 219.99,
+  "priceWithCard": 208.99,
+  "promo": {
+    "discountedPriceRegular": "171.59",
+    "discountedPriceWithCard": "163.01",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Бамбук, черный китайский гриб, лук репчатый, морковь, капуста белокочанная, проростки маша, перец сладкий;n соус (растительный жир, соевый соус (вода, соя, пшеничная мука, соль), лук репчатый, сушеный лук, соль, ароматизатор, растительное масло, черный перец, имбирь, вода.",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

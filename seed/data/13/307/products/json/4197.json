@@ -1,0 +1,29 @@
+{
+  "name": "Носки Conte Elegant Solo 40den натурал размер 23-25 2пары",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 92.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "88% полиамид, 12 % эластан",
+  "information": [
+    {
+      "value": "Conte Elegant",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

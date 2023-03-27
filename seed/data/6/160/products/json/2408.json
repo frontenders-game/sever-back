@@ -1,0 +1,61 @@
+{
+  "name": "Десерт Полет слоёный с лимоном, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 172.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Мука пшеничная хлебопекарная в/с, начинка фруктовая (сахар, вода питьевая, пюре лимона, пюре яблока, загуститель пектины, регулятор кислотности цитраты натрия, краситель куркумин, ароматизатор, стабилизатор цитраты кальция), маргарин (рафинированные дезодорированные растительные масла, вода, эмульгаторы: моно- и диглицериды жирных кислот, лецитины: консервант сорбиновая кислота, ароматизатор, краситель: каротины), вода питьевая, сахар, меланж яичный, регулятор кислотности - лимонная кислота, соль поваренная пищевая, краситель Е150d (сахарный колер), консервант сорбат калия. Не сожержит ГМО! Возможно присутствие следов арахиса, кунжута и орехов.",
+  "information": [
+    {
+      "value": "Полет",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "450",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Маска тканевая Garnier Увлажнение + свежесть для нормальной и комбинированной кожи 32г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 216.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "Aqua/water, propylene, glycol, glycerin, p-anisic acid, camellia sinensis leaf extract, citric acid, dipotassium glycyrrhizate, glyceryl acrylate/acrylic acid copolymer, hydroxyethylcellulose, limonene, mannose, methylparaben, peg-40 hydrogenated castor oil, phenoxyethanol, potassium hydroxide, potassium sorbate, propylparaben, pvm/ma copolymer, sodium benzoate, sodium hyaluronate, sorbitol, xanthan gum, parfum/fragrance.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

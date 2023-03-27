@@ -1,0 +1,58 @@
+{
+  "name": "Сок J7 Яблочно-персиковый с мякотью 0.97л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 137.99,
+  "priceWithCard": 133.85,
+  "promo": {
+    "discountedPriceRegular": "120.05",
+    "discountedPriceWithCard": "116.45",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "яблочный сок, персиковое пюре, яблочное пюре, яблочная мякоть\n",
+  "information": [
+    {
+      "value": "J7",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "55",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

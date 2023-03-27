@@ -1,0 +1,45 @@
+{
+  "name": "Напиток энергетический Drive Me Оригинальный 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 45.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "вода, сахар, вкусоароматическая основа «Энергия» (натуральный кофеин, витаминный премикс (витамин С, ниацин, пантотеновая кислота, витамин В6, фолиевая кислота), краситель (сахарный колер), полученный по аммиачно-сульфитной технологии), газ для насыщения напитков (диоксид углерода), регуляторы кислотности (лимонная кислота, цитрат натрия), таурин, натуральный ароматизатор «Энергия»",
+  "information": [
+    {
+      "value": "Drive Me",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "43",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

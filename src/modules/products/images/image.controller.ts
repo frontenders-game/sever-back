@@ -59,15 +59,11 @@ export async function uploadProductImageHandler(
     const currentMaxOrder = await getProductImageMaxOrderValue(productId)
     const order = currentMaxOrder + 1
     const imageResizer = new ImageResizer(data, productId, order)
-    const full: string = await imageResizer.saveFull()
-    const small: string = await imageResizer.saveSmall()
-    const thumb: string = await imageResizer.saveThumb()
+    const imagePaths = await imageResizer.saveAll()
     const image = await createProductImageService({
         productId: productId,
-        full,
-        small,
-        thumb,
-        order
+        order,
+        ...imagePaths
     })
     return reply.code(200).send({message: `Success. Image uploaded.`, data: image});
 

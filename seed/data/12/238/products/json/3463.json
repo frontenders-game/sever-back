@@ -1,0 +1,58 @@
+{
+  "name": "Сосиски Великолукский МК детям 330г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 193.99,
+  "promo": {
+    "discountedPriceRegular": "109.99",
+    "discountedPriceWithCard": "106.69",
+    "discountPercent": "45",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "свинина, говядина, филе грудки куриное, молоко коровье, натуральные пряности (кардамон, мускат), вода питьевая очищенная, соль поваренная, мультивитаминный комплекс, антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
+  "information": [
+    {
+      "value": "Великолукский МК",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "262",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

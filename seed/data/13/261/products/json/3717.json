@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь-бальзам Чистая Линия Хмель для всех типов волос на отваре целебных трав 2в1 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 191.99,
+  "promo": {
+    "discountedPriceRegular": "155.99",
+    "discountedPriceWithCard": "149.75",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "aqua, sodium laureth sulfate, sodium chloride, cocamidopropyl betaine, glycereth-2 cocoate, achillea millefolium extract, arctium lappa root extract, chamomilla recutita (matricaria) flower, chelidonium majus extract, glycine soja (soybean) oil, humulus lupulus (hops) extract (экстракт хмеля), hydrolyzed wheat protein, hypericum perforatum flower/leaf/stem extract, laurdimonium hydroxypropyl hydrolyzed wheat protein, hypericum perforatum flower/leaf/stem extract, laurdimonium hydroxypropyl hydrolyzed wheat protein, urtica dioica (nettle) leaf powder, citric acid, disodium edta, glycerin, methylchloroisothiazolinone, methylisothiazolinone, parfum, polyquaternium-10, propylene glycol, sodium benzoate, sodium laureth-5 carboxylate, benzyl salicylate, hexyl cinnamal, linalool, ci 14720, ci 19140, ci 42090",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

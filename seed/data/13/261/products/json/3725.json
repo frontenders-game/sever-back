@@ -1,0 +1,29 @@
+{
+  "name": "Крем-краска для волос Palette тёмно-каштановый N2 (3-0) 110мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 197.99,
+  "priceWithCard": 186.11,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Окрашивающий крем: Aqua, Cetearyl Alcohol, Ammonium Hydroxide, Glyceryl Stearate, Toluene-2,5-Diamine Sulfate, Ceteareth-20, Octyldodecanol, Sodium Laureth Sulfate, Resorcinol, Ethanolamine, Sodium Cetearyl Sulfate, m-Aminophenol, Parfum, Oleic Acid, Sodium Sulfite, Silica, Potassium Stearate, Glycerin, Tetrasodium EDTA, Carbomer, 2-Amino-4-Hydroxyethylaminoanisole Sulfate, Potassium Hydroxide, Serine, Ascorbic Acid, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Propylene Glycol, Sodium Sulfate\nПроявляющая эмульсия: Aqua, Hydrogen Peroxide, Cetearyl Alcohol, Propylene Glycol, Ceteareth-20, Steartrimonium Chloride, Paraffinum Liquidum, Etidronic Acid, 2,6-Dicarboxypyridine, Disodium Pyrophosphate, Potassium Hydroxide, Isopropyl Alcohol, Sodium Benzoate\nМаска-уход: Aqua, Cetearyl Alcohol, Quaternium-87, Hydrolyzed Keratin, Panthenol, Prunus Armeniaca Kernel Oil, Niacinamide, \nStearamidopropyl Dimethylamine, Ceteareth-20, Propylene Glycol, Isopropyl Myristate, Distearoylethyl Hydroxyethylmonium Methosulfate, Citric Acid, Phenoxyethanol, Parfum, Glyceryl Stearate, Sodium Methyl\nparaben, Hexyl Cinnamal, Butylphenyl Methylpropional, Benzyl Salicylate, Linalool, Benzyl Alcohol, Limonene.",
+  "information": [
+    {
+      "value": "Palette",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

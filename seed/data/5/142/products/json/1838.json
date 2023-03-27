@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Global Villagе Гранат сокосодержащий 0.33л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Сок гранатовый прямого отжима, сахарный сироп, регулятор кислотности лимонная кислота, концентрат черной моркови, натуральный ароматизатор гранат, вода подготовленная Минимальная объемная доля сока 10 %.",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Азербайджан",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

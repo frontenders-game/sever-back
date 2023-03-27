@@ -1,0 +1,61 @@
+{
+  "name": "Рулет Cuisine Royale Сливочный Сыр Маскарпоне бисквитный 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 84.59,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 17,
+  "ingredients": "Мука пшеничная в/с, сахар, масла растительные, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза), лактоза), мальтодекстрин, продукты яичные сухие: меланж, сыворотка молочная сухая, крахмал кукурузный, спирт этиловый ректификованный из пищевого сырья, яйца куриные, какао-порошок, влагоудерживающий агент: глицерин, красители (кармин, Е150С, Е160е), разрыхлители (гидрокарбонат аммония, Е450 (i), гидрокарбонат натрия), эмульгаторы (лецитин соевый, сорбитан тристеарат, Е471), сухой Маскарпоне, сырный порошок, соль, регулятор кислотности кислота лимонная, антиокислители (Е306, Е307), ароматизаторы, консервант сорбат калия.",
+  "information": [
+    {
+      "value": "Cuisine Royale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

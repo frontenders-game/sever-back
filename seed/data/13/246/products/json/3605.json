@@ -1,0 +1,29 @@
+{
+  "name": "Средство для мытья посуды Synergetic лимон концентрированное биоразлагающееся 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 167.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "дистиллированная вода >30%, А-тензиды 5-15%, Н-тензиды (на основе глюкозы) < 5%, глицерин (glycerol) <5%, масла: лимона, лемонграсса, лайма, пищевой краситель",
+  "information": [
+    {
+      "value": "Synergetic",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

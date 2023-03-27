@@ -1,0 +1,45 @@
+{
+  "name": "Нектар Мой Мультифрукт 0.95л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 74.99,
+  "priceWithCard": 68.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "апельсиновый сок, ананасовый сок, яблочный сок, персиковое пюре, пюре из киви, сок из маракуйи, сахар, регулятор кислотности - лимонная кислота, вода",
+  "information": [
+    {
+      "value": "Мой",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "48",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

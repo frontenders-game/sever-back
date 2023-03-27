@@ -1,0 +1,66 @@
+{
+  "name": "Батончик Mixbar с какао, молоком и криспи 30г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 16.99,
+  "priceWithCard": 15.8,
+  "promo": {
+    "discountedPriceRegular": "15.12",
+    "discountedPriceWithCard": "14.06",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 50,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "468",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

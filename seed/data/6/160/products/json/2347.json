@@ -1,0 +1,66 @@
+{
+  "name": "Изделие Bakery Story  хлебобулочное Крымское с изюмом 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 220.79,
+  "promo": {
+    "discountedPriceRegular": "190.89",
+    "discountedPriceWithCard": "183.26",
+    "discountPercent": "17",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная, маргарин (рафинированные дезодорированные растительные масла, вода, эмульгаторы: моно- и диглицериды жирных кислот, эфиры полиглицеридов жирных кислот, лецитин, соль, консервант сорбиновая кислота , краситель каротин, ароматизатор, регулятор кислотности лимонная кислота), паста с творогом (творог (молоко, восстановленное из сухого обезжиренного, уплотнитель хлорид кальция, закваска, молокосвертывающий ферментный препарат), заменитель молочного жира (рафинированные дезодорированные растительные масла, эмульгаторы моно- и диглицериды жирных кислот и лецитин), сыворотка молочная, пищевые волокна, консерванты сорбат калия и цитрат натрия, стабилизаторы крахмал модифицированный, гуаровая камедь и каррагинан), изюм, сахар, вода, соль, разрыхлитель карбонат натрия, ванилин.",
+  "information": [
+    {
+      "value": "Бейкери",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Баранки Зерница Сахарные с маком 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 55.99,
+  "priceWithCard": 51.51,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, маргарин (рафинированные дезодорированные масла в натуральном и модифицированном виде (пальмовое масло и его фракции, подсолнечное масло), вода, эмульгаторы (E471. E475), соль пищевая, ароматизатор \"Сливки-молоко\", краситель Е160а, регулятор кислотности - лимонная кислота), масло подсолнечное нерафинированное, соль пищевая, мак пищевой, дрожжи хлебопекарные прессованные. Продукт может содержать следы яичного белка и горчичного масла.",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

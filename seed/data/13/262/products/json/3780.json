@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Pupi Panty soft ежедневные, 20шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 40.49,
+  "priceWithCard": 38.87,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "Нетканный материал, целлюлоза, п/э пленка, клей, силиконизированная бумага.",
+  "information": [
+    {
+      "value": "Pupi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

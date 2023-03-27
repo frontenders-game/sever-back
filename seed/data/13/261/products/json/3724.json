@@ -1,0 +1,29 @@
+{
+  "name": "Пена Taft объем очень сильной фиксации 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 339.99,
+  "priceWithCard": 316.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Aqua, VP/VA Copolymer, Butane, Propane, Polyquaternium-16, Chitosan, Lactic Acid, Sodium Benzoate, Cetrimonium Chloride, PVP, PEG-40 Hydrogenated Castor Oil, Isobutane, Acrylamidopropyltrimonium Chloride/Acrylamide Copolymer, Panthenol, Tocopheryl Acetate, Hydrolyzed Collagen, Parfum, Amodimethicone, Citric Acid, Phenoxyethanol, Butylphenyl Methylpropional, Cyclomethicone, Linalool, Limonene, Benzyl Alcohol, Geraniol, Alpha-Isomethyl Ionone.",
+  "information": [
+    {
+      "value": "Taft",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

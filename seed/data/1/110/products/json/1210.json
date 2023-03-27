@@ -1,0 +1,61 @@
+{
+  "name": "Майонез Слобода Провансаль 67%, 230мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 63.99,
+  "priceWithCard": 60.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Подсолнечное масло, вода, сахар, яичный желток, соль поваренная, уксус, горчичное масло.",
+  "information": [
+    {
+      "value": "Слобода",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "67",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "613",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

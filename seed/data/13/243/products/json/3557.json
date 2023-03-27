@@ -1,0 +1,34 @@
+{
+  "name": "Капсулы для стирки Tide Color 10х22.8г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 479.99,
+  "priceWithCard": 460.79,
+  "promo": {
+    "discountedPriceRegular": "331.19",
+    "discountedPriceWithCard": "317.95",
+    "discountPercent": "31",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": ">30% анионные ПАВ; 5-15% мыло; <5% неионогенные ПАВ, фосфонаты; энзимы, оптические отбеливатели, ароматизирующие добавки, альфа-изометилионон, гераниол, гексилкоричный альдегид, лимонен, линалоол",
+  "information": [
+    {
+      "value": "Tide",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Франция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

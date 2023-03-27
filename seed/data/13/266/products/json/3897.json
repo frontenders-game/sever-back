@@ -1,0 +1,29 @@
+{
+  "name": "Крем-мыло Duru Арбуз с экстрактом алоэ 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 48.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "sodium palmate, aqua, sodium palm kernelate, parfum, glycerin, sodium chloride, aloe barbadensis (aloe vera), tetrasodium EDTA, tetrasodium etidronate, CI 77891, CI 12490, CI 21100",
+  "information": [
+    {
+      "value": "Duru",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

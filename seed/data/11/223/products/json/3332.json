@@ -1,0 +1,61 @@
+{
+  "name": "Каша ФрутоНяня молочно-овсяная йогуртная с яблоком малиной и черникой с 6 месяцев 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 53.99,
+  "priceWithCard": 52.37,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Молоко сухое цельное, мука овсяная, фруктоза, йогурт сухой обезжиренный, мальтодекстрин, пюре яблочное, молоко сухое обезжиренное, пребиотик – инулин, пюре черничное, пюре малиновое, ароматизатор натуральный «Малина», ароматизатор натуральный «Черника», вода.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "72.4",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

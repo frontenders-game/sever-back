@@ -1,0 +1,29 @@
+{
+  "name": "Пьезо-зажигалка Foxlite fx-58 цвет в ассортименте 1шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 28.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Foxlite",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

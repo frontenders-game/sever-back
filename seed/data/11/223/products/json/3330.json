@@ -1,0 +1,61 @@
+{
+  "name": "Каша Nestlé Молочная овсяная груша-банан с 6 мес. 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 193.99,
+  "priceWithCard": 178.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Мука овсяная (70,3 %) (содержит глютен), молоко сухое обезжиренное (18,1 %), смесь растительных масел (низкоэруковое рапсовое, подсолнечное высокоолеиновое, подсолнечное), антиокислители (L-аскорбилпальмитат, альфа-токоферол, лимонная кислота), хлопья банана (2,6 %), хлопья груши (1,5 %), сахар, минеральные вещества (кальция карбонат, железа (II) фумарат, цинка сульфат, йодид калия), витамины (С (L-аскорбиновая кислота), E (DL-альфа-токоферола ацетат), РР (никотинамид), B5 (D-пантотенат кальция), A (ретинола ацетат), В1 (тиамина мононитрат), В6 (пиридоксин гидрохлорид), В2 (рибофлавин), B9 ( фолиевая кислота), D (D3 холекальциферол)), бифидобактерии не менее 1х10^6 КОЕ/г.",
+  "information": [
+    {
+      "value": "Nestlé",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "14.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "96",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Пирожное бисквитное Медвежонок Барни банан-йогурт 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 153.59,
+  "promo": {
+    "discountedPriceRegular": "80.00",
+    "discountedPriceWithCard": "76.80",
+    "discountPercent": "50",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Мука пшеничная, сироп глюкозно-фруктозный, сахар, яичный продукт, масло растительное, вода питьевая, влагоудерживающий агент (глицерин), молоко сухое обезжиренное, молоко сухое цельное, крахмал пшеничный, декстроза, порошок йогуртовый (содержит молоко), порошок банановый (мальтодекстрин, пюре банановое сухое, вода, регулятор кислотности (кислота лимонная), антиокислитель (кислота аскорбиновая)), регуляторы кислотности (гидрокарбонат калия, кислота лимонная), разрыхлитель (дигидропирофосфат натрия), соль, эмульгаторы (эфиры глицерина и молочной и жирных кислот, эфиры полиглицерина и жирных кислот, лецитин соевый), карбонат кальция, какао-порошок, ароматизаторы натуральные, загуститель (гуаровая камедь).",
+  "information": [
+    {
+      "value": "Барни",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "404",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

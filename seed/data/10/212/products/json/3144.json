@@ -1,0 +1,58 @@
+{
+  "name": "Корм сухой Purina One с говядиной и пшеницей для стерилизованных кошек 750г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 379.99,
+  "priceWithCard": 372.39,
+  "promo": {
+    "discountedPriceRegular": "300.19",
+    "discountedPriceWithCard": "294.19",
+    "discountPercent": "21",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "говядина (16%), пшеница (16%), сухой белок домашней птицы, соевая мука, кукурузный глютен, кукуруза, животный жир, высушенная мякоть свеклы, высушенный корень цикория (2%), минеральные вещества, вкусоароматическая кормовая добавка, дрожжи (1%), рыбий жир, витамины",
+  "information": [
+    {
+      "value": "Purina one",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "37",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

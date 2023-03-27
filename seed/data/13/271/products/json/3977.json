@@ -1,0 +1,34 @@
+{
+  "name": "Мицеллярная вода Garnier 3в1 для лица, 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 418.99,
+  "priceWithCard": 385.47,
+  "promo": {
+    "discountedPriceRegular": "360.33",
+    "discountedPriceWithCard": "331.50",
+    "discountPercent": "14",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Aqua/water, hexylene glycol, glycerin, disodium cocoamphodiacetate, disodium edta, poloxamer 184, polyaminopropyl biguanide.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

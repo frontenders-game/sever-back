@@ -1,0 +1,29 @@
+{
+  "name": "Гель Sanitol WC 3в1 для чистки туалета 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 118.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "вода очищенная > 30%, соляная кислота <5%, ортофосфорная кислота < 5%, НПАВ< 5%, метилгидроксиэтилцеллюлоза <5%, краситель< 5%, отдушка < 5%",
+  "information": [
+    {
+      "value": "Sanitol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

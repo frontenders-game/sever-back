@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Черноголовка Кола газированный 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 74.99,
+  "priceWithCard": 72.74,
+  "promo": {
+    "discountedPriceRegular": "58.49",
+    "discountedPriceWithCard": "56.74",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "вода, сахар, регуляторы кислотности: кислота орто-фосфорная. Лимонная, краситель сахарный колер iv, ароматизатор натуральный, кофеин (не более 150 мн/л) консервант бензоат натрия ароматизатор пищевой «ванили»",
+  "information": [
+    {
+      "value": "Черноголовка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

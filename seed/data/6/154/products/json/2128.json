@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад молочный Россия-Щедрая Душа Кофе с молоком с добавлением кофе 82г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 50.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "сахар, какао тертое, масло какао, молоко сухое обезжиренное, сыворотка молочная сухая, кофе растворимый (3,4 %), молоко сухое цельное, молочный\nжир, эмульгаторы (лецитины, Е476).\nВ шоколадной массе: сухой общий остаток какао – не менее 25 %, сухой обезжиренный остаток какао – не менее 2,5 %, сухой молочный остаток – не менее 12 %,\nмолочный жир – не менее 2,5 %. Продукт может содержать арахис, орехи, яичный белок и глютен",
+  "information": [
+    {
+      "value": "Россия - Щедрая Душа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "517",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

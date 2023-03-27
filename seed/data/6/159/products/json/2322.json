@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Озорная Пчелка желейные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 299.99,
+  "priceWithCard": 293.99,
+  "promo": {
+    "discountedPriceRegular": "260.99",
+    "discountedPriceWithCard": "255.77",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Патока мальтозная, сахар-песок, влагоудерживающий агент-сорбитовый сироп, желирующий агент-каррагинан, загуститель-Е1422,  глазирователь - карнаубский воск, регуляторы кислотности-цитрат натрия 3-замещённый, смесь молочной и лимонной кислот, лимонная кислота; сок яблочный, ароматизаторы: \"Яблоко\", \"Груша\", \"Вишня\", \"Апельсин\"; красители пищевые: \"Кармин\", \"Куркумин\", \"Паприка\", \"Диоксид титана\", \"Синий патентованный\".",
+  "information": [
+    {
+      "value": "СТМ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "82.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "332",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Блины Морозко с мясом замороженные, 420г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 120.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, говядина, лук репчатый, мясо куриное механической обвалки, сахар, масло растительное, шпик, молоко сухое обезжиренное, белок соевый, соль, меланж пастеризованный (продукт яичный), комплексная пищевая добавка: порошок пекарский (разрыхлители: дигидропирофосфат натрия, гидрокарбонат натрия; крахмал кукурузный, агент антислеживающийкарбонат кальция), натуральное пищевое волокно, перец черный молотый.",
+  "information": [
+    {
+      "value": "Морозко",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "240",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

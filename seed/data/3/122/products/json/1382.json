@@ -1,0 +1,45 @@
+{
+  "name": "Чеснок свежий 1 упаковка",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 45.99,
+  "priceWithCard": 45.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 35,
+  "ingredients": "Чеснок.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

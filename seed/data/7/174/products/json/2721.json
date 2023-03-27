@@ -1,0 +1,29 @@
+{
+  "name": "Чай Greenfield Spring Melody чёрный в пакетиках 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 125.99,
+  "priceWithCard": 119.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "чай черный байховый, ароматизатор, лист черной смородины, мята, чабрец",
+  "information": [
+    {
+      "value": "Greenfield",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

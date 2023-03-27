@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Konti Enrgy арахис в мягкой карамели 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 22.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "ядра арахиса обжаренные дробленые, патока крахмальная кукурузная, глазурь жировая (сахар, заменитель масла какао (масло пальмоядровое (стеарин) рафинированное дезодорированное, эмульгатор Е 492), сухая молочная сыворотка, какао-порошок, эмульгаторы: лецитин соевый, Е 476; ароматизатор), сахар, глюкозно-фруктозный сироп, жир кондитерский (рафинированное дезодорированное пальмовое масло, эмульгатор лецитин соевый, антиокислитель Е 306), молоко сухое цельное, эмульгатор лецитин соевый, соль. Может содержать следы диоксида серы, продуктов яичных, злаков, содержащих глютен, орехов и продуктов их переработки.",
+  "information": [
+    {
+      "value": "Konti",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "52",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "480",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

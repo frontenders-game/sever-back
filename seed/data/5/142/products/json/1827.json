@@ -1,0 +1,50 @@
+{
+  "name": "Сок Rich яблочный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 155.19,
+  "promo": {
+    "discountedPriceRegular": "140.79",
+    "discountedPriceWithCard": "136.57",
+    "discountPercent": "12",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "100 % Яблочный сок. Восстановленный. Осветленный.",
+  "information": [
+    {
+      "value": "Rich",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "48",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

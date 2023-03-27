@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Юбилейное витаминизированное с глазурью 116г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 63.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "мука пшеничная, сахар, масла растительные, жир растительный, вода, какао-порошок, сироп глюкозно-фруктозный, разрыхлитель (гидрокарбонат натрия), эмульгаторы (лецитин соевый, Е 476, лецитин подсолнечный), соль, продукт яичный, ароматизаторы, витаминно-минеральный комплекс (витамин В1, витамин В2, витамин В6, фолиевая кислота, ниацин, железо).",
+  "information": [
+    {
+      "value": "Юбилейное",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "482",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Творог Мама Лама клубника-банан с 3 лет, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 41.99,
+  "priceWithCard": 40.31,
+  "promo": {
+    "discountedPriceRegular": "35.27",
+    "discountedPriceWithCard": "33.86",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Творог обезжиренный, наполнитель «Клубника-банан» (вода, сахар, пюре банана, концентрированное пюре клубники, загустители (пектины, гуаровая камедь), концентрированный сок лимона, пребиотик – олигофруктоза, концентрированный сок черной моркови, натуральные ароматизаторы), сливки. Продукт может содержать следы глютена! (высота основного текста не менее 1,0 мм) Пищевая ценность 100 г продукта: жиры 3,8 г, белки 7,9 г, углеводы 9,9 г (в том числе сахароза 5,4 г). Энергетическая ценность / Калорийность 100 г продукта: 440 кДж / 105 ккал.",
+  "information": [
+    {
+      "value": "Мама Лама",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "105",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Цикорий Большая чашка натуральный растворимый 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 359.99,
+  "priceWithCard": 327.59,
+  "promo": {
+    "discountedPriceRegular": "230.39",
+    "discountedPriceWithCard": "209.66",
+    "discountPercent": "36",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "цикорий натуральный растворимый сублимированный",
+  "information": [
+    {
+      "value": "Большая Чашка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "68",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

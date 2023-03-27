@@ -1,0 +1,61 @@
+{
+  "name": "Батон Хлебный Дом Московский нарезка 1 сорт, 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.49,
+  "priceWithCard": 28.61,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Мука пшеничная хлебопекарная первого сорта, вода питьевая, сахар, масло подсолнечное нерафинированное, соль, дрожжи хлебопекарные, добавка комплексная пищевая (мука пшеничная, фермент микробного происхождения, антиокислитель - кислота аскорбиновая)",
+  "information": [
+    {
+      "value": "Хлебный Дом",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "273",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

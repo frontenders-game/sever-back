@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь-бальзам-ополаскиватель Head&Shoulders Основной уход 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 279.99,
+  "priceWithCard": 271.59,
+  "promo": {
+    "discountedPriceRegular": "221.19",
+    "discountedPriceWithCard": "214.56",
+    "discountPercent": "21",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "aqua, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, zinc carbonate, sodium chloride, sodium xylenesulfonate, dimethicone, zinc pyrithione, cocamidopropyl betaine, parfum, sodium benzoate, guar hydroxypropyltrimonium chloride, hydrochloric acid, limonene, sodium hydroxide, linalool, magnesium carbonate hydroxide, magnesium nitrate, sodium polynaphthalenesulfonate, methylchloroisothiazolinone, magnesium chloride, methylisothiazolinone",
+  "information": [
+    {
+      "value": "Head&Shoulders",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Румыния",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

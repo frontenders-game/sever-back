@@ -1,0 +1,53 @@
+{
+  "name": "Медальоны Деревенские Лакомства из ягненка для собак мини-пород 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 228.99,
+  "priceWithCard": 222.12,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "мясо ягненка",
+  "information": [
+    {
+      "value": "Деревенские лакомства",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "47.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "226.3",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

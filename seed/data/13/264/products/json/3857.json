@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Tolli Plus столовые сервировочные однослойные 50шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.99,
+  "priceWithCard": 40.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "100% целлюлоза.",
+  "information": [
+    {
+      "value": "Tolli Lux",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Жевательная резинка Eclipse Лесные ягоды 14г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 50.49,
+  "priceWithCard": 48.47,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 29,
+  "ingredients": "подсластитель Е420, резиновая основа, подсластитель Е965, ароматизаторы, загуститель Е414, подсластители Е421, Е951, Е950, красители: Е170, Е171, Е133, эмульгатор соевый лецитин, антислеживающий агент Е553, глазирователь Е903, антиокислитель Е320. Содержит источник фенилаланина",
+  "information": [
+    {
+      "value": "Eclipse",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "68.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "165",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

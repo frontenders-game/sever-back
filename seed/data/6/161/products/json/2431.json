@@ -1,0 +1,61 @@
+{
+  "name": "Пирожное Левушка Детям бисквитное с вареной сгущенкой 140г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "сахар, мука пшеничная, патока, меланж, жир растительный (масла растительные, антиокислитель концентрат смеси токоферолов) масло подсолнечное, молоко цельное сгущенное с сахаром (молоко нормализованное, сахара (сахароза, лактоза), агент влагоудерживающий глицерин, крахмал кукурузный, глюкоза ферментированная, краситель сахарный Коллер 1 простой, агент желирующий пектин, соль, ароматизатор, молоко сухое обезжиренное, регулятор кислотности лимонная кислота, эмультатор лецитин соевый, разрыхлитель гидрокарбонат натрия, Комплексная пищевая добавка краситель (краситель бета-каротин, антиокислитель Е304)",
+  "information": [
+    {
+      "value": "Левушка Детям",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

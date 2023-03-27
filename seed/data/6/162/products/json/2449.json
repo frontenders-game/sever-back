@@ -1,0 +1,66 @@
+{
+  "name": "Мармелад Нева Мармелайф Ассорти желейный глазированный 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 187.99,
+  "promo": {
+    "discountedPriceRegular": "149.99",
+    "discountedPriceWithCard": "140.99",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "сахар, глазурь (сахар, заменитель масла какао не темперируемый лауринового типа (жир растительный, эмульгаторы (Е492, Е322)), какао-порошок, эмульгатор лецитин соевый), вода питьевая, патока, агент желирующий пектин, регулятор кислотности кислота лимонная, агент влагоудерживающий лактат натрия, ароматизаторы «Ананас», «Апельсин», «Клубника» красители лютеин, экстракт паприки, антоциан",
+  "information": [
+    {
+      "value": "Нева",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "78",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

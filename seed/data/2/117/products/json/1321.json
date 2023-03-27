@@ -1,0 +1,61 @@
+{
+  "name": "Палочки Зерница хлебные 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 55.99,
+  "priceWithCard": 52.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, маргарин (масла растительные рафинированные дезодорированные в натуральном и модифицированном виде, в том числе соевое, вода, эмульгатор моно- и диглицериды жирных кислот, соль, регулятор кислотности - кислота лимонная, ароматизатор, краситель каротины), сахар, соль поваренная йодированная (соль, йодат калия, агент антислеживающий Е536), дрожжи хлебопекарные сухие (дрожжи, эмульгатор (сорбитан моностеарат)), комплексная пищевая добавка - улучшитель хлебопекарный (пшеничная мука, эмульгатор Е472е, разрыхлитель Е341, антиокислитель Е300, энзимы).",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "71",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

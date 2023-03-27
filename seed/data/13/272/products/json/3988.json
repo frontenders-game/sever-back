@@ -1,0 +1,29 @@
+{
+  "name": "Презервативы Contex Light особо тонкие, 6х12шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 609.99,
+  "priceWithCard": 561.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Натуральный латекс, силиконовая смазка.",
+  "information": [
+    {
+      "value": "Contex",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Великобритания",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

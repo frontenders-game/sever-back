@@ -1,0 +1,29 @@
+{
+  "name": "АРТ/ДИЗ.Конверт для денег МК",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 112.99,
+  "priceWithCard": 103.95,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Бумага.",
+  "information": [
+    {
+      "value": "Арт и Дизайн",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

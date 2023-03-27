@@ -1,0 +1,29 @@
+{
+  "name": "Средство для мытья посуды Synergetic алоэ биоразлагаемое, 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 174.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "А-Тензиды 5 - 15% (растительного происхождения), глицерин, натуральный экстракт лимона, пищевой краситель",
+  "information": [
+    {
+      "value": "Synergetic",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

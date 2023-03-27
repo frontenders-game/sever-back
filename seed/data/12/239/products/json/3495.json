@@ -1,0 +1,53 @@
+{
+  "name": "Бекон Коптильный Двор сырокопченый 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 115.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Свинина, вода, помолочная смесь (соль поваренная пищевая, фиксатор окраски нитрит натрия), молочный белок, стабилизатор (Е460), натуральные пряности, декотроз, глюкоза, усилитель вкуса и аромата (Е621), антиокислитель (Е316), консервант (Е262), регулятор кислотности (Е331).",
+  "information": [
+    {
+      "value": "Коптильный двор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "55",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "530",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

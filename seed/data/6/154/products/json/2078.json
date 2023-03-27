@@ -1,0 +1,66 @@
+{
+  "name": "Шоколади Alpen Gold молочный 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 55.19,
+  "promo": {
+    "discountedPriceRegular": "50.39",
+    "discountedPriceWithCard": "46.36",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 80,
+  "ingredients": "сахар, какао тертое, масло какао, сухое цельное молоко, сухая молочная сыворотка, молочный жир, эмульгаторы (лецитин соевый, Е476), ароматизатор ванилин идентичный натуральному. Содержит молочные продукты, лецитин соевый. Может содержать следы арахиса, других орехов и пшеницы\n",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "27",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

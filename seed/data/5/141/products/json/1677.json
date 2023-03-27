@@ -1,0 +1,29 @@
+{
+  "name": "Вода Aqua Minerale газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 42.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "общая минерализация: 0,05-0,5 г л., основной состав, мг л: калий – 0,1-10, кальций – 0,1-30, магний – 0,1- 20, натрий – 0,1-50, сульфаты – 0,1-100, хлориды – 0,1-50, гидрокарбонаты – 0,1-200",
+  "information": [
+    {
+      "value": "Aqua Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Суп Asian Fusion с морским гребешком быстрого приготовления 12г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 83.99,
+  "priceWithCard": 77.27,
+  "promo": {
+    "discountedPriceRegular": "72.23",
+    "discountedPriceWithCard": "66.45",
+    "discountPercent": "14",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "соль поваренная пищевая, бурая морская водоросль, морской гребешок, соевый белок, сахар-песок, загуститель - кукурузный крахмал, натуральные специи (сельдерей, белый перец), пальмовое масло, грибы шиитаке",
+  "information": [
+    {
+      "value": "Asian Fusion",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "17",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

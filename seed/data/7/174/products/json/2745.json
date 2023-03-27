@@ -1,0 +1,34 @@
+{
+  "name": "Чай Ahmad Tea Магия Манго черный 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 154.99,
+  "priceWithCard": 147.24,
+  "promo": {
+    "discountedPriceRegular": "100.74",
+    "discountedPriceWithCard": "95.71",
+    "discountPercent": "35",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Чай чёрный байховый листовой мелкий, пищевой ароматизатор манго, кусочки манго.",
+  "information": [
+    {
+      "value": "Ahmad Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

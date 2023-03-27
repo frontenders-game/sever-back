@@ -1,0 +1,34 @@
+{
+  "name": "Наклейки Пять идей декоративные 1 шт. в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 38.99,
+  "priceWithCard": 38.21,
+  "promo": {
+    "discountedPriceRegular": "30.02",
+    "discountedPriceWithCard": "29.42",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "полимерные материалы: ПВХ, клей масляный (акриловая кислота, органический растворитель), бумага, металл (фольга).",
+  "information": [
+    {
+      "value": "Пять идей",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

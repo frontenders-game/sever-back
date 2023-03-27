@@ -1,0 +1,29 @@
+{
+  "name": "Антиперспирант Deonica Энергия витаминов роликовый 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 148.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "aqua, aluminum chlorohydrate| steareth-2, steareth-21, ppg-15 stearyl ether, bisabolol, talc, loparfum, tetrasodium edta, panthenol, tocopheryl acetate, glycery| linoleate, giyceryi linolenate, linalool,d-limonene, buliphanyl metyfpropiopal",
+  "information": [
+    {
+      "value": "Deonica",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

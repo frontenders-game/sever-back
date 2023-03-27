@@ -1,0 +1,61 @@
+{
+  "name": "Продукт Домашняя Буренка творогосодержащий СЗМЖ 5% 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 47.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "восстановленное молоко из сухого молока, растительные масла (жиры) (рафинированные дезодорированные растительные масла ,в т.ч. Соевое, эмульгатор моно и диглицериды жирных кислот, антиокислитель концентрат смеси токоферолов) ,творог ,молочно-белковая смесь \"Милкмикс\" (концентрат молочных белков, в т.ч. казеин),  закваска для творога",
+  "information": [
+    {
+      "value": "Домашняя Буренка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "77",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

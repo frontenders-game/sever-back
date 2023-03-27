@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Степ Mix Шоколадный  44г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 28.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Сахар, арахис дробленый, масло растительное, патока, мука пшеничная, какао тертое, эквивалент масла какао (масла растительные, эмульгатор Е22), сыворотка молочная сухая, заменитель масла какао (масла растительные, эмульгаторы (Е492, Е322), антиокислитель Е306), какао-порошок, молоко сухое обезжиренное, жир растительный (масла растительные, антиокислитель Е306), продукты яичные, эмульгатор (лецитин соевый, Е476, ядра миндаля дробленое, виноград сушёный, соль, ароматизаторы, краситель, сахарный колер простой, разрыхлитель, гидрокарбонат натрия, регулятор кислотности лимонная кислота.",
+  "information": [
+    {
+      "value": " Степ ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

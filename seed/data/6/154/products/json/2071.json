@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад КФ им. Крупской Особый темный с апельсином и грейпфрутом 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 81.89,
+  "promo": {
+    "discountedPriceRegular": "80.09",
+    "discountedPriceWithCard": "72.88",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 17,
+  "ingredients": "Какао-тертое, сахар, масло какао, молоко цельное сухое, сыворотка молочная сухая, грейпфрут сушеный, цукаты апельсиновые (апельсиновая цедра. сахар, глюкозно-фруктозный сироп, регулятор кислотности лимонная кислота), ароматизаторы, эмульгаторы (лецитин соевый, Е476), соль.",
+  "information": [
+    {
+      "value": "Фабрика им. Крупской",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "47",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

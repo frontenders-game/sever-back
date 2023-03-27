@@ -1,0 +1,53 @@
+{
+  "name": "Сардельки Вязанка Стародворские 470г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 289.99,
+  "priceWithCard": 266.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "свинина, мясо птицы кусковое, вода питьевая, мясо цыпленка-бройлера\nмеханической обвалки, говядина, белковый стабилизатор (шкурка свиная, вода\nпитьевая), молоко коровье сухое, продукты яичные, нитритная соль (соль, фиксатор окраски: нитрит натрия), соль, животный белок, натуральные пряности, антиокислители (лимонная кислота, аскорбиновая кислота), стабилизатор: полифосфаты, загустители (гуаровая камедь, ксантановая камедь, конжаковая камедь, каррагинан из водорослей euchema), краситель: кармины. возможность содержания в продуктах следующих аллергенов: горчица,\nглютен, сельдерей и продукты их переработки",
+  "information": [
+    {
+      "value": "Вязанка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "159",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

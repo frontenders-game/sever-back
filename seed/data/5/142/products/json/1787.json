@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Любимый из яблок осветленный сокосодержащий 1.93л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 164.89,
+  "promo": {
+    "discountedPriceRegular": "141.09",
+    "discountedPriceWithCard": "136.86",
+    "discountPercent": "17",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "яблочный сок, сахар (s) ** или сахар и глюкозно-фруктозный сироп (g) **, регулятор кислотности — лимонная кислота, вода. **- буква-код используемого ингредиента — смотреть рядом с датой изготовления",
+  "information": [
+    {
+      "value": "Любимый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "40",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

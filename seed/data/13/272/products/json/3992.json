@@ -1,0 +1,29 @@
+{
+  "name": "Презервативы Durex Invisible ультратонкие, 3шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 339.99,
+  "priceWithCard": 322.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Натуральный латекс, силиконовая смазка.",
+  "information": [
+    {
+      "value": "Durex",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Крем для ног Сто Рецептов Красоты смягчающий с тыквой и кукурузным маслом 80мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 86.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Aqua, Isopropyl Myristate, Glycerin, Glyceryl Stearate, PEG-12, Zea Mays (Corn) Oil (масло кукурузное), Cetearyl Alcohol, Dimethicone, Cyclopentasiloxane, Cucurbita Pepo Seed Oil (масло тыквенное), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butyrospermum Parkii (Shea Butter), Disodium EDTA, Ethylparaben, Farnesol, Lanolin, Methylparaben, Palmitic Acid, Parfum, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Potassium Cetyl Phosphate, Stearic Acid, Triethanolamine, Urea, Limonene, CI 14720, СI 19140.",
+  "information": [
+    {
+      "value": "Сто рецептов красоты",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

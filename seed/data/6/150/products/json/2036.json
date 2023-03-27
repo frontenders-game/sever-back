@@ -1,0 +1,61 @@
+{
+  "name": "Пирожное Mirel муравейник 420г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 274.99,
+  "priceWithCard": 269.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Мука пшеничная в/с, продукт молокосодержащий сгущенный с сахаром (молоко сухое цельное, молоко сухое обезжиренное, заменитель молочного жира, сыворотка молочная сухая, мальтодекстрин, сахар, загуститель (каррагинан), соль, ароматизатор), маргарин (растительные масла, вода, соль, эмульгаторы (моно- и диглицериды жирных кислот, лецитин), ароматизатор, регулятор кислотности (лимонная кислота), краситель (аннато, куркумин)), сахар, продукт яичный (меланж), молоко сгущенное с сахаром вареное (нормализованное молоко, сахар), шоколад, разрыхлитель (карбонат натрия).",
+  "information": [
+    {
+      "value": "Mirel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "418",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

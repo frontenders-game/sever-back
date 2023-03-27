@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный А. Ростагрокомплекс в молочном шоколаде с вареной сгущенкой 26% 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.48,
+  "priceWithCard": 63.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 34,
+  "ingredients": "творог, шоколад молочный (сахар, какао - масло, сухое цельное молоко, какао тертое, эмульгатор: лецитины (соевый лецитин), ароматизатор натуральный: ваниль), сахар, сливочное масло, молоко сгущенное с сахаром вареное (молоко нормализованное, сахар (сахароза))",
+  "information": [
+    {
+      "value": "А.Ростагрокомплекс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "35.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "411.3",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

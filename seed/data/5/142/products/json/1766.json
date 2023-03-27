@@ -1,0 +1,50 @@
+{
+  "name": "Напиток сокосодержащий Pulpy апельсин с мякотью 900мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 117.59,
+  "promo": {
+    "discountedPriceRegular": "100.79",
+    "discountedPriceWithCard": "98.78",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Яблочный сок, виноградный сок, апельсиновый сок, мандариновый сок, банановое пюре, сок из киви, ананасовый сок, сахар, мякоть апельсина, регулятор кислотности - лимонная кислота, краситель – антоцианы, натуральные ароматизаторы, стабилизатор-пектины, антиокислитель - аскорбиновая кислота, краситель - кармины, очищенная артезианская вода.",
+  "information": [
+    {
+      "value": "Pulpy",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса варёная Папа Может, 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 305.99,
+  "priceWithCard": 290.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Свинина, вода, филе грудок куриных, говядина, комплексные пищевые добавки (молочный белок, сахар, стабилизаторы: Е407, Е410, Е412, Е415, Е471; регуляторы кислотности: Е450(iii), E451(i), E262(I,ii), E331(iii); пряности (в т.ч.мускатный орех), ароматизаторы, усилитель вкуса и аромата Е621, антиокислители: Е316, лимонная кислота; агент желирующий Е508, агент антислеживающий Е551); соль, нитритно-посолочная смесь (соль, фиксатор окраски Е250), растительная клетчатка, краситель Е120.",
+  "information": [
+    {
+      "value": "Папа может",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "216",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

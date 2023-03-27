@@ -1,0 +1,61 @@
+{
+  "name": "Детское печенье Honey Kid Обогащённое кальцием 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Мука пшеничная, сахар, масло растительное, молоко сухое обезжиренное, солод ячменный, разрыхлители (гидрокарбонат аммония , гидрокарбонат натрия, натрия пирофосфат), карбонат кальция, соль, эмульгатор лецитин соевый, витаминно-минеральный премикс (железа (II) фумарат, никотиновая кислота, пиридоксин гидрохлорид, тиамина гидрохлорид, рибофлавин), ароматизатор ванилин.",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "80",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

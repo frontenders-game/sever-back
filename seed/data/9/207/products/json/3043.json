@@ -1,0 +1,58 @@
+{
+  "name": "Сыр Брест-Литовск Лёгкий брусок 35% 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 211.59,
+  "promo": {
+    "discountedPriceRegular": "177.09",
+    "discountedPriceWithCard": "162.92",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "изготовлен из молока коровьего нормализованного пастеризованного с использованием закваски на основе молочнокислых мезофильных и термофильных бактерий; соли поваренной пищевой выварочной (содержит пищевую добавку: вещество, препятствующее слеживанию и комкованию - ферроцианид калия); с использованием пищевых добавок: кальция хлористого, консерванта - нитрата натрия; ферментных препаратов животного происхождения - пепсина, химозина; красителя натурального -аннато (содержит пищевые добавки: краситель - экстракт аннато, регулятор кислотности - гидроксид калия)",
+  "information": [
+    {
+      "value": "Брест-Литовск",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "31.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "288.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

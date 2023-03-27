@@ -1,0 +1,45 @@
+{
+  "name": "Холодный чай Lipton Зеленый 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 99.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "Вода, сахар, фруктоза, экстракт зелёного чая, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), ароматизаторы, антиокислитель аскорбиновая кислота.",
+  "information": [
+    {
+      "value": "Lipton",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "30",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

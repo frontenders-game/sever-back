@@ -1,0 +1,66 @@
+{
+  "name": "Корм для котят Brit Premium цыпленок в соусе влажный 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 72.79,
+  "promo": {
+    "discountedPriceRegular": "59.99",
+    "discountedPriceWithCard": "54.59",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "мясо и мясные субпродукты 75 % (в том числе мясо цыплят 10 %), мука рисовая, мука пшеничная, рыбий жир, минерально-витаминный комплекс, загуститель. Пищевая ценность на 100 г (средние значения) : сырой протеин 9, 5 %, сырой жир 5 %, сырая зола 2, 5 %, сырая клетчатка 0, 4 %, влага 81 %. Питательные добавки на 1 кг: витамин d3 250 МЕ, витамин Е 100 мг, цинк 10 мг, марганец 2 мг, йод 0, 7 мг, медь 0, 2 мг, таурин 450 мг, биотин 0, 1 мг",
+  "information": [
+    {
+      "value": "Brit",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "82",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

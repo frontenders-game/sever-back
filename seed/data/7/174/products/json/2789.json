@@ -1,0 +1,34 @@
+{
+  "name": "Чай Akbar Цейлон черный в пакетиках 100х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 375.99,
+  "promo": {
+    "discountedPriceRegular": "219.99",
+    "discountedPriceWithCard": "206.79",
+    "discountPercent": "45",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "чай черный байховый цейлонский мелкий",
+  "information": [
+    {
+      "value": "AKBAR",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

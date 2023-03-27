@@ -1,0 +1,42 @@
+{
+  "name": "Напиток Positivity Апельсин газированный 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 137.19,
+  "promo": {
+    "discountedPriceRegular": "90.99",
+    "discountedPriceWithCard": "89.17",
+    "discountPercent": "35",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "вода питьевая подготовленная, сахар, регулятор кислотности лимонная кислота, ароматизатор «Апельсин» (содержит стабилизаторы: гуммиарабик, эфиры глицерина и смоляных кислот; красители: желтый «солнечный закат» FCF, тартразин; регулятор кислотности – лимонная кислота, антиокислители: токоферолы, концентрат смеси; аскорбилпальмитат), ароматизатор натуральный «Тип Апельсин» (содержит масло апельсиновое, соль), консервант бензоат натрия",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "47",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "11.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

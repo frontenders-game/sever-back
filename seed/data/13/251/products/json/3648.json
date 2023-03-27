@@ -1,0 +1,29 @@
+{
+  "name": "Средство Mr Muscle для всех типов поверхностей дезинфицирующее 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 329.99,
+  "priceWithCard": 310.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "молочная кислота (0,192%), вода, <5%: 2-гексилоксиэтанол, пропиленгликоль н-бутиловый эфир, а-ПАВ, пропиленгликоль, отдушка, красители",
+  "information": [
+    {
+      "value": "Mr. Muscle",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

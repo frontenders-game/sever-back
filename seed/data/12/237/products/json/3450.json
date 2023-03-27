@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса сыровяленая Мясницкий Ряд Верона полусухая в нарезке, 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 109.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Свинина, шпик, нитритная соль (поваренная соль, фиксатор окраски (нитрит натрия)), стабилизатор (Е450, Е452), натуральные пряности и их экстракты (мускатный орех, перец белый), усилитель вкуса и аромата (глутамат натрия), глюкоза, антиокислитель (аскорбат натрия, изоаскорбат натрия), гемоглобин, краситель кармин, стартовые культуры.",
+  "information": [
+    {
+      "value": "Мясницкий ряд",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "45",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "465",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

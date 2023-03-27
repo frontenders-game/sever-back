@@ -1,0 +1,61 @@
+{
+  "name": "Сосиски Новгородский бекон говяжьи 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 164.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "говядина, мясо птицы (куриное) механической обвалки, вода, животный белок, крахмал картофельный, пшеничная клетчатка, изолят соевого белка, экстракты специй (перец душистый, перец черный, имбирь, мускатный орех), стабилизатор — Е450, регуляторы кислотности (Е451, ацетаты натрия, цитраты натрия), усилители вкуса и аромата (глутамат натрия, Е635), ароматизатор, антиокислитель — аскорбиновая кислота, посолочно-нитритная смесь (соль, фиксатор окраски нитрит натрия), загустители (камедь тары, каррагинан, гуаровая камедь, конжаковая камедь), желирующий агент — Е508, декстроза, глюкоза, соль, лактоза, чеснок, краситель (кармины).\n\nВ составе присутствуют свиные шкурки",
+  "information": [
+    {
+      "value": "Новгородский бекон",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "187",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток сокосодержащий Агуша яблоко-виноград 300мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 46.49,
+  "priceWithCard": 45.1,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "яблочный сок, виноградный сок, вода. Объемная доля сока не менее 50%",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "30",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

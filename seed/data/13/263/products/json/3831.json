@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Lacalut aktiv 50 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 269.99,
+  "priceWithCard": 259.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "Agua, Hydrated Silica, Hydrogenated Starch Hydrolysate, Poloxamer 188, Sodium Lauryl Sulfate, Aroma, Hydroxyethycellulose, Aluminum Lactate, Sodium Myristyl Sulfate, Sodium Hydroxide, Menthol, Aluminum Fluoride, Sodium Saccharin, Sodium Cetyl Sulfate, Chlorhexidine Digluconate, Cl 77891. Содержание ионов фтора 1360 ppm. Содержит фтористый алюминий.",
+  "information": [
+    {
+      "value": "Lacalut",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

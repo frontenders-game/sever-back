@@ -1,0 +1,29 @@
+{
+  "name": "Лампа светодиодная Старт Eco LED GLS E27 10W",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 145.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Старт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

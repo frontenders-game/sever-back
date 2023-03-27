@@ -1,0 +1,29 @@
+{
+  "name": "Вода Bonaaqua негазированная 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 38.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "анионы, мг/л: гидрокарбонаты < 100, хлориды 30-140, сульфаты < 20, катионы: кальций: 15-45, магний: 5-40, натрий: 1-20, калий < 5",
+  "information": [
+    {
+      "value": "Bonaaqua",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

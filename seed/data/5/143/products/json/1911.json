@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Funky Monkey Кола Классик 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 98.69,
+  "promo": {
+    "discountedPriceRegular": "85.04",
+    "discountedPriceWithCard": "79.94",
+    "discountPercent": "19",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "вода очищенная, глюкозно-фруктозный сироп (Г*)   и сахар или сахар (С*), натуральный ароматизатор (натуральные вкусоароматические вещества, вкусоароматические препараты, в том числе экстракт ореха колы), краситель сахарный колер IV, регулятор кислотности лимонная кислота, консервант бензоат натрия, кофеин",
+  "information": [
+    {
+      "value": "Funky Monkey",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

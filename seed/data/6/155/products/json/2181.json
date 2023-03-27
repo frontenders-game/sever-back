@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Boombastic в молочном шоколаде с кокосом, карамелью и хрустящим рисом 35г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 38.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "кокосовая начинка (40%) ((кокос (41%), глюкозный сироп, сахар, увлажнитель глицерин, соль, эмульгатор соевый лецитин, сахар, сухое цельное молоко, сухая молочная сыворотка, увлажнитель (глицерин), соль, эмульгатор соевый лецитин), натуральный краситель карамель, ароматизатор (ванилин), хрустящий рис (7%) (пшеничная манная крупа, рисовая мука, сахар, какао - порошок, соль, разрыхлитель (бикарбонат натрия), эмульгатор соевый лецитин)",
+  "information": [
+    {
+      "value": "Boombastic",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "62.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500.1",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

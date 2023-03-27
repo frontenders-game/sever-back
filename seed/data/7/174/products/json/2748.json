@@ -1,0 +1,21 @@
+{
+  "name": "Чай черный байховый индийский 100х1.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 81.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "чай черный байховый индийский мелколистовой",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

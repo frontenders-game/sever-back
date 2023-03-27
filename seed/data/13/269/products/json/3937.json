@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки влажные Pupi для интимной гигиены 15шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 37.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Нетканый материал, пропитывающий раствор. Состав пропитывающего раствора: деминерализованная вода, глицерин, глицерет-2-кокоат, РEG-7 глицерил кокоат, кокамидопропил бетаин, цетримониум хлорид, ЭДТА (трилон Б), бензоизотиазолинон, метилизотиазолинон, йодопропинил бутилкарбамат, отдушка, лимонная кислота.",
+  "information": [
+    {
+      "value": "Pupi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

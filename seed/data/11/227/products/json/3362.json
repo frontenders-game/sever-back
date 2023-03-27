@@ -1,0 +1,50 @@
+{
+  "name": "Кусочки фруктовые ФрутоНяня Яблоко-персик с 12 мес. 56г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 152.99,
+  "priceWithCard": 146.87,
+  "promo": {
+    "discountedPriceRegular": "128.51",
+    "discountedPriceWithCard": "123.37",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Пюре из яблок концентрированное, сок из яблок концентрированный, пюре из персиков концентрированное, пектин, пищевые волокна.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "307",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

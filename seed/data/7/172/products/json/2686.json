@@ -1,0 +1,34 @@
+{
+  "name": "Кофе Egoiste Noir натуральный жареный в зернах 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 624.99,
+  "priceWithCard": 612.49,
+  "promo": {
+    "discountedPriceRegular": "449.99",
+    "discountedPriceWithCard": "440.99",
+    "discountPercent": "28",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "100% арабика",
+  "information": [
+    {
+      "value": "Egoist",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

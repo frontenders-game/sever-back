@@ -1,0 +1,29 @@
+{
+  "name": "Кофе в капсулах Jardin Vivo молотый 10x5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 278.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "кофе жареный молотый, упаковочный газ (азот)",
+  "information": [
+    {
+      "value": "Jardin",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

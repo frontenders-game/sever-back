@@ -1,0 +1,29 @@
+{
+  "name": "Салфетка Liberhaus из микрофибры 30х30см 1шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 67.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "бамбук, вискоза, полиэстер",
+  "information": [
+    {
+      "value": "Liberhaus",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

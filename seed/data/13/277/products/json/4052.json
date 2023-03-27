@@ -1,0 +1,34 @@
+{
+  "name": "Набор Пять Идей Классический пасхальный 1 шт. в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 38.99,
+  "priceWithCard": 35.48,
+  "promo": {
+    "discountedPriceRegular": "30.02",
+    "discountedPriceWithCard": "27.32",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "1) комплексные пищевые добавки - красители пищевые для яиц: краситель пищевой – 1 шт. 2) изделие хозяйственного обихода из полимерных материалов: одноразовые перчатки – 1 пара",
+  "information": [
+    {
+      "value": "Пять идей",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

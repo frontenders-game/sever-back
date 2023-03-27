@@ -1,0 +1,61 @@
+{
+  "name": "Биолакт Тема Клубника и банан с 8 мес. 3% 206г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 46.19,
+  "priceWithCard": 42.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "нормализованное молоко, наполнитель (вода, сахар, пюре клубники концентрированное, пюре банана, загуститель - пектины, натуральные ароматизаторы, лимонный сок концентрированный, сок черной моркови концентрированный), закваска из термофильных молочнокислых стрептококков (Streptococcus thermophilus) и молочнокислых ацидофильных палочек (Lactobacillus acidophilus)",
+  "information": [
+    {
+      "value": "Тёма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "75",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

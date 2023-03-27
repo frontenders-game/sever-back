@@ -1,0 +1,26 @@
+{
+  "name": "Стеклоочиститель 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 119.59,
+  "promo": {
+    "discountedPriceRegular": "100.09",
+    "discountedPriceWithCard": "92.08",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "полипропилен, силикон",
+  "information": [
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

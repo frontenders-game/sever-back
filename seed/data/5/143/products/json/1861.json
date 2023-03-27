@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Черноголовка Тархун 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 99.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Вода, сахар свекловичный, настой эстрагона, регулятор кислотности кислота лимонная, консервант бензоат натрия, красители: тартразин, синий блестящий; ароматизатор пищевой «Ванилин».nСодержит краситель Е102 тартразин, который может оказывать отрицательное влияние на активность и внимание детей.",
+  "information": [
+    {
+      "value": "Черноголовка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "40",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

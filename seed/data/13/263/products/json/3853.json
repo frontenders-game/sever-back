@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Parodontax без фтора 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 206.99,
+  "priceWithCard": 200.78,
+  "promo": {
+    "discountedPriceRegular": "180.08",
+    "discountedPriceWithCard": "174.68",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "sodium Bicarbonate, Aqua, Glycerin, Cocamidolpropyl betaine, Alcohol, Krameria Triandra extract, Echinacea purpurea Juice, Xanthan gum, Chamomilla recutita extract, Comiphora myrrha extract, sodium saccharin, Sodium benzoate, Salvia officinalis oil, Mentha piperita oil, Mentha arvensis oil, Limonene, CI 77491.",
+  "information": [
+    {
+      "value": "Parodontax",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Словакия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

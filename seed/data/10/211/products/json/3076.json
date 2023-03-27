@@ -1,0 +1,61 @@
+{
+  "name": "Корм влажный Felix Мясные ломтики с уткой в соусе для взрослых кошек 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 25.99,
+  "priceWithCard": 24.95,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 67,
+  "ingredients": "мясо и мясные ингредиенты (включая утку), экстракты растительного белка, аминокислоты, рыба и продукты ее переработки, сахара, загустители, минеральные вещества, масла и жиры, продукты переработки растительного сырья, витамины",
+  "information": [
+    {
+      "value": "Felix",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "84",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

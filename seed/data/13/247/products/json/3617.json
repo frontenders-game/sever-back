@@ -1,0 +1,29 @@
+{
+  "name": "Порошок стиральный Tide Color детский гипоаллергенный 2.4кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 439.99,
+  "priceWithCard": 413.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "5-15% анионные ПАВ, <5% неионогенные ПАВ, отбеливающие вещества на основе кислорода, фосфонаты, поликарбоксилаты, цеолиты; энзимы, оптические отбеливатели, ароматизирующие добавки.",
+  "information": [
+    {
+      "value": "Tide",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

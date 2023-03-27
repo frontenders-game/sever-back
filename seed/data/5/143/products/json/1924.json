@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Frustyle апельсин газированный 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 114.99,
+  "priceWithCard": 110.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "вода, сахар, регулятор кислотности лимонная кислота, ароматизаторы, красители (E150d, E160a, E160e),  консервант Е202, антиокислитель аскорбиновая кислота",
+  "information": [
+    {
+      "value": "Frustyle",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "52",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

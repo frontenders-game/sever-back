@@ -1,0 +1,29 @@
+{
+  "name": "Уголь Seasons древесный 2.5кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 219.99,
+  "priceWithCard": 213.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "уголь древесный",
+  "information": [
+    {
+      "value": "Seasons",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

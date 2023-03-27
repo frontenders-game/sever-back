@@ -1,0 +1,53 @@
+{
+  "name": "Сало Мясная ферма Белорусское",
+  "unitsOfMeasurement": "кг",
+  "step": "0.3",
+  "priceRegular": 649.99,
+  "priceWithCard": 623.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Шпик свиной, соль, пряности натуральные(перец черный молотый, чеснок сушеный, кориандр(зерно), тмин молотый, лавровый лист.",
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "47",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Колбаса сырокопчёная Мясная Ферма Сальчичон полусухая, 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 68.59,
+  "promo": {
+    "discountedPriceRegular": "60.19",
+    "discountedPriceWithCard": "58.99",
+    "discountPercent": "14",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Свинина, шпик, посолочная смесь (соль, фиксатор окраски (нитрит натрия)), декстроза, усилитель вкуса и аромата (глутамат натрия 1-замещенный), соль пищевая, ароматизаторы, антиокислитель (изоаскорбат натрия), стартовая культура.nИзготовлено на предприятии, использующем: молочные продукты, горчицу, яичные продукты, сельдерей.",
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "18",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "350",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

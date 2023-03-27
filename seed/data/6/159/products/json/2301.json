@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Рот Фронт Маска",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 799.99,
+  "priceWithCard": 751.99,
+  "promo": {
+    "discountedPriceRegular": "479.99",
+    "discountedPriceWithCard": "451.19",
+    "discountPercent": "40",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Сахар, шоколадная глазурь(сахар, какао тертое, эквивалент какао масла(растительные негидрогенезированны­е масла (пальмовое, ши, иллипе, подсолнечное)), какао порошок, эмульгаторы Е322, Е476, ароматизатор \"Ванильный\"), заменитель масла какао (частично гидрогенизированная фракция пальмового масла, эмульгаторы: Е492,соевый лецитин, антиокислители,токоферолы,концентрат смеси, лимонная кислота), арахис тертый, сухое цельное молоко, мука соевая дезодорированная, какао порошок, антиокислитель Е 300, ароматизатор, идентичный натуральному \"Ванильный\". Противопоказано при индивидуальной непереносимости белка молока и яичного белка. Возможно наличие незначительного количества ореха, фундука, ореха миндаля, кунжута, яичного порошка, муки пшеничной, крахмала картофельного, кокосовой стружки.",
+  "information": [
+    {
+      "value": "Рот Фронт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "530",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

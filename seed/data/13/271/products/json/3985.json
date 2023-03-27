@@ -1,0 +1,29 @@
+{
+  "name": "Гель для лица Garnier Skin Naturals Гиалуроновый увлажняющий с алоэ 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 439.99,
+  "priceWithCard": 422.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Aqua / water, glycerin, propanediol, alcohol denat., pentylene glycol, aloe barbadensis leaf juice powder, vitis vinifera, fruit water / grape fruit water, sodium hyaluronate, sodium hydroxide, caprylyl glycol, polyglyceryl-10, laurate acrylates/c10-30 alkyl acrylate, crosspolymer, salicylic acid, parfum / fragrance.",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

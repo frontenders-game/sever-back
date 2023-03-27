@@ -1,0 +1,29 @@
+{
+  "name": "Зубная нить Stardent мятная 50м",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 93.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Полиэстер, Микрокристаллический воск, масло мяты.",
+  "information": [
+    {
+      "value": "Stardent",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

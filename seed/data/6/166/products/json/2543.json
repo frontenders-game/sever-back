@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Спартак Халвичный Топ с начинкой 72г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 25.99,
+  "priceWithCard": 24.17,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "мука пшеничная высшего сорта, сахарная пудра, жир кондитерский, халва подсолнечная, масло кокосовое, соль поваренная пищевая йодированная, эмульгатор (лецитин), сода пищевая (натрий двууглекислый), ароматизатор «ванилин», крошка этих же вафель. Продукт может содержать следы арахиса, орехов, молочных и яичных продуктов, сульфитов",
+  "information": [
+    {
+      "value": "Спартак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Республика Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "540",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Блинчики Морозко С клубничным повидлом 210г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 78.49,
+  "priceWithCard": 76.92,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, повидло \"Клубника\"; (сахар, патока, вода питьевая, концентраты: яблочного сока, клубничного сока; загустители: пектин, крахмал кукурузный модифицированный; регуляторы кислотности: кислота лимонная, цитрат кальция; ароматизатор \"Клубника\";, красители: сахарный колер, кармин; консервант сорбат калия, консервант бензонат натрия), сахар, масло растительное, молоко сухое обезжиренное, соль, меланж пастеризованный (продукт яичный), комплексная пищевая добавка: порошок пекарский (разрыхлители: дигидропирофосфат натрия, гидрокарбонат натрия; крахмал кукурузный, агент антислеживающий карбонат кальция)",
+  "information": [
+    {
+      "value": "Морозко",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "260",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

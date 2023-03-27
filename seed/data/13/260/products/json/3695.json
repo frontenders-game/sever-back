@@ -1,0 +1,29 @@
+{
+  "name": "Губки для мытья посуды Econta Mini, 5 шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 21.99,
+  "priceWithCard": 20.89,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 28,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

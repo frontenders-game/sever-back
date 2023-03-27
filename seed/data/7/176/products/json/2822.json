@@ -1,0 +1,29 @@
+{
+  "name": "Напиток чайный Принцесса Ява Каркадэ 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 65.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "цветочный чай из лепестков суданской розы",
+  "information": [
+    {
+      "value": "Принцесса Ява",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Наполнитель 5 Котов для кошачьего туалета 3.4кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 197.99,
+  "priceWithCard": 192.05,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "природный кремниевый минерал",
+  "information": [
+    {
+      "value": "5 Котов",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

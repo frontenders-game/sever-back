@@ -1,0 +1,61 @@
+{
+  "name": "Колбаски Атяшево Охотские полукопченое 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 110.39,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 7,
+  "ingredients": "свинина, филе куриной грудки, фарш из мяса птицы, шкурка свиная, шпик, вода питьевая, крахмал картофельный, посолочно-нитритная смесь (соль, фиксатор окраски (нитрит натрия)),  специи (кориандр, тмин, имбирь, красный перец, паприка, сельдерей, мускат, кардамон, душистый перец), чеснок, стабилизатор (пирофосфаты), регулятор кислотности (ацетат натрия), ароматизаторы, краситель (кармины)",
+  "information": [
+    {
+      "value": "Атяшево",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "262",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

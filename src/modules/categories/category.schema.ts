@@ -1,6 +1,5 @@
 import { Static, Type } from "@sinclair/typebox"
-import { nameType, responseMessage, slugType, uuidParamsType,  uuidType } from "../shared/schemas";
-import { basicCategory } from "../shared/schemas"
+import { basicCategory, nameType, responseMessage, slugType, uuidParamsType, uuidType } from "../shared/schemas";
 import { responseSubcategorySchema } from "../subcategories/subcategory.schema";
 import { responseProductSchema } from "../products/product.schema";
 import { routeSchema } from "../../types";
@@ -8,7 +7,7 @@ import { routeSchema } from "../../types";
 
 export const categoryIdSchema = Type.Object(
     {
-        id:  uuidType
+        id: uuidType
     },
     {$id: "categoryIdSchema", additionalProperties: false}
 )
@@ -19,7 +18,7 @@ export const createCategorySchema = Type.Object(
     {
         ...basicCategory,
     },
-    {$id: "createCategorySchema",additionalProperties: false}
+    {$id: "createCategorySchema", additionalProperties: false}
 )
 
 export type CreateCategoryInput = Static<typeof createCategorySchema>
@@ -27,22 +26,21 @@ export type CreateCategoryInput = Static<typeof createCategorySchema>
 export const updateCategorySchema = Type.Intersect([createCategorySchema, categoryIdSchema])
 export type UpdateCategoryInput = Static<typeof updateCategorySchema>
 
-const responseFilter = Type.Optional(
+const responseFilter =
     Type.Object({
-    minimumPrice: Type.Integer({minimum: 0, default: 0}),
-    maximumPrice: Type.Integer({minimum: 0, default: 0}),
-    subcategories: Type.Array(Type.Object({
-        name: nameType,
-        id: uuidType,
-        productsCount: Type.Integer()
-    }))
-})
-)
+        minimumPrice: Type.Integer({minimum: 0, default: 0}),
+        maximumPrice: Type.Integer({minimum: 0, default: 0}),
+        subcategories: Type.Array(Type.Object({
+            name: nameType,
+            id: uuidType,
+            productsCount: Type.Integer()
+        }))
+    })
 
 export const responseCategorySchema = Type.Object(
     {
-        id:  uuidType,
-        filter: responseFilter,
+        id: uuidType,
+        filter: Type.Optional(responseFilter),
         ...basicCategory,
         slug: slugType,
         image: Type.String(),
@@ -60,7 +58,7 @@ export type ResponseCategory = Static<typeof responseCategorySchema>
 
 export const routeGetCategorySchema = routeSchema({
     tags: ['categories'],
-    params:  uuidParamsType,
+    params: uuidParamsType,
     response: {
         200: {
             message: responseMessage,
@@ -91,7 +89,7 @@ export const routeCreateCategorySchema = routeSchema({
 })
 export const routeUpdateCategorySchema = routeSchema({
     tags: ['categories'],
-    params:  uuidParamsType,
+    params: uuidParamsType,
     body: updateCategorySchema,
     response: {
         200: {
@@ -105,7 +103,7 @@ export const routeUpdateCategorySchema = routeSchema({
 })
 export const routeDeleteCategorySchema = routeSchema({
     tags: ['categories'],
-    params:  uuidParamsType,
+    params: uuidParamsType,
     response: {
         200: {
             message: responseMessage

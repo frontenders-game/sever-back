@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Яшкино с варёной сгущенкой, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 94.49,
+  "priceWithCard": 91.66,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Мука пшеничная общего назначения, сахар, жир кондитерский (растительные масла, в том числе соевое, антиокислитель: токоферолы, концентрат смеси), молоко сухое обезжиренное, какао - порошок, продукт расти-тельно-молокосодержащий сгущенный с сахаром «Сгу-щенка вареная» (сахар, вода, сухое обезжиренное молоко, сыворотка, заменитель молочного жира, загуститель: агар, консервант: сорбат калия, краситель: Е150d, ароматизаторы), крахмал кукурузный, соль, эмульгатор: лецитин соевый, разрыхлители: карбонаты натрия, карбонаты аммония; ароматизаторы: вареное сгущенное молоко, ваниль; регулятор кислотности: лимонная кислота; вода. Может содержать следы продуктов переработки яиц.",
+  "information": [
+    {
+      "value": "Яшкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "62",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

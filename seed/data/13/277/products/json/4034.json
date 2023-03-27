@@ -1,0 +1,34 @@
+{
+  "name": "Набор пасхальный Пять Идей Веселые трафареты",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 118.29,
+  "promo": {
+    "discountedPriceRegular": "100.09",
+    "discountedPriceWithCard": "91.08",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "трафарет для яиц - 3 шт., маркеры пищевые - 2 шт",
+  "information": [
+    {
+      "value": "Пять идей",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

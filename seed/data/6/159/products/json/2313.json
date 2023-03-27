@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Кремлина Чернослив шоколадный",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 599.99,
+  "priceWithCard": 575.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 6,
+  "ingredients": "слива сушеная (чернослив), глазурь кондитерская (сахар-песок, заменитель масла какао, какао порошок, эмульгатор – лецитин соевый, ароматизатор, идентичный натуральному «Ванилин»), фруктовый наполнитель (пюре сливовое, сахар, загуститель Е1422, консервант - сорбиновая кислота), сахар, патока крахмальная, ароматизатор «Слива»",
+  "information": [
+    {
+      "value": "Кремлина",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "390",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

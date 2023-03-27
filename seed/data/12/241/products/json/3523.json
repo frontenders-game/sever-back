@@ -1,0 +1,34 @@
+{
+  "name": "Холодец Мясная Ферма из свинины и говядины 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 189.99,
+  "promo": {
+    "discountedPriceRegular": "169.99",
+    "discountedPriceWithCard": "161.49",
+    "discountPercent": "15",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

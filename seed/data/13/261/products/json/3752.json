@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь Удивительная Серия Агафьи Крапивный 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "aqua, sodium coco-sulfate, cocamidopropyl betaine, lauryl glucoside sd vtzans leaf extract (экстракт крапивы), urtica urens leaf oil (масло крапивы), organic hypericum perforation\n(органический экстракт зверобоя), salvia officinalis leaf extract (экстракт листьев шалфея), alnus glutinosa (экстракт черной ольхи), saponaria officinalis root extract (экстракт мыльного корня), methylchloroisothiazolinone, node add, parfum",
+  "information": [
+    {
+      "value": "Удивительная серия Агафьи",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

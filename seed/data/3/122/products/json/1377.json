@@ -1,0 +1,29 @@
+{
+  "name": "Огурцы среднеплодные гладкие",
+  "unitsOfMeasurement": "кг",
+  "step": "0.5",
+  "priceRegular": 97.99,
+  "priceWithCard": 96.03,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 55,
+  "ingredients": "Огурец.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

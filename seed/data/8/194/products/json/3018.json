@@ -1,0 +1,53 @@
+{
+  "name": "Лапша Доширак Квисти со вкусом говядины, 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 26.99,
+  "priceWithCard": 24.83,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 72,
+  "ingredients": "Лапша: пшеничная мука в/с, пальмовое масло, модифицированный крахмал, соль, лук сушеный, сушеная ламинария (порошок), клейковина, эмульгатор-загуститель, краситель \"бета-каротин\", комплексная пищевая добавка \"Премикс\". Приправа из сушеных овощей: соевый текстурат, лук, водоросли сушеные (хлопья). Бульон-приправа: соль, усилитель вкуса (глутамат натрия), ароматизатор идентичный натуральному (говядина), порошок соевого соуса, глюкоза, перец красный, перец черный, чесночный порошок, паприка (порошок)",
+  "information": [
+    {
+      "value": "Доширак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Средство Grass Azelit чистящее 600мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 195.99,
+  "promo": {
+    "discountedPriceRegular": "159.99",
+    "discountedPriceWithCard": "156.79",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Grass",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

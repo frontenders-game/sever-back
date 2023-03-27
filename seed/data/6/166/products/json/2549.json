@@ -1,0 +1,61 @@
+{
+  "name": "Вафельный батончик Kinder Bueno White, 39г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 68.49,
+  "priceWithCard": 62.33,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "Белый шоколад (масло какао, сухое обезжиренное молоко, молочный жир, эмульгатор: лецитины, ароматизатор), сахар, растительный жир, пшеничная мука, сухое обезжиренное молоко, сухое цельное молоко, лесные орехи, сухая молочная сыворотка, пшеничный крахмал, обезжиренный какао порошок, растительное масло, молочный белок, эмульгатор: лецитины, разрыхлители: гидрокарбонат натрия и карбонат аммония, соль, ароматизатор. Содержит орехи, молоко, злаки, содержащие глютен, сою и продукты их переработки.",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "35.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "572",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

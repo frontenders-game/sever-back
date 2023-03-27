@@ -1,0 +1,61 @@
+{
+  "name": "Крекер Tuc Cheezzz с сыром 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 84.99,
+  "priceWithCard": 79.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "мука пшеничная, масла растительные, вода, сироп глюкозно-фруктозный, комплексная пищевая добавка \"Сыр\" (сухая молочная сыворотка, соль, усилители вкуса и аромата (Е 621, Е 631, Е 627), вкусоароматические вещества, сырный порошок, стабилизатор (Е340), регуляторы кислотности (кислота лимонная, фосфаты натрия)), разрыхлители (карбонат аммония, гидрокарбонат натрия), соль, продукт яичный, консервант (пиросульфит натрия)",
+  "information": [
+    {
+      "value": "Tuc",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "486",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

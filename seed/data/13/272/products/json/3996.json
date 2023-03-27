@@ -1,0 +1,29 @@
+{
+  "name": "Молочко EVO laboratoires Пантенол для тела 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 150.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Aqua, Sorbitol, Isopropyl Palmitate, Panthenol, Cetearyl Alcohol (and) Potassium Cetyl Phosphate, Glyceryl Stearate, Phenoxyethanol (and) Ethylhexylglycerin, Dimethicone, Paraffinum Liquidum, Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, PEG-7 Glyceryl Cocoate, Acrylates/Vinyl Isodecanoate Crosspolymer, Cetearyl Alcohol, Polysorbate 20, PEG-40 Hydrogenated Castor Oil, Tetradibutyl Pentaerithrityl Hydroxyhydrocinnamate, Tocopheryl Acetate, Carbomer, Sodium Hydroxide, Disodium EDTA, Citric Acid, PEG-7M, Parfum.",
+  "information": [
+    {
+      "value": "Evo Laboratoires",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

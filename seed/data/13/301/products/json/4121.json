@@ -1,0 +1,29 @@
+{
+  "name": "Подгузники-трусики Nishoomi 4L 9-14 кг 38шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 1199.0,
+  "priceWithCard": 1175.02,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "нетканый материал, бамбуковое волокно, суперабсорбент, пленка полиэтиленовая, спандекс, клей",
+  "information": [
+    {
+      "value": "Nishoomi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

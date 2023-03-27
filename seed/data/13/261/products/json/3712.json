@@ -1,0 +1,29 @@
+{
+  "name": "Бальзам-ополаскиватель Pantene Pro-V интенсивное восстановление 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 242.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "aqua, cetyl alcohol, stearamidopropyl dimethylamine, glycerin, stearyl alcohol, glutamic acid, bis-aminopropyl dimethicone, citric acid, parfum, benzyl alcohol, disodium edta, phenoxyethanol, panthenol, panthenyl ethyl ether, histidine, hexyl cinnamal, hydroxycitronellal, magnesium nitrate, sodium chloride, methylchloroisothiazolinone, ci 19140, magnesium chloride, methylisothiazolinone, ci 17200",
+  "information": [
+    {
+      "value": "Pantene",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Румыния",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Невский кондитер Петровский  форт нуга с карамелью и орехом 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "патока, сахар, ядра арахиса жареные, жир кондитерский (рафинированные дезодорированные фракционированные растительные масла (пальмовое и его фракции, подсолнечное) ), заменитель масла какао нетемперируемый лауринового типа (рафинированное дезодорированное гидрогенизированное фракционированное пальмоядровое масло), сыворотка сухая молочная, какао-порошок, молоко сухое обезжиренное, влагоудерживающий агент глицерин, солодовый экстракт, эмульгаторы (Е471, соевый лецитин), белок яичный сухой, ядра орехов фундука жареные дроблёные, соль, ароматизаторы: «сливки», «ванилин». Может содержать следы глютена, диоксида серы",
+  "information": [
+    {
+      "value": "Невский кондитер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "490",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

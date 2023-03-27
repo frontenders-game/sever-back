@@ -1,0 +1,45 @@
+{
+  "name": "Пюре Дары Кубани Витаминный салатик из яблок с 5 мес. 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 32.75,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "яблочное пюре, яблочный сок, вода питьевая. Продукт изготовлен из фруктового пюре и концентрированного сока",
+  "information": [
+    {
+      "value": "Дары Кубани",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "60",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

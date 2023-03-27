@@ -1,0 +1,53 @@
+{
+  "name": "Голень куриная охлажденная",
+  "unitsOfMeasurement": "кг",
+  "step": "0.9",
+  "priceRegular": 178.99,
+  "priceWithCard": 175.41,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "натуральный полуфабрикат из мяса цыплят-бройлеров",
+  "information": [
+    {
+      "value": "Тендер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "19",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "140",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

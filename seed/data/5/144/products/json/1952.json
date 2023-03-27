@@ -1,0 +1,45 @@
+{
+  "name": "Квас живой Царские Припасы Традиционный, 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 114.99,
+  "priceWithCard": 105.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Специально подготовленная вода,сахар,100% натуральный солодовый экстракт, дрожжи хлебопекарные.",
+  "information": [
+    {
+      "value": "Царские припасы",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "32",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

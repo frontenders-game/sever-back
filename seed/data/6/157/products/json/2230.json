@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Mamba Тропикс жевательные яблоко-киви, 26.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.19,
+  "priceWithCard": 33.66,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 69,
+  "ingredients": "Глюкозный сироп, сахар, пальмовый жир, агент влагоудерживающий сорбитовый сироп (E 420ii), стабилизатор крахмал ацетилированный (E1420), регулятор кислотности лимонная кислота (E330), ароматизаторы (яблоко-киви, ананас-кокос, манго-апельсин, персик-маракуйя),эмульгатор полиоксиэтилен (20) сорбитан моностеарат (E435), концентраты сока черной моркови, спирулины, экстракт куркумы, антиокислитель альфа-Токоферол (E307).",
+  "information": [
+    {
+      "value": "Mamba",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "85",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "388",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

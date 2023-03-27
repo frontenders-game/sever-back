@@ -1,0 +1,53 @@
+{
+  "name": "Мармелад MixBar Злючки Змеючки Кислый вкус жевательный 140г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Сахар, патока, желатин пищевой, регулятор кислотности молочная кислота, сок яблочный концентрированный, комплексная пищевая добавка (агент желирующий пектины, сахароза, стабилизатор Е452i), концентрированный сок чёрной моркови, регулятор кислотности лимонная кислота, красители: медные комплексы хлорофиллинов, каротины, кармины, ароматизаторы: «Клубника», «Апельсин», «Яблоко», «Чёрная смородина».Продукт может содержать диоксид серы.",
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "310",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

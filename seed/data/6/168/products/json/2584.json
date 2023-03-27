@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Dirol White Уголь-мята без сахара 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.99,
+  "priceWithCard": 35.71,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 43,
+  "ingredients": "подсластители (сорбит, изомальт, мальтит, мальтитный сироп, сукралоза), резиновая основа, ароматизаторы, загуститель (гуммиарабик), эмульгаторы (Е470а, лецитин), агент влагоудерживающий (глицерин), краситель (уголь растительный (0,26%)), глазирователь (воск карнаубский)",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "143",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

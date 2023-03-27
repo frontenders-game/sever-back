@@ -1,0 +1,61 @@
+{
+  "name": "Рулет из мяса птицы Мясная Ферма Филейный копчёно-варёный, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 109.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Филе грудок куриных, вода, комплексные пищевые добавки (стабилизаторы: E1442, Е407а, Е415; посолочно-нитритная смесь (соль, фиксатор окраски Е250), регуляторы кислотности: Е451(i), E262(i,ii), E331(iii); сахар, животный белок, усилитель вкуса и аромата Е621, ароматизаторы, антиокислитель Е301); крахмал картофельный, соль, пшеничная клетчатка, чеснок свежий.",
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "23.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "113",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Паста шоколадно-ореховая Cuisine Royale 330г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 232.49,
+  "promo": {
+    "discountedPriceRegular": "199.99",
+    "discountedPriceWithCard": "185.99",
+    "discountPercent": "20",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 22,
+  "ingredients": "Сахар, масло растительное, паста фундучная, какао-порошок, молоко сухое обезжиренное, эмульгатор (соевый лецитин), ароматизаторы.",
+  "information": [
+    {
+      "value": "Cuisine Royale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

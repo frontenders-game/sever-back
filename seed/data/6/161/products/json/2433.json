@@ -1,0 +1,61 @@
+{
+  "name": "Бисквитное пирожное Kinder Delice 39г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 71.99,
+  "priceWithCard": 70.55,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Сахар, растительные жиры, восстановленное сухое цельное молоко, яйца, пшеничная мука, глюкозный сироп с фруктозой, сухое обезжиренное молоко, обезжиренный какао-порошок, какао-порошок, сухая молочная сыворотка, ароматизаторы, эмульгаторы: моно- и диглицериды жирных кислот и лецитины, разрыхлители: карбонат аммония и гидрокарбонат натрия, концентрированный лимонный сок, концентрированная молочная сыворотка, соль. Содержит молоко, яйца, злаки, содержащие глютен, сою и продукты их переработки.",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Италия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "455",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

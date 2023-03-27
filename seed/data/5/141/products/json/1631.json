@@ -1,0 +1,29 @@
+{
+  "name": "Вода Рычал-су минеральная лечебно-столовая газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 76.99,
+  "priceWithCard": 74.68,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "гидрокарбонаты 2500-3000, сульфаты <25, хлориды 450-550, натрий + калий 1200-1450, кальций < 25, магний <25. Допускается естественный осадок минеральных солей",
+  "information": [
+    {
+      "value": "Рычал-су",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

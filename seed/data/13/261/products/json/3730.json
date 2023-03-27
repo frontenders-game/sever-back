@@ -1,0 +1,34 @@
+{
+  "name": "Маска для волос Schauma энергия природы клубника, банан и семена чиа 380мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 349.99,
+  "priceWithCard": 328.99,
+  "promo": {
+    "discountedPriceRegular": "272.99",
+    "discountedPriceWithCard": "256.61",
+    "discountPercent": "22",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 6,
+  "ingredients": "Schauma NM Strawberry Banana Chea Seeds Treatment 380 ml.",
+  "information": [
+    {
+      "value": "Schauma",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Творог Агуша Черника 3.9% с 6 мес. 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.99,
+  "priceWithCard": 33.66,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "творог (молоко нормализованное, закваска), фруктовый наполнитель «Черника» (сахар, вода, концентрированный черничный сок, концентрированный сок из черной моркови (в качестве красящего вещества), загуститель - пектины, концентрированный сок из красной свеклы (в качестве красящего вещества), ароматизатор натуральный «Черника», регулятор кислотности - цитрат натрия 3-замещенный)",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "106",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

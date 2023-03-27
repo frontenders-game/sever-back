@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Сладуница ТираМиссо",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 449.99,
+  "priceWithCard": 431.99,
+  "promo": {
+    "discountedPriceRegular": "301.49",
+    "discountedPriceWithCard": "289.43",
+    "discountPercent": "33",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Кондитерская масса (сахар, заменитель масла какао (растительные масла (частично гидрогенизированное соевое масло, частично гидрогенизированное пальмовое масло, эмульгаторы: Е492, лецитин подсолнечника)), какао-порошок, арахис тертый, эмульгаторы: лецитин соевый и Е476; ароматизатор «Сливочно-карамельный»), сахар, заменитель молочного жира (рафинированные дезодорированные растительные масла: пальмовое масло, частично гидрогенизированное пальмовое масло, соевое масло, антиокислитель: лимонная кислота, аскорбилпальмитат, токоферолы, концентрат смеси, лецитин подсолнечника), ядро ореха фундука дробленое, сухое цельное молоко, ядро ореха фундука цельное, ядро ореха фундука тертое, ядро ореха миндаля тертое, какао-порошок, эмульгатор лецитин соевый, ароматизатор «Пломбир».",
+  "information": [
+    {
+      "value": "Сладуница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "440",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

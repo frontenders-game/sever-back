@@ -1,0 +1,29 @@
+{
+  "name": "Крем-краска для волос Palette красное дерево R2 (3-68) 110мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 224.99,
+  "priceWithCard": 220.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "окрашивающий крем: aqua, cetearyl alcohol, ammonium hydroxide, glyceryl stearate, ceteareth-20, octyldodecanol, toluene-2,5-diamine sulfate, sodium laureth sulfate, ethanolamine, sodium cetearyl sulfate, sodium sulfite, parfum, oleic acid, resorcinol, silica, potassium stearate, 2-amino-3-hydroxypyridine, glycerin, 2-methylresorcinol, tetrasodium edta, carbomer, m-aminophenol, potassium hydroxide, serine, ascorbic acid, 4-amino-2-hydroxytoluene, linoleamidopropyl pg-dimonium chloride phosphate, propylene glycol, sodium sulfate;\nпроявляющая эмульсия: aqua, hydrogen peroxide, cetearyl alcohol, propylene glycol, ceteareth-20, steartrimonium chloride, paraffinum liquidum, etidronic acid, 2,6-dicarboxypyridine, disodium pyrophosphate, potassium hydroxide, isopropyl alcohol, sodium benzoate;\nмаска-уход: aqua, cetearyl alcohol, quaternium-87, hydrolyzed keratin, panthenol, prunus armeniaca kernel oil, niacinamide, stearamidopropyl dimethylamine, ceteareth-20, propylene glycol, isopropyl myristate, distearoylethyl hydroxyethylmonium methosulfate, citric acid, phenoxyethanol, parfum, glyceryl stearate, sodium methyl paraben, hexyl cinnamal, butylphenyl methylpropional, benzyl salicylate, linalool, benzyl alcohol, limonene",
+  "information": [
+    {
+      "value": "Palette",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

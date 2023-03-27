@@ -1,0 +1,61 @@
+{
+  "name": "Драже Tic-Tac Мята 16г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 63.49,
+  "priceWithCard": 60.95,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "сахар, мальтодекстрины, фруктоза, загуститель: Е414, рисовый крахмал, ароматизаторы и эфирное масло, вода, агент антислеживающий: Е470, глазирователь: Е903",
+  "information": [
+    {
+      "value": "Tic-Tac",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "97.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "397",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

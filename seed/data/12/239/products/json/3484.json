@@ -1,0 +1,53 @@
+{
+  "name": "Окорочок Коптильный Двор в/к",
+  "unitsOfMeasurement": "кг",
+  "step": "0.7",
+  "priceRegular": 429.99,
+  "priceWithCard": 421.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "окорочок цыпленка-бройлера, посолочная смесь (соль, фиксатор окраски E250), соевый белок, животный белок, экстракты (перец черный, чеснок), регуляторы кислотности (пирофосфаты, трифосфаты, ацетаты натрия), декстроза, желирующий агент - каррагинан, наполнитель лактат натрия, усилитель вкуса и аромата E621, антиокислитель - изоакорбат натрия. На производстве используются: горчица, злаки, содержащие глютен, сельдерей, кунжут, яйца, молоко и продукты их переработки",
+  "information": [
+    {
+      "value": "Коптильный двор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "17",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "200",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

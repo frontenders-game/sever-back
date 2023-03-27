@@ -1,0 +1,61 @@
+{
+  "name": "Хлебцы Хлебцы Молодцы Лайт вафельные с экстрактом виноградных косточек, 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.49,
+  "priceWithCard": 41.32,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 41,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая очищенная, масло высокоолеиновое подсолнечное, соль поваренная пищевая, эмульгатор натуральный растительный (соевый) лецитин, пищевая добавка антислеживающий агент (карбонат магния), разрыхлитель гидрокарбонат натрия (сода пищевая), экстракт виноградных косточек, премикс витаминно-минеральный Ровифарин 4 D.",
+  "information": [
+    {
+      "value": "Хлебцы молодцы",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "345",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

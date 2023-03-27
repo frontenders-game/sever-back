@@ -1,0 +1,29 @@
+{
+  "name": "Набор текстовыделителей Colorio Kinderline 3шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 101.89,
+  "priceWithCard": 94.76,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "полипропилен",
+  "information": [
+    {
+      "value": "Colorio Kinderline",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

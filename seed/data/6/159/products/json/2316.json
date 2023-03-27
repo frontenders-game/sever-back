@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Bora-Bora кокос с комбинированными конфетными массами глазированные, кг",
+  "unitsOfMeasurement": "кг",
+  "step": "0.3",
+  "priceRegular": 599.99,
+  "priceWithCard": 557.99,
+  "promo": {
+    "discountedPriceRegular": "449.99",
+    "discountedPriceWithCard": "418.49",
+    "discountPercent": "25",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Сахар, жиры растительные, кокосовая стружка, патока, сыворотка молочная сухая деминерализованная, крахмал кукурузный, влагоудерживающие агенты: сорбитовый сироп, пищевые волокна; какао-порошок, эмульгаторы: лецитин соевый, Е492; ароматизаторы, соль, желирующий агент каррагинан, комплексная пищевая добавка (антиокислители смесь токоферолов, аскорбиновая кислота). В составе содержатся продукты переработки молока, сои, яиц, кокосовая стружка. Возможно содержание следов орехов и арахиса.",
+  "information": [
+    {
+      "value": "Bora Bora",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "490",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

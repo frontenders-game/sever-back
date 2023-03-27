@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Smartbar Protein 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.99,
+  "priceWithCard": 60.05,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Сироп глюкозно-фруктозный, концентрат сывороточный белковый, глазурь кондитерская (сахар, заменитель какао-масла лауринового типа, какао-порошок, эмульгаторы: лецитин, полиглицерин, ароматизатор \"Ванилин\"), банан вяленый кусочки, масло кокосовое, казеинат натрия пищевой, инулин, мука рисовая, стабилизатор - гидролизованный коллаген, загуститель - глицерин, эмульгатор - лецитин соевый, ароматизатор \"Банан\", подсластитель - сорбит.",
+  "information": [
+    {
+      "value": "Smartbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "31",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "49",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "407",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

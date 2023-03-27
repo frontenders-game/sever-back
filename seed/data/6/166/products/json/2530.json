@@ -1,0 +1,66 @@
+{
+  "name": "Вафли Яшкино Вафельный сэндвич 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 84.99,
+  "priceWithCard": 78.19,
+  "promo": {
+    "discountedPriceRegular": "65.44",
+    "discountedPriceWithCard": "60.21",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Сахар, заменитель масла какао нетемперируемый лауринового типа (рафинированное дезодорированное гидрогенизированное фракционированное пальмоядровое масло, эмульгаторы: сорбитан тристеарат, соевый лецитин), мука пшеничная хлебопекарная в/с (содержит глютен), какао-порошок, сыворотка молочная сухая, эмульгатор: соевый лецитин, крахмал кукурузный, продукты яичные сухие: меланж, соль, жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (пальмовое и его фракции, подсолнечное), антиокислитель: концентрат смеси токоферолов), разрыхлители: гидрокарбонат натрия, карбонаты аммония (карбонат аммония, гидрокарбонат аммония), ароматизатор: ванилин, вода питьевая. Может содержать следы арахиса, орехов.",
+  "information": [
+    {
+      "value": "Яшкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "500",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

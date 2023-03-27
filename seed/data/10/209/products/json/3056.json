@@ -1,0 +1,58 @@
+{
+  "name": "Корм влажный Sheba Курица со сладким перцем для взрослых кошек 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.49,
+  "priceWithCard": 32.08,
+  "promo": {
+    "discountedPriceRegular": "30.01",
+    "discountedPriceWithCard": "27.91",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 94,
+  "ingredients": "мясо и субпродукты (в том числе курица), пшеничная мука, загустители, аминокислоты (в том числе таурин), минеральные вещества,пивные дрожжи, овощи (в том числе паприка), витамины, сахара",
+  "information": [
+    {
+      "value": "Sheba",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

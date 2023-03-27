@@ -4,42 +4,43 @@ import { slugifyString } from "../../utils/misc";
 
 export async function getCategoryService(categoryId: string) {
     return prisma.category.findUnique({
-        where: {
-            id: categoryId,
-        },
-        include: {
-            subcategories: true,
-            //     {
-            //     select: {
-            //         id: true,
-            //         name: true,
-            //         slug: true,
-            //         description: true,
-            //         productsCount: true
-            //     }
-            // },
-            products: true
-                // {
-            //     where: {
-            //         stockCount: {
-            //             gt: 0,
-            //         },
-            //         categoryId: categoryId
-            //     },
-            //     include: {
-            //         promo: true,
-            //         images: true
-            //     },
-                // select: {
-                //     promo: {},
-                //     name: true,
-                //     priceRegular: true,
-                //     priceWithCard: true,
-                //     averageRating: true,
+            where: {
+                id: categoryId,
+            },
+            include: {
+                subcategories: true,
+                //     {
+                //     select: {
+                //         id: true,
+                //         name: true,
+                //         slug: true,
+                //         description: true,
+                //         productsCount: true
+                //     }
+                // },
+                products: {
+                    // where: {
+                    //     stockCount: {
+                    //         gt: 0,
+                    //     }
+                    // },
+                    include: {
+                        images: true,
+                        promo: {
+                            select: {
+                                id: true,
+                                discountedPriceRegular: true,
+                                discountedPriceWithCard: true,
+                                discountPercent: true,
+                                isActive: true,
+                            }
+                        }
+                    }
+                }
                 // }
             }
-        // }
-    })
+        }
+    )
 }
 
 

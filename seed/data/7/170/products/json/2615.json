@@ -1,0 +1,34 @@
+{
+  "name": "Кофе растворимый Migel Gold натуральный сублимированный 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 244.99,
+  "promo": {
+    "discountedPriceRegular": "219.99",
+    "discountedPriceWithCard": "215.59",
+    "discountPercent": "12",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Migel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

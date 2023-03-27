@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад молочный Ritter Sport Цельный лесной орех, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 119.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "Сахар, орех лещины, масло какао, какао тертое, сухое цельное молоко, лактоза, сухое обезжиренное молоко, молочный жир, эмульгатор (соевый лецитин), натуральный ароматизатор (экстракт бурбонской ванили). Может содержать следы арахиса, других орехов, глютена и яиц.",
+  "information": [
+    {
+      "value": "Ritter Sport",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "39",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "46",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "576",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

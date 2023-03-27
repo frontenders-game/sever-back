@@ -1,0 +1,34 @@
+{
+  "name": "Набор Пять Идей пасхальный 1 шт. в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 124.79,
+  "promo": {
+    "discountedPriceRegular": "100.09",
+    "discountedPriceWithCard": "96.09",
+    "discountPercent": "23",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "пищевые красители для яиц сухие в таблетках - 4 шт. (бирюзовый, розовый, фиолетовый, синий), декоративные украшения – 1 лист, фигурки декоративные – 1 лист, подставки для яиц – 1 лист, клейкая лента двусторонняя ~ 3*3 см., изделие хозяйственного обихода: одноразовые перчатки – 1 пара",
+  "information": [
+    {
+      "value": "Пять идей",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

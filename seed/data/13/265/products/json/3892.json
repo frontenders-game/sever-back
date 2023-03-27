@@ -1,0 +1,29 @@
+{
+  "name": "Антиперспирант Nivea Clear Невидимая защита для чёрного и белого, 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 218.99,
+  "priceWithCard": 205.85,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Palmitamidopropyltrimonium Chloride, Octyldodecanol, Propylene Glycol, Disteardimonium Hectorite, Propylene Carbonate, Dimethiconol, Linalool, Citronellol, Butylphenyl Methylpropional, Limonene, Alpha-Isomethyl Ionone, Benzyl Alcohol, Geraniol, Parfum.",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

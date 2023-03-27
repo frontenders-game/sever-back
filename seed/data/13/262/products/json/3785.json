@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Seni Normal урологические, 10шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 139.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Целлюлоза, суперабсорбент, нетканые материалы, паропроницаемый ламинат, силиконизированная бумага, эластановая пряжа, краситель, клей.",
+  "information": [
+    {
+      "value": "Seni",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

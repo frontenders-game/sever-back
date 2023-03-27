@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Победа вкуса Мишки в лесу молочный с начинкой и вафельной крошкой 30г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "cахар, сыворотка молочная сухая, тертое какао, жир растительный, масло какао, сухое обезжиренное молоко, вафельная крошка, крисп рис (мука рисовая, сахар, мука ячменного солода, соль, эмульгатор (лецитин соевый), жир растительный), какао- порошок, молочный жир, эмульгатор (лецитин соевый), ароматизаторы (ванилин, тоффи). Может содержать следы арахиса, орехов",
+  "information": [
+    {
+      "value": "Победа Вкуса",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

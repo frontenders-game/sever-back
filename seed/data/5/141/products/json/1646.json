@@ -1,0 +1,29 @@
+{
+  "name": "Вода Семь ручьев Окуловская минеральная негазированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 46.19,
+  "priceWithCard": 43.42,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "общая минерализация - 0,5-0,8 г/л; основной состав, мг/л:  гидрокарбонаты - 350-550, натрий+калий - 80-250. Содержит фторид.",
+  "information": [
+    {
+      "value": "Семь Ручьев",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Брянконфи Майская ночь сахарное 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 95.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "мука пшеничная; сахар;жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде,  антиокислитель концентрат смеси токоферолов); вода питьевая; какао-порошок; инвертный сироп (сахар, регуляторы кислотности: гидрокарбонат натрия (сода пищевая), лимонная кислота); сгущенное с сахаром цельное молоко (молоко нормализованное, сахар, лактоза); меланж яичный жидкий; разрыхлители: карбонат аммония, гидрокарбонат натрия (сода пищевая); соль; ароматизатор «Ваниль»",
+  "information": [
+    {
+      "value": "Брянконфи",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

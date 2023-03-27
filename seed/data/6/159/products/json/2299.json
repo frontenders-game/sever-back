@@ -1,0 +1,61 @@
+{
+  "name": "Мини-торт Пекарь Балтийский вафельный",
+  "unitsOfMeasurement": "кг",
+  "step": "0.1",
+  "priceRegular": 549.99,
+  "priceWithCard": 522.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Сахар, мука пшеничная, жир специального назначения (пальмовое масло, масло ши, соевый лецитин, заменитель масла какао, какао-порошок, молоко сухое цельное, яичный меланж (сухой), кофе натуральный, эмульгатор, комплексная пищевая добавка (эмульгаторы - Е471, сорбитол (Е475), (Е477), этиловый спирт), разрыхлитель - сода пищевая, ароматизаторы Кофе, Ванильный, фермент для выпечки.",
+  "information": [
+    {
+      "value": "Славянка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "528",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

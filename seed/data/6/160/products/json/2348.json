@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Шарлиз овсяное классическое с кусочками шоколада 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 109.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Мука пшеничная высшего сорта, сахар, мука овсяная, темный шоколад (какао тертое, сахар, декстроза, эмульгатор: лецитин), вода питьевая, масло сливочное, масло подсолнечное рафинированное дезодорированное, изюм, разрыхлитель – гидрокарбонат натрия (сода пищевая), соль пищевая, корица молотая, экстракт ванили натуральный.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "455",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

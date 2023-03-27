@@ -1,0 +1,34 @@
+{
+  "name": "Крем Невская косметика Пантенол универсальный 40мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 97.99,
+  "promo": {
+    "discountedPriceRegular": "84.99",
+    "discountedPriceWithCard": "83.29",
+    "discountPercent": "15",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "aqua, panthenol , hydrogenated polyisobutene, butyrospermum parkii oil, glyceryl stearate , cetearyl alcohol, glyceryl stearate citrate , stearyl heptanoate, stearyl caprylate , carbomer, triethanolamine, bht, phenoxyethanol, ethylhexylglycerin",
+  "information": [
+    {
+      "value": "Невская Косметика",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

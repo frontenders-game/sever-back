@@ -1,0 +1,29 @@
+{
+  "name": "Вода Арктик природная питьевая негазированная 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 45.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "вода природная питьевая негазированная",
+  "information": [
+    {
+      "value": "Арктик",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

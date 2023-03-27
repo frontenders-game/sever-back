@@ -1,0 +1,29 @@
+{
+  "name": "Дезодорант Axe Anarсhy мужской спрей 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 379.99,
+  "priceWithCard": 372.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Isobutane, Alcohol Denat, Propane, Butane, Parfum, Alpha-Isomethyl lonone, Benzil Benzoate, Butylpheenyl Methylpropional, Citran, Coumarin, Limonene, Linalool.",
+  "information": [
+    {
+      "value": "Axe",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

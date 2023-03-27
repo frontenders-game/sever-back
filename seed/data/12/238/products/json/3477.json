@@ -1,0 +1,61 @@
+{
+  "name": "Сосиски Коптильный двор Сочные вареные 750г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 170.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "СВИНИНА, ФИЛЕ КУРИНОЙ ГРУДКИ, вода питьевая, фарш из мяса птицы, говядина, животный белок, молоко сухое обезжиренное, крахмал картофельный, посолочно-нитритная смесь (соль, фиксатор окраски (нитрит натрия)), пряности и экстракты пряностей (перец черный), антиокислитель (изоаскорбат натрия), регулятор кислотности (пирофосфаты). На территории предприятия используются: горчица, соя, сельдерей, яйца, злаки, содержащие глютен и продукты их переработки.",
+  "information": [
+    {
+      "value": "Коптильный двор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "200",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

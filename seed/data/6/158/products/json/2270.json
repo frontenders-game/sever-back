@@ -1,0 +1,50 @@
+{
+  "name": "Леденцы HALLS Colors ассорти 25г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 41.84,
+  "promo": {
+    "discountedPriceRegular": "40.04",
+    "discountedPriceWithCard": "37.24",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Сахар, патока мальтозная, регуляторы кислотности (Е330, Е296, Е332(ii)), ароматизаторы, ментол, красители (концентрат сока черной моркови, Е160а, Е133), эвкалиптовое масло.",
+  "information": [
+    {
+      "value": "Halls",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "95.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

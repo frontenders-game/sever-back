@@ -1,0 +1,58 @@
+{
+  "name": "Корм влажный Perfect Fit Говядина в соусе для стерилизованных кошек 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.29,
+  "promo": {
+    "discountedPriceRegular": "25.19",
+    "discountedPriceWithCard": "22.92",
+    "discountPercent": "16",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 118,
+  "ingredients": "мясо и субпродукты минимум 34% (в том числе говядина), злаки, минеральные вещества, витамины, метионин, таурин, L-карнитин, натуральный краситель бета-каротин",
+  "information": [
+    {
+      "value": "Perfect Fit",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "75",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

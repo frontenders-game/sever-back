@@ -1,0 +1,61 @@
+{
+  "name": "Котлеты Четверг рыбные из трески замороженные 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 177.99,
+  "priceWithCard": 161.97,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "фарш трески, сухари панировочные (мука пшеничная хлебопекарная, вода питьевая, дрожжи хлебопекарные, соль поваренная пищевая), лук репчатый, вода питьевая, масло подсолнечное, масло сливочное, крупа манная, яйцо куриное, крахмал картофельный, сахар, соль, перец черный молотый",
+  "information": [
+    {
+      "value": "Четверг Рыбный день",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "16",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "180",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

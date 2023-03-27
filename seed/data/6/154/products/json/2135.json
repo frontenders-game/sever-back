@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Бабаевский темный с фундуком 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 135.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "какао тёртое, сахар, ядро ореха фундука половинки, масло какао, какао-порошок, жир молочный, эмульгаторы: лецитин соевый, Е476; спирт этиловый ректификованный, чай, ароматизатор «Ваниль». Массовая доля общего сухого остатка какао – не менее 40%. Содержание какао-продуктов – 54.5%. Возможно наличие незначительного количества арахиса, орехов: миндаля, кешью, кедрового, грецкого: продуктов переработки  молока, изюма, фруктовых кусочков, дробленых вафель, кокосовой стружки",
+  "information": [
+    {
+      "value": "Бабаевский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "37",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "42",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

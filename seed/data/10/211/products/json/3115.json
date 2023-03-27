@@ -1,0 +1,61 @@
+{
+  "name": "Корм влажный Felix Sensations Курица с морковью в желе для взрослых кошек 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 25.99,
+  "priceWithCard": 23.91,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 101,
+  "ingredients": "мясо и мясные ингредиенты (включая курицу), экстракты растительного белка, аминокислоты, рыба и продукты ее переработки, загустители, овощи (включая морковь), минеральные вещества, сахара, витамины",
+  "information": [
+    {
+      "value": "Felix",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.05",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "75",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

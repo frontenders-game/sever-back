@@ -1,0 +1,61 @@
+{
+  "name": "Батончик-мюсли Bombbar Клубника, 45г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "Миндаль, клубника, изомальтоолигосахарид, арахис, рисовые шарики (рисовая мука, кукурузная крупа, соль), хлопья овсяные (содержат глютен), вода, кокосовое масло, агенты влагоудерживающие (глицерин, сорбит), соль, ароматизаторы натуральные, регулятор кислотности - лимонная кислота, эмульгатор (соевый лецитин), антиокислитель (аскорбиновая кислота), натуральный подсластитель - стевиозид.",
+  "information": [
+    {
+      "value": "BombBar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "28.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "376",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Сухой шампунь Shamtu для всех типов волос 150мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 324.99,
+  "priceWithCard": 305.49,
+  "promo": {
+    "discountedPriceRegular": "282.74",
+    "discountedPriceWithCard": "265.78",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Butane - Propane - Alcohol denat. (7,6%) - Oryza Sativa Starch - Isobutane - Pentane - Parfum - Linalool - Aqua - Hexyl Cinnamal - Citronellol - Limonene - Cetrimonium Chloride - Benzyl Salicylate - Butylphenyl Methylpropional - Geraniol - Phenoxyethanol.",
+  "information": [
+    {
+      "value": "Shamtu",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Венгрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

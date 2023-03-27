@@ -1,0 +1,29 @@
+{
+  "name": "Наклейки Арт Дизайн мотивирующие в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 92.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "самоклеящаяся бумага",
+  "information": [
+    {
+      "value": "Арт Дизайн",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток энергетический Drive Me Bubble Blast 449мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 46.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "вода, сахар, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), мальтодекстрин, ароматизаторы, таурин, кофеин, консерванты (сорбат калия, бензоат натрия), подсластитель сукралоза, стабилизаторы (гуммиарабик, эфиры глицерина и смоляных кислот), инозит, витамины (ниацин (B3), B6, B12), антиокислитель аскорбиновая кислота, краситель красный очаровательный АС",
+  "information": [
+    {
+      "value": "Drive Me",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

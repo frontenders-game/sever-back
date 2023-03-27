@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Черноголовка Байкал 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 99.74,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 13,
+  "ingredients": "вода, сахар свекловичный, экстракты: элеутерококка, чёрного чая; краситель сахарный колер IV, натуральные вкусоароматические вещества, регулятор кислотности кислота лимонная, масла: кардамона, эвкалипта, лимона; консервант бензоат натрия",
+  "information": [
+    {
+      "value": "Черноголовка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "40",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

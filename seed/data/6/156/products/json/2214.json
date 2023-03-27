@@ -1,0 +1,61 @@
+{
+  "name": "Яйцо шоколадное Kids Box Десерт с подарком в ассортименте 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 81.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "паста (сахар, жир кондитерский (растительное масло), сыворотка молочная сухая, какао-порошок, молоко цельное сухое, пребиотик инулин, эмульгаторы (соевый лецитин, Е471, Е476), ароматизаторы («Ванилин», «Взбитые сливки», «Горький шоколад»)), печенье (мука пшеничная, растительное масло, сахар, глюкоза, соль, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия), ароматизатор («Молочный»), консервант (пиросульфит натрия))",
+  "information": [
+    {
+      "value": "Kids Box",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "519",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

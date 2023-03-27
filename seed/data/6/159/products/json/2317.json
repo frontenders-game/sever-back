@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Невский кондитер Цитрон глазированные с помадной начинкой",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 259.99,
+  "priceWithCard": 244.39,
+  "promo": {
+    "discountedPriceRegular": "231.39",
+    "discountedPriceWithCard": "217.51",
+    "discountPercent": "11",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "сахар, кондитерская глазурь (сахарная пудра, заменитель масла какао (рафинированное дезодорированное растительное масло), какао порошок, эмульгатор лецитин соевый, ароматизатор \"Ванильный\"), патока, регулятор кислотности кислота лимонная, ароматизатор \"Лимонное масло\", краситель натуральный куркумин",
+  "information": [
+    {
+      "value": "Невский кондитер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "80",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Жироудалитель Liberhaus 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 161.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Вода, более 5%, но не менее 15% щелочные добавки, менее 5%: органический растворитель, НПАВ, мыло, комплексообразователь, стабилизатор.",
+  "information": [
+    {
+      "value": "Liberhaus",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Нектар Любимый томат 1.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 137.19,
+  "promo": {
+    "discountedPriceRegular": "102.19",
+    "discountedPriceWithCard": "100.15",
+    "discountPercent": "27",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "томатный сок, сахар (S)** или сахар и глюкозно-фруктозный сироп (G) **, соль морская, регулятор кислотности – лимонная кислота, вода. **- буква-код используемого ингредиента – см. на верхней панели упаковки",
+  "information": [
+    {
+      "value": "Любимый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "20",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

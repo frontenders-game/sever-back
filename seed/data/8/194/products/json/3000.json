@@ -1,0 +1,61 @@
+{
+  "name": "Пюре Анаком картофельное со вкусом курицы, 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 22.74,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 27,
+  "ingredients": "Хлопья картофельные (картофель 99%, эмульгатор Е471, стабилизатор Е450, антиокислители (Е223, Е304), краситель картотин, регулятор кислотности Е330), гренки пшеничные (хлеб пшеничный, мука пшеничная, соль, дрожжи хлебопекарные, масло пальмовое), продукт комплексный жировой (масло пальмовое, сыворотка молочная, антиокислитель Е320), соль, лук жареный (лук репчатый, масло растительное, мука пшеничная, соль), ароматизатор, усилители вкуса и аромата, Е621, Е627, Е631).",
+  "information": [
+    {
+      "value": "Анаком",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "64",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "330",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

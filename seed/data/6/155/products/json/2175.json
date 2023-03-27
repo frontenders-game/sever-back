@@ -1,0 +1,61 @@
+{
+  "name": "Шоколадный батончик Twix 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 43.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 75,
+  "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, сухое цельное молоко, лактоза, сухая молочная сыворотка, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)); глюкозный сироп (кукурузный, пшеничный), сахар, пшеничная мука, жир специального назначения (пальмовое масло), масло пальмовое рафинированное дезодорированное, сухое обезжиренное молоко, какао порошок, соль, разрыхлитель (гидрокарбонат натрия), ароматизатор (ванилин). Содержит глютен. Может содержать незначительное количество яичного белка, арахиса",
+  "information": [
+    {
+      "value": "Twix",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "495",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

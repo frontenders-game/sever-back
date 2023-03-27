@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Fresh Bar Double Funny газированный 0.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 47.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "подготовленная вода, сахар, регуляторы кислотности кислота лимонная и цитрат натрия, концентрированный яблочный сок, ароматизаторы, консервант бензоат натрия, краситель синий блестящий FCF",
+  "information": [
+    {
+      "value": "Fresh Bar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "41",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Напиток кисломолочный Имунеле for Kids Клубничное мороженое 1.5% 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.29,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 21,
+  "ingredients": "Молоко нормализованное, наполнитель «Клубничное мороженое» (сахар, вода, глюкозно-фруктозный сироп (G***), концентрированный яблочный сок, ароматизаторы натуральные («Пломбир», «Клубника»), загуститель - пектины, концентрированный клубничный сок, краситель натуральный - кармины, регуляторы кислотности - лимонная кислота, цитрат натрия 3-замещенный), витаминный премикс, закваска, пробиотические культуры (Lactobacillus CaseiLactobacillus Rhamnosus). ***- при использовании глюкозно-фруктозного сиропа в маркировке указывается буква G.",
+  "information": [
+    {
+      "value": "Имунеле",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "72",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

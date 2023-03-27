@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Добрый манго-маракуйя газированный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 63.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Состав: очищенная вода, сахар, регулятор кислотности лимонная кислота, витамин С (аскорбиновая кислота), стабилизаторы (гуммиарабик, эфиры глицерина и смоляных кислот), антиокислитель альфа-токоферол, подсластитель сахаринат натрия, натуральные ароматизаторы, краситель каротины, консервант сорбат калия.",
+  "information": [
+    {
+      "value": "Добрый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "32",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Набор суповой Курятинка из мяса цыпленка бройлера",
+  "unitsOfMeasurement": "кг",
+  "step": "0.7",
+  "priceRegular": 89.99,
+  "priceWithCard": 88.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": " мясо цыплят бройлеров",
+  "information": [
+    {
+      "value": "Курятинка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "156",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

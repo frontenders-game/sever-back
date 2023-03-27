@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Рот Фронт батончики",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 699.99,
+  "priceWithCard": 671.99,
+  "promo": {
+    "discountedPriceRegular": "405.99",
+    "discountedPriceWithCard": "389.75",
+    "discountPercent": "42",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Сахар, арахис тертый, заменитель масла какао, вафли дробленые (мука пшеничная, масло подсолнечное, яичный порошок, эмульгатор е322, соль повареная, разрыхлитель - сода пищевая, регулятор кислотности-кислота лимонная), мука соевая дезодорированная, сухое цельное молоко, какао-порошок, антиокислитель е300, ароматизатор, идентичный натуральному \"ванильный\".",
+  "information": [
+    {
+      "value": "Рот Фронт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "514",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

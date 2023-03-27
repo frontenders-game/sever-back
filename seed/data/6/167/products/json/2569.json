@@ -1,0 +1,66 @@
+{
+  "name": "Халва Шарлиз подсолнечная глазированная",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 310.49,
+  "priceWithCard": 298.07,
+  "promo": {
+    "discountedPriceRegular": "270.13",
+    "discountedPriceWithCard": "259.32",
+    "discountPercent": "13",
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Ядро подсолнечника протёртое, патока, кондитерская глазурь (сахар, заменитель масла какао (фракция пальмоядрового масла, эмульгаторы: Е492, лецитин соевый) какао-порошок, эмульгаторы: лецитин соевый, Е 492, Е476, ароматизатор «Ванилин»), сахар, вода питьевая, пенообразователь: солодкового корня экстракт, ароматизатор Ванилин. Возможно наличие незначительного количества арахиса, кунжута, мака, сушёных фруктов, молочных продуктов.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "36",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "47",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

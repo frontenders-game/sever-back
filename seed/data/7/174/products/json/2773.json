@@ -1,0 +1,29 @@
+{
+  "name": "Чай Принцесса Нури Высокогорный черный в пакетиках 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.34,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "чай черный байховый",
+  "information": [
+    {
+      "value": "Принцесса Нури",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

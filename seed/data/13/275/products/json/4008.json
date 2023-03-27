@@ -1,0 +1,29 @@
+{
+  "name": "Туалетная бумага Tolli эконом 1 слой",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 81,
+  "ingredients": "100% целлюлоза.",
+  "information": [
+    {
+      "value": "Tolli",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

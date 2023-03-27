@@ -1,0 +1,53 @@
+{
+  "name": "Тушка Роскар куриная потрошеная замороженная 2 сорт",
+  "unitsOfMeasurement": "кг",
+  "step": "1.32",
+  "priceRegular": 144.99,
+  "priceWithCard": 131.94,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "тушка куриная 2 сорт",
+  "information": [
+    {
+      "value": "Роскар",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "19",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "175",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

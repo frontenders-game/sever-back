@@ -1,0 +1,53 @@
+{
+  "name": "Соус Astoria Сырный 42% 233г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 84.99,
+  "priceWithCard": 83.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "Вода, масло подсолнечное, уксус, загуститель - крахмал кукурузный модифицированный, сахар, яичный желток, соль, сыр, эмульгирующая соль - фосфат натрия, ароматизаторы, консерванты (сорбиновая кислота, Е385), краситель - каротин.",
+  "information": [
+    {
+      "value": "Astoria",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "42",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

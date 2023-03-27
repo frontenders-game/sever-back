@@ -1,0 +1,29 @@
+{
+  "name": "Кофе Coffesso Decaffeinato жареный молотый в капсулах 10х5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 281.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "100% арабика",
+  "information": [
+    {
+      "value": "Coffesso",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

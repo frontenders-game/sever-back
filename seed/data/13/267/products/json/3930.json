@@ -1,0 +1,29 @@
+{
+  "name": "Гель для бритья Nivea Men для чувствительной кожи, 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 479.99,
+  "priceWithCard": 441.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Aqua, TEA-Palmitate, Oleth-20, Isopentane, Glycerin, Isopropyl Palmitate, Chamomilla Recutita Flower Extract, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tocopheryl Acetate, Caprylic/Capric Triglyceride, Hydroxyethylcellulose, Hydroxypropyl Methylcellulose, Laureth-2, PEG-90 Glyceryl Isostearate, Polyisobutene, Isobutane, Piroctone Olamine, BHT, Linalool, Parfum.",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

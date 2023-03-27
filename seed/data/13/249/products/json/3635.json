@@ -1,0 +1,34 @@
+{
+  "name": "Пятновыводитель для тканей Vanish Oxi Action 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 499.99,
+  "priceWithCard": 479.99,
+  "promo": {
+    "discountedPriceRegular": "349.99",
+    "discountedPriceWithCard": "335.99",
+    "discountPercent": "30",
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "5% или более, но менее 15% кислородосодержащий отбеливатель, неионогенные ПАВ; менее 5% : анионные ПАВ, фосфонаты; ароматизатор, гексилкоричный альдегид, d-лимонен.",
+  "information": [
+    {
+      "value": "Vanish",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Mentos Pure White Клубника, 15.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.19,
+  "priceWithCard": 33.16,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Подсластители (E967, E420, E421, E965, E951, E950, E955), основа резиновая, агент влагоудерживающий (E422), регуляторы кислотности (E296, E330), мальтодекстрин, крахмал (рисовый, кукурузный), пищевая добавка (E451i ), ароматизаторы, растительное масло, экстракт белого чая, эмульгаторы (E473, E322), загустители (E466, E415), краситель (E120), глазирователь (E903), антиокислитель (E321), содержат соевый лецитин, содержит источник фенилаланина, содержит подсластители.",
+  "information": [
+    {
+      "value": "Mentos",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "170",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

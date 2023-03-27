@@ -1,0 +1,61 @@
+{
+  "name": "Мюсли Ого Запеченные с орехом 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 153.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "хлопья овсяные, хлопья пшеничные, рапсовое масло, сахар, изюм, арахис половинки, ядра семян подсолнечника, кокосовая стружка, мука пшеничная, патока, рис экструдированный (крупа рисовая, соль), ядра ореха миндаля дробленые, ядра ореха фундука дробленые, соль",
+  "information": [
+    {
+      "value": "Ого",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

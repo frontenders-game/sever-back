@@ -1,0 +1,21 @@
+{
+  "name": "Пакет Rose ButterFly с пластиковыми ручками в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 42.99,
+  "priceWithCard": 40.41,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Полиэтилен, пластик.",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

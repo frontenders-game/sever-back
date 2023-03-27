@@ -1,0 +1,29 @@
+{
+  "name": "Презервативы In Time №12 Classic, 12шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 369.99,
+  "priceWithCard": 336.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Латекс.",
+  "information": [
+    {
+      "value": "In Time",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Корея",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

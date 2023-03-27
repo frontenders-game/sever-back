@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Nishoomi влажные детские 72шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 156.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 16,
+  "ingredients": "cостав пропитывающего лосьона: деминерализованная вода, смесь натуральных триглицеридов, глицерин, лаурил глюкозид, полиглицерил-2 диполигидроксистеарат, глицерил олеат, дикаприлил карбонат, цитрат натрия, лимонная кислота, феноксиэтанол, бензойная кислота, дегидроацетовая кислота, динатриевая соль ЭДТА, бисаболол, отдушка",
+  "information": [
+    {
+      "value": "Nishoomi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}
