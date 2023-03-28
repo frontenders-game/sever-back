@@ -1,0 +1,29 @@
+{
+  "name": "Гель для душа Palmolive Men Спорт 3в1 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 614.99,
+  "priceWithCard": 584.24,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Aqua, sodium laureth sulfate, cocamidopropyl betaine, glycerin, parfum, sodium chloride, cocamide mea, sodium salicylate, sodium benzoate, polyquaternium-7, citric acid, tetrasodium edta, bulnesia sarmientoi wood oil, citrus aurantium amara peel extract, citrus aurantium dulcis peel extract, citrus aurantium dulcis peel oil, citrus paradisi peel oil, benzyl salicylate, butylphenyl methylpropional, limonene, linalool, ci 42090.",
+  "information": [
+    {
+      "value": "Palmolive",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Какао-напиток Ухтышки растворимый с витаминами 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 126.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "сахар, какао-порошок, мальтодекстрин, минеральная добавка - трикальций фосфат, эмульгатор - лецитин соевый, соль поваренная пищевая, ванилин, прмикс витаминный (витамин с, мальтодекстрин, ниацин, пантотеновая кислота, фолиевая кислота, витамин в1, витамин в6, биотин, витамин в12), корица",
+  "information": [
+    {
+      "value": "Ухтышки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "85",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

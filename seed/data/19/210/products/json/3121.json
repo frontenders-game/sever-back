@@ -1,0 +1,53 @@
+{
+  "name": "Корм сухой Kitekat Курочка аппетитная для кошек 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 98.99,
+  "priceWithCard": 94.04,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "злаки и продукты их переработки, муки животного происхождения (в том числе из курицы), гидролизат куриного белка,  животные жиры и растительные масла (в том числе подсолнечное масло, свекловичный жом, соль, минеральные вещества, витамины, аминокислоты (в том числе таурин), красители, антиоксиданты, морковь сушеная",
+  "information": [
+    {
+      "value": "Kitekat",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "26",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

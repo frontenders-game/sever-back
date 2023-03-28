@@ -1,0 +1,34 @@
+{
+  "name": "Набор Miryoku Face care 3 set скраб для лица 50мл + маска 50мл + крем 50мл в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 371.99,
+  "promo": {
+    "discountedPriceRegular": 192.0,
+    "discountedPriceWithCard": 178.56,
+    "discountPercent": 52,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "скраб для лица: aqua, panthenol, butyrospermum parkii butter, glycerin, cetearyl alcohol, glyceryl stearate, silica, macadamia ternifolia seed oil, prunus persica (peach) kernel oil, stearic acid, myristyl lactate, rubus idaeus extract (экстракт плодов малины), vaccinium myrtillis extract (экстракт черники обыкновенной), vaccinium oxycoccos (экстракт клюквы обыкновенной), extract rubus fruticosus (экстракт плодов ежевики), extract fragaria vesca (экстракт плодов земляники лесной), ascorbic acid (vitamin c), sodium stearoyl glutamate, sodium benzoate, potassium sorbate, parfum, linalool, d-limonene, sodium hydroxide, cl 42090, cl 19140, citric acid;\nмаска для лица: aqua, kaolin, cetearyl alcohol, glyceryl stearate, ceteareth-20, ceteareth-12, cetyl palmitate, butyrospermum parkii (shea butter) oil, olea europaea (olive) fruit oil, snail secretion filtrate, actinidia chinensis (kiwi) fruit extract, citrus aurantifolia (lime) extract, benzyl alcohol, ethylhexylglycerin, tocopherol, tapioca starch, panthenol, parfum, cl 19140, сl 42090;\nкрем для лица: aqua, glyceryl stearate, ceteareth-20, ceteareth-12, cetearyl alcohol, cetyl palmitate, butyrospermum parkii butter, isopropyl isostearate, caprylic/capric triglyceride, octyldodecanol, triheptanoin, c13-16 isoparaffin, hydroxyethylurea, sodium polyacrylate, betaine, sodium pca, sorbitol, serine, glycine, glutamic acid, alanine, lysine, arginine, threonine, proline, snail secretion filtrate, glycerin, trehalose, urea, serine, pentylene glycol, glyceryl polyacrylate, algin, caprylyl glycol, sodium hyaluronate, pullulan, disodium phosphate, potassium phosphate, vitamin b3, allantoin, aloe barbadensis leaf juice, parfum, hexy cinnamal, ethylhexylglycerin, phenoxyethanol, 2-na edta, citric acid",
+  "information": [
+    {
+      "value": "Miryoku",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

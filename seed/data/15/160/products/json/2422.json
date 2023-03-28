@@ -1,0 +1,66 @@
+{
+  "name": "Пирожное Медвежонок Барни бисквитное с шоколадной начинкой 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 148.79,
+  "promo": {
+    "discountedPriceRegular": 80.0,
+    "discountedPriceWithCard": 74.39,
+    "discountPercent": 50,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "мука пшеничная, сироп глюкозно-фруктозный, сахар, яичный продукт, масло растительное, вода, темная шоколадная масса (какао тертое, сахар, масло какао, эмульгатор (лецитин соевый)), агент влагоудерживающий (глицерин), крахмал пшеничный, сыворотка сухая молочная, молоко сухое обезжиренное, молоко сухое цельное, регулятор кислотности (гидрокарбонат калия), разрыхлитель (дигидропирофосфат натрия), эмульгаторы (эфиры глицерина и молочной и жирных кислот, эфиры полиглицерина и жирный кислот, лецитин соевый), карбонат кальция, соль, какао-порошок, ароматизатор натуральный",
+  "information": [
+    {
+      "value": "Барни",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "390",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

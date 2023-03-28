@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты КФ Крупской Ласточкина почта 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 64.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "сахар, патока, молоко цельное сгущенное с сахаром (сахара: сахароза, лактоза, молоко цельное), заменитель масла какао (масла растительные, эмульгаторы (Е492, лецитин соевый), антиокислитель Е306), какао-порошок, сыворотка молочная сухая, жир растительный (масла растительные, эмульгатор Е322, антиокислители (Е320, Е321)), жир растительный (масла растительные, антиокислитель Е306), эмульгаторы (лецитин соевый, Е476), ароматизаторы, пюре яблочное (яблоки, консервант диоксид серы). Может содержать следы яичного белка, муки пшеничной",
+  "information": [
+    {
+      "value": "Фабрика им. Крупской",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "78.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "406",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

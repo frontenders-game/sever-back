@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Зерница Традиционное, 120г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 27.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "Мука пшеничная высшего сорта (глютен), сахар, жир кондитерский (растительные масла, антиокислитель - концентрат смеси токоферолов), вода, яичные продукты, соль, разрыхлители (гидрокарбонат натрия, карбонат аммония), эмульгатор лецитины, молоко сухое цельное, ароматизатор, регулятор кислотности лимонная кислота.",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "52",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "350",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

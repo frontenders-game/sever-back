@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Зерница с ароматом лесного ореха 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 59.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 39,
+  "ingredients": "вода питьевая, сахар, жир кондитерский (рафинированное дезодорированное растительное масло в натуральном и модифицированном виде (пальмовое),эмульгатор лецитин соевый (Е322), антиокислитель концентрат смеси токоферолов), мука пшеничная общего назначения, какао-порошок, масло подсолнечное рафинированное дезодорированное, соль пищевая, эмульгатор лецитин соевый (Е322), разрыхлитель гидрокарбонат натрия, ароматизаторы (ванилин, лесной орех).",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "35",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

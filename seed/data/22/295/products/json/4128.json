@@ -1,0 +1,29 @@
+{
+  "name": "Колготки Conte Elegant City 40 den nero размер 2 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 191.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "полиамид 88%, эластан 12%",
+  "information": [
+    {
+      "value": "Conte",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

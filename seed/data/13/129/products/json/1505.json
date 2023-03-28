@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир Станция Молочная в вафельном стаканчике 12% 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 37.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Цельное молоко, сливочное масло, сахар, вафельный стаканчик (мука пшеничная хлебопекарная, масло подсолнечное, яичный порошок, эмульгатор лецитин соевый, разрыхлитель гидрокарбонат натрия, соль), сухое обезжиренное молоко, сухая молочная сыворотка, комплексная пищевая добавка (эмульгаторы (моно- и диглицериды жирных кислот), стабилизаторы (камедь рожкового дерева, гуаровая камедь, каррагинан)).",
+  "information": [
+    {
+      "value": "Станция Молочная ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "23",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "210",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

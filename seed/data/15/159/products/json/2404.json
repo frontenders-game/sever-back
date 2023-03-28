@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Юбилейное молочное с глазурью 232г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 114.99,
+  "priceWithCard": 106.94,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "мука пшеничная, сахар, масла растительные, жир растительный, вода, сыворотка сухая молочная, сироп глюкозно-фруктозный, какао-порошок, молоко сухое обезжиренное, разрыхлитель (гидрокарбонат натрия), ароматизаторы, соль, эмульгаторы (лецитин соевый, Е476, лецитин подсолнечный), продукт яичный, витаминно-минеральный комплекс (витамин В1, витамин В2, витамин В6, фолиевая кислота, ниацин, железо)",
+  "information": [
+    {
+      "value": "Юбилейное",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "477",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Корм сухой Whiskas с говядиной и вкусными подушечками для стерилизованных кошек 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 145.59,
+  "promo": {
+    "discountedPriceRegular": 131.19,
+    "discountedPriceWithCard": 119.38,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "злаки и продукты их переработки, растительные белковые экстракты, мука животного происхождения (в том числе из говядины), животные жиры и растительные масла (в том числе подсолнечное масло), гидролизат из продуктов животного происхождения, минеральные вещества, витамины, свекловичный жом, пивные дрожжи, красители, аминокислоты (в том числе таурин). морковь сушеная, антиоксиданты",
+  "information": [
+    {
+      "value": "Whiskas",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "29",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

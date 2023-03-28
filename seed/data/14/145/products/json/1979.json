@@ -1,0 +1,53 @@
+{
+  "name": "Энергетический напиток Adrenaline Rush 449мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 93.49,
+  "priceWithCard": 86.95,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 89,
+  "ingredients": "вода, сахар, регулятор кислотности (лимонная кислота, цитрат натрия 3-замещенный, орто-фосфат калия 1-замещенный), таурин, L-карнитин, ароматизаторы, антиокислитель аскорбиновая кислота, стабилизаторы (гуммиарабик, эфиры глицерина и смоляных кислот), кофеин, инозит, экстракт семян гуараны, витамины (В₆, В₁₂), экстракт корня женьшеня, краситель каротины. Натуральный кофеин (в т.ч. в гуаране), не более 30 мг в 100 мл напитка.  Не рекомендуется употребление более 0,5 л напитка в сутки; не рекомендуется употребление детьми в возрасте до 18 лет, при беременности и кормлении грудью, а также лицами, страдающими повышенной нервной возбудимостью, бессонницей, артериальной гипертензией",
+  "information": [
+    {
+      "value": "Adrenaline Rush",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "54",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

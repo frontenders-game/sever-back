@@ -1,0 +1,61 @@
+{
+  "name": "Творог Савушкин Нежный мягкий 5% 125г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.19,
+  "priceWithCard": 42.42,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "Изготовлен из творога обезжиренного (молоко обезжиренное пастеризованное с использованием закваски, пищевых добавок: ферментных препаратов животного происхождения - пепсина, химозина), сливок пастеризованных. Количество молочнокислых микроорганизмов в конце срока годности, в 1 г продукта, КОЕ, не менее 106.",
+  "information": [
+    {
+      "value": "Савушкин продукт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "1.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "85.4",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

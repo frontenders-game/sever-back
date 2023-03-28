@@ -1,0 +1,61 @@
+{
+  "name": "Кефир Простоквашино коктейль с Клубникой обезжиренный 900г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 100.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 13,
+  "ingredients": "состав (буквенный код компонента состава см. на крышке): (Р) нормализованное молоко или (Y) обезжиренное молоко, наполнитель (сахар, клубника, вода, крахмал кукурузный, лимонный сок концентрированный, ароматизатор натуральный, загуститель – пектины, краситель – кармины), закваска молочнокислых культур, молочных дрожжей, пробиотических культур (бифидобактерий).              \nМожет содержать следы глютена",
+  "information": [
+    {
+      "value": "Простоквашино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "51",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

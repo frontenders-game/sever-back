@@ -1,0 +1,61 @@
+{
+  "name": "Биотворог ФрутоНяня малина с 6 мес. 4.2% 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.99,
+  "priceWithCard": 31.34,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Молоко нормализованное, фруктовый наполнитель Малина (сахар, вода, пюре малиновое концентрированное, загустители: крахмал кукурузный, пектин, сок черной моркови концентрированный, натуральный ароматизатор Малина , сок лимонный концентрированный), закваска молочнокислых культур, пробиотическая культура – бифидобактерии (BB-12™), витамин D₃.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "113",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

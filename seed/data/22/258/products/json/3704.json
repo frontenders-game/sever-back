@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь Чистая Линия Крапива для всех типов волос укрепляющий 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 191.99,
+  "promo": {
+    "discountedPriceRegular": 155.99,
+    "discountedPriceWithCard": 149.75,
+    "discountPercent": 22,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Sodium Chloride, Achillea Millefolium Extract, Chamomilla Recutita (Matricaria) Flower Extract, Chelidonium Majus Extract, Hydrolyzed Wheat Protein, Hypericum Perforatum Flower/Leaf/Stem Extract, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Urtica Dioica (Nettle) Leaf Extract (Экстракт крапивы), Urtica Dioica (Nettle) Leaf Powder, Citric Acid, Cocamidopropyl Betaine, Disodium EDTA, Glycerin, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Polyquaternium-10, Sodium Benzoate, Benzyl salicylate, Butylphenyl Methylpropional, Hexyl Cinnamal, Limonene, Linalool, CI 14720, CI 19140, CI 42090.",
+  "information": [
+    {
+      "value": "Чистая Линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Средство чистящее Comet Океан для унитаза 700мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 178.99,
+  "priceWithCard": 168.25,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 16,
+  "ingredients": "<5% анионные ПАВ, дезинфицирующие вещества (муравьиная и серная кислоты), ароматизирующие добавки.",
+  "information": [
+    {
+      "value": "Comet",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

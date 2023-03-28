@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Хватай-Ка Овсяное классическое, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 77.99,
+  "priceWithCard": 72.53,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Мука пшеничная, сахар-песок, мука овсяная, маргарин (растительные рафинированные, дезодорированные масла и модифицированные масла; вода, эмульгаторы (моно - и диглицериды жирных кислот, соевые лецитин; соль поваренная, консервант: сорбат калия; регулятор кислотности: лимонная кислота; краситель, бета-каротин; ароматизатор); полуфабрикат яблочный (пюре яблочное, сахар-песок, загуститель: пектин, регулятор кислотности: лимонная кислота); патока, темный ячменный солодый экстракт, соль поваренная, разрыхлитель: гидрокарбонат настрия (сода пищевая); краситель: сахарный колер; корица, ароматизатор, регулятор кислотности: лимонная кислота.",
+  "information": [
+    {
+      "value": "Хватай-ка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "71",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

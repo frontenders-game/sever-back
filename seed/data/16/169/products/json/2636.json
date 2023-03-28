@@ -1,0 +1,29 @@
+{
+  "name": "Кофе растворимый Venetto сублимированный 190г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 389.99,
+  "priceWithCard": 366.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Venetto",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

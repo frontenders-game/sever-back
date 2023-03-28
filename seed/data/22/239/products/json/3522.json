@@ -1,0 +1,29 @@
+{
+  "name": "Порошок стиральный Peros Автомат для цветного белья 3кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 349.99,
+  "priceWithCard": 318.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "5-15% анионные ПАВ, менее 5%: неионогенные ПАВ, поликарбоксилат, фосфонат, энзимы, отдушка",
+  "information": [
+    {
+      "value": "Peros",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

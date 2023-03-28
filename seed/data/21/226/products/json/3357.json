@@ -1,0 +1,29 @@
+{
+  "name": "Филе куриное охлажденное",
+  "unitsOfMeasurement": "кг",
+  "step": "0.95",
+  "priceRegular": 245.99,
+  "priceWithCard": 223.85,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Куриное филе",
+  "information": [
+    {
+      "value": "Тендер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

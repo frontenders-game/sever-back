@@ -1,0 +1,45 @@
+{
+  "name": "Сок Малышам Яблоко осветленный 0.125л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 18.49,
+  "priceWithCard": 17.75,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Сок из яблок. Изготовлен из концентрированного сока.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "44.8",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

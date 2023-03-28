@@ -1,0 +1,29 @@
+{
+  "name": "Чай черный Assand Цейлонский 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 92.99,
+  "priceWithCard": 88.34,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 15,
+  "ingredients": "чай черный байховый цейлонский высший сорт",
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

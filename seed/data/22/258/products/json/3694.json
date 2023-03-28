@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь Bodyart 2в1 мужской 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "water (aqua), sodium laureth sulfate, sodium chloride, cocamidopropyl betaine, cocamide dea, peg-7 glyceryl cocoate, hydrolyzed keratin (кератин), arginine (аргинин), hydrolyzed wheat protein (протеин), eucalyptus globulus leaf extract (экстракт эвкалипта), vitamin e extract (витамин е), panthenol (витамин в5), ethylpanthenol, nicotinamid, ascorbic acid (витамин с), sodium ascorbate, sodium salicylate, glycolic acid, lactic acid, sodium hyaluronate, hydroxypropylguar, benzalkonium chloride, parfum (fragrance), propylene glycol, сitric acid, disodium edta, magnesium chloride, magnesium nitrate, methylchloroisothiazolinone, methylisothiazolinone, ci 42090, ci 19140",
+  "information": [
+    {
+      "value": "Bodyart",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

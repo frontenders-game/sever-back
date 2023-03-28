@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Kotex Ultra soft нормал 10шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Целлюлоза, суперабсорбент, полимерные и нетканные материалы.",
+  "information": [
+    {
+      "value": "Kotex",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

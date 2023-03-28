@@ -1,0 +1,34 @@
+{
+  "name": "Краска для волос Garnier Color Naturals горячий шоколад 5.25",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 211.59,
+  "promo": {
+    "discountedPriceRegular": 200.09,
+    "discountedPriceWithCard": 184.08,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Aqua/water, cetearly alcohol, behentrimonium chloride, peg-180, cetyl esters, niacinamide, ribes nigrum oil/ black currant seed oil, saccharum officinarum extract/ sugar cane extract, hydroxyethylcellulose, olea europaea oil/ olive fruit oil, trideceth-, chlorhexidine dihydrochloride, camellia sinensis leaf extracr, benzyl alcohol, linalool, amodimethicone, isopropyl alcohol, pyrus malus extract/apple fruit extract, pyridoxine hcl, persea gratissima oil/avocado oil, methylparaben, butyrospermum parkii butter/shea butter, citric acid, cetrimonium chloride, butylphenyl methylpropional, citrus medica limonum peel extract/ lemon peel extract, parfum/ fragrance. (F.I.L C161805/2).",
+  "information": [
+    {
+      "value": "Garnier",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

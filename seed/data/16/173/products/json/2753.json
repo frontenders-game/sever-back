@@ -1,0 +1,29 @@
+{
+  "name": "Чай черный Richard Lord Grey 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 153.99,
+  "priceWithCard": 146.29,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 22,
+  "ingredients": "чай листовой черный цейлонский, ароматизаторы «Лимон», «Бергамот»",
+  "information": [
+    {
+      "value": "Richard",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

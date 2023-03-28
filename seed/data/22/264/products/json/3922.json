@@ -1,0 +1,29 @@
+{
+  "name": "Крем после бритья Svoboda освежающий, 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 84.99,
+  "priceWithCard": 83.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Вода, растительное масло, глицерил стеарат, глицерин, эмульсионный воск (цетил фосфат калия, цетеариловый спирт), циклометикон, изопропилпальмитат, линолевая кислота, линоленовая кислота (витамин F), аллантоин, ментол, феноксиэтанол,метилпарабен, пропилпарабен, метилизотиазолинон, парфюмерная композиция.",
+  "information": [
+    {
+      "value": "Svoboda",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

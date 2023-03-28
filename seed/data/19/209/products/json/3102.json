@@ -1,0 +1,58 @@
+{
+  "name": "Корм влажный Brit Premium Форель в желе Полнорационный Для взрослых кошек 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 76.79,
+  "promo": {
+    "discountedPriceRegular": 67.99,
+    "discountedPriceWithCard": 65.27,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "мясо и мясные субпродукты 60%, форель и рыбные субпродукты 15%, мука рисовая, мука пшеничная, минерально-витаминный комплекс (витамин D3 250 МЕ, витамин Е 100мг, цинк 10мг, марганец 2мг, йод 0.7мг, медь 0.2мг, таурин 450мг, биотин 0.1мг), загуститель. Пищевая ценность на 100г (средние значения): сырой протеин 8.5г, сырой жир 4.5г, сырая зола 2.5г, сырая клетчатка 0.4г, влага 82%",
+  "information": [
+    {
+      "value": "Brit",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "81.3",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

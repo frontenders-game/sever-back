@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты КФ Крупской Сказки Перро, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 144.99,
+  "priceWithCard": 136.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "Сахар, эквивалент масла какао (масла растительные, эмульгатор лецитин соевый, антиокислители ( Е306, кислота лимонная)), арахис дробленый, какао-тертое, мука пшеничная, желток яичный сухой, эмульгаторы (лецитин соевый, Е476), масло кокосовое, соль, ароматизатор, разрыхлитель гидрокарбонат натрия, регулятор кислотности кислота лимонная. Может содержать следы яичного белка.",
+  "information": [
+    {
+      "value": "Сказки Перро",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "533",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

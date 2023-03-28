@@ -1,0 +1,45 @@
+{
+  "name": "Сок Сады Придонья зеленое яблоко 125 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 18.19,
+  "priceWithCard": 17.1,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Произведен из концентрированного яблочного сока из зеленых яблок сортов: «Курский Золотой», «Синап Северный», «Синап Орловский», «Избранница» плодового хозяйства «Сады Придонья»",
+  "information": [
+    {
+      "value": "Сады Придонья ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

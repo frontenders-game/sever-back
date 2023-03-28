@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Сладуница Chocolate caramel",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 199.99,
+  "priceWithCard": 187.99,
+  "promo": {
+    "discountedPriceRegular": 139.99,
+    "discountedPriceWithCard": 131.59,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "сахар, глазурь кондитерская (сахар, заменитель масла какао нетемперируемый лауринового типа (рафинированное дезодорированное пальмоядровое масло, эмульгаторы: Е492, лецитин соевый),  какао-порошок,  крупа манная, соль, ароматизатор)  патока,  заменитель молочного жира (рафинированные дезодорированные растительные масла и жиры (пальмовое, подсолнечное, пальмоядровое), эмульгатор Е471), загуститель  Е1422, соль, агент влагоудерживающий Е422, красители: Е171, Е150d, Е150а; ароматизаторы. Содержит глютен. Может содержать следы молока, яиц и продукты их переработки",
+  "information": [
+    {
+      "value": "Сладуница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "350",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

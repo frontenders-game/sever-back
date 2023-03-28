@@ -1,0 +1,61 @@
+{
+  "name": "Биойогурт Верховье вишня-черешня-асая обогащённый детский 2.9%, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 43.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 26,
+  "ingredients": "Молоко нормализованное, наполнитель (сахар, вишня, вода, черешня, крахмал кукурузный, ароматизаторы натуральные, концентрированный морковный сок, загуститель пектины, порошок из ягод асаи), молоко сухое обезжиренное, закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
+  "information": [
+    {
+      "value": "Верховье",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "14.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "99.3",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

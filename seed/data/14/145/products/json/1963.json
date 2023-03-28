@@ -1,0 +1,45 @@
+{
+  "name": "Энергетический напиток Gorilla Личи-Груша 0.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 102.99,
+  "priceWithCard": 96.81,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "вода питьевая подготовленная, сахар. концентрированный сок из белого винограда, натуральный ароматизатор, замутнитель, (натуральные  вкусоароматические вещества, стабилизатор гуммиарабик Е414, регулятор кислотности кислота лимонная Е 330 , консервант сорбат калия Е202), регуляторы кислотности: кислота лимонная Е330, цитрат натрия 3-замещенный Е331; ароматизатор пищевой натуральный \"Личи-груша\", таурин, кофеин натуральный, стабилизатор гуммиарабак Е414 , премикс витаминный( витамины В3, В5, В6, В7, В9, В12)",
+  "information": [
+    {
+      "value": "Gorilla",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

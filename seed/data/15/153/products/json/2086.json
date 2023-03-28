@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Волшебница Волшебная белочка 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 43.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "сахар, какао тертое, арахис обжаренный дробленый, масло какао, молоко цельное сухое, фундук обжаренный дробленый, миндаль обжаренный дробленый, шарики рисовые (крупа рисовая, сахар, соль), крошка вафельная (мука пшеничная х/п первого сорта, продукт яичный (порошок), разрыхлитель – гидрокарбонат натрия, соль поваренная пищевая),  эмульгатор (лецитин соевый)),  эмульгаторы (лецитин соевый, Е476),  ароматизаторы «Лесной орех», «Ваниль»",
+  "information": [
+    {
+      "value": "Волшебница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "530",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

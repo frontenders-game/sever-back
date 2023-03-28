@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир Коровка из Кореновки стаканчик 15%, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 92.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 23,
+  "ingredients": "Сливки, сахар, молоко цельное сгущенное с сахаром, вафельный стаканчик (мука пшеничная хлебопекарная, масло растительное, сахар-песок, соль поваренная пищевая, сода питьевая), стабилизатор \"Кремодан\" (стабилизаторы: моно- и диглицериды жирных кислот, камедь рожкового дерева, гуаровая камедь, каррагинан), ванилин",
+  "information": [
+    {
+      "value": "Коровка из Кореновки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "19",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "216",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Мини-маффины Шарлиз с клубничной начинкой 433г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 145.59,
+  "promo": {
+    "discountedPriceRegular": 131.19,
+    "discountedPriceWithCard": 119.38,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 17,
+  "ingredients": "Сахар, мука пшеничная высшего сорта, вода, масло подсолнечное рафинированное дезодорированное, продукты яичные, глюкозный сироп, пюре яблочное, клубника, разрыхлитель (Е500, Е450), сыворотка молочная сухая, влагоудерживающий агент (глицерин), регулятор кислотности (лимонная кислота, Е331), консервант (сорбат калия), загуститель (пектины), мальтодекстрин, ароматизаторы, краситель (кармины), соль, дрожжи хлебопекарные.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

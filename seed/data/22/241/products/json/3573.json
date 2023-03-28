@@ -1,0 +1,29 @@
+{
+  "name": "Средство Econta для очистки канализационных труб 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 78.39,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 8,
+  "ingredients": "< 5 %: гипохлорит натрия \n < 5 %: АПАВ или мыло на основе натуральных жирных кислот (Anionic surfactant)\n НПАВ (Non-ionic surfactant)\n < 5 %: щелочь (Sodium hydroxide)\n соль ЭДТА  (Edta Na salt)\nароматизирующая добавка (Parfume)",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

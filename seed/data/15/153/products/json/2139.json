@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Alpen Gold молочный с фундуком 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 48.88,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 67,
+  "ingredients": "сахар, какао тертое, масло какао, сыворотка сухая молочная, молоко сухое цельное, фундук обжаренный дробленный, жир молочный, молоко сухое обезжиренное, эмульгаторы (лецитин соевый, Е476), ароматизатор. Может содержать следы арахиса, других орехов и пшеницы",
+  "information": [
+    {
+      "value": "Alpen Gold",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "531",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

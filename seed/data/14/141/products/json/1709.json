@@ -1,0 +1,29 @@
+{
+  "name": "Вода Societe Minerale негазированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 33.99,
+  "priceWithCard": 30.93,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Кальций 90, магний 50, калий 20, натрий 50, хлориды 50, гидрокарбонаты 350, сульфаты 50.",
+  "information": [
+    {
+      "value": "Societe Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

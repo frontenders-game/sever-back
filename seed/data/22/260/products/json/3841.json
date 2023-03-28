@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Stardent Отбеливающая для чувствительных зубов 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 80.99,
+  "priceWithCard": 76.94,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Stardent",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Болгария",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

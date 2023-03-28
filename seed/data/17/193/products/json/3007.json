@@ -1,0 +1,61 @@
+{
+  "name": "Вермишель Роллтон быстрого приготовления на домашнем бульоне с говядиной 60г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 21.99,
+  "priceWithCard": 20.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "вермишель: мука пшеничная высшего сорта, масло растительное, вода питьевая, соль. Бульон домашний: соль, сахар, усилители вкуса и аромата (глутамат, инозинат, гуанилат натрия), мясо говядины сушеное, овощи и зелень сушеные (томаты, лук репчатый, чеснок, петрушка), пряности (перец черный, перец красный, имбирь, куркума, гвоздика, корица, мускатный орех, базилик), ароматизатор (говядина). Масло подсолнечное рафинированное. Продукт может содержать незначительное количество сельдерея, продуктов переработки яиц и молока",
+  "information": [
+    {
+      "value": "Роллтон",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "440",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Кондиционер для детского белья 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 220.79,
+  "promo": {
+    "discountedPriceRegular": 160.99,
+    "discountedPriceWithCard": 154.55,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "30% и более вода очищенная, 5% и более, но менее 15% КПАВ, менее 5% НПАВ, парфюмерная композиция, консервант, краситель",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

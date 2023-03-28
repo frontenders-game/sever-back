@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Сладуница Шокорешки",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 199.99,
+  "priceWithCard": 195.99,
+  "promo": {
+    "discountedPriceRegular": 139.99,
+    "discountedPriceWithCard": 137.19,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "сахар, крупа манная, глазурь кондитерская (сахар, заменитель масла какао (рафинированные дезодорированные растительные масла (подсолнечное, пальмовое), эмульгаторы: Е492, соевый Е322; антиокислитель Е306), какао-порошок, соль, ароматизатор \"Ванилин\"), заменитель молочного жира (рафинированные дезодорированные растительные масла (подсолнечное, пальмовое и пальмоядровое и их фракции), антиокислитель Е306), какао-порошок, соль, ароматизатор «Лесной орех». Может содержать следы арахиса, яиц и продукты их переработки.",
+  "information": [
+    {
+      "value": "Сладуница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "490",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

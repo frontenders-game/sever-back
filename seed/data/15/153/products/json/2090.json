@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Milla Vanilla молочный с кусочками крекера 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 47.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "сахар, молоко сухое цельное, масло какао, какао тертое, кусочки крекера (мука пшеничная высшего сорта, сахар, жир кондитерский (рафинированные дезодорированные масла: пальмовое, подсолнечное, соевое; эмульгаторы: моно- и диглицериды жирных кислот, соевый лецитин; ароматизатор, краситель каротины (бета-каротин), антиокислители: аскорбиновая кислота, альфа-Токоферол), вода, соль, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия), антиокислитель пиросульфит натрия, регулятор кислотности лимонная кислота), сыворотка молочная сухая, эмульгаторы: соевый лецитин, Е476; ароматизатор. Возможно наличие следов орехов, арахиса, кунжута",
+  "information": [
+    {
+      "value": "Milla Vanilla",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "525.5",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

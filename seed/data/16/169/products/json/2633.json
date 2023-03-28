@@ -1,0 +1,61 @@
+{
+  "name": "Напиток MacCoffee кофейный растворимый 3в1 оригинал 10x20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 126.09,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 26,
+  "ingredients": "Сахар, заменитель сливок (сироп глюкозы, растительные жиры, молочный белок, лактоза, стабилизаторы (Е340ii, Е341iii, Е452i), эмульгаторы (Е471, Е472е)), мальтодекстрин, кофе натуральный растворимый., сахар, заменитель сливок на основе растительного жира [глюкозный сироп, растительный жир, обезжиренное  сухое молоко, молочный белок, стабилизаторы (Е340ii, E452i), эмульгаторы (E471, E481), агент антислеживающий (Е551), регулятор кислотности (451i)], кофе натуральный растворимый.",
+  "information": [
+    {
+      "value": "MacCoffee",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "81",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

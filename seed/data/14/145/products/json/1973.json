@@ -1,0 +1,45 @@
+{
+  "name": "Tornado Storm 0.45л энергетический напиток",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 59.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Подготовленная вода, сахар, регулятор кислотности: кислота лимонная, ароматизаторы, краситель сахарный колер IV, таурин, кофеин, консервант бензоат натрия, витамины: пантотеновая кислота (B5), B6, фолиевая кислота (Bc), ниацин (РР). Не рекомендуется употребление более 0,5 л напитка в сутки; не рекомендуется употребление детьми в возрасте до 18 лет, при беременности и кормлении грудью, а также лицами, страдающими повышенной нервной возбудимостью, бессонницей, артериальной гипертензией",
+  "information": [
+    {
+      "value": "Tornado",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "55",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

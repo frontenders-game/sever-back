@@ -1,0 +1,61 @@
+{
+  "name": "Завтрак Хрутка готовый шоколадный обогащенный 650г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 373.99,
+  "priceWithCard": 344.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "пшеница (содержит глютен), сахар, крупа кукурузная, какао-порошок алкализованный, карбонат кальция, масло подсолнечное, соль, ароматизатор натуральный (ваниль), карамельный сироп. Продукт может содержать молоко",
+  "information": [
+    {
+      "value": "Хрутка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "72.3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "348",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

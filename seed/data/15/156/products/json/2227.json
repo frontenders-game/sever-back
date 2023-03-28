@@ -1,0 +1,61 @@
+{
+  "name": "Драже M&M's с молочным шоколадом 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 106.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "молочный шоколад (сахар, какао тёртое, сухое обезжиренное молоко, какао масло, эквивалент масла какао (масло пальмовое, масло ши), лактоза, молочный жир, эмульгатор (соевый лецитин), ароматизаторы (ванилин, масляная кислота)), сахар, крахмал кукурузный, глюкозный сироп (кукурузный, пшеничный), загуститель (декстрин), крахмал рисовый, красители (Е120, куркумин, каротины, Е133, карбонат кальция), глазирователь (воск карнаубский), жир специального назначения (масло кокосовое, масло пальмоядровое)",
+  "information": [
+    {
+      "value": "M&M’s",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "493",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

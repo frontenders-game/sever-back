@@ -1,0 +1,50 @@
+{
+  "name": "Сок ФрутоНяня Яблоко и персик с 5 мес. 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.99,
+  "priceWithCard": 43.11,
+  "promo": {
+    "discountedPriceRegular": 32.99,
+    "discountedPriceWithCard": 32.33,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "Сок из яблок, пюре из персиков. Изготовлен из концентрированных сока и пюре",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "48",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Порошок стиральный Dosia Альпийская Свежесть автомат 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 57.49,
+  "priceWithCard": 56.34,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 26,
+  "ingredients": "Менее 5% кислородсодержащий отбеливатель, цеолит, поликарбоксилы, анионные и неиногенные ПАВ. Дополнительно: энзимы, оптический отбеливатель, антивспениватель, отдушка.",
+  "information": [
+    {
+      "value": "Dosia",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

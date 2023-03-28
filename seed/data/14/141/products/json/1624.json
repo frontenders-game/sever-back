@@ -1,0 +1,34 @@
+{
+  "name": "Вода Псыж минеральная лечебно-столовая газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 62.49,
+  "priceWithCard": 59.37,
+  "promo": {
+    "discountedPriceRegular": 46.24,
+    "discountedPriceWithCard": 43.93,
+    "discountPercent": 26,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "гидрокарбонаты 300-900, сульфаты 400-700, хлориды 300-800, натрий/калий 500-1000, магний менее 50, кальций менее 60, минерализация 1,6–3",
+  "information": [
+    {
+      "value": "Псыж",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

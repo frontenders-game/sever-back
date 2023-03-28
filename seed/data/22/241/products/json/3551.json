@@ -1,0 +1,34 @@
+{
+  "name": "Средство чистящее Cillit удаление налёта и ржавчины 450мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 229.99,
+  "priceWithCard": 213.89,
+  "promo": {
+    "discountedPriceRegular": 183.99,
+    "discountedPriceWithCard": 171.11,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "<5% катионные ПАВ, щавелевая кислота, ароматизатор.",
+  "information": [
+    {
+      "value": "Cillit Bang",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

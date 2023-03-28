@@ -1,0 +1,61 @@
+{
+  "name": "Хлеб Хлебный Дом Геркулес с кукурузой нарезка 255г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, сухая смесь для производства хлеба (кукуруза (крупка кукурузная дробленная, прежелатинизированная кукурузная мука, кукурузные хлопья), пшеничная клейковина, пальмовое масло, сухая сладкая молочная сыворотка, эмульгаторы, регуляторы кислотности: лимонная кислота, молочная кислота, консервант – ацетат кальция, ферменты микробного происхождения, антиокислитель – аскорбиновая кислота), морковь сушенная, дрожжи хлебопекарные, масло подсолнечное рафинированное дезодорированное вымороженное, сахар, соль, стабилизатор – ацетат кальция",
+  "information": [
+    {
+      "value": "Хлебный Дом",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "268",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

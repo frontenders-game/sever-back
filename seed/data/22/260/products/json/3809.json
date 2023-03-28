@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Sensodyne экстра отбеливание 75мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 281.99,
+  "promo": {
+    "discountedPriceRegular": 239.99,
+    "discountedPriceWithCard": 225.59,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Aqua, Hydrated Silica, Sorbitol, Glycerin, Pentasodium Triphosphate, Potassium Nitrate, PEG-6, Alumina, Aroma, Titanium Dioxide, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Betaine, Xanthan Gum, Sodium Hydroxide, Sodium Saccharin, Sodium Fluoride. Содержит фтористый натрий. Массовая доля фторида 0.145% F\" (1450 ppm).",
+  "information": [
+    {
+      "value": "Sensodyne",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Словакия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

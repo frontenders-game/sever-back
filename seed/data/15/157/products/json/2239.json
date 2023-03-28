@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Nuts с фундуком и арахисом 148г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 191.09,
+  "promo": {
+    "discountedPriceRegular": 146.99,
+    "discountedPriceWithCard": 133.76,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "сахар, патока, молоко сухое обезжиренное, жир специального назначения (масло пальмовое), фундук, эквивалент масла какао (масло пальмовое, масло ши), арахис, какао тертое, сыворотка молочная сухая, молочный жир, молоко сухое цельное, масло какао, эмульгаторы (лецитины, Е476), белок яичный сухой, ароматизаторы натуральные, регулятор кислотности (лимонная кислота), соль. Продукт может содержать другие орехи, глютен, диоксид серы, сою и кунжут.",
+  "information": [
+    {
+      "value": "Nuts",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "477",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

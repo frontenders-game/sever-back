@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Новый Жемчуг лечебные травы, 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Новый Жемчуг",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

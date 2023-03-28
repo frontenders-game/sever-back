@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса Мясная ферма Молочная вареная 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 163.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 6,
+  "ingredients": "свинина, говядина, вода, молоко сухое (обезжиренное), меланж яичный, крахмал картофельный, нитритная соль (соль\nпищевая, фиксатор окраски - нитрит натрия), соль пищевая, регуляторы кислотности (дигидропирофосфат натрия, трифосфат\nнатрия (5 замещенный), лактат натрия), глюкоза, усилитель вкуса и аромата (E621), экстракты пряностей (перец черный, перец душистый,\nорех мускатный), антиокислитель (аскорбат натрия). На предприятии используются: злаки, содержащие глютен, горчица, кунжут, сельдерей и соя",
+  "information": [
+    {
+      "value": "Мясная Ферма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "242",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Любимый яблоко-черноплодная рябина-клубника-земляника сокосодержащий 1.45л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 124.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "яблочный сок, сок из черноплодной рябины, клубничный сок, земляничное пюре, сахар (S)** или сахар и глюкозно-фруктозный сироп (G)**, регулятор кислотности – лимонная кислота, стабилизатор – пектины, ароматизаторы натуральные, вода. **- буква-код используемого ингредиента – см. на верхней панели упаковки",
+  "information": [
+    {
+      "value": "Любимый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "35",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

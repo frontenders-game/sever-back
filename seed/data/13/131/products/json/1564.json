@@ -1,0 +1,66 @@
+{
+  "name": "Котлеты Белорусские из индейки, 560г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 294.99,
+  "priceWithCard": 268.44,
+  "promo": {
+    "discountedPriceRegular": 182.89,
+    "discountedPriceWithCard": 166.43,
+    "discountPercent": 38,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Филе индейки, мясо птицы, вода питьевая, лук репчатый, сухари панировочные, меланж пастеризованный (продукт яичный),молоко сухое, соль поваренная пищевая, пшеничная клетчатка, чеснок, перец белый, перец душистый, стабилизаторы: Е450i, E452i, регулятор кислотности E451i.",
+  "information": [
+    {
+      "value": "Белорусские",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "150",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

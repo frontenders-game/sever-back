@@ -1,0 +1,29 @@
+{
+  "name": "Ополаскиватель Colgate Plax Свежесть чая для полости рта 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 279.99,
+  "priceWithCard": 268.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "вода, глицерин, пропиленгликоль, сорбит, полоксамер 407, ароматический сахарин натрия, хлорид цетилпиридиния. сорбат калия, фторид натрия (225 частей на миллион по фаренгейту ), ментол, листья камелии синенсис, цитрусовое масло из цедры лимона, cl 19140, cl 42051",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

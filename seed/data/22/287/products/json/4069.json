@@ -1,0 +1,29 @@
+{
+  "name": "Пакет-майка Пятерочка 35x55см",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 5.99,
+  "priceWithCard": 5.51,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 1439,
+  "ingredients": "полиэтилен",
+  "information": [
+    {
+      "value": "Пятёрочка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

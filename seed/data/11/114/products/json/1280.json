@@ -1,0 +1,61 @@
+{
+  "name": "Хлеб Энергия здоровья Стройный рецепт бездрожжевой нарезка 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 71.99,
+  "priceWithCard": 67.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 44,
+  "ingredients": "Вода питьевая, мука пшеничная хлебопекарная первого сорта, мука ржаная хлебопекарная обдирная, мука ржаная хлебопекарная сеяная, патока, сахар, экстракт солодовый, соль, краситель - сахарный колер.",
+  "information": [
+    {
+      "value": "Энергия здоровья",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "47.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "230",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

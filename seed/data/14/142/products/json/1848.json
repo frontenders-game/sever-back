@@ -1,0 +1,45 @@
+{
+  "name": "Сок Ми-Ми-Мишки Яблочный осветленный 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.99,
+  "priceWithCard": 32.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "яблочный сок. Изготовлен из концентрированного сока",
+  "information": [
+    {
+      "value": "Ми-Ми-Мишки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Свинина Атяшево Европейская копчено-вареная 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 203.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "свинина, вода питьевая,  посолочно-нитритная смесь (соль, фиксатор окраски Е250),  крахмал картофельный, соевый белок, сахар, экстракты пряностей (перец черный, кардамон), мальтодекстрин, регуляторы кислотности (Е262i, Е331i, Е450, Е451), загустители (Е415, Е407а), антиокислители (Е223, Е301, Е316), усилитель вкуса и аромата (Е621), краситель (Е120). На производстве используются: горчица, злаки, содержащие глютен, сельдерей, кунжут, яйца, молоко и продукты их переработки",
+  "information": [
+    {
+      "value": "Атяшево",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "191",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

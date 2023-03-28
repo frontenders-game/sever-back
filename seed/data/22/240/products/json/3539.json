@@ -1,0 +1,29 @@
+{
+  "name": "Гель для стирки Persil Power Gel Color 1.3л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 619.99,
+  "priceWithCard": 570.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "5-15% анионные ПАВ, неионогенные ПАВ; <5% фофонаты, мыло, энзимы, консервант, отдушка (в т.ч. бутилфенил метилпропиональ, гексилциннамаль, цитронеллол, бензилсалицилат).",
+  "information": [
+    {
+      "value": "Persil",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

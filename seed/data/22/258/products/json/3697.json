@@ -1,0 +1,29 @@
+{
+  "name": "Крем-краска для волос Palette тон С10 серебристый блондин, 110мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 224.99,
+  "priceWithCard": 215.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Palette",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

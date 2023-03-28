@@ -1,0 +1,29 @@
+{
+  "name": "Впитывающие одноразовые пелёнки для животных 60x40см, 10шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 150.39,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "Нетканый материал, полиэтиленовая пленка, распущенная целлюлоза, клей.",
+  "information": [
+    {
+      "value": "Хайджин",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

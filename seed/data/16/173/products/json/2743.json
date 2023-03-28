@@ -1,0 +1,29 @@
+{
+  "name": "Чай Крепкие Традиции черный 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 42.99,
+  "priceWithCard": 39.12,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Крепкие традиции",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

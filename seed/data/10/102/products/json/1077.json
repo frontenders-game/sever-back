@@ -1,0 +1,61 @@
+{
+  "name": "Биойогурт Верховье с клубникой, земляникой 2% 260г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Молоко нормализованное, наполнитель (сахар, клубника, вода, клубничный сок восстановленный, крахмал кукурузный, земляничный сок восстановленный, натуральный ароматизатор клубника, концентрированный сок черной моркови, натуральные ароматизаторы земляники, концентрированный лимонный сок), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
+  "information": [
+    {
+      "value": "Верховье",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "68.4",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

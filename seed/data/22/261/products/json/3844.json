@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки бумажные Мягкий знак Deluxe 2 слоя 24x24см 100шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "100% целлюлоза",
+  "information": [
+    {
+      "value": "Мягкий Знак",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

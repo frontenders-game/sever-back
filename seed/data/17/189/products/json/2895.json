@@ -1,0 +1,61 @@
+{
+  "name": "Мюсли Mollis запеченные с яблоком и грушей 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 101.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Хлопья овсяные, хлопья пшеничные, рапсовое масло, вода питьевая, сахар, мука рисовая экструдированная, патока, изюм, ядра семян подсолнечника, мука пшеничная, сушеные яблоки резаные, сушеная груша резаная (груша, рисовая мука), соль. Продукт может содержать незначительное количество орехов, арахиса и кунжута",
+  "information": [
+    {
+      "value": "Mollis",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

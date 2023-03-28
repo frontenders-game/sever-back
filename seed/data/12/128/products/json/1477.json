@@ -1,0 +1,34 @@
+{
+  "name": "Ядра подсолнечника Mixbar жареные 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 43.64,
+  "promo": {
+    "discountedPriceRegular": 40.04,
+    "discountedPriceWithCard": 38.84,
+    "discountPercent": 11,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 34,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

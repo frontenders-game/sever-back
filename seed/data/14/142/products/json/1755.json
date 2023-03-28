@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Global Village Летняя ягода сокосодержащий 1.93л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 127.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Сок яблочный, сок черноплодной рябины, сок клубничный, пюре земляничное, сахар, регулятор кислотности-лимонная кислота, ароматизаторы пищевые натуральные «Тип клубника», вода",
+  "information": [
+    {
+      "value": "Global Village",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "39.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

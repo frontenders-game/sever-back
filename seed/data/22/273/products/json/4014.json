@@ -1,0 +1,34 @@
+{
+  "name": "Набор Рецепты бабушки Агафьи Сила Тайги для мужчин шампунь-настой 100 мл и гель для душа 100 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 269.99,
+  "priceWithCard": 261.89,
+  "promo": {
+    "discountedPriceRegular": 140.39,
+    "discountedPriceWithCard": 136.18,
+    "discountPercent": 48,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "шампунь-настой - состав: aqua with infusion of glycyrrhiza glabra root extract (экстракт корня солодки), mentha piperita leaf oil (масло мяты перечной), barley malt extract (экстракт ячменного солода), arctium lappa seed oil (репейное масло) ; sodium laureth sulfate, cocamidopropyl betaine, coco-glucoside, hydrolyzed rice protein, sodium chloride, guar hydroxypropyltrimonium chloride, benzyl alcohol, sodium benzoate, potassium sorbate, citric acid, parfum, ci 15985, ci 19140, ci 42090, ci 14720; гель для душа - состав : aqua with infusion of glycyrrhiza glabra root extract (экстракт корня солодки), mentha piperita leaf oil (масло мяты перечной), barley malt extract (экстракт ячменного солода), arctium lappa seed oil (репейное масло), sodium laureth sulfate, cocamidopropyl betaine, coco-glucoside, saccharide isomerate, panthenol (провитамин b5), sodium chloride, benzyl alcohol, sodium benzoate, potassium sorbate, citric acid, parfum",
+  "information": [
+    {
+      "value": "Рецепты бабушки Агафьи",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

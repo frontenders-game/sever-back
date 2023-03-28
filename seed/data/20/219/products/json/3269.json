@@ -1,0 +1,61 @@
+{
+  "name": "Творог Агуша яблоко-банан 3.9% с 6 мес. 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.99,
+  "priceWithCard": 36.25,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "творог (молоко нормализованное, закваска), фруктовый наполнитель «Яблоко-банан» (сахар, вода, банановое пюре, концентрированный яблочный сок, концентрированное яблочное пюре, загуститель - пектины, ароматизаторы натуральные «Яблоко», «Банан», концентрированный морковный сок (в качестве красящего вещества), концентрированный лимонный сок (для корректировки кислотности))",
+  "information": [
+    {
+      "value": "Агуша",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "106",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Мангал Seasons сборный",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 264.99,
+  "priceWithCard": 259.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 133,
+  "ingredients": "конструкционная углеродистая сталь.",
+  "information": [
+    {
+      "value": "Seasons",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Смесь Mixbar из жареных орехов с цукатами, 130г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 187.99,
+  "promo": {
+    "discountedPriceRegular": 169.99,
+    "discountedPriceWithCard": 159.79,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 16,
+  "ingredients": "Ананас сушеный (ананас, сахар, регулятор кислотности лимонная кислота, консервант Е220, красители Е124, Е122, Е133, Е102, Е110), ядра арахиса жареного, изюм (виноград сушеный, подсолнечное масло), ядра фундука жареные (ядра фундука , масло подсолнечное, пищевая добавка «Grindox 204» (антиокислители Е319, Е330, агент влагоудерживающий Е 1520), жареные ядра миндаля и кешью.",
+  "information": [
+    {
+      "value": "Mixbar",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

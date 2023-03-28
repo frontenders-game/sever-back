@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Сладуница Seleste глазированные с молочно-сбивными корпусами",
+  "unitsOfMeasurement": "кг",
+  "step": "0.1",
+  "priceRegular": 379.99,
+  "priceWithCard": 368.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Сахар, патока, глазурь кондитерская (сахар, заменитель масла какао (рафинированное дезодорированное пальмоядровое масло, эмульгаторы: Е492, лецитин соевый), молоко сухое обезжиренное, какао-порошок, соль, ароматизатор \"Тоффи\"); молоко цельное сгущенное с сахаром (нормализованное молоко, сахар (сахароза, лактоза)), заменитель масла какао (рафинированные дезодорированные растительные масла (пальмовое)), инвертный сироп (сахар, регуляторы кислотности: Е500(ii), Е330), агенты желирующие: пектин Е440, каррагинан Е407; продукты яичные, эмульгаторы: Е471, лецитин соевый; соль, регулятор кислотности Е331, ароматизаторы: «Ванильный», «Тоффи». Может содержать следы глютена.",
+  "information": [
+    {
+      "value": "СТМ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

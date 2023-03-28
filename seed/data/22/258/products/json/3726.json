@@ -1,0 +1,29 @@
+{
+  "name": "Бальзам L'Oreal Paris Elseve Полное восстановление 5 для повреждённых волос, 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 428.99,
+  "priceWithCard": 411.83,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "Aqua / Water, Cetearyl Alcohol, Dicetyldimonium Chloride, Cetrimonium Chloride, Sodium Benzoate, Phenoxyethanol, Steareth-6, Acetic Acid, PEG-100 Stearate, Trideceth-10, Trideceth-3, Trisodium HEDTA, Chlorhexidine Digluconate, Calendula Officinalis Flower Extract, Dimethicone, Limonene, Linalool, Benzyl Salicylate, Benzyl Alcohol, Isopropyl Alcohol, Amodimethicone, Propylene Glycol, 2-Oleamido-1, 3-Octadecanediol, Tartaric Acid, Cetyl Esters, Butylphenyl Methylpropional, Hexyl Cinnamal, Parfum / Fragrance, (F.I.L. C209461/2).",
+  "information": [
+    {
+      "value": "Loreal Paris",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса сыровяленая Casademont Фуэт экстра, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 371.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Свинина, шпик, лактоза, нитритно-посолочная смесь (соль, консерванты (нитрат калия, нитрит натрия)), декстроза, перец черный молотый, антиокислитель (изоаскорбат натрия), чеснок, краситель (кармины), сахароза, стартовые культуры. Может содержать следы молока и продуктов его переработки.",
+  "information": [
+    {
+      "value": "Casademont",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "24",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "334",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

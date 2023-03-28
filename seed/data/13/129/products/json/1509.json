@@ -1,0 +1,66 @@
+{
+  "name": "Пломбир Коровка Из Кореновки с шоколадной стружкой, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 310.39,
+  "promo": {
+    "discountedPriceRegular": 252.79,
+    "discountedPriceWithCard": 245.21,
+    "discountPercent": 21,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "Сливки, молоко цельное сгущенное с сахаром (молоко нормализованное, сахар), сахар, шоколадная глазурь (сахар, какао тертое, какао-масло, обезжиренный молочный жир, эмульгатор лецитин, ароматизатор ванилин, эмульгатор Е476), стабилизатор “Кремодан” (стабилизатор: моно- и диглицериды жирных кислот, камедь рожкового дерева, гуаровая камедь, каррагинан).",
+  "information": [
+    {
+      "value": "Коровка из Кореновки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "20",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "243",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

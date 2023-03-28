@@ -1,0 +1,29 @@
+{
+  "name": "Зубная паста Aquafresh Сияющая белизна 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 144.99,
+  "priceWithCard": 136.29,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 21,
+  "ingredients": "aqua, sorbitol, hydrated silica, glycerin, pentasodium triphosphate, sodium lauryl, sulfate, alumina, aroma, xanthan gum, cocamidopropyl betaine, chondrus crispus (carrageenan) sodium fluoride, sodium saccharin, titanium dioxide, sodium hydroxide, mica, limonene, cl 74160",
+  "information": [
+    {
+      "value": "Aquafresh",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Словакия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

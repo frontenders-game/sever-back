@@ -1,0 +1,29 @@
+{
+  "name": "Вода минеральная Societe Minerale лечебно-столовая газированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 56.99,
+  "priceWithCard": 55.85,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "вода питьевая газированная",
+  "information": [
+    {
+      "value": "Societe Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

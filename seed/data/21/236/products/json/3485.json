@@ -1,0 +1,53 @@
+{
+  "name": "Бекон Останкино сырокопченый 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 242.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "свинина, вода, комплексные пищевые добавки (регуляторы кислотности: Е450, Е451, Е262, Е331, посолочно-нитритная смесь (соль, фиксатор окраски Е250), стабилизатор Е452, пряности и экстракты пряностей (в т.ч. горчица), усилитель вкуса и аромата Е621, антиокислители: Е301, Е316), соль",
+  "information": [
+    {
+      "value": "Останкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "59",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "567",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

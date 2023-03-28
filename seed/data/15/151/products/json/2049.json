@@ -1,0 +1,29 @@
+{
+  "name": "Конверт для денег Арт и Дизайн НК в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 96.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Бумага.",
+  "information": [
+    {
+      "value": "Арт и Дизайн",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

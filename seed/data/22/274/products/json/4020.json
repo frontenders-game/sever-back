@@ -1,0 +1,29 @@
+{
+  "name": "Брикеты Seasons древесноугольные 1.8кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 185.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "100% натуральные древесноугольные брикеты",
+  "information": [
+    {
+      "value": "Seasons",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

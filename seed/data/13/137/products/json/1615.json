@@ -1,0 +1,66 @@
+{
+  "name": "Тесто слоёное Морозко дрожжевое, 1кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 284.99,
+  "promo": {
+    "discountedPriceRegular": 221.99,
+    "discountedPriceWithCard": 210.89,
+    "discountPercent": 26,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, маргарин (масло растительное, вода питьевая, эмульгаторы: моно и диглицериды жирных кислот, соевый лецитин; соль, сахар, консервант сорбат калия, краситель каротин, антиокислитель аскорбиновая кислота), вода питьевая, сахар, дрожжи хлебопекарные прессованные, соль, комплексная пишевая добавка (пшеничная клейковина, антиокислитель аскорбиновая кислота, ферментные препараты: альфа-амилаза и гемицеллюлаза). Продукт может содрежать следы молочных, яичных и горчичных продуктов.",
+  "information": [
+    {
+      "value": "Морозко",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "41.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "361",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

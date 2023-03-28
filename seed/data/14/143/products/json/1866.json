@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Chillout Cola Original безалкогольный газированный 0.33 л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 67.49,
+  "priceWithCard": 65.47,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 16,
+  "ingredients": "вода, сахар,(S) или сахар и сироп глюкозно-фруктозный, регулятор кислотности кислота орто-фосфорная, краситель сахарный колер IV, ароматизаторы, консервант бензоат натрия, кофеин",
+  "information": [
+    {
+      "value": "Chillout",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "40",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

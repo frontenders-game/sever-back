@@ -1,0 +1,34 @@
+{
+  "name": "Лосьон-тоник Чистая Линия для всех типов кожи 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 151.99,
+  "promo": {
+    "discountedPriceRegular": 110.39,
+    "discountedPriceWithCard": 104.87,
+    "discountPercent": 31,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "aqua*, peg-40 hydrogenated castor oil*, propylene glycol, glycerin*, centaurea cyanus flower extract (экстракт василька)*, hydrolyzed hyaluronic acid (гидролизованная гиалуроновая кислота)*, sodium carrageenan*, verbena officinalis leaf extract (экстракт вербены)*, paeonia officinalis flower extract (экстракт пиона)*, prunus amygdalus dulcis (sweet almond) oil (миндальное масло)*, linum usitatissimum (linseed) seed oil (льняное масло)*, olea europaea (olive) fruit oil (ферментированное масло оливы)*, candida bombicola/glucose/methyl rapeseedate ferment*, achillea millefolium extract*, chamomilla recutita (matricaria) flower extract*, chelidonium majus extract*, hypericum perforatum flower/leaf/stem extract*, urtica dioica leaf extract*, aloe barbadensis leaf juice*, citric acid*, disodium edta, panthenol, pantolactone, parfum, phenoxyethanol, potassium sorbate, sodium benzoate, sodium methylparaben, sodium sulfite, alpha-isomethyl ionone, geraniol, linalool, ci 19140, ci 42090. *в составе отмечены компоненты натурального происхождения",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

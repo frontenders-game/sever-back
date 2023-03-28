@@ -1,0 +1,61 @@
+{
+  "name": "Сырок глазированный Чудо Ваниль 25.6% 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 33.99,
+  "priceWithCard": 31.95,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "творожная основа (творог, масло сливочное, сахар, загуститель – Е1414, стабилизатор-альгинат натрия, ароматизатор «Ваниль», консервант-сорбат калия), глазурь (сахар, какао-порошок, заменитель масла какао, заменитель молочного жира (растительные масла, эмульгатор- моно- и диглицериды жирных кислот, антиокислитель-Е306, краситель-каротины), эмульгатор- соевый лецитин, ароматизатор)",
+  "information": [
+    {
+      "value": "Чудо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "33.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "401",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

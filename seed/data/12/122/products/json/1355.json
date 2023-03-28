@@ -1,0 +1,45 @@
+{
+  "name": "Лук красный",
+  "unitsOfMeasurement": "кг",
+  "step": "0.5",
+  "priceRegular": 99.99,
+  "priceWithCard": 93.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Лук красный.",
+  "information": [
+    {
+      "value": "Египет",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 2,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "42",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

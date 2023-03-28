@@ -1,0 +1,53 @@
+{
+  "name": "Мороженое пломбир Сарафаново шоколадный стаканчик 15%, 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 63.04,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 30,
+  "ingredients": "мороженое (сливки, молоко цельное сгущенное с сахаром (нормализованное молоко, сахароза, лактоза), сахар, вода, какао – порошок, масло сливочное, молоко сухое обезжиренное, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан, антиокислители: альфа-токоферол, аскорбилпальмитат), вафельный стаканчик (мука пшеничная, масло подсолнечное, крахмал кукурузный, эмульгатор соевый лецитин, пищевая йодированная соль (соль, йодат калия, агент антислеживающий е536), меланж яичный сухой, разрыхлитель гидрокарбонат натрия)",
+  "information": [
+    {
+      "value": "Сарафаново",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "24",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

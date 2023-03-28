@@ -1,0 +1,58 @@
+{
+  "name": "Мармелад Бон Пари Кислые змейки жевательный фигурный фрукты 120г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": {
+    "discountedPriceRegular": 81.19,
+    "discountedPriceWithCard": 74.7,
+    "discountPercent": 42,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "патока, сахар, желатин, регуляторы кислотности (лимонная и молочная кислоты, лактат кальция), вода, концентрированный яблочный сок, натуральные красители (антоцианы (получен из моркови), куркумин, медные комплексы хлорофиллинов (получен из шелковицы)), натуральные ароматизаторы (черная смородина, яблоко, с маслом лимона, малина), комплексная пищевая добавка (уголь растительный, глицерин)",
+  "information": [
+    {
+      "value": "Бон Пари",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "79",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "341",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Гель Чистин санитарно-гигиенический для сантехники 750г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 74.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "> 5%, но < 15% : АПАВ, кислота щавелевая, <  5%: загуститель, ингибитор коррозии, краситель, ароматизирующая добавка",
+  "information": [
+    {
+      "value": "Чистин",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Tolli plus влажные универсальные с антибактериальным эффектом 120шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 169.99,
+  "priceWithCard": 159.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Нетканый материал, деминерализованная вода, глицерин, глицерет-2 кокоат, ПЭГ-7 глицерил кокоат, кокамидопропилбетаин, цетримониум хлорид, динатриевая соль ЭДТА, 2-бром-2-нитропропан-1,3-диол, мети лхлороизотиазолинон, метилизотиазолинон, экстракт алоэ, витамин Е, лимонная кислота, отдушка INCI: Aqua, Glycerin, Glycereth-2 Cocoate, PEG-7 Glyceryl Cocoate, Cocamidopropyl Betaine, Cetrimonium Chloride, Disodium EDTA, 2-bromo-2-nitropropane-1,3-diol, Methylchloroisothiazolinone, Methylisothiazolinone, Aloe Barbadensis Leaf Juice, Tocopherol Acetate, Citric Acid, Parfum.",
+  "information": [
+    {
+      "value": "Tolli",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

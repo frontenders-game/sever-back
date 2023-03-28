@@ -1,0 +1,29 @@
+{
+  "name": "Порошок стиральный Миф 3в1 Морозная свежесть для ручной стирки  400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.49,
+  "priceWithCard": 64.63,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "5-15% Anionic Surfactants, <5% Non-Ionic Surfactants, Polycarboxylates, Enzymes, Optical Brighteners, Perfumes, Benzyl Salicylate, Hexyl Cinnamal, Limonene, Linalool.",
+  "information": [
+    {
+      "value": "Миф",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

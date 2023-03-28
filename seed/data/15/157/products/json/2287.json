@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Родные Просторы с вафельной крошкой 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 278.99,
+  "priceWithCard": 265.04,
+  "promo": {
+    "discountedPriceRegular": 195.29,
+    "discountedPriceWithCard": 185.53,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "сахар, арахис тертый (20,6%), какао тертое, вафля (8,9%) (мука пшеничная (содержит глютен), продукты яичные, соль, разрыхлитель (гидрокарбонат натрия)), жир специального назначения (масла пальмовое, ши), эквивалент масла какао (масла пальмовое, ши), сыворотка молочная сухая, молочный жир, эмульгаторы (соевый лецитин, Е476). Продукт может содержать орехи",
+  "information": [
+    {
+      "value": "Россия - Щедрая Душа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "540",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

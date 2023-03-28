@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Савинов Twin Pix с карамелью",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 599.99,
+  "priceWithCard": 581.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "патока крахмальная, мука пшеничная, сахар, жир специального назначения (растительные масла, эмульгатор Е322), масло какао, молоко сухое обезжиренное, молоко сухое цельное, какао тёртое, сыворотка молочная сухая (сыворотка, лактоза), жир молочный, соль поваренная пищевая, разрыхлитель (соль углеаммонийная Е503ii), эмульгатор Е442, ароматизатор натуральный Карамель, стабилизатор (каррагинан Е407), эмульгатор Е476, ароматизатор Ванилин, регулятор кислотности (цитрат натрия E331iii). Продукт может содержать незначительное количество яичного белка, арахиса и ореха",
+  "information": [
+    {
+      "value": "Савинов",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "64",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

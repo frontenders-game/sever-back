@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Dirol клубника-кокос 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 36.37,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 42,
+  "ingredients": "подсластители (сорбит, мальтит, маннит, мальтитный сироп, ксилит, аспартам, сукралоза, ацесульфам калия), резиновая основа, ароматизаторы, загуститель (гуммиарабик), влагоудерживающий  агент (глицерин), регуляторы кислотности (лимонная кислота, яблочная кислота), эмульгатор (лецитин), масло растительное (кокосовое), глазирователь (воск карнаубский)",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "71",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "195",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт Чудо Клубника-земляника 1.9% 680г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 132.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "молоко нормализованное, молоко восстановленное (В)*, сахар, клубника, вода, глюкозно-фруктозный сироп (G)*, стабилизатор Е1442 (H)* или стабилизатор Е1422 (T)* или кукурузный крахмал (X)*, ароматизаторы, стабилизатор - пектины (P)*, краситель - кармины, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), закваска.*- при использовании данного компонента в маркировке указывается соответствующая ему буква",
+  "information": [
+    {
+      "value": "Чудо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "13.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "84",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

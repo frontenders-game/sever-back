@@ -1,0 +1,34 @@
+{
+  "name": "Туалетная бумага Papia 3 слоя 12 шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 419.99,
+  "priceWithCard": 411.59,
+  "promo": {
+    "discountedPriceRegular": 272.99,
+    "discountedPriceWithCard": 267.53,
+    "discountPercent": 35,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "100% целлюлоза",
+  "information": [
+    {
+      "value": "Papia",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

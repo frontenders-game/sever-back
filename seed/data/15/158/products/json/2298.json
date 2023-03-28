@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Konti Лимоне",
+  "unitsOfMeasurement": "кг",
+  "step": "0.3",
+  "priceRegular": 299.99,
+  "priceWithCard": 284.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "сахар, патока, заменитель масла какао нетемперируемый лауринового типа (рафинированное дезодорированное пальмоядровое масло; эмульгаторы: cорбитан тристеарат, лецитин соевый), подварка яблочная (пюре яблочное, сахар, консервант диоксид серы), какао-порошок, краситель куркумин, регулятор кислотности кислота лимонная, ароматизаторы, эмульгаторы (лецитин соевый, эфиры полиглицерина и взаимоэтерифицированных рициноловых кислот), сок лимона концентрированный. Может содержать следы молока и продуктов его переработки",
+  "information": [
+    {
+      "value": "Konti",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "82",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

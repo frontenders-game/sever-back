@@ -1,0 +1,29 @@
+{
+  "name": "Вода Аш-Тау минеральная лечебно-столовая газированная 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 77.49,
+  "priceWithCard": 72.84,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "гидрокарбонаты: 800-1600 мг/л, сульфаты 100-400 мг/л, хлориды: 1600-2600 мг/л, кальций: 200-500 мг/л, магний: 50-200 мг/л, натрий+калий: 900-1900. Общая минерализация: 3,7-7,2",
+  "information": [
+    {
+      "value": "Аш-Тау",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

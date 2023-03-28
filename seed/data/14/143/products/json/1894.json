@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Ильинские Лимонады Фейхоа газированный 1.42л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 52.49,
+  "priceWithCard": 50.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "подготовленная вода, сахар, регуляторы кислотности кислота лимонная и цитрат натрия, концентрированный яблочный сок, ароматизаторы, красители сахарный коле 4, тартразин, желтый хинолиновый, синий патентованный 5, подсластители аспартам и ацесульфам калия, консервант бензоат натрия. Содержит источник фенилаланина. Содержит красители, которые могут оказывать отрицательное виляние на активность и внимание детей",
+  "information": [
+    {
+      "value": "Ильинские лимонады",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "20",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

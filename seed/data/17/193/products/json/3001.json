@@ -1,0 +1,61 @@
+{
+  "name": "Суп Суперсуп гороховый с беконом, 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 48.99,
+  "priceWithCard": 45.07,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Горох варено-сушеный, хлопья картофельные сушеные, соль, свинина сырокопченая, масло растительное, комплексная пищевая добавка «Бекон жареный» (соль, ароматизаторы пищевые, масло растительное), морковь сушеная, лук сушеный, сахар, зелень петрушки сушеная, чеснок сушеный, куркума, лист лавровый сухой, экстракт перца черного. Может содержать следы пшеничного глютена.",
+  "information": [
+    {
+      "value": "Суперсуп",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

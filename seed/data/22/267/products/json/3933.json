@@ -1,0 +1,34 @@
+{
+  "name": "Гель для душа Camay Botanicals Гранат & Коллаген 250мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 244.99,
+  "priceWithCard": 240.09,
+  "promo": {
+    "discountedPriceRegular": 171.49,
+    "discountedPriceWithCard": 168.06,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Chloride, Desamido Collagen (дезамидо коллаген), Inulin, Salvia Officinalis (Sage) Leaf Extract, Sodium Hyaluronate, Prunus Amygdalus Dulcis (Sweet Almond) Oil (миндальное масло), Punica Granatum Fruit Juice (экстракт граната), Benzophenone-4, Citric Acid, Cocamide DEA, Cocamidopropyl Betaine, Disodium EDTA, Disodium Laureth Sulfosuccinate, Parfum, Sodium Benzoate, Alpha-Isomethyl Ionone, Benzyl Salicylate, Citronellol, Limonene, CI 17200.",
+  "information": [
+    {
+      "value": "Camay",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

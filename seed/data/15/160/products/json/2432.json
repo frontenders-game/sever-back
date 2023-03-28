@@ -1,0 +1,66 @@
+{
+  "name": "Пирожное бисквитное Медвежонок Барни молочная начинка 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 159.99,
+  "priceWithCard": 147.19,
+  "promo": {
+    "discountedPriceRegular": 80.0,
+    "discountedPriceWithCard": 73.59,
+    "discountPercent": 50,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "Мука пшеничная, сироп глюкозно-фруктозный, сахар, яичный продукт, масло растительное, вода, агент влагоудерживающий (глицерин), молоко сухое обезжиренное, молоко сухое цельное, какао-порошок, крахмал пшеничный, декстроза, регуляторы кислотности (гидрокарбонат калия, лимонная кислота), разрыхлитель (дигидропирофосфат натрия), эмульгаторы (эфиры глицерина и молочной и жирных кислот, эфиры полиглицерина и жирных кислот, лецитин соевый), соль, карбонат кальция, ароматизатор натуральный, загуститель (гуаровая камедь).",
+  "information": [
+    {
+      "value": "Барни",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

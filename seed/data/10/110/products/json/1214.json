@@ -1,0 +1,61 @@
+{
+  "name": "Майонез Ряба Провансаль 67% 630г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 184.99,
+  "priceWithCard": 181.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "масло подсолнечное, вода, сахар, яичный желток, соль, уксус, эфирное горчичное масло, бета-каротин (провитамин А)",
+  "information": [
+    {
+      "value": "Ряба",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "67",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "620",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Средство чистящее Liberhaus лимонная свежесть для унитаза в ассортименте 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.9,
+  "priceWithCard": 75.11,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": ">30% анионные ПАВ; 5-15% неионогенные ПАВ; <5% краситель, комплекснообразователь, растворитель, отдушка (в том числе гераниол, лимонен, линалоол, цитраль, цитронеллол); соли неорганические, вода.",
+  "information": [
+    {
+      "value": "Liberhaus",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

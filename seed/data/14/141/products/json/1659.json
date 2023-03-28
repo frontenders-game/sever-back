@@ -1,0 +1,29 @@
+{
+  "name": "Вода Mivela Mg++ лечебно-столовая негазированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 189.99,
+  "priceWithCard": 184.29,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "вода",
+  "information": [
+    {
+      "value": "Mivela",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Сербия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

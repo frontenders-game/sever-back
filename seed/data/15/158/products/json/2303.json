@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Sweet Life Imperio Бейлиз",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 299.99,
+  "priceWithCard": 284.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "сахар, кондитерская глазурь (сахар, заменитель какао масла нетемперируемый нелауринового типа (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (подсолнечное, пальмовое, соевое), эмульгатор сорбитан тристеарат, лецитин соевый, антиокислитель концентрат смеси токоферолов), какао-порошок,  эмульгаторы – лецитин соевый, Е476; ароматизатор \"Ванилин\"), патока, спирт этиловый ректификованный, регулятор кислотности - лимонная кислота, красители: сахарный колер IV, диоксид титана, ароматизатор \"Бейлиз\"",
+  "information": [
+    {
+      "value": "Sweet life",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "78",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

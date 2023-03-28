@@ -1,0 +1,66 @@
+{
+  "name": "Колбаса Атяшево Печеночная ливерная, 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 51.99,
+  "priceWithCard": 49.39,
+  "promo": {
+    "discountedPriceRegular": 38.99,
+    "discountedPriceWithCard": 37.04,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Печень свиная, головы свиные, вода питьевая, свинина, шкурка свиная, мука ячменная, крупа манная, крахмал картофельный, лук сушеный, соль, экстракты пряностей (чеснок, черный перец, белый перец), регулятор кислотности (ацетат натрия), антиокислитель (изоаскорбат натрия), ароматизаторы. на производстве используются: горчица, злаки, содержащие глютен, сельдерей, кунжут, соя, яйца, молоко и продукты их переработки.",
+  "information": [
+    {
+      "value": "Атяшево",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "200",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

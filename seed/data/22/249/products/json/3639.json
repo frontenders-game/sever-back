@@ -1,0 +1,34 @@
+{
+  "name": "Освежитель воздуха Airwick Freshmatic Дикий Гранат 250мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 428.99,
+  "priceWithCard": 390.38,
+  "promo": {
+    "discountedPriceRegular": 351.77,
+    "discountedPriceWithCard": 320.11,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "30% и более: бутан, пропан, этиловый денатурированный спирт; менее 5%: ароматизатор, d-лимонен, цитраль, линалоол",
+  "information": [
+    {
+      "value": "Air Wick",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Великобритания",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

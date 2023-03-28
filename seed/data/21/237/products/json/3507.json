@@ -1,0 +1,53 @@
+{
+  "name": "Шейка Иней из свинины копчено-вареная 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 224.99,
+  "priceWithCard": 220.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 8,
+  "ingredients": "свиная шея, вода питьевая, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), белок животный свиной, регуляторы кислотности (ацетат натрия, цитрат натрия), крахмал (тапиоковый), стабилизаторы (трифосфаты, пирофосфаты), загустители (каррагинан, ксантановая камедь), виноградный сахар, усилитель вкуса и аромата (глутамат натрия),  антиокислитель (аскорбиновая кислота), пищевые волокна (бамбуковые, цитрусовые, гороховые), краситель (кармины)",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "191",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

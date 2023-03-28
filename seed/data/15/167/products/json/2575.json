@@ -1,0 +1,53 @@
+{
+  "name": "Жевательная резинка Dirol Морозная мята в подушечках 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 35.24,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 39,
+  "ingredients": "Подсластители (сорбит, мальтит, мальтитный сироп, аспартам, сукралоза, ацесульфам калия), резиновая основа, ароматизаторы, загуститель (Е414), влагоудерживающий агент (Е412), эмульгаторы (Е 472а, Е 322), масло растительное (кокосовое), глазирователь (Е 903).",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "175",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Торт бисквитный Baker House Трюфель 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 194.99,
+  "priceWithCard": 183.29,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 10,
+  "ingredients": "глюкозный сироп; мука пшеничная высшего сорта; сахар; вода; продукты яичные; шоколадная крошка (какао-масло, сахар, какао-порошок, ароматизатор ваниль); жиры растительные; какао-порошок; глюкоза; эмульгатор (Е471, Е475); загуститель (гуаровая камедь, Е466); крахмал кукурузный; разрыхлитель (Е500ii, E450i); сыворотка молочная сухая; мука рисовая; влагоудерживающий агент (глицерин); соль; регулятор кислотности (лимонная кислота, молочная кислота); ароматизаторы: «шоколад», «ром», «ванилин»; консервант (сорбиновая кислота)",
+  "information": [
+    {
+      "value": "Baker House",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "61",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

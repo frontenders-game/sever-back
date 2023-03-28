@@ -1,0 +1,66 @@
+{
+  "name": "Печенье ФрутоНяня пшеничное 120г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 115.99,
+  "priceWithCard": 113.67,
+  "promo": {
+    "discountedPriceRegular": 95.11,
+    "discountedPriceWithCard": 93.21,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "мука пшеничная, сахар, масло сливочное, молоко сухое цельное, крахмал пшеничный, меланж яичный, экстракт солодовый, разрыхлитель: гидрокарбонат аммония, ароматизатор «Ванилин», витамины (С, РР, В5, В6, В1, В2), минеральные вещества (кальций, фосфор, железо, цинк)",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

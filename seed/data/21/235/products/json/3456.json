@@ -1,0 +1,58 @@
+{
+  "name": "Сосиски Клинский Молочные ГОСТ 470г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 342.99,
+  "priceWithCard": 329.27,
+  "promo": {
+    "discountedPriceRegular": 250.38,
+    "discountedPriceWithCard": 240.37,
+    "discountPercent": 27,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "свинина, говядина, вода, меланж яичный, молоко сухое, посолочная смесь (соль, фиксатор окраски нитрит натрия), черный перец, душистый перец, мускатный орех, регуляторы кислотности пирофосфат натрия, трифосфат натрия, ацетат натрия, цитрат натрия, антиокислитель аскорбиновая кислота",
+  "information": [
+    {
+      "value": "Клинский МК",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "225",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

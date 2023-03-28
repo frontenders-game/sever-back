@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Colgate кальций-ремин 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 252.99,
+  "priceWithCard": 242.87,
+  "promo": {
+    "discountedPriceRegular": 161.91,
+    "discountedPriceWithCard": 155.44,
+    "discountPercent": 36,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

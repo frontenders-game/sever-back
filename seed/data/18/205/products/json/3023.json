@@ -1,0 +1,66 @@
+{
+  "name": "Сыр творожный Hochland Сливочный 60% 220г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 183.99,
+  "priceWithCard": 178.47,
+  "promo": {
+    "discountedPriceRegular": 130.63,
+    "discountedPriceWithCard": 126.71,
+    "discountPercent": 29,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Творог (молоко, cливки, бактериальная закваска молочнокислых микроорганизмов, фермент микробного происхождения), молоко сухое обезжиренное, соль пищевая, комплексная пищевая добавка (стабилизаторы камедь рожкового дерева и гуаровая камедь), регулятор кислотности лимонная кислота, вода питьевая.",
+  "information": [
+    {
+      "value": "Hochland",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "238",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Сок Сады Придонья Мультифрукт с мякотью с 12 мес. 200мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.49,
+  "priceWithCard": 32.77,
+  "promo": {
+    "discountedPriceRegular": 30.01,
+    "discountedPriceWithCard": 28.51,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Апельсиновый сок, ананасовый сок, яблочный сок, персиковое пюре, пюре из киви, сок маракуйи.",
+  "information": [
+    {
+      "value": "Сады Придонья ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "46",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

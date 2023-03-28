@@ -1,0 +1,34 @@
+{
+  "name": "Вода Сенежская минеральная природная питьевая столовая негазированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.09,
+  "priceWithCard": 36.74,
+  "promo": {
+    "discountedPriceRegular": 34.01,
+    "discountedPriceWithCard": 31.96,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "гидрокарбонат 200-400 мг/дм3, магний 5-50 мг/дм3, кальций 40-130 мг/дм3, натрий 0,5-40 мг/дм3, калий 0,5-20 мг/дм3, хлориды 0,5-100 мг/дм3, сульфаты 0,5-150 мг/дм3. Общая минерализация 0,3-1,0 мг/дм3",
+  "information": [
+    {
+      "value": "Сенежская",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

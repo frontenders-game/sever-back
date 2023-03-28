@@ -1,0 +1,29 @@
+{
+  "name": "Гель Bodyart для душа Ваниль и Апельсин 250мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 96.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Decyl Glucoside, Sodium Chloride, Sodium Laureth Sulfate and Glycol Distearate and Cocamide MEA and Laureth-10, Coco-Glucoside and Glyceryl Oleate, Propylene Glycol, Argania Spinosa Kernel Oil, Vanilla Planifolia Fruit Extract, Olea Europaea Leaf Extract, Benzyl Alcohol, Methylisothiazolinone, Methylchloroisothiazolinone, Parfum, Disodium EDTA, Citric Acid.",
+  "information": [
+    {
+      "value": "Bodyart",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

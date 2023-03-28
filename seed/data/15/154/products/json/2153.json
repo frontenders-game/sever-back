@@ -1,0 +1,61 @@
+{
+  "name": "Конфета Nuts Crunch с фундуком и арахисом 60г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "сахар, патока, крупа рисовая (6,5%), арахис (6%), фундук (6%), молоко сухое обезжиренное, какао тертое, масло какао, пальмовое масло, сыворотка молочная сухая, мука пшеничная (содержит глютен), крупа кукурузная (2,4%), молочный жир, крупа гречневая (1,5%), эквивалент какао масла (масло пальмовое, масло ши), соль, какао-порошок, молоко сухое цельное, эмульгаторы (лецитины, Е476), регулятор кислотности (лимонная кислота), ароматизатор натуральный. Продукт может содержать орехи, яичный белок, диоксид серы и сою.",
+  "information": [
+    {
+      "value": "Nuts",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "63",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "477",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

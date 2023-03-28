@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Tolli Plus сервировочные 1 слой 100шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.99,
+  "priceWithCard": 62.03,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "100% целлюлоза",
+  "information": [
+    {
+      "value": "Tolli",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

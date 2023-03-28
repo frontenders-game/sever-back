@@ -1,0 +1,53 @@
+{
+  "name": "Сосиски Ближние горки молочные 450г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 181.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "свинина, говядина, вода, молоко отборное пастеризованное, нитритно-посолочная смесь (соль, фиксатор окраски- нитрит натрия), меланж яичный, сахар, стабилизатор- фосфат пищевой (пирофосфат натрия), регуляторы кислотности- трифосфат натрия, ацетат натрия, цитрат натрия; антиокислители- аскорбат натрия, аскорбиновая кислота; мальтодекстрин, ароматизаторы, экстракты пряностей. Возможно наличие следов горчицы, злаков, соевого белка, орехов и продуктов их переработки",
+  "information": [
+    {
+      "value": "Ближние горки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "246",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

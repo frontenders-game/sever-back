@@ -1,0 +1,34 @@
+{
+  "name": "Чай Assand зеленый с мелиссой 25x1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 94.99,
+  "promo": {
+    "discountedPriceRegular": 84.99,
+    "discountedPriceWithCard": 80.74,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "чай зеленый байховый китайский, мелисса, мята, ароматизатор лимон",
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

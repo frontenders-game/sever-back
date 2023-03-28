@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Кондитерское Бюро Орешки с вареной сгущенкой 65г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 46.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "мука пшеничная х/п 1с, маргарин, меланж, сахар, консервант сорбиновая  кислота, начинка кондитерская \"Варенка. Сгущенка  вареная с сахаром\" (обезжиренное молоко,  сахар (сахароза), сыворотка молочная концентрированная, заменитель молочного  жира (масла растительные рафинированные дезодорированные: пальмовое, подсолнечное), мальтодекстрин, стабилизаторы (пектин, орто-фосфат натрия 2-замещенный, каррагинан), краситель пищевой сахарный колер III, консервант сорбат калия, сахар молочный пищевой (лактоза)",
+  "information": [
+    {
+      "value": "Кондитерское бюро",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "388",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Корм сухой Purina ONE с курицей и рисом для взрослых собак мелких и карликовых пород при активном образе жизни 1.5кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 479.99,
+  "priceWithCard": 451.19,
+  "promo": {
+    "discountedPriceRegular": 403.19,
+    "discountedPriceWithCard": 379.0,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "сухой белок домашней птицы, пшеница, курица (14%), животный жир, глютен, высушенная мякоть свеклы, рис (4%), растительное волокно, соевая мука, вкусоароматическая кормовая добавка, кукуруза, глицерин, минеральные вещества, пропиленгликоль, кукурузная крупа, консерванты, солодовая мука, витамины, рыбий жир, антиоксиданты",
+  "information": [
+    {
+      "value": "Purina One",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "28",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "372",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

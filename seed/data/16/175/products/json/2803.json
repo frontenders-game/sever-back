@@ -1,0 +1,29 @@
+{
+  "name": "Напиток чайный Принцесса Ява Каркадэ в пакетиках 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 47.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 27,
+  "ingredients": "лепестки суданской розы",
+  "information": [
+    {
+      "value": "Принцесса Ява",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

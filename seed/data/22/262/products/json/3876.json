@@ -1,0 +1,29 @@
+{
+  "name": "Антиперспирант Deonica For Men невидимый мужской ролик 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 189.99,
+  "priceWithCard": 176.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "aqua, aluminum chlorohydrate, steareth-2, steareth-21, ppg-15 stearyl ether, bisabolol, talc, parfum, tetrasodium edta, hydroxyisohexyl 3-cyclohexene carboxaldehyde limonene, linalool, coumarin, citronellol, citral, hydroxycitronellal",
+  "information": [
+    {
+      "value": "Deonica",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

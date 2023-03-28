@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Солнечная пчелка жевательные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 349.99,
+  "priceWithCard": 335.99,
+  "promo": {
+    "discountedPriceRegular": 290.49,
+    "discountedPriceWithCard": 278.87,
+    "discountPercent": 17,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Патока карамельная, сахар, вода питьевая, жир специального назначения (рафинированные дезодорированные растительные масла (пальмовое, пальмоядровое) эмульгатор Е 471)), влагоудерживающие агенты - сорбитовый сироп, глицерин; желатин, регуляторы кислотности (кислота лимонная, смесь молочной и лимонной кислот), эмульгатор - лецитин соевый, ароматизаторы натуральные: \"Ананас\", \"Клубника\", \"Малина\", \"Апельсин\", \"Лимон\", \"Яблоко\", \"Вишня\"; красители: \"Антоцианы\", \"Экстракт паприки\", \"Куркумин\", \"Синий патентованный V\". Содержит подсластитель (сорбитовый сироп), который при чрезмерном употреблении может оказывать слабительное действие. Может содержать следы молока.",
+  "information": [
+    {
+      "value": "СТМ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "84",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "405",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

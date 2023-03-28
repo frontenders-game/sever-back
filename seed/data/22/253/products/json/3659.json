@@ -1,0 +1,29 @@
+{
+  "name": "Мыло Aucm хозяйственное классическое 72% 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.49,
+  "priceWithCard": 30.54,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 60,
+  "ingredients": "натриевые соли жирных кислот натуральных жиров и масел, вода, глицерин, хлорид натрия, антиоксидант, диоксид титана",
+  "information": [
+    {
+      "value": "Aucm",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

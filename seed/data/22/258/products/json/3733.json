@@ -1,0 +1,34 @@
+{
+  "name": "Шампунь Syoss Men Power для нормальных волос, 450мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 429.99,
+  "priceWithCard": 412.79,
+  "promo": {
+    "discountedPriceRegular": 253.69,
+    "discountedPriceWithCard": 243.55,
+    "discountPercent": 41,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "Aqua, sodium laureth sulfate, cocamidopropyl betaine, peg-7 glyceryl cocoate, hydrolyzed keratin, nymphaea alba root extract, panthenol, prunus armeniaca kernel oil, sodium chloride, disodium cocoamphodiacetate, cocamide mea, glycol distearate, sodium benzoate, citric acid, laureth-4, peg-40 hydrogenated castor oil, parfum, hydrogenated castor oil, propylene glycol, peg-120 methyl glucose dioleate, polyquaternium-10, hexyl cinnamal, glycerin, sorbitol, hexyl salicylate, benzyl salicylate, linalool, formic acid, phenoxyethanol, potassium sorbate, mica, ci 77891.",
+  "information": [
+    {
+      "value": " Syoss",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

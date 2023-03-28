@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты КФ Крупской Ленинградские",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 449.99,
+  "priceWithCard": 427.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "сахар, патока, молоко цельное сгущенное с сахаром (молоко нормализованное, сахара (сахароза, лактоза)), масла растительные, какао-порошок, спирт этиловый ректификованный, арахис тертый, эмульгаторы (лецитин соевый, эфиры), ароматизаторы, антиокислители (Е319, кислота лимонная). Продукт может содержать следы диоксида серы",
+  "information": [
+    {
+      "value": "Славянка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "75",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

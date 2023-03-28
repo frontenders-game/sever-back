@@ -1,0 +1,61 @@
+{
+  "name": "Каша овсяная Mollis ассорти 6х40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 95.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "Каша овсяная с яблоком: хлопья овсяные, не требующие варки, сахар, яблоко сушеное, соль. Каша овсяная с абрикосом: хлопья овсяные, не требующие варки, сахар, абрикос сушеный, соль. Каша овсяная с лесными ягодами: хлопья овсяные, не требующие варки, сахар, ягоды сушеные (малина, черника, брусника), соль.",
+  "information": [
+    {
+      "value": "Mollis",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

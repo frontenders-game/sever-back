@@ -1,0 +1,61 @@
+{
+  "name": "Блины Морозко с творогом, 210г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 71.99,
+  "priceWithCard": 69.11,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "Творог, мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, масло сливочное, масло растительное, молоко сухое обезжиренное, меланж пастеризованный (продукт яичный), соль, разрыхлитель комплексная пищевая добавка: порошок пекарский \"Дуо\" (разрыхлители: пирофосфатнатрия, карбонат натрия; крахмал кукурузный, агент антислеживающий карбонат кальция), ароматизатор ванилин.",
+  "information": [
+    {
+      "value": "Морозко",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "199",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

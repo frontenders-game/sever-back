@@ -1,0 +1,34 @@
+{
+  "name": "Вода Aquagracio купажированная газированная",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.79,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 49.38,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "хим состав, мг/л: гидрокарбонаты 150-500, кальций 10-50, магний 2-20, натрий 100-450, калий 1-15, сульфаты 100-350, хлориды 90-370, минерализация 0.7-1.3 г/л",
+  "information": [
+    {
+      "value": "AquaGracio",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

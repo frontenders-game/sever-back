@@ -1,0 +1,58 @@
+{
+  "name": "Корм Katty с телятиной и индейкой в соусе для кошек 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 18.99,
+  "priceWithCard": 17.66,
+  "promo": {
+    "discountedPriceRegular": 15.19,
+    "discountedPriceWithCard": 14.13,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "мясо и мясные субпродукты ( в т.ч. телятина мин. 4%), фарш куриный, фарш индейки (мин. 4%), рыба и рыбные субпродукты, злаки, протеины животного происхождения, витаминно-минеральный комплекс для кошек, таурин. Не содержит ГМО",
+  "information": [
+    {
+      "value": "Katty",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "81",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

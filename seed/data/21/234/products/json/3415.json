@@ -1,0 +1,58 @@
+{
+  "name": "Колбаса Ногинский Брауншвейгская сырокопченая особая 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 293.99,
+  "promo": {
+    "discountedPriceRegular": 200.99,
+    "discountedPriceWithCard": 196.97,
+    "discountPercent": 33,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "филе куриное, свинина, говядина, шпик свиной, сль нитритная, соль поваренная пищевая, животный белок, антиокислитель - аскорбиновая кислота, регулятор кислотности - уксусная кислота, краситель - кармины, перец черный молотый",
+  "information": [
+    {
+      "value": "Ногинский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "42",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "435",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

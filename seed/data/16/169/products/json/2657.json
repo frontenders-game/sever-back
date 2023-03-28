@@ -1,0 +1,45 @@
+{
+  "name": "Кофе Московская кофейня на паяхъ арабика натуральный растворимый сублимированный 95г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 542.99,
+  "priceWithCard": 532.13,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "кофе натуральный растворимый сублимированный",
+  "information": [
+    {
+      "value": "Московская Кофейня На Пайяхъ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

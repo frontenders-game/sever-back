@@ -1,0 +1,29 @@
+{
+  "name": "Вода Архыз Легенда Гор минеральная природная питьевая столовая негазированная 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 52.19,
+  "priceWithCard": 49.58,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "химический состав, мг/л: гидрокарбонаты 50-200, кальций 5-50,магний 2-20, натрий+калий 5-50, сульфаты 5-15, хлориды 5-15, минерализация 0.1-0.25 г/л",
+  "information": [
+    {
+      "value": "Легенда Гор Архыз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

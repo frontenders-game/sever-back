@@ -1,0 +1,66 @@
+{
+  "name": "Торт Русская Нива Наполеон слоеный постный 340г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 239.99,
+  "priceWithCard": 225.59,
+  "promo": {
+    "discountedPriceRegular": 201.59,
+    "discountedPriceWithCard": 189.5,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "сироп глюкозно-фруктозный, мука пшеничная хлебопекарная высшего сорта, масла растительные, вода питьевая, агент влагоудерживающий — глицерин, сахар, соль, загустители: Е1442, камедь целлюлозы, эмульгаторы: Е471, Е475, лецитин соевый, ароматизаторы, красители: диоксид титана, каротины, экстракт паприки, регулятор кислотности — винная кислота, лимонная кислота, антиокислители: Е304, Е306, стабилизатор — карбоксиметилцеллюлоза натриевая соль, носитель — целлюлоза микрокристаллическая, ферментные препараты — амилаза, гемицеллюлаза, липаза (источник ферментов — культивированные микроорганизмы), антиокислитель — сульфит натрия, консерванты: пропионат кальция, сорбат калия",
+  "information": [
+    {
+      "value": "Русская нива",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

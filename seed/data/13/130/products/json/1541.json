@@ -1,0 +1,61 @@
+{
+  "name": "Пельмени Grand Meni с говядиной в сливочном соусе 750г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 519.98,
+  "priceWithCard": 483.58,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "фарш (говядина, свинина, филе куриных грудок, лук репчатый свежий, вода питьевая, соус сливочный (масло сливочное, сливки питьевые), натуральная растительная клетчатка, продукты яичные, соль, экстракты пряностей), тесто (мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное) В заботе о Вашем здоровье, мы обязаны указать возможность содержания в наших продуктах следующих аллергенов: горчица, кунжут, сельдерей, соя, орехи и продукты их переработки",
+  "information": [
+    {
+      "value": "Grand Meni",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "23",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "260",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

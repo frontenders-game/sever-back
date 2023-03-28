@@ -1,0 +1,61 @@
+{
+  "name": "Лакомство Зубочистики для здоровой шерсти и кожи для собак до 25кг 35г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 128.99,
+  "priceWithCard": 119.96,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "картофельный крахмал, пищевой глицерин, овсяная мука, авокадо, рыбий жир, масло ши, казеинат натрия, пивные дрожжи, натуральные вкусовые добавки, витаминный комплекс, кальций",
+  "information": [
+    {
+      "value": "Зубочистики",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11.38",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6.63",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.49",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "250",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

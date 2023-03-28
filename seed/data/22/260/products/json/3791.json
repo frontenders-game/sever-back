@@ -1,0 +1,34 @@
+{
+  "name": "Зубная щетка Colgate Зиг Заг Забота о деснах мягкая в ассортименте 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 105.99,
+  "priceWithCard": 102.81,
+  "promo": {
+    "discountedPriceRegular": 90.09,
+    "discountedPriceWithCard": 87.39,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Вьетнам",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

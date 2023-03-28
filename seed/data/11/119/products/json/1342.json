@@ -1,0 +1,61 @@
+{
+  "name": "Сушки Петрохлеб Малышок простые 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 81.49,
+  "priceWithCard": 79.86,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "Мука пшеничная хлебопекарная высший сорт, вода питьевая, жир специального назначения (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (пальмовое масло и его фракции, подсолнечное масло), эмульгатор Е322, антиокислители Е320 и Е321, сахар белый, соль поваренная пищевая, дрожжи хлебопекарные прессованные",
+  "information": [
+    {
+      "value": "Петрохлеб",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "365",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Вода Вартемяжская питьевая артезианская негазированная 6л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 74.99,
+  "priceWithCard": 70.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "К 0,2-20, Na 5.0-75. Ca 0.2-50. Mg 0.2-30. H2CO3 2.0-40. Cl 15-150. SO4 0.2-25",
+  "information": [
+    {
+      "value": "Вертемяжская",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

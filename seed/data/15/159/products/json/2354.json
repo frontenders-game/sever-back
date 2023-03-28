@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Шарлиз Американо сдобное 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 103.49,
+  "priceWithCard": 97.28,
+  "promo": {
+    "discountedPriceRegular": 90.04,
+    "discountedPriceWithCard": 84.63,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 37,
+  "ingredients": "мука пшеничная в/с, сахар, растительные масла, заменитель масла какао (растительное масло, эмульгаторы: Е492, соевый лецитин); хлопья овсяные, какао порошок, сыворотка молочная сухая, глюкозно-фруктозный сироп, разрыхлители: гидрокарбонат натрия, гидрокарбонат аммония, Е450(i); эмульгатор: соевый лецитин, Е471; ароматизаторы, краситель: Е160а; антиокислители: аскорбиновая кислота, альфа-токоферол, Е306. Может содержать следы арахиса, орехов, продуктов переработки яиц.",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "480",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

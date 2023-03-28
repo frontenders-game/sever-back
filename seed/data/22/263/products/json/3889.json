@@ -1,0 +1,29 @@
+{
+  "name": "Мыло Absolut с маслом чайного дерева, 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 47.99,
+  "priceWithCard": 43.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Натриевые соли жирных кислот животных жиров, пальмового, кокосового или пальмоядрового масел, вода, глицерин, парфюмерная композиция (бензилсалицилат, цитронеллол), хлорид натрия, антиоксидант-пластификатор, Д-пантенол (провитамин В5), экстракт прополиса, алоэ вера гель, масло чайного дерева, ЭДТА тетранатрия, гидроксид натрия, C.I. 77891, C.I. 12490.",
+  "information": [
+    {
+      "value": "Absolut",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

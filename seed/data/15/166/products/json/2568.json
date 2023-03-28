@@ -1,0 +1,61 @@
+{
+  "name": "Восточные сладости Невские берега сливочно-ореховые, 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 339.99,
+  "priceWithCard": 316.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "Сахар, молоко цельное сгущенное с сахаром (молоко цельное, сахар), арахис, жир кондитерский (рафинированные дезодорированные растительные масла: пальмовое, модифицированные пальмовые), патока, масло сливочное (сливки пастеризованные).",
+  "information": [
+    {
+      "value": "Невские Берега",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "72",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "430",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Пирожное Фили-Бейкер Муравьиный домик песочное, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 249.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Молоко сгущенное с сахаром вареное (молоко, сахар, лактоза), мука пшеничная в/с, яйца куриные, маргарин для песочного теста (масла растительные дезодорированные (подсолнечное, кокосовое), вода, эмульгатор лецитин), сахар-песок, крем на растительных маслах (вода, жир растительный, сахар, белок молочный, эмульгатор лецитин, стабилизатор - альгинат натрия, соль, ароматизатор, краситель - каротин), порошок пекарский (крахмал кукурузный, эмульгатор Е450i, разрыхлитель - гидрокарбонат натрия), консервант сорбиновая кислота, ароматизатор ванилин.nВозможно наличие следов кунжута, арахиса и орехов (фундук, миндаль, грецкий орех).",
+  "information": [
+    {
+      "value": "Фили-Бейкер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

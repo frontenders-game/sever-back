@@ -1,0 +1,58 @@
+{
+  "name": "Корм Pedigree с говядиной в соусе для взрослых собак всех пород 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 22.99,
+  "priceWithCard": 22.53,
+  "promo": {
+    "discountedPriceRegular": 20.0,
+    "discountedPriceWithCard": 19.6,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 39,
+  "ingredients": "мясо и субпродукты (в том числе говядина), пшеничная мука, продукты животного происхождения, минеральные вещества, свекловичный жом, подсолнечное масло, метионин, натуральный краситель, антиоксиданты",
+  "information": [
+    {
+      "value": "Pedigree",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

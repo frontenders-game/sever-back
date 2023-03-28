@@ -1,0 +1,29 @@
+{
+  "name": "Подгузники Honey Kid Midi 4-9кг 14шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 181.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "целлюлоза, нетканый материал, суперабсорбент, ламинированый нетканый материал, клей, эластичная нить",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

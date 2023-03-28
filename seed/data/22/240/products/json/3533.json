@@ -1,0 +1,29 @@
+{
+  "name": "Гель Econta Universal концентрированный для стиральных машин в водорастворимых капсулах 10шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 120.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "ПАВ 30 % и более;\nПропиленгликоль 15 % или более, но менее 30 %; Хелатирующие вещества 5 % или более, но менее 15 %; Бензилбензоат менее 5 %; Энзимы менее 5 %; Вода менее 5 %.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

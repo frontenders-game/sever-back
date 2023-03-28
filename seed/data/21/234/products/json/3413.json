@@ -1,0 +1,66 @@
+{
+  "name": "Колбаса полукопчёная Идель Говяжья Халяль категория Г, 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 205.79,
+  "promo": {
+    "discountedPriceRegular": 130.19,
+    "discountedPriceWithCard": 127.59,
+    "discountPercent": 38,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "говядина, мясо птицы механической обвалки, вода питьевая, соевый белок, мука пшеничная, соль нитритная (соль, фиксатор окраскинитрит натрия), комплексные пищевые добавки (, пряности:, перец черный, белый перец, перец душистый, стабилизаторы, пирофосфаты натрия, Е450i, Е450iii, E339i, регулятор кислотности трифосфаты натрия, Е451i, усилитель вкуса/ароматаглутамат натрия, Е627, Е631, антиокислитель:изоаскорбат натрия, экстракты пряностей:, лук, чеснок, мальтодекстрин, декстроза, ароматизатор), чеснок, краситель \"красный рисовый\", Продукт может содержать следы, используемых на производстве:, мяса баранин ы, индейки, молочного белка, крахмала картофельного",
+  "information": [
+    {
+      "value": "Идель",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "240",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

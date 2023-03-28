@@ -1,0 +1,61 @@
+{
+  "name": "Торт бисквитный Карат Плюс Чайный, 550г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 369.99,
+  "priceWithCard": 347.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 5,
+  "ingredients": "Арахис жареный дробленый, молоко цельное сгущенное с сахаром, яйцо куриное, маргарин, сахар-песок, вода, желток куриный, патока, смесь для бисквита, ароматизатор - ванилин, консервант - сорбиновая кислота.",
+  "information": [
+    {
+      "value": "Карат+",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "45",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "362",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

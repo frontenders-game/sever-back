@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад молочный Алёнка, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 237.49,
+  "promo": {
+    "discountedPriceRegular": 179.99,
+    "discountedPriceWithCard": 170.99,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 121,
+  "ingredients": "Сахар, сухое цельное молоко, масло какао, какао тёртое, эмульгаторы: лецитин соевый, E476; ароматизатор \"Ваниль\". Массовые доли: общего сухого остатка какао - не менее 29,8%; сухого обезжиренного остатка какао - не менее 5,7%; сухого обезжиренного остатка молока - не менее 16,3%; молочного жира - не менее 5,5%. Возможно наличие незначительных количеств арахиса, орехов: миндаля, фундука и кешью.",
+  "information": [
+    {
+      "value": "Аленка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

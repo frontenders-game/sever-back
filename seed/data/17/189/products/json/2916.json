@@ -1,0 +1,66 @@
+{
+  "name": "Хлебцы Protein Rex Crispy протеиново-злаковые кокосовый крамбл, 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 104.49,
+  "promo": {
+    "discountedPriceRegular": 90.19,
+    "discountedPriceWithCard": 85.68,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "Протеиновый комплекс (концентрат молочного белка, изолят горохового белка, концентрат сывороточного белка, овсяный белок), изомальтоолигосахариды (пищевые волокна), инулин (пищевые волокна), кокосовая стружка: миндальная мука, крупа рисовая, масло растительное, мука рисовая, кокосовое масло, какао-порошок, крупа кукурузная, молоко сухое обезжиренное, подсластитель эритрит, сукралоза: влагоудерживающий агент глицерин, соль поваренная пищевая, эмульгатор лецитин соевый, ароматизаторы натуральные.",
+  "information": [
+    {
+      "value": "Protein Rex",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "20",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "21.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "345.5",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

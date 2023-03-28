@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Фрутоняня овсяное 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.99,
+  "priceWithCard": 41.35,
+  "promo": {
+    "discountedPriceRegular": 27.27,
+    "discountedPriceWithCard": 25.64,
+    "discountPercent": 38,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "мука пшеничная, сахар, мука овсяная, масло кукурузное, пюре яблочное концентрированное, крахмал пшеничный, молоко сухое цельное, экстракт солодовый, пищевые волокна, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия, эмульгатор- лецитин соевый, пищевые яблочные волокна, ароматизатор «Ванилин», соль, корица молотая, витамины (РР, В6, фолиевая кислота, В2, В1)",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "68",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "418",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

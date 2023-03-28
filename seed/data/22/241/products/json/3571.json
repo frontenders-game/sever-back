@@ -1,0 +1,29 @@
+{
+  "name": "Гранулы Econta для прочистки сливных труб 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 23.99,
+  "priceWithCard": 22.55,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Сульфат натрия 30% и более, Гидроксид натрия 15% и более, но менее 30%.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

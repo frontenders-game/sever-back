@@ -1,0 +1,66 @@
+{
+  "name": "Мороженое пломбир Хладокомбинат №1 крем-брюле сахарная трубочка в шоколадной глазури, 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 68.99,
+  "priceWithCard": 66.92,
+  "promo": {
+    "discountedPriceRegular": 50.36,
+    "discountedPriceWithCard": 48.85,
+    "discountPercent": 27,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 79,
+  "ingredients": "Сироп крем-брюле (молоко цельное сгущенное с сахаром, сахар),  cливки, масло сливочное, молоко сухое обезжиренное, глюкозный сироп, сахар, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан; карамель (сахар, глюкозный сироп, вода)",
+  "information": [
+    {
+      "value": "Хладокомбинат №1",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "32",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "310",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

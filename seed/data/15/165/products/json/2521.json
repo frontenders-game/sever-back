@@ -1,0 +1,66 @@
+{
+  "name": "Вафли Коровка Топлёное молоко, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 174.59,
+  "promo": {
+    "discountedPriceRegular": 120.59,
+    "discountedPriceWithCard": 116.98,
+    "discountPercent": 33,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "Вода питьевая, мука пшеничная хлебопекарная, сахар, молоко кокосовое (негидрогенизированное рафинированное дезодорированное), сухое цельное молоко, заменитель масла какао (частично гидрогенизированная фракция пальмового масла, эмульгаторы: E492, лецитин соевый; антиокислители: токоферолы, концентрат смеси, лимонная кислота), масло подсолнечное рафинированное дезодорированное, меланж сухой яичный, какао-порошок, эмульгатор лецитин соевый, соль, ароматизатор «Молоко», разрыхлитель – гидрокарбонат натрия, регулятор кислотности - лимонная кислота.",
+  "information": [
+    {
+      "value": "Коровка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "530",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

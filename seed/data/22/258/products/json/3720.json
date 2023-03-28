@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь Pantene Pro-V Интенсивное восстановление 250мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 244.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "aqua, sodium laureth sulfate, sodium lauryl sulfate, glycol distearate, dimethicone, cocamidopropyl betaine, sodium citrate, cocamide mea, sodium xylenesulfonate, parfum, citric acid, sodium benzoate, polyquaternium-76, sodium chloride, glycerin, tetrasodium edta, linalool, hexyl cinnamal, panthenol, panthenyl ethyl ether, hydrochloric acid, magnesium nitrate, methylchloroisothiazolinone, magnesium chloride, methylisothiazolinone",
+  "information": [
+    {
+      "value": "Pantene",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Франция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

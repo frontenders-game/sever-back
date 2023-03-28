@@ -1,0 +1,45 @@
+{
+  "name": "Карамель Chupa Chups Мини ассорти клубника, яблоко, апельсин, кола",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 782.99,
+  "priceWithCard": 759.5,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "сахар, патока (из пшеницы), регуляторы кислотности (лимонная кислота, яблочная кислота, молочная кислота), ароматизаторы, краситель (красный свекольный, экстракт паприки, куркумин), экстракт солода из (ячменя), эмульгатор (соевый лецитин). Может содержать следы молока",
+  "information": [
+    {
+      "value": "Chupa Chups",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "95",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

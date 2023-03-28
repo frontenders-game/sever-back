@@ -1,0 +1,29 @@
+{
+  "name": "Чай Assand Jasmine Blossom зеленый с жасмином 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 97.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 13,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

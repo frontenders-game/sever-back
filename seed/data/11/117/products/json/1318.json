@@ -1,0 +1,61 @@
+{
+  "name": "Крекер Зерница с кунжутом и семенами льна, 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 40,
+  "ingredients": "Мука пшеничная в/с, масло подсолнечное рафинированное дезодорированное, вода, семена льна, мука ржаная обдирная, кунжут жареный, соль, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия), экстракт ячменно-солодовый, витаминно-минеральный премикс (витамины B1, В2,В6, PP- фолиевая кислота, железо, антислеживающий агент Е341 (iii), продукт может содержать следы арахиса, орехов, горчицы.",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "22",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

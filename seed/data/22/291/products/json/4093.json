@@ -1,0 +1,29 @@
+{
+  "name": "Средство для купания и шампунь Honey Kid 2в1 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 252.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, decyl glucoside, coco-glucoside (and) glyceryl oleate, sodium chloride, sodium cocoamphoacetate, disodium laureth sulfosuccianate, d-panthenol (vitamin b5), retinyl palmilate (vitamin a), tocopheryl acetate (vitamin e), chamomilla recutita flower extract, lavandula angustifolia flower extract, calendula officialis flower extract, parfum, disodium edta, citric acid, benzyl alcohol, methylisothiazolinone, methylchloroisothazolinone",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Батарейки Energizer Maximum ААА LR03, 4шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 389.99,
+  "priceWithCard": 354.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "указан на упаковке.",
+  "information": [
+    {
+      "value": "Energizer",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Швеция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

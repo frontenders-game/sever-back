@@ -1,0 +1,53 @@
+{
+  "name": "Тушка цыпленка охлажденная",
+  "unitsOfMeasurement": "кг",
+  "step": "1.8",
+  "priceRegular": 119.99,
+  "priceWithCard": 117.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "Мясо кур. Тушка цыпленка-бройлера потрошеная 1 сорта охлажденная/ТМ Куриное царство",
+  "information": [
+    {
+      "value": "Без бренда",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "190",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

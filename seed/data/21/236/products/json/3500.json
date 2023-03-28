@@ -1,0 +1,66 @@
+{
+  "name": "Ветчина Черкизово По-черкизовски 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 278.99,
+  "promo": {
+    "discountedPriceRegular": 179.99,
+    "discountedPriceWithCard": 167.39,
+    "discountPercent": 40,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "свинина, вода, мясо свинины механической обвалки, картофельный крахмал, декстроза, регуляторы кислотности (трифосфаты, пирофосфаты), усилитель вкуса и аромата (глутамат натрия 1-змещенный), говяжий белок, стабилизаторы (каррагинан, полифосфаты), загуститель (ксантановая камедь), антиокислители (аскорбат натрия, изоаскорбат натрия), ароматизаторы, соль, сахар, агент влагоудерживающий (лактат натрия), натуральные специи (белый перец, кардамон), краситель (кармины), фиксатор окраски - нитрит натрия",
+  "information": [
+    {
+      "value": "Черкизово",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "236",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

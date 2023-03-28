@@ -1,0 +1,66 @@
+{
+  "name": "Ватрушка Каравай Творожное наслаждение, 220г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 132.99,
+  "priceWithCard": 130.33,
+  "promo": {
+    "discountedPriceRegular": 79.79,
+    "discountedPriceWithCard": 78.2,
+    "discountPercent": 40,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, творог, вода питьевая, сахар, продукты яичные, основа кондитерская (сахар, загуститель Е1422, масла (жиры) растительные рафинированные дезодорированные, загустители: альгинат натрия, гуаровая камедь, соль, стабилизатор ацетат кальция, ароматизатор, краситель каротины), маргарин (рафинированные дезодорированные растительные масла, вода, эмульгаторы (моно- и диглицериды жирных кислот, Е433, лецитин соевый), консерванты (сорбиновая кислота, бензоат натрия), краситель каротины, ароматизатор, регулятор кислотности лимонная кислота), дрожжи хлебопекарные, соль (агент антислеживающий Е536), эмульгатор Е482, антиокислитель аскорбиновая кислота, вещество для обработки муки Е920, ароматизатор. Продукт может содержать следы орехов и продукты их переработки.",
+  "information": [
+    {
+      "value": "Каравай",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "41",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "357",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

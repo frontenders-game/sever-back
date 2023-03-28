@@ -1,0 +1,61 @@
+{
+  "name": "Хлеб Каравай Английский диетический нарезка 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.49,
+  "priceWithCard": 63.53,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, смеси зерновые (мука пшеничная хлебопекарная высшего сорта, семя подсолнечника, мука ржаная обдирная, семя льна, глютен пшеничный, отруби пшеничные, семя тыквы, хлопья овсяные, мука пшеничная витаминизированная, карамелизованный жженый сахар, сахар, соль(агент антислеживающий Е536), закваска сухая пшеничная, эмульгатор Е472е, антиокислитель аскорбиновая кислота, носитель Е170, вещество для обработки муки L- цистеин), дрожжи хлебопекарные. Продукт может содержать следы масла горчичного, соевых, молочных продуктов",
+  "information": [
+    {
+      "value": "Каравай  ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "42",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "310",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

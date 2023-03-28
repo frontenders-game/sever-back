@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Milka Bubbles молочный пористый c кокосовой начинкой 92г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 87.29,
+  "promo": {
+    "discountedPriceRegular": 80.09,
+    "discountedPriceWithCard": 77.69,
+    "discountPercent": 11,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 31,
+  "ingredients": "Сахар, масло какао, какао тертое, жир растительный (масло пальмовое), сыворотка сухая молочная, молоко сухое цельное, жир молочный, молоко сухое обезжиренное, стружка кокосовая, эмульгаторы (лецитин соевый, Е476), паста ореховая (фундук), ароматизаторы.",
+  "information": [
+    {
+      "value": "Milka",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "33",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "131",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса варёная Велком Докторская кусок, 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 239.99,
+  "priceWithCard": 232.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "свинина, говядина, вода, молоко сухое, соль натритная ( сол, фиксатор окраски  нитрит натрия, порошок яичный сахар регуляторы кислотности пирофосфат натрия, трифосфат натрия усилитель вкуса и аромата глутамат натрия, экстракт мускатного ореха кардамона, антиокислитель аскорбат натрия. НЕ СОДЕРЖИТ _ГМО На предприятии используются горчица, злаки, сельдерей и продукты их переработки.",
+  "information": [
+    {
+      "value": "Велком",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "225",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

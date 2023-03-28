@@ -1,0 +1,45 @@
+{
+  "name": "Корм сухой Purina ONE с индейкой и цельными злаками для взрослых кошек при домашнем образе жизни 1.5кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 727.99,
+  "priceWithCard": 669.75,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 13,
+  "ingredients": "индейка (18%), кукурузный глютен, злаки (15%), кукуруза, концентрат белка гороха, сухой белок домашней птицы, животный жир , высушенный корень цикория (2%), минеральные вещества, кормовая вкусоароматическая добавка, дрожжи (1%), рыбий жир, витамины",
+  "information": [
+    {
+      "value": "Purina One",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "34",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    }
+  ]
+}

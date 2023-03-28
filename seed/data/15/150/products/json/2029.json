@@ -1,0 +1,61 @@
+{
+  "name": "Пирожное Карат плюс Трубочки слоеные сливочные 140г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 100.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 5,
+  "ingredients": "мука пшеничная хлебопекарная высший сорт, вода, маргарин (рафинированные дезодорированные растительные жиры и масла, вода, эмульгаторы: лецитин, соль, регулятор кислотности лимонная кислота, консервант сорбат калия, ароматизатор сливочного масла идентичный натуральному, натуральные красители: аннато, куркумин), сахар-песок, вода, молоко цельное ультрапастеризованное 3, 2% жирности, яйцо куриное, желток яичный, соль поваренная пищевая, смесь для бисквита (разрыхлители:пирофосфат натрия, сода пищевая, ароматизатор), ароматизатор-ванилин, регулятор кислотности-лимонная кислота, консервант-сорбиновая кислота",
+  "information": [
+    {
+      "value": "Карат+",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "35",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "40",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "488",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

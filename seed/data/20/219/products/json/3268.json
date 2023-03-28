@@ -1,0 +1,61 @@
+{
+  "name": "Творог Тема со вкусом клубники и банана 4.2% 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.99,
+  "priceWithCard": 36.25,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "Нормализованное молоко, наполнитель «Клубника-банан» (сахарный сироп; пюре клубники; сок и пюре банана; сок моркови; сок красной свеклы; кукурузный крахмал; натуральные ароматизаторы; концентрированный лимонный сок), закваска молочнокислых культур и бифидобактерий.",
+  "information": [
+    {
+      "value": "Тёма",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "109",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

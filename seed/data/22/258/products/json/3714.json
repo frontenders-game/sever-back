@@ -1,0 +1,29 @@
+{
+  "name": "Бальзам Bodyart для всех типов волос 350мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "water (aqua), cetearyl alcohol, ceteareth-20, cetrimonium chloride, behentrimonium chloride, hydroxyethylcellulose, aloe barbadensis leaf extract (экстракт алоэ вера), urtica dioica (nettle) leaf extract (экстракт крапивы), chamomilla recutita (matricaria) flower extract (экстракт ромашки), calendula officinalis flower extract (экстракт календулы), hippophae rhamnoides (sea buckthorn) oil (облепиховое масло), hydrolyzed keratin (кератин), parfum (fragrance), propylene glycol, magnesium chloride, magnesium nitrate, methylchloroisothiazolinone, methylisothiazolinone, hexyl cinnamal, butylphenyl methylpropional, linalool",
+  "information": [
+    {
+      "value": "Bodyart",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Колбаса сырокопчёная Останкино Ароматная, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 86.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Свинина, соевый белок, комплексные пищевые добавки (горчичная мука, сахар, пряности (в т.ч.мускатный орех), усилитель вкуса и аромата Е621, регуляторы кислотности: Е575, Е450(i); стабилизатор Е471, ароматизаторы, антиокислители: аскорбиновая кислота, Е301, Е316, Е330); соль, нитритно-посолочная смесь (соль, фиксатор окраски Е250), красители: Е120, рис красный ферментированный; стартовая культура.",
+  "information": [
+    {
+      "value": "Останкино",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "65",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "641",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

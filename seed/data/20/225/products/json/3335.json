@@ -1,0 +1,61 @@
+{
+  "name": "Печенье детское Бонди Бегемотик обогащенное кальцием с 5 мес. 180г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 85.99,
+  "priceWithCard": 80.83,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "мука пшеничная хлебопекарная высший сорт, сахар-песок, масло сливочное высший сорт, яйцо куриное, вода питьевая, экстракт солодовый, молоко сухое цельное, минеральные внщества (лактат кальция, кальций фосфорнокислый (однозамещенный), железо сернокислое (II) семиводное чистое), крахмал кукурузный, разрыхлитель (карбонаты натрия), витамины: С, РР, В1, В2",
+  "information": [
+    {
+      "value": "Бегемотик Бонди",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

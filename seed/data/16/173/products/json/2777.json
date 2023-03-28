@@ -1,0 +1,34 @@
+{
+  "name": "Чай Майский Отборный черный цейлонский в пакетиках 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 72.99,
+  "priceWithCard": 70.8,
+  "promo": {
+    "discountedPriceRegular": 60.58,
+    "discountedPriceWithCard": 58.76,
+    "discountPercent": 17,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "цейлонский черный мелколистовой чай",
+  "information": [
+    {
+      "value": "Майский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

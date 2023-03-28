@@ -1,0 +1,61 @@
+{
+  "name": "Хлебец Энергия здоровья Подовый с зернами и семенами нарезка 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 68.99,
+  "priceWithCard": 66.92,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, отруби пшеничные, семена подсолнечника, семена льна, глютен пшеничный, сахар, дрожжи хлебопекарные, соль (соль, агент антислеживающий Е536), масло подсолнечное нерафинированное, добавка комплексная пищевая (мука пшеничная, фермент микробного происхождения, антиокислитель – кислота аскорбиновая), зерно пшеницы плющеное, зерно ржи плющеное, зерно овсяное резаное, краситель - сахарный колер, стабилизатор – ацетат кальция.",
+  "information": [
+    {
+      "value": "Энергия здоровья",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "44.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "278",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

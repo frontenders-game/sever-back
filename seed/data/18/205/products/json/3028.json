@@ -1,0 +1,61 @@
+{
+  "name": "Ветчина варёная Черкизово из индейки, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 201.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 38,
+  "ingredients": "Мясо кур, вода, крахмал картофельный, мясо индейки, концентрат соединительного белка, молочная сыворотка, стабилизатор (каррагинан), декстроза, регуляторы кислотности (трифосфат натрия, ацетаты натрия, фосфаты кальция), агент желирующий (хлорид калия), антиокислители (изоаскорбат натрия, лимонная кислота), соль нитритная (соль, фиксатор окраски - нитрит натрия), альбумин, краситель (кармин), мальтодекстрин.",
+  "information": [
+    {
+      "value": "Империя Вкуса",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "83",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

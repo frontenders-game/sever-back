@@ -1,0 +1,29 @@
+{
+  "name": "Набор фломастеров Colorio Kinderline 12 цветов 12шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 101.89,
+  "priceWithCard": 96.8,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "полипропилен",
+  "information": [
+    {
+      "value": "Colorio Kinderline",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

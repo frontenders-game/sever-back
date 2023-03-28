@@ -1,0 +1,29 @@
+{
+  "name": "Чай Beta tea Королевское качество черный байховый мелколистовой 25x1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 91.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "чай черный байховый мелкий лист",
+  "information": [
+    {
+      "value": "Beta Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

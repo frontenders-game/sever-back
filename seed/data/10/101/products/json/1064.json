@@ -1,0 +1,61 @@
+{
+  "name": "Биотворог Сарафаново Яблоко-груша 4.5% 120г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.99,
+  "priceWithCard": 32.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Молоко нормализованное, наполнитель (сахар, вода, кукурузный крахмал, натуральные ароматизаторы, загуститель пектин, регулятор кислотности лимонная кислота, загуститель гуаровая камедь, концентрированное пюре из яблок, концентрированное пюре из груши), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
+  "information": [
+    {
+      "value": "Сарафаново",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "115",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

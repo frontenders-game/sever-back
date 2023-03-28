@@ -1,0 +1,66 @@
+{
+  "name": "Вафли Коломенское Каприччио 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 86.39,
+  "promo": {
+    "discountedPriceRegular": 70.19,
+    "discountedPriceWithCard": 67.38,
+    "discountPercent": 22,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "мука пшеничная общего назначения М55-23, сахар белый, жир кондитерский (рафинированное дезодорированное растительное масло в натуральном и модифицированном виде (пальмовое), эмульгатор соевый лецитин, антиокислитель концентрат смеси токоферолов), какао-порошок,  крахмал кукурузный, эмульгатор соевый лецитин, соль,  шоколад темный (сахар белый, какао тертое, масло какао, эмульгатор соевый лецитин, эмульгатор Е476, ароматизатор «Ванилин»), разрыхлитель - гидрокарбонат натрия (сода пищевая), ароматизатор.  Продукт может содержать следы арахиса, миндаля, фундука, молочных продуктов",
+  "information": [
+    {
+      "value": "БКК Коломенское",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "491",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

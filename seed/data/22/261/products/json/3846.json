@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки бумажные Tolli Plus 3 цвета, 75шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 34.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 48,
+  "ingredients": "Целлюлоза 100%.",
+  "information": [
+    {
+      "value": "Tolli",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

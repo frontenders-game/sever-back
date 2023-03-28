@@ -1,0 +1,61 @@
+{
+  "name": "Яйцо Kinder Joy из молочного шоколада с игрушкой в ассортименте 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 128.99,
+  "priceWithCard": 121.25,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 65,
+  "ingredients": "Сахар, растительные жиры, сухое обезжиренное молоко, пшеничная мука, обезжиренный какао-порошок, ростки пшеницы, пшеничный крахмал, тертое какао, сухой экстракт ячменного солода, эмульгатор: лецетин, растительное масло, сывороточные белки, масло какао, ароматизаторы, разрыхлители: Е500ii, E503ii; соль.",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "56.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

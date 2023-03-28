@@ -1,0 +1,29 @@
+{
+  "name": "Гель для душа Рецепты бабушки Агафьи Яблоневый цвет увлажняющий 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 167.99,
+  "priceWithCard": 154.55,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 10,
+  "ingredients": "aqua with infusions of pyrus malus fruit extract (экстракт диких яблок), mentha piperita water (гидролат мяты перечной), hypericum perforatum extract (гидролат зверобоя), betula alba juice (березовый сок), prunus padus extract (экстракт черемухи); pyrus malus seed oil (масло семян яблок), sodium laureth sulfate, cocamidopropyl betaine, coco-glucoside, benzyl alcohol, sodium benzoate, potassium sorbate, sodium chloride, citric acid, parfum, CI 16035.",
+  "information": [
+    {
+      "value": "Рецепты бабушки Агафьи",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный Белорусский узор С Варёнкой глазированный 15% 45г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.99,
+  "priceWithCard": 30.68,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "творог, сахар, глазурь кондитерская (сахар, заменитель масла какао нетемперируемый лауринового типа (фракционированное, гидрогенизированное пальмоядровое масло, эмульгаторы: Е492, Е322) како-порошок, эмульгаторы: лецитин соевый, Е 476, ароматизатор \"Ванилин\"); крем на молочной основе с сахаром \"Варёнка\" (сахар, молоко сухое обезжиренное, заменитель молочного жира (рафинированные дезодорированные масла в натуральном и модифицированном виде (пальмовое масло и его фракции, подсолнечное масло), эмульгаторы - Е471, Е322; антиокислители - Е320, Е321); масло сливочное",
+  "information": [
+    {
+      "value": "Белорусский узор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "39.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360.7",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

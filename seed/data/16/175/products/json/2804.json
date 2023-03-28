@@ -1,0 +1,29 @@
+{
+  "name": "Чай Greenfield Summer Bouquet травяной в пакетиках 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 128.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "гибискус, измельченные плоды шиповника, яблоко сушеное, ароматизатор «малина», измельченные ягоды малины",
+  "information": [
+    {
+      "value": "Greenfield",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

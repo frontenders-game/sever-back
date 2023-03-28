@@ -1,0 +1,66 @@
+{
+  "name": "Салями Иней Финская варено-копченая 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 189.99,
+  "promo": {
+    "discountedPriceRegular": 135.99,
+    "discountedPriceWithCard": 129.19,
+    "discountPercent": 32,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "свинина, шпик, мясо кур, шкурка свиная, вода питьевая, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), белок животный говяжий, стабилизатор (дигидропирофосфат натрия), регулятор кислотности (трифосфат натрия), декстроза, усилитель вкуса и аромата (глутамат натрия), антиокислитель (изоаскорбат натрия), ароматизаторы (перец белый, мускатный орех, лук, сельдерей), пряности молотые (горчица, пажитник), молоко сухое, мальтодекстрин, молочный белок, крахмал картофельный, краситель (кармин)",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

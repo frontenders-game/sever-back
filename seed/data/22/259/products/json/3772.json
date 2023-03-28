@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Always Ultra secure night, 12шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 239.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Целлюлоза распушенная, абсорбент айрлейд, спанбонд.",
+  "information": [
+    {
+      "value": "Always",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Венгрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

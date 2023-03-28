@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Fresh Cola сильногазированный 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 45.99,
+  "priceWithCard": 42.77,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "Ввода питьевая подготвленная, сахар, ароматизатор натуральный \"тип Кол, часть 2\" (содержит краситель Е150d, стабилизатор гуммиарабик), ароматизатор \"Кола, часть 1\" (содержит регулятор кислотности ортофосфорная кислота, краситель Е150d, ароматизатор: кофеин), регулятор кислотности лимонная кислота, консервант бензоат натрия.",
+  "information": [
+    {
+      "value": "Fresh  ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "43",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

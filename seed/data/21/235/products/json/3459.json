@@ -1,0 +1,66 @@
+{
+  "name": "Шпикачки варёные Папа может сочные категория В, 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 281.99,
+  "promo": {
+    "discountedPriceRegular": 170.99,
+    "discountedPriceWithCard": 160.73,
+    "discountPercent": 43,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 8,
+  "ingredients": "Свинина, вода, белковый стабилизатор, шпик, филе грудок куриных, крахмал картофельный, комплексные пищевые добавки (регуляторы кислотности: пирофосфаты, трифосфаты, ацетаты и цитраты натрия; сахар, стабилизаторы: ксантановая камедь, моно- и диглицериды жирных кислот; пряности (в т.ч.сельдерей, горчичное семя), ароматизаторы, усилитель вкуса и аромата Е621, антиокислитель изоаскорбат натрия); масло подсолнечное, соль, растительная клетчатка, животный белок говяжий, краситель кармины.",
+  "information": [
+    {
+      "value": "Папа может",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "319",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

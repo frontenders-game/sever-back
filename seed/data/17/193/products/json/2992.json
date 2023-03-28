@@ -1,0 +1,61 @@
+{
+  "name": "Суп Knorr сырный с сухариками, 15.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 23.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 40,
+  "ingredients": "Крахмал картофельный, мальтодекстрин, сухарики (пшеничная мука, растительное масло, соль, дрожжи, антиокислитель экстракт розмарина), соль, пшеничная мука, растительный жир, сыр, усилители вкуса и аромата (глутамат, инозинат и гуанилат натрия); лактоза, дрожжевой экстракт, сахар, ароматизатор сыра (содержит молочные продукты), молочный белок, репчатый лук, зеленый лук, основа для бульона с пряностями, куркума, загуститель ксантановая камедь, регулятор кислотности лимонная кислота.",
+  "information": [
+    {
+      "value": "Knorr",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

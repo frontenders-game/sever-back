@@ -1,0 +1,29 @@
+{
+  "name": "Лампа Старт Eco LED Candle E14 7W",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 136.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Старт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

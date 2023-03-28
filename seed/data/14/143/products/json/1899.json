@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Positivity кола 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 127.39,
+  "promo": {
+    "discountedPriceRegular": 90.99,
+    "discountedPriceWithCard": 82.8,
+    "discountPercent": 35,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "вода питьевая подготовленная, сахар, ароматизатор натуральный «тип Кола, часть 2» (содержит краситель Е150d, стабилизатор гуммиарабик), ароматизатор «Кола, часть 1» (содержит регулятор кислотности ортофосфорная кислота, краситель Е150d, ароматизатор: кофеин), регулятор кислотности лимонная кислота, консервант бензоат натрия",
+  "information": [
+    {
+      "value": "Positivity",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "43",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

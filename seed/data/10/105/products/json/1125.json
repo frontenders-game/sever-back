@@ -1,0 +1,61 @@
+{
+  "name": "Спред Voimix 60% 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 148.99,
+  "priceWithCard": 135.58,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Спред растительно-жировой \"Воймикс\" с массовой долей жира 60% (максимальное содержание в жировой фазе продукта насыщенных жирных кислот 33%, трансизомеров жирных кислот 1,2%). Состав: масла растительные рафинированные дезодорированные (рапсовое, пальмовое, подсолнечное), вода, соль, эмульгаторы (моно- и диглицериды жирных кислот, лецитин соевый), консервант сорбат калия, краситель бета-каротин, регулятор кислотности лимонная кислота, ароматизатор \"сливочное масло\", витамины А и D.",
+  "information": [
+    {
+      "value": "null",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "60",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "549",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Батончик шоколадный Twix Экстра с печеньем 82г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 65.79,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 47.37,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 76,
+  "ingredients": "Молочный шоколад (общий чухой остаток какао – не менее 25%; сухой обезжиренный остаток какао – не менее 4%; сухой молочный остаток – не менее 20%; молочный жир – не менее 3,5%): сахар, какао масло, какао тертое, лактоза, сухое цельное молоко, сухая молочная сыворотка, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин); карамель: глюкозный сироп (кукурузный, пшеничный), сахар, масло пальмовое рафинированное дезодорированное, сухое обезжиренное молоко, соль, ароматизатор (ванилин); печенье: пшеничная мука, жир специального назначения (пальмовое масло), сахар, какао порошок, соль, разрыхлитель (гидрокарбонат натрия), ароматизатор (ванилин). Содержит глютен. Может содержать незначительное количество яичного белка, арахиса",
+  "information": [
+    {
+      "value": "Twix",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "495",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

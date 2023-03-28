@@ -1,0 +1,50 @@
+{
+  "name": "Напиток ФрутоНяня яблоко, липа, ромашка сокосодержащий без сахара 0.2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 43.99,
+  "priceWithCard": 41.79,
+  "promo": {
+    "discountedPriceRegular": 32.99,
+    "discountedPriceWithCard": 31.34,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "сок из яблок, экстракт липового цвета, экстракт ромашки, арнтиокислитель - кислота аскорбиновая, вода",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "36",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт Растишка Клубничный пломбир 2.8% 190г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 74.99,
+  "priceWithCard": 71.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "молоко нормализованное, наполнитель (сахар, сахарный сироп, вода, пюре клубники концентрированное, кальция цитрат (источник кальция), кукурузный крахмал, натуральные ароматизаторы, сок черной моркови концентрированный, витамин D3, сок лимона концентрированный), йогуртовая закваска. Может содержать следы соевого лецитина ",
+  "information": [
+    {
+      "value": "Растишка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "81",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

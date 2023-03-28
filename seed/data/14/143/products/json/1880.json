@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Rich Bitter Лемон газированный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 109.99,
+  "priceWithCard": 103.39,
+  "promo": {
+    "discountedPriceRegular": 90.19,
+    "discountedPriceWithCard": 84.78,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "очищенная вода, сахар, лимонный сок 2%, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный, молочная кислота), ароматизаторы, стабилизатор эфиры глицерина и смоляных кислот, антиокислители (альфа-Токоферол, аскорбиновая кислота), хинин, подсластители (ацесульфам калия, сахарин натриевая соль), краситель каротины, консервант сорбат калия.",
+  "information": [
+    {
+      "value": "Rich",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "31",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

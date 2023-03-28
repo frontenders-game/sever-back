@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад молочный Milka с соленым крекером Tuc 87г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 94.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 40,
+  "ingredients": "Сахар, масло какао, мука пшеничная, молоко сухое обезжиренное, какао тертое, сыворотка сухая молочная, жир молочный, масло пальмовое, сироп глюкозный, солодовый экстракт из ячменя, эмульгаторы (лецитин соевый, Е476), соль, крахмал пшеничный, разрыхлители (натрия гидрокарбонат, аммония гидрокарбонат, Е 450i), консервант (пиросульфит натрия), масло сливочное, молоко сухое цельное, ароматизаторы.",
+  "information": [
+    {
+      "value": "Milka",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Венгрия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

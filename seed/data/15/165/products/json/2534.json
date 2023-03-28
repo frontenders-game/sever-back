@@ -1,0 +1,61 @@
+{
+  "name": "Вафли Сампо 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 62.49,
+  "priceWithCard": 59.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 18,
+  "ingredients": "сахарная пудра, жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и отвержденном виде, антиоксиданты (Е-320; Е-321)), мука пшеничная в/с, вода, какао-порошок, желтки яичные, молоко сухое, соль поваренная пищевая, разрыхлитель сода пищевая, ароматизатор идентичный натуральному ванилин",
+  "information": [
+    {
+      "value": "Сампо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "559",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

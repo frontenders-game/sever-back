@@ -1,0 +1,21 @@
+{
+  "name": "Лук зеленый в пакете 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 46.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "Лук зелёный ",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

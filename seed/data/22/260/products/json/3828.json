@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Sensodyne Ежедневная защита Морозная мята 65г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 173.99,
+  "priceWithCard": 161.81,
+  "promo": {
+    "discountedPriceRegular": 151.37,
+    "discountedPriceWithCard": 140.77,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "aqua, sorbitol, hydrated silica, potassium nitrate, glycerin, sodium lauryl sulfate, aroma, xanthan gum, titanium dioxide, sodium fluoride, sodium saccharin, sodium hydroxide, limonene. массовая доля фторида 0,1450% f (1450 ppm). содержит фтористый натрий",
+  "information": [
+    {
+      "value": "Sensodyne",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Словакия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

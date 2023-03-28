@@ -1,0 +1,61 @@
+{
+  "name": "Пельмени Бигбули с мясом 900г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 372.99,
+  "priceWithCard": 346.88,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "мука пшеничная хлебопекарная высший сорт, вода питьевая, свинина, мясо птицы кусковое, говядина, мясо цыпленка-бройлера механической обвалки, лук репчатый свежий, соевый белок, масло растительное, соль, белок животный свиной, пшеничная клетчатка, разрыхлитель: пирофосфаты, антиокислитель: аскорбиновая кислота, загустители (каррагинан из водорослей euchema, гуаровая камедь, конжак), пряности и экстракты пряностей (в т.ч. горчица, сельдерей). в заботе о вашем здоровье, мы обязаны указать возможность содержания в наших продуктах следов следующих аллергенов: кунжута, орехов, яиц и продуктов их переработки",
+  "information": [
+    {
+      "value": "Бигбули",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "10",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "29",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "240",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

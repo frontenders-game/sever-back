@@ -1,0 +1,61 @@
+{
+  "name": "Жевательная резинка Dirol Арбузно-дынный коктейль без сахара 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 37.49,
+  "priceWithCard": 34.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Подсластители (сорбит, ксилит, маннит, мальтитный сироп, аспартам, сукралоза, ацесульфам калия), резиновая основа, регуляторы кислотности (Е296, Е330), ароматизаторы, влагоудерживающие агенты (Е422, Е1518), загуститель (Е414), эмульгаторы (лецитин подсолнечный, Е472а), масло растительное (кокосовое), краситель (Е171), глазирователь (Е903), антиокислитель (Е321).",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "170",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

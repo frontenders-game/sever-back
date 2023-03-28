@@ -1,0 +1,58 @@
+{
+  "name": "Балык Великолукский МК свиной сырокопченый нарезка 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 234.99,
+  "promo": {
+    "discountedPriceRegular": 169.99,
+    "discountedPriceWithCard": 159.79,
+    "discountPercent": 32,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "свинина (спинная и поясничная часть длиннейшей мышцы), натуральные пряности (кориандр, ягоды можжевельника, перец чёрный), соль, стабилизатор (Е 450i), сахар, антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
+  "information": [
+    {
+      "value": "Великолукский мясокомбинат",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "16",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "180",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

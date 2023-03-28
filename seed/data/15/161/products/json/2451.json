@@ -1,0 +1,45 @@
+{
+  "name": "Мармелад Шарлиз Французский сад желейный 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 129.99,
+  "priceWithCard": 118.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "сахар, патока, вода питьевая, агент влагоудерживающий  сорбитовый сироп, комплексная пищевая добавка (агент желирующий  пектин, сахароза, стабилизатор Е 452i), порошок фруктовый «Яблочный» ( мальтодекстрин, сок яблочный концентрированный), регуляторы кислотности (кислота лимонная, цитраты  натрия), концентрированный сок чёрной моркови, ароматизаторы  («Ананас», «Клубника», «Чёрная смородина»,  «Апельсин»), красители ( кармины,  лютеин, каротины).",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "80",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "320",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

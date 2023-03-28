@@ -1,0 +1,42 @@
+{
+  "name": "Чай Азерчай Букет черный байховый в пакетиках 100х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 310.39,
+  "promo": {
+    "discountedPriceRegular": 201.59,
+    "discountedPriceWithCard": 195.55,
+    "discountPercent": 37,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "Чай черный байховый, сорт Букет.",
+  "information": [
+    {
+      "value": "Азерчай",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

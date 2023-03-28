@@ -1,0 +1,29 @@
+{
+  "name": "Чай Assand Famous Ceylon черный 100х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 294.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "чай черный байховый цейлонский высший сорт",
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

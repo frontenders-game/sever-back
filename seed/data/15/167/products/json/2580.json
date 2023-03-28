@@ -1,0 +1,66 @@
+{
+  "name": "Жевательная резинка Dirol X-Fresh Арбузный лёд без сахара 16г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 62.39,
+  "promo": {
+    "discountedPriceRegular": 40.29,
+    "discountedPriceWithCard": 38.68,
+    "discountPercent": 38,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 27,
+  "ingredients": "подсластители (ксилит, изомальт, сорбит, мальтитный сироп, аспартам, ацесульфам калия), резиновая основа, ароматизаторы, загуститель (Е 414), регулятор кислотности (Е 330), эмульгатор (лецитин), влагоудерживающий агент (Е 1518), красители (Е 160а, Е 120, Е 163)",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "69",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "189",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

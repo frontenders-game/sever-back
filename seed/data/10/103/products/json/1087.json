@@ -1,0 +1,61 @@
+{
+  "name": "Сырок глазированный Чудо Шоколад 25.6% 40г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 33.99,
+  "priceWithCard": 32.97,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "Творожная основа (творог, масло сливочное, сахар, какао-порошок, загуститель – Е1414, стабилизатор – альгинат натрия, консервант – сорбат калия, ароматизатор «Шоколад»), глазурь (сахар, заменитель масла какао нетемперируемый лауринового типа (пальмоядровый стеарин, эмульгаторы (Е492, Е322)), какао-порошок, заменитель молочного жира (растительные масла и их фракции в различных соотношениях (пальмовое, соевое, рапсовое, подсолнечное, пальмоядровое), эмульгатор – моно- и диглицериды жирных кислот, антиокислитель – Е306, краситель – каротины), эмульгатор – лецитины, ароматизатор).",
+  "information": [
+    {
+      "value": "Чудо",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "31.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "396",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

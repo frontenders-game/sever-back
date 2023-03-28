@@ -1,0 +1,61 @@
+{
+  "name": "Батончик шоколадный КФ Крупской с помадно-сливочной начинкой и молотым орехом 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 47.19,
+  "priceWithCard": 44.83,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 42,
+  "ingredients": "Сахар, какао тёртое, молоко цельное сгущённое с сахаром (цельное молоко, обезжиренное молоко, сахар (сахароза, лактоза)), какао-масло, масло сливочное, патока крахмальная, спирт этиловый ректификованный, эмульгаторы: лецитин соевый Е322, Е476, ароматизаторы: «Ванильный», «Ваниль», консервант — сорбат калия Е202.",
+  "information": [
+    {
+      "value": "Славянка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "24",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "62",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

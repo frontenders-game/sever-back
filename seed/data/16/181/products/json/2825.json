@@ -1,0 +1,45 @@
+{
+  "name": "Кисель Русский продукт Клюквенный 190г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 58.49,
+  "priceWithCard": 56.15,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "сахар и сироп глюкозно-фруктозный, крахмал ( картофельный, кукурузный) сок клюквенный натуральный концентрированный, регулятор кислотности - кислота лимонная, ароматизатор, краситель - антоцианин",
+  "information": [
+    {
+      "value": "Русский Продукт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "91",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "360",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

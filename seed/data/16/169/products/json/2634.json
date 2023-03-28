@@ -1,0 +1,61 @@
+{
+  "name": "Напиток кофейный MacCoffee Original 3в1 растворимый 20г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 17.99,
+  "priceWithCard": 16.91,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 127,
+  "ingredients": "Сахар, заменитель сливок (сироп глюкозы, растительные жиры, молочный белок, лактоза, стабилизаторы (Е340ii, E341iii, E452i), эмульгаторы (E471, E472e)), мальтодекстрин, кофе натуральный растворимый.",
+  "information": [
+    {
+      "value": "MacCoffee",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "86",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

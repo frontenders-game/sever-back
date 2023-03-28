@@ -1,0 +1,66 @@
+{
+  "name": "Пирожное БКК Киров Kwest 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 47.99,
+  "priceWithCard": 46.07,
+  "promo": {
+    "discountedPriceRegular": 40.31,
+    "discountedPriceWithCard": 38.7,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 75,
+  "ingredients": "сахар белый, мука пшеничная хлебопекарная высший сорт, вода питьевая, жир специального назначения (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (пальмовое масло и его фракции), эмульгатор Е322), арахис жареный дробленый, какао-порошок, молоко сухое обезжиренное, масло подсолнечное рафинированное дезодорированное, соль пищевая, разрыхлитель – гидрокарбонат натрия (сода пищевая), эмульгатор - лецитин (соевый), загуститель- крахмал кукурузный, ароматизатор пищевой «ванилин»",
+  "information": [
+    {
+      "value": "БКК",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "30",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

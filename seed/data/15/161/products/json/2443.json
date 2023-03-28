@@ -1,0 +1,53 @@
+{
+  "name": "Мармелад Sweet Box с натуральным соком в наборе с подарком 10г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.99,
+  "priceWithCard": 307.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "глюкозный сироп, сахар, концентрированные соки (яблочный, апельсиновый, клубничный, персиковый, манго), желатин пищевой, влагоудерживающий агент (сорбитовый сироп), стабилизатор (Е1420), регуляторы кислотности (лимонная кислота, яблочная кислота, Е331), загуститель (агар), ароматизаторы, красители (куркумин, антоцианы, Е141), комплексная пищевая добавка глазирователь (растительное масло, глазирователь — воск карнаубский, антиокислитель — альфа-токоферол, регулятор кислотности — лимонная кислота). Может содержать диоксид серы (консервант)",
+  "information": [
+    {
+      "value": "Sweet Box",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "77",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "332",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

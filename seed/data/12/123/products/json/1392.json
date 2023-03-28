@@ -1,0 +1,21 @@
+{
+  "name": "Помело",
+  "unitsOfMeasurement": "кг",
+  "step": "1.1",
+  "priceRegular": 175.99,
+  "priceWithCard": 172.47,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Израиль",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

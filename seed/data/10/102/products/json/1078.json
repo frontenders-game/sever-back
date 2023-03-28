@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт Фруате питьевой клубника-киви 1.5%, 950мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 132.99,
+  "priceWithCard": 123.68,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Молоко обезжиренное, молоко цельное, наполнитель «Клубника-Киви» (фруктовая часть: клубника, киви, вода, загуститель крахмал кукурузный модифицированный Е1442, ароматизатор «Клубника», «Киви»; регуляторы кислотности: цитрат натрия, лимонная кислота, краситель –аннато), комплексная пищевая добавка (стабилизатор модифицированный крахмал Е1422, желатин, пектин, молоко сухое обезжиренное, закваска.",
+  "information": [
+    {
+      "value": "Фруате",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "11.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "70.7",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

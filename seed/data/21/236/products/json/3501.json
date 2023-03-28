@@ -1,0 +1,61 @@
+{
+  "name": "Окорок Ремит Хамон вяленый из свинины 55г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 192.49,
+  "priceWithCard": 182.87,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "свинина, посолочно-нитритная смесь (соль, фиксатор окраски натрит натрия), декстроза, горчица, усилитель вкуса и аромата: глутамат натрия; антиокислитель: аскорбат натрия; консервант: нитрат калия; пряности (можжевельник, чеснок), экстракты пряностей (чеснок, кориандр, перец черный), декстроза, усилитель вкуса и аромата: глутамат натрия; стартовые культуры. Производится на предприятии, где также используются: молоко, орехи, пшеница, сельдерей, соя и яйца",
+  "information": [
+    {
+      "value": "Ремит",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "0.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "220",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

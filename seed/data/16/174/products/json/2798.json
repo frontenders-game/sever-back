@@ -1,0 +1,34 @@
+{
+  "name": "Чай Tess Лайм зеленый в пакетиках 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 124.99,
+  "priceWithCard": 122.49,
+  "promo": {
+    "discountedPriceRegular": 89.99,
+    "discountedPriceWithCard": 88.19,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "чай зеленый байховый, плоды шиповника, лимонное сорго, цедра цитрусовых, ароматизатор \"лайм\", лепестки календулы",
+  "information": [
+    {
+      "value": "Tess",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

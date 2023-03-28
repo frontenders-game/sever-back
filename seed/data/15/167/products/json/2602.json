@@ -1,0 +1,66 @@
+{
+  "name": "Жевательная резинка Dirol Colors XXL ассорти мятных вкусов без сахара 19г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 46.49,
+  "promo": {
+    "discountedPriceRegular": 39.99,
+    "discountedPriceWithCard": 37.19,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "подсластители (сорбит, изомальт, мальтит, мальтитный сироп, маннит, ксилит, сукралоза, аспартам, ацесульфам калия), резиновая основа, носитель (карбонат кальция), ароматизаторы, влагоудерживающий агент (Е422), загуститель (Е414), эмульгаторы (лецитин подсолнечный, Е472а), красители (Е171, Е160а, Е133, Е141), масло растительное (кокосовое), глазирователь (Е903), антиокислитель (Е321)",
+  "information": [
+    {
+      "value": "Dirol",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "170",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

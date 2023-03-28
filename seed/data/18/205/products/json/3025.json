@@ -1,0 +1,53 @@
+{
+  "name": "Сыр Тысяча Озёр Лёгкий нарезка 15% 125г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 153.99,
+  "priceWithCard": 146.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "Молко нормализованное, молоко обезжиренное пастеризованное, соль, уплотнитель хлорид кальция, бактериальная закваска мезофильных и термофильных молочнокислых микроорганизмов, консервант нитрит натрия, натуральный молокосвертывающий ферментный препарат животного происхождения, ферментный препарат животного происхождения – лизоцим, добавка комплексная пищевая – краситель аннато (содержит регулятор кислотности гидроксид натрия).",
+  "information": [
+    {
+      "value": "Тысяча озер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "28",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "247",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Туалетная бумага Papia Deluxe 4 слоя 4шт.",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 224.99,
+  "priceWithCard": 218.24,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "100% целлюлоза.",
+  "information": [
+    {
+      "value": "Papia",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

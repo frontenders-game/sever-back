@@ -1,0 +1,61 @@
+{
+  "name": "Биойогурт Верховье с вишней, черешней 2% 260г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 57.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "Молоко нормализованное, наполнитель (сахар, вишня, вода, глюкозо-фруктозный сироп, вишневый сок восстановленный, крахмал кукурузный, черешня, натуральные ароматизаторы вишни, концентрированный сок из черной моркови, концентрированный сок из черной смородины, натуральный ароматизатор черешня, концентрированный сок из гибискуса, концентрированный сок из моркови, концентрированный лимонный сок), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
+  "information": [
+    {
+      "value": "Верховье",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "67.2",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

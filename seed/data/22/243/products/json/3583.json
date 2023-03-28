@@ -1,0 +1,29 @@
+{
+  "name": "Средство Лапочки-Ладошки для мытья детской посуды 350мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 136.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "вода >30%, лауретсульфат <5% натрия, хлорид натрия, глицерет-2 кокоат, кокамидопропилбетаин, ЭДТА, гипоаллергенная парфюмерная композиция, консервант (метилизотиазолинон, метилхлороизотиазолинон), лимонная кислота, краситель",
+  "information": [
+    {
+      "value": "Лапочки-ладошки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

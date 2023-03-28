@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Fancy газированный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 73.59,
+  "promo": {
+    "discountedPriceRegular": 59.99,
+    "discountedPriceWithCard": 55.19,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "вода подготовленная, сахар, апельсиновый сок (3%), регулятор кислотности — лимонная кислота, стабилизатор- гуммиарабик, эмульгатор — глицерина и смоляных кислот, ароматизаторы, натуральные ароматизаторы, апельсиновые терпены, растительные экстракты (эфирные масла: мандарина, апельсина, лимона, грейпфрута, лайма), красители (каротина, бета-апо-8-каротиновый альдегид (С30)",
+  "information": [
+    {
+      "value": "Fancy",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

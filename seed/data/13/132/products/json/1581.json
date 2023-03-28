@@ -1,0 +1,53 @@
+{
+  "name": "Минтай тихоокеанский Borealis филе без кожи без костей замороженный 400г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 269.99,
+  "priceWithCard": 248.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "минтай тихоокеанский (theragra chalcogramma). Продукт может являться аллергеном. На предприятии вырабатывается продукция из рыбы, ракообразных и моллюсков",
+  "information": [
+    {
+      "value": "Borealis",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "20",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "90",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

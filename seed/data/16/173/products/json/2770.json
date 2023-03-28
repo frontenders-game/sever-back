@@ -1,0 +1,29 @@
+{
+  "name": "Чай Ahmad Strawberry Cream черный клубника-сливки 25х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 153.99,
+  "priceWithCard": 143.21,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": "чай чёрный байховый листовой мелкий, натуральный ароматизатор клубника со сливками",
+  "information": [
+    {
+      "value": "Ahmad",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

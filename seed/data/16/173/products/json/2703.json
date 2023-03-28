@@ -1,0 +1,29 @@
+{
+  "name": "Чай Ahmad Tea Earl Grey черный 100х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 514.99,
+  "priceWithCard": 484.09,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "черный байховый чай",
+  "information": [
+    {
+      "value": "Ahmad Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

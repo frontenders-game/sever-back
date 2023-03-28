@@ -1,0 +1,61 @@
+{
+  "name": "Пирог Шарлиз песочный с черничным джемом, 430г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 189.99,
+  "priceWithCard": 180.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "Мука пшеничная высший сорт, сахар, маргарин (рафинированные растительные масла, вода, соль, эмульгаторы (Е471, Е475), ароматизатор, регулятор кислотности (лимонная кислота), краситель (аннато)), пюре яблочное, глюкозный сироп, черника, вода, продукты яичные, крахмал кукурузный, загуститель (пектин), молоко сухое обезжиренное, разрыхлитель (E500ii, E450i, E503ii),соль, регулятор кислотности (димонная кислота), ароматизаторы: ванилин, черника, красители (Е160а, Е163), консервант (сорбиновая кислота).",
+  "information": [
+    {
+      "value": "Шарлиз",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "62",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "370",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

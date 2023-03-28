@@ -1,0 +1,61 @@
+{
+  "name": "Мороженое пломбир Сарафаново ванильный стаканчик 15% 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 67.99,
+  "priceWithCard": 65.27,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 55,
+  "ingredients": "Мороженое (сливки, молоко цельное сгущенное с сахаром (нормализованное молоко, сахароза, лактоза), сахар, вода, молоко сухое обезжиренное, масло сливочное, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан; антиокислители: альфа-токоферол, аскорбилпальмитат; ароматизатор ванилин), вафельный стаканчик (мука пшеничная, масло подсолнечное, крахмал кукурузный, эмульгатор соевый лецитин, пищевая йодированная соль (соль, йодат калия, агент антислеживающий е536), меланж яичный сухой, разрыхлитель гидрокарбонат натрия).",
+  "information": [
+    {
+      "value": "Сарафаново",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "25",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "250",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

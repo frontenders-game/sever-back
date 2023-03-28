@@ -1,0 +1,61 @@
+{
+  "name": "Блинчики Морозко с сердцем 210г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 81.99,
+  "priceWithCard": 75.43,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, сердце говяжье, лук репчатый, фарш куриный, шпик, масло растительное, сахар, молоко сухое обезжиренное, соль, сода пищевая, меланж, перец чёрный.",
+  "information": [
+    {
+      "value": "Морозко",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "34",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "300",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

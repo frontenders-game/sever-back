@@ -1,0 +1,29 @@
+{
+  "name": "Карандаш Berlingo HB чернографитный в ассортименте 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 53.89,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 12,
+  "ingredients": "дерево, графит",
+  "information": [
+    {
+      "value": "Berlingo",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

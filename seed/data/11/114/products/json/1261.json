@@ -1,0 +1,61 @@
+{
+  "name": "Батон Каравай пшеничный в нарезке, 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 33.49,
+  "priceWithCard": 30.48,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 21,
+  "ingredients": "Пшеничная хлебопекарная мука первого сорта, вода, сахар, маргарин (рафинированные дезодорированные растительные масла в натуральном и отверждённом виде, вода, эмульгаторы, антиокислитель, ароматизатор, регулятор кислотности - лимонная кислота, пищевой краситель натуральный), дрожжи хлебопекарные прессованные, соль поваренная пищевая.",
+  "information": [
+    {
+      "value": "Каравай",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "50",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "280",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

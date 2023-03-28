@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Невский кондитер Тёмная ночь с помадным корпусом глазированные, кг",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 299.99,
+  "priceWithCard": 275.99,
+  "promo": {
+    "discountedPriceRegular": 251.99,
+    "discountedPriceWithCard": 231.83,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Сахар, молоко сгущенное с сахаром(сахар, молоко сухое, заменитель молочного жира (рафинированные дезодорированные растительные масла: пальмовое, подсолнечное, пальмоядровое), сыворотка молочная сухая),кондитерская глазурь (сахарная пудра, заменитель масла какао(рафинированное дезодорированное растительное масло), какао-порошок, эмульгатор-лецитин соевый, ароматизатор «Ванильный»), патока, жир растительный ( рафинированные дезодорированные растительные масла: пальмовое, подсолнечное, пальмоядровое ), какао - порошок, ароматизатор «Шоколад Фондю», консервант-сорбат калия, фермент –инвертаза.",
+  "information": [
+    {
+      "value": "Невский кондитер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "410",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

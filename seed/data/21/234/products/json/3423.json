@@ -1,0 +1,61 @@
+{
+  "name": "Колбаса полукопчёная Папа Может Чесночная, 420г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 319.98,
+  "priceWithCard": 307.18,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "Свинина, филе грудок куриных,вода, шкурка свиная, шпик, комплексные пищевые добавки (молоко сухое обезжиренное, посолочно-нитритная смесь (соль, фиксатор окраски Е250), сахар, регуляторы кислотности: Е450 (I), E 262(I, II), E 331(III), стабилизаторы: E401, E407, E412, E415, E417, E452 (I, V); лактоза, ароматизаторы, уплотнитель E516); крахмал картофельный, соль, свекловичная клетчатка, чеснок, краситель E120.",
+  "information": [
+    {
+      "value": "Папа может",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "3",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "249",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

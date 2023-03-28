@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Юбилейное Постное 268г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 104.99,
+  "priceWithCard": 97.64,
+  "promo": {
+    "discountedPriceRegular": 80.84,
+    "discountedPriceWithCard": 75.18,
+    "discountPercent": 23,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "мука пшеничная, сахар, масла растительные (рапсовое, пальмовое) вода, крахмал кукурузный, разрыхлитель (гидрокарбонат натрия, карбонат аммония), соль, эмульгатор (лецитин соевый), ароматизатор, регулятор кислотности лимонная кислота",
+  "information": [
+    {
+      "value": "Юбилейное",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "451",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

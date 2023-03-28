@@ -1,0 +1,61 @@
+{
+  "name": "Продукт йогуртный Campina Нежный с соком персика 1.2%, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 23.19,
+  "priceWithCard": 22.26,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Обезжиренное молоко, сливки, вода, сахар, глюкозно-фруктозный сироп, загуститель – дикрахмаладипат ацетилированный, сухая молочная сыворотка, наполнитель (концентрированный сок персика, вода, ароматизатор, краситель - каротины, загуститель - дикрахмалфосфат оксипропилированный, краситель – кармины, регулятор кислотности – цитраты натрия), лактоза, пищевой желатин, с использованием закваски.",
+  "information": [
+    {
+      "value": "Нежный",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "16",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "95",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Десерт ФрутоНяня яблоко-банан-клубника с 7 месяцев, 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 63.99,
+  "priceWithCard": 59.51,
+  "promo": {
+    "discountedPriceRegular": 49.27,
+    "discountedPriceWithCard": 45.82,
+    "discountPercent": 23,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "Пюре из яблок, пюре из бананов, сок из клубники, пюре из клубники. Без добавления сахара. Содержатся сахара природного происхождения. Продукт изготовлен из концентрированных яблочного пюре и клубничного сока.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

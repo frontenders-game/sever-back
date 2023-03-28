@@ -1,0 +1,66 @@
+{
+  "name": "Шоколадный батончик Snickers Super 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 63.69,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 45.86,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 133,
+  "ingredients": "молочный шоколад (сахар, сухое цельное молоко, какао масло, какао тертое, лактоза, эмульгатор (соевый лецитин), ароматизатор натуральный (экстракт ванили)); глюкозный сироп (кукурузный, пшеничный), арахис, рисовая мука, масло пальмовое рафинированное дезодорированное, сахар, влагоудерживающий агент (глицерин), сухое обезжиренное молоко, декстроза, соль, ароматизатор натуральный (экстракт ванили)",
+  "information": [
+    {
+      "value": "Snickers",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "499",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

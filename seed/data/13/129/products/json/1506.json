@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир Чистая Линия ванильный в шоколадной глазури рожок 12% 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 112.99,
+  "priceWithCard": 102.82,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Молоко коровье цельное – 54.77%, сливки натуральные – 23.3%, молоко сгущенное цельное с сахаром – 12% (молоко цельное, молоко обезжиренное, сахароза, лактоза), сахар – 7.5%, глюкозный сироп – 2%, комплексная пищевая добавка -0.33% (эмульгатор моно- и диглицериды жирных кислот, стабилизаторы – гуаровая камедь, камедь рожкового дерева, камедь тары, каррагинан), ароматизатор натуральный ваниль -0.1%.",
+  "information": [
+    {
+      "value": "Чистая линия",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "31.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "291",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

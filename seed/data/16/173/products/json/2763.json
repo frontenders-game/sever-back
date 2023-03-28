@@ -1,0 +1,29 @@
+{
+  "name": "Чай черный Assand Famous Ceylon байховый листовой цейлонский 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 117.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "чай черный байховый цейлонский высший сорт",
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

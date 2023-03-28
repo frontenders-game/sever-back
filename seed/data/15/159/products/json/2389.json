@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Юбилейное молочное витаминизированное 112г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 40.94,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 35,
+  "ingredients": "мука пшеничная, сахар, масла растительные, вода, крахмал кукурузный, сироп глюкозно-фруктозный или сироп инвертный (сахар, вода, регулятор кислотности (кислота лимонная)), молоко сухое обезжиренное, разрыхлитель (гидрокарбонат натрия), ароматизатор, соль, продукт яичный, эмульгатор (лецитин соевый), витаминно-минеральный комплекс (витамин В1, витамин В2, витамин В6, фолиевая кислота, ниацин, железо)",
+  "information": [
+    {
+      "value": "Юбилейное",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "67",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "457",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

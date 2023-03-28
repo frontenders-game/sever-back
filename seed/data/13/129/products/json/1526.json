@@ -1,0 +1,61 @@
+{
+  "name": "Мороженое пломбир Филевский 12%, 450г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 269.99,
+  "priceWithCard": 253.79,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "Молоко коровье цельное, масло сливочное, молоко цельное сгущенное с сахаром (молоко нормализованное, сахар-песок), вода питьевая, сахар-песок, молоко цельное сухое, сухой глюкозный сироп, комплексная пищевая добавка (эмульгатор - моно- и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь  рожкового дерева, тары камедь, каррагинан), натуральный ароматизатор  «Ваниль»",
+  "information": [
+    {
+      "value": "Филевское",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "19.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "228",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

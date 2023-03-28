@@ -1,0 +1,61 @@
+{
+  "name": "Йогурт Растишка питьевой земляника 1.6% 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 32.99,
+  "priceWithCard": 32.0,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "молоко нормализованное, фруктовый наполнитель (сахарный сироп; пюре земляники; кальций (кальция цитрат); соки кпасной свеклы и лимона концентрированные; фруктоза; крахмал кукурузный; натуральный ароматизатор; витамин Д), сахар, йогуртовая закваска.\nСодержание молочнокислых микроорганизмов – не менее 1x107 КОЕ/г",
+  "information": [
+    {
+      "value": "Растишка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "70",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

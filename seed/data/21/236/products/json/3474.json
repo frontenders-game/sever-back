@@ -1,0 +1,66 @@
+{
+  "name": "Колбаски Мясницкий Ряд Кabanos Jalapeno сырокопченые 60г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 115.19,
+  "promo": {
+    "discountedPriceRegular": 76.79,
+    "discountedPriceWithCard": 73.72,
+    "discountPercent": 36,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 59,
+  "ingredients": "свинина, мясо птицы курица, растительный соевый белок, перец халапеньо, загуститель альгинат натрия, смесь посолочно-нитритная (соль поваренная пищевая, фиксатор окраски нитрит натрия), пшеничные волокна, пшеничный белок гидролизированный, мальтодекстрин, стабилизаторы (цитрат натрия, Е466), регуляторы кислотности (лактат кальция, молочная кислота), красители (экстракт паприки, кармины)",
+  "information": [
+    {
+      "value": "Мясницкий ряд",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "25",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "32",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

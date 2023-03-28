@@ -1,0 +1,66 @@
+{
+  "name": "Ряженка Большая Кружка печёное яблоко 3.5% 280г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 57.99,
+  "priceWithCard": 55.67,
+  "promo": {
+    "discountedPriceRegular": 43.49,
+    "discountedPriceWithCard": 41.75,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "молоко нормализованное топленое, наполнитель «Печеное яблоко» (сахар, пюре яблока, вода питьевая, ароматизаторы натуральные, стабилизатор пектины), закваска молочнокислых микроорганизмов",
+  "information": [
+    {
+      "value": "Большая кружка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "10.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "85",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

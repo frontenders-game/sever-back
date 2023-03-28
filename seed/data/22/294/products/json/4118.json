@@ -1,0 +1,29 @@
+{
+  "name": "Карандаши цветные Мульти-Пульти 12 цветов заточенные",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 279.99,
+  "priceWithCard": 263.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Мульти-Пульти",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Котлеты Домилле Сочные категории 560г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 254.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "свинина, говядина, вода питьевая, лук репчатый, мясо куриное, сухари панировочные (мука пшеничная высший сорт, соль поваренная йодированная, дрожжи хлебопекарные сухие инстантные (Saccharomyces cerevisiae, эмульгатор Е491)), клетчатка пшеничная, соль пищевая, чеснок, комплексная пищевая добавка: регулятор кислотности Е451i, стабилизатор: Е450iii, горчичный порошок, перец черный молотый. Производится на предприятии, использующем молочный белок, соевый белок",
+  "information": [
+    {
+      "value": "Домилле",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "19",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "243",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

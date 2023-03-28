@@ -1,0 +1,29 @@
+{
+  "name": "Таблетки Econta 7в1 для посудомоечных машин 60шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 387.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 8,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

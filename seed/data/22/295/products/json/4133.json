@@ -1,0 +1,29 @@
+{
+  "name": "Колготки SiSi Vanity 40 den daino размер р4",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 195.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 10,
+  "ingredients": "88% полиамид, 12% эластан",
+  "information": [
+    {
+      "value": "SiSi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Сербия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

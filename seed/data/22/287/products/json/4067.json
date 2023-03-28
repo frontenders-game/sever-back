@@ -1,0 +1,34 @@
+{
+  "name": "Пакет для пищевых продуктов 45х35х15см",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.19,
+  "promo": {
+    "discountedPriceRegular": 15.99,
+    "discountedPriceWithCard": 14.55,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "полиэтилен низкого давления",
+  "information": [
+    {
+      "value": "Пятёрочка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

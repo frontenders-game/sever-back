@@ -1,0 +1,61 @@
+{
+  "name": "Лапша быстрого приготовления Домшим со вкусом грибов 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.99,
+  "priceWithCard": 42.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 30,
+  "ingredients": "Мука пшеничная, масло растительное, вода питьевая, соль, загуститель (гуаровая камедь), стабилизатор (карбонат калия), разрыхлитель (сода пищевая), лимонная кислота, усилитель вкуса и аромата (Е621), соль, мальтодекстрин, сахар, усилитель вкуса и аромата (Е621, Е635), армотизатор (грибы), сушёные овощи (лук репчатый, чеснок), пряности (имбирь, перец красный, перец чёрный, куркума), белые грибы сушёные, олеин пальмовый, агент антислеживающий (Е551), краситель (сахарный колер IV), морковь, соевый текстурат, лук зелёный.",
+  "information": [
+    {
+      "value": "Домшим",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "390",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

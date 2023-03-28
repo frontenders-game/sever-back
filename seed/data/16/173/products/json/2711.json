@@ -1,0 +1,29 @@
+{
+  "name": "Чай Beta tea Golden quality черный байховый цейлонский мелколистовой 100х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 305.99,
+  "priceWithCard": 296.81,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "чай черный байховый цейлонский, мелкий лист",
+  "information": [
+    {
+      "value": "Beta Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

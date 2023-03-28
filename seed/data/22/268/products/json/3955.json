@@ -1,0 +1,29 @@
+{
+  "name": "Крем для лица Весна гиалуроновый 45мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 52.49,
+  "priceWithCard": 50.92,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 19,
+  "ingredients": "Aqua, Caprilic/Capric Triglycerid, Olea Europaea, Glycerin, Sodium Polyacrylate, Ethylhexyl Stearate, Aqua (and) Glycerin (and) Sodium Hyaluronate (and) Desamido Collagen, Isoamyl Laurate, Hydroxyethyl Urea, Parfum (Butylphenyl Methylpropional, Linalool, Limonene), Benzyl Alcohol, Disodium EDTA, Phenoxyethanol (and) Lodopropynyl Butylcarbamate.",
+  "information": [
+    {
+      "value": "Весна",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

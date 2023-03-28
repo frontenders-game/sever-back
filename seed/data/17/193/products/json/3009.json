@@ -1,0 +1,61 @@
+{
+  "name": "Лапша яичная Роллтон Куриная по-домашнему быстрого приготовления 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 37,
+  "ingredients": "лапша: мука пшеничная в/с, масло растительное, вода, крахмал тапиоковый, яичный порошок, соль, загуститель - гуаровая камедь, бульон-приправа: соль, мальтодекстрин, мясо курицы сушеное, усилители вкуса и аромата (Е621, Е627, Е631), овощи сушеные (чеснок, лук репчатый, паприка), масло растительное, ароматизатор (курица), экстракт дрожжей, пряности (перец красный, имбирь, перец черный, куркума), овощи сушеные: кукуруза, горох, морковь, соевый текстурат, лук зеленый. Продукт может содержать незначительное количество продуктов переработки молока",
+  "information": [
+    {
+      "value": "Роллтон",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "400",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

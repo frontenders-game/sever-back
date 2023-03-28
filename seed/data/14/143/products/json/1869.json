@@ -1,0 +1,45 @@
+{
+  "name": "Напиток CoolСola газированный 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 115.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "вода, подготовленная, сахар, краситель – сахарный колер IV, регуляторы кислотности – ортофосфорная кислота, лимонная кислота, натуральные ароматизаторы, кофеин (менее150мг/л),  экстракт ванили",
+  "information": [
+    {
+      "value": "Cool Cola",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

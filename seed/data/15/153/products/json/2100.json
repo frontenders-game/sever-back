@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад молочный Алёнка 15г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 23.49,
+  "promo": {
+    "discountedPriceRegular": 17.99,
+    "discountedPriceWithCard": 16.91,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 65,
+  "ingredients": "сахар, сухое цельное молоко, масло какао, какао тертое, эмульгатор лецитин соевый , ароматизатор \"Ваниль\". Противопоказано при индивидуальной непереносимости белка молока. Возможно наличие незначительных количеств миндаля, фундука. Массовые доли общего сухого остатка какао не менее 29,8%, сухого обезжиренного какао не менее 5,7%, сухого обезжиренного остатка молока не менее 16,3%, молочного жира не менее 5,5%",
+  "information": [
+    {
+      "value": "Аленка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "34",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "550",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

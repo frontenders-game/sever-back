@@ -1,0 +1,66 @@
+{
+  "name": "Зефир Шармэль Классический в шоколаде 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 323.99,
+  "priceWithCard": 311.03,
+  "promo": {
+    "discountedPriceRegular": 272.15,
+    "discountedPriceWithCard": 261.27,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Патока, темный шоколад (сахар-песок, како тертое, масло какао, какао-порошок, эмульгатор - лецитин подсолнечника, ароматизатор натуральный); сахар-песок, пюре яблочное, белок яичный сухой, желирующий агент - агар, регулятор кислотности - цитрат натрия, ароматизатор \"Ваниль\".",
+  "information": [
+    {
+      "value": "Шармэль",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "65.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "378",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

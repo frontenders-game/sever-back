@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Азовская КФ Азовская на сливках молочные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 474.99,
+  "priceWithCard": 441.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "сахар, сгущённые сливки с сахаром (цельное молоко, сливки, сахар (сахароза, лактоза)), патока, масло сливочное (пастеризованные сливки из коровьего молока), агент влагоудерживающий - сорбитовый сироп, ароматизатор \"Ванилин\". Содержит подсластитель",
+  "information": [
+    {
+      "value": "Азовская кондитерская фабрика",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "8.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "83",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "420",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

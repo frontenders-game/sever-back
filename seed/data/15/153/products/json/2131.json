@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Бабаевский Элитный горький 75% 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 95.99,
+  "promo": {
+    "discountedPriceRegular": 79.99,
+    "discountedPriceWithCard": 76.79,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 46,
+  "ingredients": "какао тёртое, сахар, какао-порошок, масло какао, эмульгаторы: лецитин соевый, Е476, ароматизатор «Ваниль». Массовая доля общего сухого остатка какао – не менее 55%. Содержание какао-продуктов – 75%. Возможно наличие незначительного количества арахиса, орехов: миндаля, фундука и кешью, молочных продуктов",
+  "information": [
+    {
+      "value": "Бабаевский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "36",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "32",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

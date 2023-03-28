@@ -1,0 +1,29 @@
+{
+  "name": "Средство Econta для мытья стёкол и зеркал 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "вода питьевая, спирт изопропиловый (менее 5%), бутиловый эфир пропиленгликоля (менее5%), метиловый эфир пропиленгликоля (менее 5%), неионогенный ПАВ (менее 5%), отдушка (менее 5%), краситель пищевой( менее 5%)",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

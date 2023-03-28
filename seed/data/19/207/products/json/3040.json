@@ -1,0 +1,58 @@
+{
+  "name": "Корм влажный Perfect Fit индейка в соусе для кошек с чувствительным пищеварением 75г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 29.39,
+  "promo": {
+    "discountedPriceRegular": 25.19,
+    "discountedPriceWithCard": 24.69,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 73,
+  "ingredients": "мясо и субпродукты минимум 34% (в том числе индейка), рисовая мука, плазма крови, аминокислоты (в том числе метионин и таурин), загустители, минеральные вещества,свекловичный жом, цикорий,подсолнечное масло, витамины, ксилоза, натуральный краситель бета-каротин",
+  "information": [
+    {
+      "value": "Perfect Fit",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "3.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "77",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Чай Assand черный с чабрецом 25х2г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 92.99,
+  "priceWithCard": 86.48,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "чай черный байховый, чабрец",
+  "information": [
+    {
+      "value": "Assand",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

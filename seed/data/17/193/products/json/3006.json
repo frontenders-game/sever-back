@@ -1,0 +1,61 @@
+{
+  "name": "Бульон Роллтон куриный домашний, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 35.99,
+  "priceWithCard": 34.55,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 19,
+  "ingredients": "cоль поваренная, соль йодированная, усилители вкуса и аромата (Е621, Е635), сахар, мальтодекстрин, овощи сушеные (морковь, пастернак, лук зеленый, лук репчатый), мясо курицы сушеное, ароматизатор (курица), зелень сушеная (петрушка, укроп), куркума, жир куриный топленый,  краситель Е101i",
+  "information": [
+    {
+      "value": "Роллтон",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "15",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "85",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

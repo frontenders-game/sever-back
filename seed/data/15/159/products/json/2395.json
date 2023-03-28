@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Кухмастер Золотая симфония, 230г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 98.99,
+  "priceWithCard": 90.08,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная высший сорт, маргарин (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде, в том числе соевое; эмульгатор), (моно- и диглицериды жирных кислот), соль, консервант сорбат калия, регулятор кислотности лимонная кислота, краситель бета – каротин, антиокислитель концентрат смеси токоферолов, сахар, крахмал кукурузный, яичный меланж, молоко обезжиренное сухое, вода, разрыхлитель (сода пищевая), соль, ароматизатор. Содержит глютен, яичный белок, молочные продукты. Может содержать следы орехов.",
+  "information": [
+    {
+      "value": "Кухмастер",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "504",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

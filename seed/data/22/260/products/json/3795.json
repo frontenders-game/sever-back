@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Новый Жемчуг фтор 75 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 54.59,
+  "promo": {
+    "discountedPriceRegular": 47.99,
+    "discountedPriceWithCard": 43.67,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "calcium carbonate, aqua, sorbitol, hydrated silica, xanthan gum, sodium lauryl sulfate, sodium monofluorophosphate, aroma, sodium methylparaben, sodium propylparaben, sodium saccharin, массовая доля фторида 0,1% (1000 ppm), содержит фторид натрия",
+  "information": [
+    {
+      "value": "Новый Жемчуг",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

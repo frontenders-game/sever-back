@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь-бальзам-ополаскиватель Clear Активспорт для мужчин против перхоти 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 363.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Propylene Glycol, Zinc Pyrithione, Dimethiconol, Sodium Chloride, Carbomer, Dimethicone, Parfum, Guar Hydroxypropyltrimonium Chloride, Climbazole, Menthol, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Phenoxyethanol, iodopropynyl Butylcarbamate, Poloxamer 407, Laureth-23, Laureth-4, PEG-4, Xanthan Gum, Cellulose Gum, Sodium Polynaphthalenesulfonate, Mentha Piperita (Peppermint) Leaf Extract, Panax Ginseng Root Extract Tocopheryl Acetate, Helianthus Annuus (Sunflower) Seed Oil, Panthenol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Pantolactone, Glycerin, Maltodextrin, Zinc Sulfate, Citric Acid, Sodium Hydroxide, DMDM Hydantoin, Sodium Benzoate, Potassium Sorbate, Methylisothiazolinone, PPG-9, Butylphenyl Methylpropional, Coumarin, Limonene, Linalool, Cl 47005, Cl 42090.",
+  "information": [
+    {
+      "value": "Clear",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

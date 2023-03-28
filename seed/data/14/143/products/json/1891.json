@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Cool Cola газированный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 77.59,
+  "promo": {
+    "discountedPriceRegular": 59.99,
+    "discountedPriceWithCard": 58.19,
+    "discountPercent": 25,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "вода подготовленная, сахар, краситель-сахарный колер iv, регуляторы кислотности- ортофосфорная кислота, лимонная кислота, натуральные ароматизаторы, кофеин (менее 150 мг/л), экстракт ванили",
+  "information": [
+    {
+      "value": "Cool Cola",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

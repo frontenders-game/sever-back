@@ -1,0 +1,45 @@
+{
+  "name": "Морс Ягодный край клюква 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 82.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Вода подготовленная, сахар, земляничный сок, брусничный сок, пюре брусники, регулятор кислоты - лимонная кислота, натуральный ароматизатор Брусника, натуральный ароматизатор Земляника.",
+  "information": [
+    {
+      "value": "Ягодный край",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "44",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

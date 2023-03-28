@@ -1,0 +1,34 @@
+{
+  "name": "Распылитель Air Wick Freshmatic Нежный шелк и лилия автоматический со сменным баллоном 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 749.99,
+  "priceWithCard": 682.49,
+  "promo": {
+    "discountedPriceRegular": 434.99,
+    "discountedPriceWithCard": 395.84,
+    "discountPercent": 42,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": null,
+  "information": [
+    {
+      "value": "Air Wick",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

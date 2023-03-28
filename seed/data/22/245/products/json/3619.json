@@ -1,0 +1,34 @@
+{
+  "name": "Кондиционер для белья E Oriental Dream 1 л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 144.99,
+  "priceWithCard": 139.19,
+  "promo": {
+    "discountedPriceRegular": 100.04,
+    "discountedPriceWithCard": 96.04,
+    "discountPercent": 31,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 26,
+  "ingredients": "<5% катионных ПАВ, отдушки (в т.ч. бензилсалицилата), консерванта, пеногасителя.",
+  "information": [
+    {
+      "value": "Е",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

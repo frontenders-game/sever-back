@@ -1,0 +1,61 @@
+{
+  "name": "Батончик Yarche с жареным арахисом и мягкой карамелью 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 23.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 27,
+  "ingredients": "ядро арахиса жареное, патока, сахар, заменитель масла какао нетемперируемый лауринового типа (пальмоядровое масло, эмульгаторы: сорбитан тристеарат, соевый лецитин) ; масло пальмовое рафинированное дезодорированное, сыворотка сухая молочная деминерализованная, какао-порошок натуральный, эмульгатор: лецитин соевый; молоко цельное сгущённое с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза), лактоза) ; соль, ароматизаторы, эмульгатор (Е476). Может содержать следы глютена, яиц, орехов и продуктов их переработки",
+  "information": [
+    {
+      "value": " Yarche",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "510",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

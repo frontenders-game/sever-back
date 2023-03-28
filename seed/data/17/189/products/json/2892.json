@@ -1,0 +1,53 @@
+{
+  "name": "Подушечки Ухтышки с какао 250г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 90.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "мука пшеничная, сахар, мука кукурузная, масло подсолнечное рафинированное дезодорированное, вода питьевая, какао-порошок, крахмал кукурузный, молоко сухое цельное, мука овсяная, сыворотка молочная сухая, соль пищевая, эмульгатор лецитин соевый, ароматизатор “шоколад”",
+  "information": [
+    {
+      "value": "Ухтышки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "64.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Салфетки Econta универсальные в рулоне 30х25см, 100шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 185.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 34,
+  "ingredients": "Вискоза, полиэфирное волокно.",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

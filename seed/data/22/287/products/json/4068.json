@@ -1,0 +1,29 @@
+{
+  "name": "Сумка для продуктов Пятёрочка",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 75.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 32,
+  "ingredients": "100% полипропилен",
+  "information": [
+    {
+      "value": "Пятерочка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Вьетнам",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

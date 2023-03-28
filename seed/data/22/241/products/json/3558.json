@@ -1,0 +1,29 @@
+{
+  "name": "Средство чистящее Туалетный Утенок супер сила видимый эффект для унитаза 900мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 228.99,
+  "priceWithCard": 210.67,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 10,
+  "ingredients": "Вода, кислота соляная ≥5% но <15%, н-ПАВ <5%, отдушка, амфотерное ПАВ <5%, краситель.",
+  "information": [
+    {
+      "value": "Туалетный утенок",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

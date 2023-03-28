@@ -1,0 +1,29 @@
+{
+  "name": "Губки для посуды Econta 5шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.99,
+  "priceWithCard": 63.35,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "поролон, абразивный материал",
+  "information": [
+    {
+      "value": "Econta",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Белоруссия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Кашка ФрутоНяня молочная из пяти злаков с лесными ягодами 0.2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 53.99,
+  "priceWithCard": 51.83,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "молоко сухое цельное, концентрированный яблочный сок, молоко сухое обезжиренное, мальтодекстрин, мука пшеничная, мука овсяная, мука рисовая, пребиотик – инулин, мука гречневая, мука кукурузная, пюре черничное, пюре земляничное, пюре малиновое, натуральный ароматизатор «Малина», натуральный ароматизатор «Земляника», натуральный ароматизатор «Черника», вода.",
+  "information": [
+    {
+      "value": "ФрутоНяня",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "9.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "66.1",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Напиток Мажитэль Персик-Маракуйя молочно-соковый 0.05% 950мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 92.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "А- сыворотка молочная восстановленная, вода, молоко нормализованное, сахарный сироп (сахар, вода), , глюкозно-фруктозный сироп(G)**, , концентрированный яблочный сок, концентрированное персиковое пюре, стабилизатор – пектин, концентрированный сок из маракуйи, трегалоза, регуляторы кислотности (цитрат натрия 3- замещенный, лимонная кислота), премикс витаминный, ароматизаторы,красители (аннато, куркумин).",
+  "information": [
+    {
+      "value": "Мажитэль",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.04",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "54",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Пломбир Коровка из Кореновки шоколадный стаканчик, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 93.99,
+  "priceWithCard": 86.47,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 32,
+  "ingredients": "Сливки, сахар, вафельный стакан (мука пшеничная хлебопекарная, масло растительное, сахар-песок, соль поваренная пищевая, сода пищевая), молоко цельное сгущенное с сахаром, какао-порошок, стабилизатор Кремодан (стабилизаторы: моно- и диглицериды жирных кислот, камедь рожкового дерева, гуаровая камедь, каррагинан).",
+  "information": [
+    {
+      "value": "Коровка из Кореновки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "14",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "21",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "222",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

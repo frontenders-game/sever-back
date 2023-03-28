@@ -1,0 +1,61 @@
+{
+  "name": "Печенье Квант Орешки со вкусом вареной сгущенки сдобное 290г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 98.99,
+  "priceWithCard": 93.05,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 18,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, маргарин (рафинированные дезодорированные растительные масла: подсолнечное, пальмовое, вода эмульгатор Е475, соль, сахар, консервант Е202, регулятор кислотности Е330, ароматизатор \"ваниль\" краситель пищевой Е160а, антиокислители Е300, Е307), сгущенный продукт \"Варенка\" (сахар, патока, вода питьевая, молочные продукты, ароматизатор \"Вареное сгущенное молоко\", пищевая добавка Е150, комплексная пищевая добавка Агар (загуститель Е406), консервант сорбат калия), сахар-песок, инвертный сироп, яичный порошок, пекарский порошок, соль пищевая",
+  "information": [
+    {
+      "value": "Квант",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "11.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "54.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "343.6",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

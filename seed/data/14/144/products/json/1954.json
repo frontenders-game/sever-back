@@ -1,0 +1,45 @@
+{
+  "name": "Квас Очаковский двойного брожения 2л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 91.99,
+  "priceWithCard": 83.71,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "подготовленная вода, сахар, концентрат квасного сусла(ржаная мука, ржаный солод), чистые культуры дрожжей и молочнокислых бактерий в виде смешанной закваски",
+  "information": [
+    {
+      "value": "Очаковский",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "35",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

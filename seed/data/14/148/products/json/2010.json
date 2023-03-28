@@ -1,0 +1,45 @@
+{
+  "name": "Морс J:Морс Черносмородиновый осветленный 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 83.69,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "сок из черной смородины концентрированный, сахар, регулятор кислотности - кислота лимонная,   натуральный ароматизатор \"Черная смородина\" (регулятор кислотности - кислота уксусная), вода подготовленная. Изготовлен из концентрированного сока. Минимальная объемная доля сока - 15 %",
+  "information": [
+    {
+      "value": "J Морс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

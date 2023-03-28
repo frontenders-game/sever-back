@@ -1,0 +1,29 @@
+{
+  "name": "Пелёнки одноразовые Honey Kid впитывающие 60x60см 10 шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 169.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Нетканый материал, полиэтиленовая пленка, распушенная целлюлоза, клей.",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Сырок творожный А. Ростагрокомплекс Картошка в молочном шоколаде 20% 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.48,
+  "priceWithCard": 61.26,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "творог, шоколад молочный (сахар, какао-масло, сухое цельное молоко, какао тёртое, эмульгатор – лецитины (соевый лецитин), ароматизатор натуральный: ваниль), сахар, галеты (мука пшеничная в/с, дрожжи хлебопекарные, сахар, соль, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия; регулятор кислотности: молочная кислота, антиокислитель: пиросульфит натрия), масло сливочное, молоко цельное сгущённое с сахаром (молоко нормализованное, сахар (сахароза)), какао-порошок, ароматизатор. Содержит глютен и сульфиты. Может содержать следы яичного белка",
+  "information": [
+    {
+      "value": "А.Ростагрокомплекс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "41.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "413",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

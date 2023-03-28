@@ -1,0 +1,66 @@
+{
+  "name": "Изделия сдобные Акульчев Мяфли сдобные, 310г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 189.99,
+  "priceWithCard": 172.89,
+  "promo": {
+    "discountedPriceRegular": 161.49,
+    "discountedPriceWithCard": 146.96,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Мука пшеничная в/с, продукты яичные (меланж), сахар-песок, масло подсолнечное рафинированное дезодорированное, вода, сыворотка молочная сухая, влагоудерживающий агент – глицерин, соль поваренная пищевая, эмульгатор – лецитин соевый, разрыхлитель – карбонат аммония, ароматизатор “Масло-сливки”, консервант – сорбиновая кислота, антиокислитель – аскорбиновая кислота.",
+  "information": [
+    {
+      "value": "Акульчев",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "27.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "48.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Порошок стиральный Миф 3в1 Морозная свежесть автомат, 2кг",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 379.99,
+  "priceWithCard": 364.79,
+  "promo": {
+    "discountedPriceRegular": 273.59,
+    "discountedPriceWithCard": 262.65,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 21,
+  "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Поликарбоксилаты, Энзимы, Оптические Oтбеливатели, Ароматизирующие Добавки, Бензилсалицилат, Гексилкоричный Альдегид, Лимонен, Линалоол.",
+  "information": [
+    {
+      "value": "Миф",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

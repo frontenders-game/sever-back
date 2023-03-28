@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Коммунарка Milk Chocolate Strawberry Nougat молочный с клубничной нугой 80г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 48.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "сахар, патока, какао – масло, сливки сухие, жир кондитерский, какао тертое, молоко сухое обезжиренное, сыворотка молочная сухая, соль пищевая йодированная, сорбитовый сироп, сахарная пудра ,лецитин, концентрат сывороточного белка, концентрат клубничного сока, белок яичный (сухой), лецитин , белок яичный (сухой),концентрат сывороточного белка, ароматизатор «клубника» эфиры полиглицерина и взаимоэтерифициро-ванных рициноловых кислот  (E476), ароматизатор натуральный «ваниль» сухой",
+  "information": [
+    {
+      "value": "Коммунарка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Беларусь",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "69",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "470",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

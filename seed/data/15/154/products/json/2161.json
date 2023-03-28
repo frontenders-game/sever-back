@@ -1,0 +1,66 @@
+{
+  "name": "Батончик шоколадный Bounty Трио 82.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 67.19,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 48.38,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 88,
+  "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, сухое цельное молоко, лактоза, сухая молочная сыворотка, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)), сушеная мякоть кокоса, сахар, глюкозный сироп (кукурузный, пшеничный), эмульгатор (моно- и диглицериды жирных кислот), агент влагоудерживающий (глицерин), ароматизатор (ванилин), соль. Содержит глютен. Может содержать незначительное количество яичного белка, арахиса, фундука",
+  "information": [
+    {
+      "value": "Bounty",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "25.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "60",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "484",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

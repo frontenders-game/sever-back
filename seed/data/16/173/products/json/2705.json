@@ -1,0 +1,34 @@
+{
+  "name": "Чай Tess Pleasure черный байховый с шиповником и яблоком 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 314.99,
+  "priceWithCard": 305.54,
+  "promo": {
+    "discountedPriceRegular": 201.59,
+    "discountedPriceWithCard": 195.55,
+    "discountPercent": 36,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "чай черный байховый, плоды шиповника, яблоко сушеное, лимонное сорго, ароматизатор «тропические фрукты», лепестки василька, лепестки незабудки",
+  "information": [
+    {
+      "value": "Tess",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

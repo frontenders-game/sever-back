@@ -1,0 +1,29 @@
+{
+  "name": "Аэрозоль \"Раптор\" универсальный от 17 видов насекомых, 275 мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 279.99,
+  "priceWithCard": 274.39,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "Действующие вещества: тетраметрин - 0,20%; циперметрин – 0,15%, имипротрин – 0,05%; растворитель углеводородный; пропеллент углеводородный (пропан, бутан, изобутан, 60%), отдушка. Не содержит хладонов и других озоноразрушающих веществ.",
+  "information": [
+    {
+      "value": "Раптор",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Flash Energy со вкусом мятного лайма безалкогольный тонизирующий 450мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 57.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "вода питьевая очищенная, сахар, регуляторы кислотности: кислота лимонная и цитрат натрия, БАД «таурин», ароматизатор пищевой натуральный «тип лайм», ароматизатор пищевой натуральный «нейтральная эмульсия» (стабилизатор Е414, антиокислители e307 и e320, консервант Е202, регулятор кислотности Е330), антиокислитель — аскорбиновая кислота, экстракт растительный «кофеин натуральный», премикс витаминный (ниацин, пантотеновая кислота, витамин В6, фолиевая кислота, биотин, витамин В12), консервант — бензоат натрия, концентрированный сок лайма",
+  "information": [
+    {
+      "value": "Flash Energy",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

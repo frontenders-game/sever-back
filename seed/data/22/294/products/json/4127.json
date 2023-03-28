@@ -1,0 +1,29 @@
+{
+  "name": "Наклейки Арт и Дизайн декоративные 1шт. в ассортименте",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 195.29,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Арт и Дизайн",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

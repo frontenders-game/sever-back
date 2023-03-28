@@ -1,0 +1,61 @@
+{
+  "name": "Ветчина Иней Питерская в нарезке, 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 178.99,
+  "priceWithCard": 162.88,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Свинина, вода питьевая, посолочная смесь (соль, фиксатор окраски (нитрит натрия)), крахмал картофельный, регуляторы кислотности (пирофосфаты, трифосфаты, цитраты натрия), животный белок (свиной), усилитель вкуса и аромата (глутамат натрия), загустители (каррагинан, гуаровая камедь), антиокислитель (изоаскорбат натрия), декстроза, экстракты специй, краситель (кармин).",
+  "information": [
+    {
+      "value": "Иней",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "119",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

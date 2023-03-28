@@ -1,0 +1,53 @@
+{
+  "name": "Зефир Самойловские сладости Воздушный поцелуй чёрная смородина 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 133.99,
+  "priceWithCard": 121.93,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "сахар, пюре яблочное, патока, варенье черносмородиновое, желеобразователь пектин, белок сухой яичный, регуляторы кислотности цитрат натрия, кислота молочная",
+  "information": [
+    {
+      "value": "Самойловские Сладости",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.2",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "81",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "309",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

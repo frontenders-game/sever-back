@@ -1,0 +1,34 @@
+{
+  "name": "Вода Borjomi Flavored Water Дикая земляника и экстракт артемизии 330мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 55.99,
+  "priceWithCard": 51.51,
+  "promo": {
+    "discountedPriceRegular": 39.19,
+    "discountedPriceWithCard": 36.06,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "вода минеральная природная лечебно-столовая питьевая \"Боржоми\", природная питьевая вода из родников Боржомского ущелья, натуральные ароматизаторы",
+  "information": [
+    {
+      "value": "Borjomi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Грузия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

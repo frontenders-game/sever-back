@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Colgate бережное отбеливание, 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 134.99,
+  "priceWithCard": 130.94,
+  "promo": {
+    "discountedPriceRegular": 110.69,
+    "discountedPriceWithCard": 107.37,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Calcium Carbonate, Aqua, Sorbitol, Sodium Lauryl Sulfate, Hydrated Siica,Aroma,Sodium,Monofluorophosphate,Cellulose Gum,Magnesium Aluminum, Silicate, Sodium Carbonate, Benzyl Alcohol, Sodium Saccharin, Sodium Bicarbonate, Cinnamal, Eugenol, Limonene.",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

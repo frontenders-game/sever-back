@@ -1,0 +1,61 @@
+{
+  "name": "Сосиски Дым Дымыч Сливочные из мяса птицы вареные 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 88.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "филе куриное, мясо птицы механической обвалки (куриное), вода, жир свиной, кожа куриная, говядина, сыворотка молочная сухая, сливки сухие 42 % жирности, крахмал картофельный, посолочно-нитритная смесь (соль, фиксатор окраски: нитрит натрия), животный белок (говяжий), регуляторы кислотности (Е450iii, Е451i, Е331iii, Е262ii), декстроза, усилители вкуса и аромата (Е621, Е631, Е627), экстракты пряностей (перец черный, мускатный орех), загустители (Е415, Е412, Е410) антиокислитель (Е316, Е330, Е300), консервант (Е223), ароматизаторы, краситель (Е120) Возможно незначительное содержание горчицы, злаков, яиц, орехов, сельдерея, сои и продуктов их переработки",
+  "information": [
+    {
+      "value": "Дым Дымыч",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "181",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

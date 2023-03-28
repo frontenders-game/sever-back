@@ -1,0 +1,61 @@
+{
+  "name": "Мармелад Fruittella Звери Mix жевательный апельсин-яблоко-лимон-клубника-малина 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 140.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "Глюкозный сироп (из пшеницы), сахар, желатин, регулятор кислотности (лимонная кислота), соки из фруктов и ягод (клубничный, малиновый, лимонный, апельсиновый, яблочный) (1%), натуральные ароматизаторы, концентраты (сафлор, спирулина), концентрированный сок черной моркови, концентрированный сок редиса, глазирователи (воск карнаубский, воск пчелиный, белый).",
+  "information": [
+    {
+      "value": "Fruit-tella",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "320",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

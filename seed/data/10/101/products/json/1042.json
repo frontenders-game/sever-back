@@ -1,0 +1,45 @@
+{
+  "name": "Желе Ягодный край со вкусом вишни 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 19.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "вода питьевая, сироп глюкозно-фруктозный (глюкоза, фруктоза), стабилизатор - каррагинан, регулятор кислотности -  лимонная кислота, консервант -  сорбат калия, ароматизатор «Вишня Черная», краситель «Кармины»",
+  "information": [
+    {
+      "value": "Ягодный край",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "14.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "57",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Вода Gorgi Нагутская-26 минеральная лечебно-столовая газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 76.99,
+  "priceWithCard": 71.6,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "анионы, г/дм3: гидрокарбонаты НСО3- 2300–4000, сульфаты SO42- 30-150, хлориды Cl- 200-700; катионы, г/дм3: кальций Ca2+ 1–100, магний Mg2+ 1–50, натрий+калий Na+K+ 1000-3000; минерализация, г/дм3: 4,0 - 7,0",
+  "information": [
+    {
+      "value": "GORJI",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

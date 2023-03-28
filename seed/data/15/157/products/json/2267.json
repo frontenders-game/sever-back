@@ -1,0 +1,45 @@
+{
+  "name": "Карамель Конфетка доброты леденцовая со вкусом клубники, 14 г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 15.99,
+  "priceWithCard": 15.67,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 28,
+  "ingredients": "Сахар, вода питьевая, подсластитель - изомальт, регуляторы кислотности: молочная кислота, лимонная кислота, красители натуральные: концентрированный морковный сок, бета-каротин, ароматизатор натуральный клубника.",
+  "information": [
+    {
+      "value": "Конфетка доброты",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "94.8",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "387",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

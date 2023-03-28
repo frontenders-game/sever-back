@@ -1,0 +1,66 @@
+{
+  "name": "Батончик шоколадный Mars Max с нугой и карамелью в молочном шоколаде 81г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 66.49,
+  "promo": {
+    "discountedPriceRegular": 50.39,
+    "discountedPriceWithCard": 47.87,
+    "discountPercent": 28,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 65,
+  "ingredients": "Молочный шоколад (сахар, какао масло, какао тертое, сухое обезжиренное молоко, лактоза, сухое цельное молоко, молочный жир, сухая молочная сыворотка, эмульгатор (соевый лецитин), ароматизатор (ванилин)); глюкозный сироп (кукурузный, пшеничный), сахар, масло пальмовое рафинированное дезодорированное, сухое обезжиренное молоко, какао порошок, ячменный солодовый экстракт, соль, сухой яичный белок. Содержит глютен. Может содержать незначительное количество арахиса, фундука, миндаля.",
+  "information": [
+    {
+      "value": "Mars",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "452",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

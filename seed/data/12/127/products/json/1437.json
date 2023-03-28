@@ -1,0 +1,53 @@
+{
+  "name": "Огурцы Global Village корнишоны соленые 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 133.99,
+  "priceWithCard": 124.61,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 6,
+  "ingredients": "Огурцы, вода питьевая, соль поваренная пищевая, чеснок, перец стручковый острый, семя укропа, регулятор кислотности лимонная кислота, консервант сорбат калия.",
+  "information": [
+    {
+      "value": "ФЭГ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "10",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

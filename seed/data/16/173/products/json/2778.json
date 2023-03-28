@@ -1,0 +1,34 @@
+{
+  "name": "Чай Greenfield Спринг мелоди черный в пакетиках 100х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 469.99,
+  "priceWithCard": 451.19,
+  "promo": {
+    "discountedPriceRegular": 333.69,
+    "discountedPriceWithCard": 320.34,
+    "discountPercent": 29,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "чай черный байховый, ароматизатор, лист черной смородины, мята, чабрец",
+  "information": [
+    {
+      "value": "Greenfield",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

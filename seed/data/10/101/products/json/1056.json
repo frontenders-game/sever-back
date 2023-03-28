@@ -1,0 +1,66 @@
+{
+  "name": "Йогурт Активиа клубника 2.9% 130г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 56.99,
+  "priceWithCard": 53.57,
+  "promo": {
+    "discountedPriceRegular": 38.18,
+    "discountedPriceWithCard": 35.89,
+    "discountPercent": 33,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (клубника, вода, сахар, кукурузный крахмал, концентрированный сок черной моркови, загуститель – пектины, концентрированный сок лимона, натуральный ароматизатор, краситель – экстракт паприки), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена, орехов.  Количество молочнокислых микроорганизмов – не менее 1х107 КОЕ/г.  Количество бифидобактерий ActiRegularis® – не менее 3,4х107 КОЕ/г",
+  "information": [
+    {
+      "value": "Активиа",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "12.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "91",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

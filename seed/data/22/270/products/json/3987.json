@@ -1,0 +1,29 @@
+{
+  "name": "Ватные диски Pupi 120шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.99,
+  "priceWithCard": 63.35,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "Хлопок.",
+  "information": [
+    {
+      "value": "Pupi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

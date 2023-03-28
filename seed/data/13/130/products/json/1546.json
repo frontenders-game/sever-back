@@ -1,0 +1,61 @@
+{
+  "name": "Пельмени Ложкаревъ из отборной говядины и свинины, 900г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 336.99,
+  "priceWithCard": 316.77,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 11,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, говядина, вода питьевая, свинина, мясо куриное, лук репчатый свежий, белок растительный, крахмал картофельный, соль поваренная пищевая, яичный порошок, клетчатка растительная, масло растительное рафинированное дезодорированное, перец черный молотый.",
+  "information": [
+    {
+      "value": "Ложкаревъ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "38",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

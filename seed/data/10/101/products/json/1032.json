@@ -1,0 +1,61 @@
+{
+  "name": "Пудинг молочный Grand Dessert шоколад 5.2%, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 93.49,
+  "priceWithCard": 91.62,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Обезжиренное молоко, сливки, глюкозно-фруктозный сироп, вода, сахар, загустители: модифицированный кукурузный крахмал (Е1422, Е 1442), каррагинан, гуаровая камедь, пищевой желатин; какао-порошок, сывороточный продукт, какао-порошок «Арриба», эмульгатор: Е472b; натуральный сливочный ароматизатор.",
+  "information": [
+    {
+      "value": "Grand Dessert",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "5.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "17.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "130",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

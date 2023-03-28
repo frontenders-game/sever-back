@@ -1,0 +1,61 @@
+{
+  "name": "Смесь Малютка 4 молочко детское с 18 месяцев 600г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 548.99,
+  "priceWithCard": 538.01,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 9,
+  "ingredients": "молоко обезжиренное, смесь растительных масел (пальмовое, рапсовое, кокосовое, подсолнечное), мальтодекстрин, лактоза, пребиотики (галактоолигосахара, фруктоолигосахара), минеральные вещества, витаминный комплекс, холин, таурин, эмульгатор соевый лецитин, L-триптофан, инозитол, L-изолейцин, нуклеотиды, L-цистеин, L-карнитин. Может содержать следы глютена и рыбьего жира",
+  "information": [
+    {
+      "value": "Малютка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "53.9",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "463",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

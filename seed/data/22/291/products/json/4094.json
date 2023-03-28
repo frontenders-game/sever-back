@@ -1,0 +1,29 @@
+{
+  "name": "Гель Honey Kid для подмывания малыша 400мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 181.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, coco-glucoside, glyceril oleate, decyl glucoside, disodium laureth sulfosuccinate, sodium chioride, glycerin, cocamide dea, inulin, alpha-glucan oligosaccharide, panthenol, allantoin, chamomilla recutita flower extract, calendula officinalis flower extract, salvia officinalis leaf extract, aloe barbadensis leaf extract, propylene giycol, parfum, disodium edta, sodium hydroxide, benzyl alcohol, methylisothiazolinone, methylchloroisothiazolinone",
+  "information": [
+    {
+      "value": "Honey Kid",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

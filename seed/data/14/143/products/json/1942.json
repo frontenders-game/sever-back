@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Laimon Fresh Mango газированный 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 93.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "вода очищенная, сахар, концентрированные соки (яблочный, лайма, из манго), натуральные ароматизаторы (натуральные вкусоароматические вещества, вкусоароматические препараты, масла: лимона, лайма, мяты), краситель каротины, антиокислитель аскорбиновая кислота",
+  "information": [
+    {
+      "value": "LaimonFresh",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "45",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

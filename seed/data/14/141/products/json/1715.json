@@ -1,0 +1,34 @@
+{
+  "name": "Вода Святой источник Спортик артезианская йод-калиевая высшей категории негазированная, 330мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 34.49,
+  "priceWithCard": 32.77,
+  "promo": {
+    "discountedPriceRegular": 30.01,
+    "discountedPriceWithCard": 28.51,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 20,
+  "ingredients": "вода питьевая: кальций 25-80, магний 5-20, калий 2-20, гидрокарбонаты 50-250, хлориды 15-100, сульфаты <50, фторид-ион 0.6-6.2, иодид-ион, в пересчете на йод 40-60",
+  "information": [
+    {
+      "value": "Святой Источник",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

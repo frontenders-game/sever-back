@@ -1,0 +1,29 @@
+{
+  "name": "Носки Экотекс мужские размер 40-45 в ассортименте 1шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 99.99,
+  "priceWithCard": 93.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "хлопок 83%, полиамид 15%, эластан 2%",
+  "information": [
+    {
+      "value": "Экотекс",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

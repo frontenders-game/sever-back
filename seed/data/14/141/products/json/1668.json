@@ -1,0 +1,29 @@
+{
+  "name": "Вода Пилигрим минеральная негазированная 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 19.99,
+  "priceWithCard": 18.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "вода минеральная природная столовая питьевая негазированная гидрокарбонатная (сульфатно-гидрокарбонатная) натриево-кальциевая (магниево-натриево-кальциевая). \nГидрокарбонаты 30-160, кальций < 100, натрий + калий < 50, минерализация 0.1 - 0.3",
+  "information": [
+    {
+      "value": "Пилигрим",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

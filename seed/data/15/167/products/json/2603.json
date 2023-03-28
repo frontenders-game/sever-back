@@ -1,0 +1,45 @@
+{
+  "name": "Жевательная резинка Orbit White Bubblemint 13.6г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 38.19,
+  "priceWithCard": 35.13,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 98,
+  "ingredients": "Подсластитель е967, резиновая основа, подсластители: е420ii, е420i; загуститель е414, ароматизаторы, регулятор кислотности е341, эмульгатор соевый лецитин, подсластители: е421, е951; влагоудерживающий агент е422, красители: е171, е133; подсластители: е950, е955; глазирователь е903, антиокислитель е320",
+  "information": [
+    {
+      "value": "Orbit",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "62",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "150",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

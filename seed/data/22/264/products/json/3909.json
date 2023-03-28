@@ -1,0 +1,34 @@
+{
+  "name": "Бритва Gillette Mach 3 со сменной кассетой",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 614.99,
+  "priceWithCard": 584.24,
+  "promo": {
+    "discountedPriceRegular": 504.29,
+    "discountedPriceWithCard": 479.08,
+    "discountPercent": 18,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Peg-115m, peg-7m, peg-100, pentaerythrityl, Tetra-Di-T-Butyl, Hydroxyhydrocinnamate, tris(Di-T-Butyl), phosphite, BHT, glycol.",
+  "information": [
+    {
+      "value": "Gillette",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Китай",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

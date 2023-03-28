@@ -1,0 +1,66 @@
+{
+  "name": "Колбаса Добрая мясная история Вареная 500г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 209.99,
+  "priceWithCard": 191.09,
+  "promo": {
+    "discountedPriceRegular": 140.69,
+    "discountedPriceWithCard": 128.03,
+    "discountPercent": 33,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "свинина, говядина, мясо кур, шкурка свиная, вода питьевая, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия)), крахмал картофельный, стабилизатор (полифосфат натрия), регуляторы кислотности (ацетаты натрия, цитраты натрия), усилитель вкуса и аромата (глутамат натрия), антиокислители (изоаскорбат натрия, лимонная кислота), молоко сухое, мальтодекстрин, ароматизатор (перец черный), загустители (каррагинан, гуаровая камедь, ксантановая камедь), сахар, экстракты специй (мускатный орех), краситель (кармины)",
+  "information": [
+    {
+      "value": "Добрая мясная история",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "18",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "210",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

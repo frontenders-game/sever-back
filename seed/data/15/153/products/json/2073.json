@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Степ молочный с лесным орехом 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 49.99,
+  "priceWithCard": 45.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 30,
+  "ingredients": "молочный шоколад (сахар, молоко цельное сухое, масло какао, какао-тёртое, эмульгаторы (лецитин соевый, эфиры полиглицерина и взаимоэтерифицированных рициноловых кислот), ароматизатор), начинка (патока, арахис, молоко цельное сгущенное с сахаром (молоко нормализованное, сахара (сахароза, лактоза) ), ядра фундука дробленые, сахар, жир растительный (масла растительные, эмульгатор лецитин соевый, антиокислители (e319, лимонная кислота) ), мука (пшеничная, рисовая), крупа кукурузная, молоко сухое обезжиренное, эмульгатор лецитин соевый, соль, ароматизаторы)",
+  "information": [
+    {
+      "value": " Степ ",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29.2",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "52.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "497",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

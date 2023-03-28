@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Evervess Блэк Роял газированный 0.33л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 54.59,
+  "promo": {
+    "discountedPriceRegular": 47.99,
+    "discountedPriceWithCard": 43.67,
+    "discountPercent": 20,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "вода, сахар, регулятор кислотности Е330, ароматизатор натуральный «тип травяной ликер карлсбадский», ароматизаторы, краситель Е150d, экстракт элеутерококка, консерванты (Е202, Е211)",
+  "information": [
+    {
+      "value": "Evervess",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "44",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

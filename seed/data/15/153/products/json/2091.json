@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад Коммунарка Трюфельный элит, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 179.99,
+  "priceWithCard": 176.39,
+  "promo": {
+    "discountedPriceRegular": 151.19,
+    "discountedPriceWithCard": 148.17,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 47,
+  "ingredients": "Шоколадная масса (сахар, какао-масло, какао тертое, эмульгатор лецитин; ароматизатор натуральный Ваниль); начинка (сахарная пудра, жир кондитерский, молоко сухое, какао-порошок, спирт этиловый ректификованный не ниже высшей очистки, эмульгатор лецитин; ароматизатор идентичный натуральному Трюфель).",
+  "information": [
+    {
+      "value": "Коммунарка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.4",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "36.6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "48.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "554",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

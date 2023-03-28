@@ -1,0 +1,29 @@
+{
+  "name": "Палочки ватные Pupi 200шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 65.99,
+  "priceWithCard": 61.37,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Pupi",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

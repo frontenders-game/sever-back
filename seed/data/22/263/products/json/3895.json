@@ -1,0 +1,26 @@
+{
+  "name": "Жидкое мыло дезинфицирующее Sanipone Soft 1000мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 546.19,
+  "priceWithCard": 529.8,
+  "promo": {
+    "discountedPriceRegular": 338.64,
+    "discountedPriceWithCard": 328.48,
+    "discountPercent": 38,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Действующее вещество содержит полигексаметиленгуанидина гидрохлорид (0,05+-0,05%), феноксиэтанол, смесь ПАВ, функциональные добавки, технологические компоненты",
+  "information": [
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

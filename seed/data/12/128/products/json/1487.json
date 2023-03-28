@@ -1,0 +1,29 @@
+{
+  "name": "Орех Арахис жареный соленый",
+  "unitsOfMeasurement": "кг",
+  "step": "0.25",
+  "priceRegular": 349.99,
+  "priceWithCard": 325.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "арахис жареный соленый",
+  "information": [
+    {
+      "value": "Good-Food",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

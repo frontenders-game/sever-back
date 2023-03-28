@@ -1,0 +1,61 @@
+{
+  "name": "Пицца La Trattoria с моцареллой замороженная 335г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 299.99,
+  "priceWithCard": 275.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "мука пшеничная хлебопекарная высшего сорта, сыр «Моцарелла», оригинальный томатный соус (вода питьевая, томатная паста, сахар, крахмал картофельный, соль, чеснок, перец черный, орегано, консервант сорбат калия), вода питьевая, соус чесночный (вода питьевая, сахар, чеснок, белок молочный, регуляторы кислотности: кислота уксусная, кислота лимонная; порошок горчичный, лук зеленый, смесь специй), масло растительное, томаты, шпинат, соль, дрожжи хлебопекарные прессованные, сахар, базилик",
+  "information": [
+    {
+      "value": "La Trattoria",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "12.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "27.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "268",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

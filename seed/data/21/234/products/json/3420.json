@@ -1,0 +1,66 @@
+{
+  "name": "Колбаса сырокопчёная Черкизово Сальчичон в нарезке, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 175.99,
+  "priceWithCard": 163.67,
+  "promo": {
+    "discountedPriceRegular": 121.43,
+    "discountedPriceWithCard": 112.93,
+    "discountPercent": 31,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 26,
+  "ingredients": "Свинина, шпик, соль, пищевые волокна, молоко сухое, виноградный сахар, специи (черный перец, горчица), усилитель вкуса и аромата (глутамат натрия 1-замещенный), стабилизатор (пирофосфаты), регулятор кислотности (трифосфаты), антиокислитель (аскорбиновая кислота), ароматизатор, экстракт мускатного цвета, стартовая культура, фиксатор окраски-нитрит натрия. Продукт может содержать следы: глютена, кунжута, орехов, сельдерея, сои, яиц, а также белка птицы и говядины.",
+  "information": [
+    {
+      "value": "Черкизово",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "17",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "31",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "351",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

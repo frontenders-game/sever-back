@@ -1,0 +1,61 @@
+{
+  "name": "Булочки Ремесленный Хлеб Оригинальные пшеничные с кунжутом, 140г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 31.99,
+  "priceWithCard": 30.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода, кунжут, сахар, масло подсолнечное, дрожжи хлебопекарные прессованные, глютен пшеничный, соль, комплексные пищевые добавки (стабилизатор -карбонат кальция, мука соевая, эмульгаторы: моно и диглицериды жирных кислот, эфиры глицерина и диацетилвинной и жирных кислот; антиокислитель – аскорбиновая кислота, вещество для обработки муки-цистеин, мука пшеничная 1 сорта), консервант-сорбиновая кислота.(Может содержать следы арахиса, молочных и яичных продуктов). Продукт содержит натуральный белок пшеничной муки глютен.",
+  "information": [
+    {
+      "value": "Ремесленный Хлеб",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "7.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "300",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Мешки для мусора Liberhaus с завязками 15шт, 35л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 76.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 23,
+  "ingredients": "Полиэтилен.",
+  "information": [
+    {
+      "value": "Liberhaus",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

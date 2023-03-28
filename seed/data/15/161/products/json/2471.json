@@ -1,0 +1,61 @@
+{
+  "name": "Мармелад Fruittella Крутой микс жевательный 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 149.99,
+  "priceWithCard": 139.49,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Глюкозный сироп, сахар, желатин, регулятор кислотности (лимонная кислота), соки из фруктов и ягод (клубничный, лимонный, апельсиновый, яблочный, малиновый, ананасовый), натуральные ароматизаторы, концентраты (сафлор, спирулина), растительные масла, концентрированный сок черной моркови, краситель (сахарный колер I простой), концентрированный сок редиса, глазирователи (карбаубский воск, воск пчелиный, белый).",
+  "information": [
+    {
+      "value": "Fruit-tella",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "320",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

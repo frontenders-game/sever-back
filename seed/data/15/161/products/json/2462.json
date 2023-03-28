@@ -1,0 +1,61 @@
+{
+  "name": "Мармелад Chupa Chups Фансы с фруктовым вкусом 150г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 152.99,
+  "priceWithCard": 140.75,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 14,
+  "ingredients": "сахар, глюкозный сироп, кукурузный крахмал, загустители (Е1401, Е1404), регуляторы кислотности (лимонная кислота, яблочная кислота, малат натрия, цитрат натрия 3-замещенный), агент Влагоудерживающий (сорбит), растительное масло, ароматизатор, соль, красители (куркумин, кармины, синий блестящий FCF). Может содержать следы глютена",
+  "information": [
+    {
+      "value": "Chupa Chups",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "0.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "0.8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "83",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "340",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Средство Kalyon чистящее для ванны 750мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 199.99,
+  "priceWithCard": 187.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "<5% неионогенные ПАВ, <5% лимонная кислота, <5% алифатический углеводород,\n<5% отдушка, CI 52015",
+  "information": [
+    {
+      "value": "Kalyon",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Турция",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

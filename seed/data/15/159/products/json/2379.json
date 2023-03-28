@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Дымка Апельсин сахарное 330г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 85.49,
+  "promo": {
+    "discountedPriceRegular": 80.09,
+    "discountedPriceWithCard": 76.09,
+    "discountPercent": 11,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "Мука пшеничная высшего сорта, сахар, масло пальмовое рафинированное отбеленное дезодорированное (рафинированное дезодорированное пальмовое масло, антиокислители: бутилгидроксианизол, бутилгидрокситолуол), сыворотка молочная сухая, продукты яичные, разрыхлитель карбонат аммония, соль, разрыхлитель гидрокарбонат натрия, красители натуральные: каротин, кармин; ароматизатор натуральный «Апельсиновое масло», регулятор кислотности лимонная кислота. Продукт содержит глютен, молочные продукты, яичные продукты.",
+  "information": [
+    {
+      "value": "Дымка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "15.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "64.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "426",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

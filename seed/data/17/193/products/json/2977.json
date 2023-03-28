@@ -1,0 +1,66 @@
+{
+  "name": "Суп Суперсуп куриный, 70г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.04,
+  "priceWithCard": 49.18,
+  "promo": {
+    "discountedPriceRegular": 47.01,
+    "discountedPriceWithCard": 42.79,
+    "discountPercent": 13,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 33,
+  "ingredients": "Изделия макаронные (мука пшеничная, вода), соль, овощи и зелень сушеные (морковь, корень петрушки, лук, паприка красная сладкая, лук зеленый резанец, зелень), комплексная пищевая добавка \"Куриный бульон\" (ароматизаторы пищевые, соль), сахар, масло растительное, дрожжевые экстракты, порошок куриного мяса, чеснок сушеный, куркума, регулятор кислотности (кислота лимонная), экстракт перца черного.",
+  "information": [
+    {
+      "value": "Суперсуп",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "1",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "64",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "297",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

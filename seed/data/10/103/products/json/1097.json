@@ -1,0 +1,61 @@
+{
+  "name": "Пирожное Kinder молочный ломтик 28г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 36.99,
+  "priceWithCard": 35.14,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 43,
+  "ingredients": "пастеризованное молоко, растительный жир, сахар, пшеничная мука, сухое обезжиренное молоко, мед, молочный жир, яичный порошок, обезжиренный какао-порошок, пшеничные отруби, разрыхлители: дигидропирофосфат натрия, гидрокарбонат натрия и карбонат аммония; эмульгаторы: моно- и диглицерины жиных кислот, ароматизаторы, соль. Содержит молоко, яйца, злаки, содержит глютен и продукты их переработки",
+  "information": [
+    {
+      "value": "Kinder",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "27.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "34",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "422",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

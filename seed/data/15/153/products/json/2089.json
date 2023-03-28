@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад молочный Ritter Sport ром-изюм-орехи, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 119.99,
+  "priceWithCard": 109.19,
+  "promo": {
+    "discountedPriceRegular": 100.79,
+    "discountedPriceWithCard": 91.72,
+    "discountPercent": 16,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 20,
+  "ingredients": "Сахар, какао - масло, изюм, какао тертое, сухое цельное молоко, орех лещины дробленый, лактоза, сухое обезжиренное молоко, молочный жир, ямайский ром, эмульгатор (соевый лецитин), натуральный ароматизатор (экстракт бурбонской ванили). Содержание какао-продуктов в шоколадной массе - не менее 30%. Общее содержание в шоколадной массе: сухого остатка какао - не менее 30%, сухого обезжиренного какао - не менее 6%, сухого общего остатка молока - не менее 18%, молочного жира - не менее 6%. Может содержать следы арахиса, других орехов, глютена. Содержит алкоголь.",
+  "information": [
+    {
+      "value": "Ritter Sport",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "28",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "55",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "516",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

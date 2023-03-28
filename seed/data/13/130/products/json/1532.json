@@ -1,0 +1,66 @@
+{
+  "name": "Пельмени Sибирская Коллекция со сливками категория В, 700г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 499.99,
+  "priceWithCard": 459.99,
+  "promo": {
+    "discountedPriceRegular": 299.99,
+    "discountedPriceWithCard": 275.99,
+    "discountPercent": 40,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 14,
+  "ingredients": "Фарш - свинина, говядина, мясо куриное, лук репчатый свежий, вода питьевая, сливки питьевые, соль, перец черный молотый. Тесто - мука пшеничная высшего сорта, вода питьевая, меланж яичный, масло подсолнечное, соль.",
+  "information": [
+    {
+      "value": "Sибирская Коллекция",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "11",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "25",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "260",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Мыло Весна Дегтярное туалетное твердое 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 16,
+  "ingredients": "натриевые соли жирных кислот животных жиров, пальмового, кокосового или пальмоядрового масел, вода, глицерин, березовый деготь, хлорид натрия, ЭДТА тетранатрия, гидроксид натрия, c. I. 77266",
+  "information": [
+    {
+      "value": "Весна",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

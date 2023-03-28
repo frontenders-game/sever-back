@@ -1,0 +1,34 @@
+{
+  "name": "Набор Рецепты бабушки Агафьи Яблоневый Цвет для тела гель 100мл + лосьон 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 269.99,
+  "priceWithCard": 264.59,
+  "promo": {
+    "discountedPriceRegular": 132.3,
+    "discountedPriceWithCard": 129.65,
+    "discountPercent": 51,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "гель-скраб: aqua with infusion of pyrus\nmalus seed oil (масло косточек таежных яблок), pyrus malus fruit extract (яблочный экстракт), pyrus communis fruit juice (сок диких груш); lauryl glucoside, cocamidopropyl betaine, glycerin, pinus sibirica shell powder (скорлупа кедровых орешков), hydroxyethylcellulose, xanthan gum, benzyl alcohol, sodium benzoats, potassium sorbato, citric acid, parfum, cl 19140, cl 16255, cl 14720;\nлосьон: aqua with infusion of pyrus\nmalus seed oil (масло косточек таежных яблок), pyrus malus fruit extract (яблочный экстракт), pyrus communis fruit juice (сок диких груш); octyldodecanol, dicaprylyl ether, caprylic/capric triglyceride, cetesryl alcohol, butyrospermum parkii butter, glyceril stearate, stearic acid, urea, panthenol (провитамин b5), tocopherol (витамин e), sodium cetearyl sulfete, xanthan gum, citric acid, benzyl alcohol, sodium benzoate, potassium sorbate, parfum",
+  "information": [
+    {
+      "value": "Рецепты бабушки Агафьи",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

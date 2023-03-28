@@ -1,0 +1,29 @@
+{
+  "name": "Гель для мытья посуды Synergetic сочный апельсин 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 236.59,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "подготовленная вода ˃30%, А-тензиды ( ПАВ из растительного масла ) 5-15%, Н-тензиды ( ПАВ из растительного маслаы ) ˂5%, глицерин растительного происхождения ˂5%, гипоаллергенная парфюмерная композиция «Апельсин» на основе эфирных масел апельсина, померанца, петитгрейна, мандарина, бергамота), пищевой краситель (абрикос)",
+  "information": [
+    {
+      "value": "Synergetic",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

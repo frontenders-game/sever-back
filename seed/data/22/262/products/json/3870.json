@@ -1,0 +1,29 @@
+{
+  "name": "Антиперспирант Nivea Men Невидимый для чёрного и белого роликовый, 50мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 359.99,
+  "priceWithCard": 341.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 11,
+  "ingredients": "butane, isobutane, propane, cyclomethicone, aluminum chlorohydrate, isopropyl palmitate, silver citrate, persea gratissima oil, octyldodecanol, disteardimonium hectorite, dimethicone, propylene carbonate, dimethiconol, aqua, citric acid, coumarin, limonene, eugenol, parfum",
+  "information": [
+    {
+      "value": "Nivea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Германия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Oreo с какао и начинкой шоколад 95г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 88.19,
+  "promo": {
+    "discountedPriceRegular": 62.09,
+    "discountedPriceWithCard": 60.85,
+    "discountPercent": 31,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 52,
+  "ingredients": "Мука пшеничная, сахар, масло растительное, жир растительный, какао-порошок, вода, крахмал кукурузный, сироп глюкозно-фруктозный, соль, разрыхлитель (гидрокарбонат натрия), эмульгаторы (лецитин соевый, лецитин подсолнечный), ароматизаторы.",
+  "information": [
+    {
+      "value": "Oreo",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5.8",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "20",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "66",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "469",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

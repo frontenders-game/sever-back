@@ -1,0 +1,34 @@
+{
+  "name": "Зубная паста Colgate МаксФреш взрывная мята 100мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 289.99,
+  "priceWithCard": 269.69,
+  "promo": {
+    "discountedPriceRegular": 162.39,
+    "discountedPriceWithCard": 151.03,
+    "discountPercent": 44,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "Sorbitol, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, Aroma, PEG-12, Cellulose Gum, Cocamidopropyl Betaine, Sodium Saccharin, Sodium Fluoride, Hydroxypropyl Methylcellulose, Menthol, Limonene, CI 77891, CI 74160, CI 47005.",
+  "information": [
+    {
+      "value": "Colgate",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Польша",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

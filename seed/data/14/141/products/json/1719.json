@@ -1,0 +1,29 @@
+{
+  "name": "Вода Arivali минеральная лечебно-столовая 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 39.99,
+  "priceWithCard": 36.79,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 17,
+  "ingredients": "анионы мг/л: НСО3 - 2300–4000, SО42 -  <150, Сl - 200–650; катионы: (Nа+ + К+) - 1000 – 3000, Са2+  <100, Мg2+  <50. Минерализация г/л: 4,0–7",
+  "information": [
+    {
+      "value": "Arivali",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

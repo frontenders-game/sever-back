@@ -1,0 +1,45 @@
+{
+  "name": "Вода Святой Источник со вкусом яблока негазированный 1.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 79.99,
+  "priceWithCard": 78.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "вода питьевая, сахар, ароматизатор натуральный, регуляторы кислотности кислота лимонная и цитрат натрия, консерванты сорбат калия и бензоат натрия, подсластитель сукралоза",
+  "information": [
+    {
+      "value": "Святой Источник",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "2.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "10",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

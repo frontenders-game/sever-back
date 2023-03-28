@@ -1,0 +1,45 @@
+{
+  "name": "Напиток Aqua Minerale с соком Лимон негазированный 500мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 56.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 15,
+  "ingredients": "вода, сахар, мультифруктовый концентрированный сок (лимонный концентрированный сок, яблочный концентрированный сок, концентрированный сок черешни,концентрированный сок лайма), регуляторы кислотности (Е330, Е331), консерванты (Е202, Е211), ароматизатор натуральный, стабилизатор (Е414)",
+  "information": [
+    {
+      "value": "Aqua Minerale",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.7",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "19",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

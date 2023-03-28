@@ -1,0 +1,66 @@
+{
+  "name": "Завтрак Хрутка Duo готовый шоколадный обогащенный 230г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 139.99,
+  "priceWithCard": 131.59,
+  "promo": {
+    "discountedPriceRegular": 90.99,
+    "discountedPriceWithCard": 85.53,
+    "discountPercent": 35,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "пшеница (содержит глютен), сахар, крупа кукурузная, пшеничная мука (содержит глютен), рисовая крупа, патока, масло подсолнечное, какао-порошок алкализованный, карбонат кальция, молоко сухое обезжиренное, соль, эмульгатор (лецитины), ароматизаторы натуральные, карамельный сироп",
+  "information": [
+    {
+      "value": "Хрутка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "8.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "73.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "362",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

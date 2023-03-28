@@ -1,0 +1,61 @@
+{
+  "name": "Колбаса Владимирский стандарт Мадейра варено-копченая 350г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 298.99,
+  "priceWithCard": 281.05,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "свинина, говядина, шпик, нитритная соль (соль, фиксатор окраски: нитрит натрия), яичный меланж, стабилизатор: пирофосфат натрия, усилитель вкуса и аромата: Е621, соль, антиокислитель: аскорбиновая кислота, пряности (чеснок), экстракты пряностей (красный перец, тмин, кориандр, чёрный перец) и фруктов, краситель: кармины. Возможно содержание в продукте аллергенов: сельдерея, молока, горчицы, сои, орехов, глютена, кунжута и продуктов их переработки",
+  "information": [
+    {
+      "value": "Владимирский стандарт",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "15",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "21",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "257",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

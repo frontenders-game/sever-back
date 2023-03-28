@@ -1,0 +1,66 @@
+{
+  "name": "Конфеты Co barre de Chocolat мультизлаковые с белой и темной кондитерской глазурью",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 749.99,
+  "priceWithCard": 682.49,
+  "promo": {
+    "discountedPriceRegular": 502.49,
+    "discountedPriceWithCard": 457.27,
+    "discountPercent": 33,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 8,
+  "ingredients": "крупа (овсяная, пшеничная, кукурузная), патока, мальтоза, кондитерская глазурь: сахар, заменитель масла какао нетемперируемый лауринового типа (масло пальмоядровое (стеарин) гидрогенизированное рафинированное дезодорированное, эмульгатор сорбитан тристеарат, сухая молочная сыворотка, молочный жир, эмульгаторы: лецитин соевый, полиглицирин полирицинолеат, ароматизатор «Ванильно-сливочный»)",
+  "information": [
+    {
+      "value": "Co barre de Chocolat",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "17.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "460",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

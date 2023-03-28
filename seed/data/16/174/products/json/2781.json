@@ -1,0 +1,29 @@
+{
+  "name": "Чай Greenfield Грин мелисса зелёный с ароматом мяты и лимона в пакетиках 100х1.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 408.99,
+  "priceWithCard": 376.27,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "чай зелёный байховый, листья мелиссы и мяты, ароматизатор лимон",
+  "information": [
+    {
+      "value": "Greenfield",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

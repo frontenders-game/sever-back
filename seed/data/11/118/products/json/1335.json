@@ -1,0 +1,61 @@
+{
+  "name": "Хлебцы Хлебцы Молодцы Фитнес линия цельнозерновые витамин плюс хрустящие, 100г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 40.49,
+  "priceWithCard": 39.68,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 24,
+  "ingredients": "Целые и специально пророщенные зерна пшеницы, ржаной солод, крупа овсяная, соль поваренная пищевая, эмульгатор натуральный растительный (соевый) лецитин, , витаминно - минеральная добавка Кастомикс Иммунити, пищевая добавка антиокислитель (токоферолы, концентрат смеси).",
+  "information": [
+    {
+      "value": "Хлебцы молодцы",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.1",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "2.3",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "290",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

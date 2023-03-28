@@ -1,0 +1,61 @@
+{
+  "name": "Шоколад Алёнка молочный с соленым крекером 85г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 67.89,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 43,
+  "ingredients": "сахар, сухое цельное молоко, масло какао, печенье затяжное «Со вкусом малины» (мука пшеничная, вода питьевая, сахар, масло подсолнечное высокоолеиновое, крахмал кукурузный, краситель натуральный Е120, ароматизатор «Малина», разрыхлитель – гидрокарбонат натрия, соль пищевая (содержит Е536), регулятор кислотности - кислота молочная), какао тертое, эмульгаторы: лецитин соевый и Е476; ароматизаторы: «Ванильный», «Ваниль». Возможно наличие незначительного количества арахиса, орехов фундука, миндаля и кешью, какао крупки, кусочков ягод, фруктов, кукурузы жареной дробленой, гранул капучино, полуфабриката \"взрывной карамели\"",
+  "information": [
+    {
+      "value": "Аленка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "29",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "57",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "520",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

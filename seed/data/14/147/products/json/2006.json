@@ -1,0 +1,45 @@
+{
+  "name": "Пиво безалкогольное Amstel Лайм и мята 430мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 46.99,
+  "priceWithCard": 45.58,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 9,
+  "ingredients": "Вода, Солод ячменный, Ячмень пивоваренный, Хмель.",
+  "information": [
+    {
+      "value": "Amstel",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "30",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

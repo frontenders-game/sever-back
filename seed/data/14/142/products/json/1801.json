@@ -1,0 +1,50 @@
+{
+  "name": "Нектар Добрый Апельсин 1.47л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 164.99,
+  "priceWithCard": 156.74,
+  "promo": {
+    "discountedPriceRegular": 140.24,
+    "discountedPriceWithCard": 133.23,
+    "discountPercent": 15,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "апельсиновый сок, сахар, регулятор кислотности - лимонная кислота, вода",
+  "information": [
+    {
+      "value": "Добрый",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "10.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "42",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

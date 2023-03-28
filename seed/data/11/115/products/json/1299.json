@@ -1,0 +1,61 @@
+{
+  "name": "Сдоба Аладушкин Венская с яблоком и корицей, 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 59.99,
+  "priceWithCard": 58.19,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 12,
+  "ingredients": "Нaчинка (яблоки сушеные, сахар - песок, сироп глюкозы и фруктозы, вода питьевая, модифицированный крахмал, ароматизатор натуральный «Яблочный аромат», регулятор кислотности - кислота лимонная, корица, антиокислитель – кислота аскорбиновая), мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар-песок, маргарин, продукты яичные меланж), дрожжи хлебопекарные прессованные, соль поваренная пищевая, улучшители хлебопекарные.",
+  "information": [
+    {
+      "value": "Аладушкин",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "6",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "51.1",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "280",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

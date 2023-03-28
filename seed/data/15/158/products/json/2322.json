@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Азовская КФ Азовская молочная",
+  "unitsOfMeasurement": "кг",
+  "step": "0.2",
+  "priceRegular": 349.99,
+  "priceWithCard": 332.49,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "Сахар, молоко цельное сгущенное с сахаром с массовой долей жира 8,5% (цельное молоко, обезжиренное молоко, сахар (сахароза, лактоза)); патока, вода питьевая, масло сливочное (пастеризованные сливки), агент влагоудерживающий - сорбитовый сироп, ароматизатор «Ванилин».",
+  "information": [
+    {
+      "value": "Азовская кондитерская фабрика",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "4",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "82",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "380",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

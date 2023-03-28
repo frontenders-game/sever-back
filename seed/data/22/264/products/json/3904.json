@@ -1,0 +1,29 @@
+{
+  "name": "Бритва Gillette Blue II Plus одноразовая, 5шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 259.99,
+  "priceWithCard": 246.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 31,
+  "ingredients": "Ethyl acetate, alcohol denat, aqua, persea gratissima oil, tocopheryl acetate, parfum, benzophenone-4.",
+  "information": [
+    {
+      "value": "Gillette",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

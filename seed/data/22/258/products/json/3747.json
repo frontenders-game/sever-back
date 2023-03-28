@@ -1,0 +1,29 @@
+{
+  "name": "Шампунь Pantene Pro-V Густые и крепкие 250мл",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 234.99,
+  "promo": null,
+  "isNew": true,
+  "stockCount": 6,
+  "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, sodium xylenesulfonate, sodium chloride, parfum, citric acid, sodium benzoate, sodium citrate, sodium salicylate, hydroxypropyl methylcellulose, sodium hydroxide, tetrasodium edta, panthenol, panthenyl ethyl ether, hexyl cinnamal, hydroxycitronellal, histidine, glyoxal",
+  "information": [
+    {
+      "value": "Pantene",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Румыния",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

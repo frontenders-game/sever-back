@@ -1,0 +1,29 @@
+{
+  "name": "Вода Заповедник Здоровья Нагутская №26 лечебно-столовая газированная 0.5л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 44.19,
+  "priceWithCard": 43.31,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "анионы: HCJ3:2300-4000; CL:200-650;<150, катионы:(Na+K): 1000-3000; Mg:,50;Ca:,100, минерализация г/л: 4-7; Содержит фторид. Допускается естественный осадок минеральных солей",
+  "information": [
+    {
+      "value": "Заповедник Здоровья",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

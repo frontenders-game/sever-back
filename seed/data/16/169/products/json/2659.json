@@ -1,0 +1,58 @@
+{
+  "name": "Напиток кофейный Jacobs Классика 3в1 растворимый 13.5г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 18.99,
+  "priceWithCard": 17.85,
+  "promo": {
+    "discountedPriceRegular": 13.1,
+    "discountedPriceWithCard": 12.32,
+    "discountPercent": 31,
+    "isActive": true
+  },
+  "isNew": true,
+  "stockCount": 31,
+  "ingredients": "сахар, сироп глюкозный, масло растительное кокосовое, кофе растворимый порошкообразный, стабилизаторы (Е340 ii, Е452i), молочный белок, соль, эмульгаторы (Е471, Е481), агент антислеживающий (Е551), подсластители (ацесульфам калия, аспартам), ароматизатор",
+  "information": [
+    {
+      "value": "Jacobs",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "13",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "74",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "415",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Печенье Зерница сахарное с изюмом 300г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 69.99,
+  "priceWithCard": 66.49,
+  "promo": {
+    "discountedPriceRegular": 60.19,
+    "discountedPriceWithCard": 57.18,
+    "discountPercent": 14,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 21,
+  "ingredients": "мука пшеничная  хлебопекарная высшего сорта, сахар, масла растительные, виноград сушеный (виноград сушеный, консервант диоксид серы),  патока крахмальная, крахмал кукурузный, молоко питьевое ультрапастеризованное топленое с  массовой долей жира 4,0 %, вода питьевая, продукты яичные, соль пищевая, разрыхлители (гидрокарбонат натрия, гидрокарбонат аммония), ароматизатор «Ваниль». Продукт может содержать следы семян кунжута, арахиса.",
+  "information": [
+    {
+      "value": "Зерница",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "6.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "16",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "70",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "450",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

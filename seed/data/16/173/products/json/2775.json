@@ -1,0 +1,34 @@
+{
+  "name": "Чай Ahmad tea Ceylon tea Orange pekoe черный байховый листовой 200г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 399.99,
+  "priceWithCard": 375.99,
+  "promo": {
+    "discountedPriceRegular": 279.99,
+    "discountedPriceWithCard": 263.19,
+    "discountPercent": 30,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 29,
+  "ingredients": "Чай черный среднелистовой цейлонский.",
+  "information": [
+    {
+      "value": "Ahmad Tea",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

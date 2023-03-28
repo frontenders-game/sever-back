@@ -1,0 +1,29 @@
+{
+  "name": "Прокладки Kotex Ультра Драй супер 16шт",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 249.99,
+  "priceWithCard": 234.99,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "Указан на упаковке.",
+  "information": [
+    {
+      "value": "Kotex",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

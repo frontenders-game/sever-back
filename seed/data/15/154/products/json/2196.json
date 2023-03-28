@@ -1,0 +1,61 @@
+{
+  "name": "Конфета Step Super нуга-арахис-карамель 65г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 29.99,
+  "priceWithCard": 29.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 22,
+  "ingredients": "сахар, патока, арахис, эквивалент масла какао (масла растительные, эмульгатор лецитин соевый, антиокислители (E306, кислота лимонная)), молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахара (сахароза, лактоза)), какао-тертое, жир растительный (масла растительные, эмульгатор E322, антиокислители (E319, кислота лимонная)), сыворотка молочная сухая,  молоко сухое обезжиренное, заменитель масла какао (масла растительные, эмульгаторы (E492, лецитин соевый), антиокислитель E306), эмульгаторы (лецитин соевый, E476), соль, жир растительный (масла растительные, антиокислитель E306), белок яичный сухой, ароматизаторы, мука ржаная, какао-порошок, ядра фундука тертые",
+  "information": [
+    {
+      "value": "Step",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "7.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "23.5",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "59.2",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "478",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Вода Ессентуки №17 минеральная природная питьевая лечебная газированная 1л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 92.49,
+  "priceWithCard": 89.72,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 13,
+  "ingredients": "вода минеральная природная питьевая лечебно-столовая газированная. Минеральный состав: Минерализация: высокая 10—14 г/л; Гидрокарбонат (HCO3-): 4900—6500; Сульфат (SO42-): < 25; Хлорид (Cl-): 1700—2800; Кальций (Ca2+): 50—200; Магний (Mg2+): < 150; Натрий+Калий (K++Na+): 2700—4000; Борная кислота (H3BO3): 40—90; Углекислота: 500—2350;",
+  "information": [
+    {
+      "value": "Ессентуки",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    }
+  ]
+}

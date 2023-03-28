@@ -1,0 +1,61 @@
+{
+  "name": "Конфеты Славянка Золотой степ арахис-карамель глазированные, 50г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 24.99,
+  "priceWithCard": 23.74,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 57,
+  "ingredients": "Сахар, арахис, патока, эквивалент масла какао (масла растительные, эмульгаторы (Е492, соевый лецитин), антиокислитель Е306), молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахара (сахароза, лактоза)), сыворотка молочная сухая, жир растительный (масла растительные, антиокислители (Е319, лимонная кислота)), какао-тёртое, эмульгаторы (лецитин соевый, Е476), заменитель масла какао (масла растительные, эмульгаторы (Е492, соевый лецитин), антиокислитель Е306), агент влагоудерживающий Е420, молоко сухое обезжиренное, соль, ядра фундука тёртые, ароматизаторы, какао-порошок.",
+  "information": [
+    {
+      "value": "Славянка",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.5",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "13.9",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "26.6",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "250",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Шоколад молочный Milka с карамельной начинкой 90г",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 89.99,
+  "priceWithCard": 83.69,
+  "promo": {
+    "discountedPriceRegular": 80.09,
+    "discountedPriceWithCard": 74.48,
+    "discountPercent": 11,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 25,
+  "ingredients": "Код соответствующего состава продукта (1 или 2) указан рядом с датой изготовления: 1 - сахар, сироп глюкозный, масло какао, какао тертое, сыворотка сухая молочная, жир растительный (пальмовый), молоко сухое цельное, молоко сухое обезжиренное, жир молочный, эмульгаторы (лецитин соевый, Е 471, Е 476), ароматизаторы, паста ореховая (фундук), соль, регуляторы кислотности (E 500i, кислота лимонная). 2 - сахар, сироп глюкозный, масло какао, какао тертое, глюкозно-фруктозный сироп, сыворотка сухая молочная, жир растительный (пальмовый), молоко сухое цельное, молоко сухое обезжиренное, жир молочный, эмульгаторы (лецитин соевый, лецитин подсолнечный, Е 471, Е 476), ароматизаторы, паста ореховая (фундук), соль, регулятор кислотности (Е 500i).",
+  "information": [
+    {
+      "value": "Milka",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "4.3",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "26",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "58.5",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "490",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 6,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

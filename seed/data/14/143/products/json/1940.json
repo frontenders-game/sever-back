@@ -1,0 +1,50 @@
+{
+  "name": "Напиток Evervess вкус Индиан Тоник газированный 0.33л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 54.99,
+  "priceWithCard": 51.69,
+  "promo": {
+    "discountedPriceRegular": 32.99,
+    "discountedPriceWithCard": 31.01,
+    "discountPercent": 40,
+    "isActive": true
+  },
+  "isNew": false,
+  "stockCount": 6,
+  "ingredients": "вода, сахар, регулятор кислотности Е330, консервант Е211, вещество вкусоароматическое натуральное хинина гидрохлорид, ароматизатор.",
+  "information": [
+    {
+      "value": "Evervess",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9.4",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "37",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

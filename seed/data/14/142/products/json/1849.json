@@ -1,0 +1,45 @@
+{
+  "name": "Напиток J7 Energy+ Гранатово-Ягодный микс сокосодержащий 0.3л",
+  "unitsOfMeasurement": "шт",
+  "step": "1.0",
+  "priceRegular": 64.99,
+  "priceWithCard": 62.39,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 7,
+  "ingredients": "яблочный сок, гранатовый сок, сок из черноплодной рябины, сок из клюквы, экстракт женьшеня, витамин B6, витамин B12,  регулятор кислотности – лимонная кислота, вода.  Без добавления сахара. Содержит сахара природного (естественного) происхождения.  Продукт может содержать следы глютен",
+  "information": [
+    {
+      "value": "J7",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "12",
+      "name": "Углеводы",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "углеводы"
+    },
+    {
+      "value": "50",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}

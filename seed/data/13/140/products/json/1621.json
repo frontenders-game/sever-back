@@ -1,0 +1,53 @@
+{
+  "name": "Ноги куриные Птицефабрика Псковская замороженные",
+  "unitsOfMeasurement": "кг",
+  "step": "0.7",
+  "priceRegular": 64.99,
+  "priceWithCard": 61.09,
+  "promo": null,
+  "isNew": false,
+  "stockCount": 10,
+  "ingredients": "ноги цыплят-бройлеров",
+  "information": [
+    {
+      "value": "Псковская птицефабрика",
+      "name": "Бренд",
+      "unitsOfMeasurement": null,
+      "order": 1,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "Россия",
+      "name": "Страна производства",
+      "unitsOfMeasurement": null,
+      "order": 2,
+      "isNutrient": false,
+      "nutrientName": null
+    },
+    {
+      "value": "9",
+      "name": "Белки",
+      "unitsOfMeasurement": "г",
+      "order": 3,
+      "isNutrient": true,
+      "nutrientName": "белки"
+    },
+    {
+      "value": "8",
+      "name": "Жиры",
+      "unitsOfMeasurement": "г",
+      "order": 4,
+      "isNutrient": true,
+      "nutrientName": "жиры"
+    },
+    {
+      "value": "108",
+      "name": "Энергетическая ценность",
+      "unitsOfMeasurement": "ккал",
+      "order": 5,
+      "isNutrient": true,
+      "nutrientName": "ккал"
+    }
+  ]
+}
