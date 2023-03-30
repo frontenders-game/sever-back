@@ -18,9 +18,6 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
             },
             include: {
                 subcategories: {
-                    where: subcategoryId? {
-                        id: subcategoryId
-                    }: undefined,
                     select: {
                         products: true,
                         id: true,
@@ -34,7 +31,8 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                         priceWithCard: {
                             gte: minPrice,
                             lte: maxPrice
-                        }
+                        },
+                        subcategoryId: subcategoryId ? subcategoryId: undefined
                     },
                     skip: productOffset,
                     take: productLimit,
