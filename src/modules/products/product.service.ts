@@ -1,16 +1,18 @@
 import prisma from "../../utils/prisma";
-import { CreateProductInput, UpdateProductInput } from "./product.schema";
+import { CreateProductInput, GetProductWhereCondition, UpdateProductInput } from "./product.schema";
 import { slugifyString } from "../../utils/misc";
 
 
-export async function getProductService(productId: string) {
+export async function getProductService(whereFilter: GetProductWhereCondition) {
     return prisma.product.findUnique({
         where: {
-            id: productId,
+            ...whereFilter
         },
         include: {
             reviews: true,
-            images: true
+            images: true,
+            information: true,
+            category: true,
         }
     })
 }

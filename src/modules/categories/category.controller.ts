@@ -17,7 +17,7 @@ export async function getCategoryHandler(
     if (!category) return reply.code(404).send({error: `Category with id ${JSON.stringify(request.params)} not found.`});
     return category
         ? reply.code(200).send({message: "Success", data: category})
-        : reply.code(404).send({error: `Category with id ${JSON.stringify(request.params)} not found.`});
+        : reply.code(404).send({error: `Category with ${JSON.stringify(request.params)} not found.`});
 }
 
 export async function getAllCategoriesHandler(

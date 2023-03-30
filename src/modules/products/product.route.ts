@@ -10,11 +10,12 @@ import {
     CreateProductInput,
     routeCreateProductSchema,
     routeDeleteProductSchema,
-    routeGetProductSchema,
+    routeGetProductByIdSchema,
+    routeGetProductBySlugSchema,
     routeUpdateProductSchema,
     UpdateProductInput
 } from "./product.schema";
-import { IImage, UuidParams } from "../shared/schemas";
+import { IImage, SlugParams, UuidParams } from "../shared/schemas";
 import {
     routeDeleteProductImageSchema,
     routeGetProductImageSchema,
@@ -33,9 +34,17 @@ const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyI
 
     // Products
     server.get<{ Params: UuidParams, Reply: FastifyReply }>(
-        "/:id",
+        "/id/:id",
         {
-            schema: routeGetProductSchema
+            schema: routeGetProductByIdSchema
+        },
+        getProductHandler
+    )
+
+    server.get<{  Params: SlugParams, Reply: FastifyReply }>(
+        "/slug/:slug",
+        {
+            schema: routeGetProductBySlugSchema
         },
         getProductHandler
     )
@@ -50,7 +59,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyI
     )
 
     server.patch<{ Params: UuidParams, Body: UpdateProductInput, Reply: FastifyReply }>(
-        "/:id",
+        "/id/:id",
         {
             schema: routeUpdateProductSchema
         },
@@ -58,7 +67,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyI
     )
 
     server.delete<{ Params: UuidParams, Reply: FastifyReply }>(
-        "/:id",
+        "/id/:id",
         {
             schema: routeDeleteProductSchema
         },
@@ -67,7 +76,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyI
 
     // Images
     server.get<{ Params: UuidImageParamsRequest, Reply: FastifyReply }>(
-        "/:productId/images/:imageId",
+        "/:productId/images/id/:imageId",
         {
             schema: routeGetProductImageSchema
         },
@@ -84,7 +93,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyI
     )
 
     server.delete<{ Params: UuidImageParamsRequest, Reply: FastifyReply }>(
-        "/:productId/images/:imageId",
+        "/:productId/images/id/:imageId",
         {
             schema: routeDeleteProductImageSchema
         },

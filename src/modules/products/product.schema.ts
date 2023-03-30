@@ -6,13 +6,16 @@ import {
     slugType,
     uuidParamsType,
     uuidType,
-    idSchema
+    idSchema, uuidOrSlugParamsType, slugParamsType
 } from "../shared/schemas";
 import { createProductInformationSchema, responseProductInformationSchema } from "./information/information.schema";
 import { responseProductReviewSchema } from "./review/review.schema";
 import { responseProductImageSchema } from "./images/image.schema";
 import { routeSchema } from "../../types";
 
+export const getProductWhereCondition = uuidOrSlugParamsType
+
+export type GetProductWhereCondition = Static<typeof getProductWhereCondition>
 
 const basicProduct = {
     name: nameType,
@@ -58,9 +61,19 @@ export const responseProductSchema = Type.Object({
 )
 
 
-export const routeGetProductSchema = routeSchema({
+export const routeGetProductByIdSchema = routeSchema({
     tags: ['products'],
     params: uuidParamsType,
+    response: {
+        200: {
+            message: responseMessage,
+            data: responseProductSchema
+        }
+    },
+})
+export const routeGetProductBySlugSchema = routeSchema({
+    tags: ['products'],
+    params: slugParamsType,
     response: {
         200: {
             message: responseMessage,

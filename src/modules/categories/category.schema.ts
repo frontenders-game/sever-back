@@ -32,7 +32,7 @@ export type GetCategoryWhereCondition = Static<typeof getCategoryWhereCondition>
 
 const basicCategory = {
     name: nameType,
-    imageId: Type.Optional(uuidType),
+    // imageId: Type.Optional(uuidType),
     description: Type.Optional(Type.String()),
 }
 

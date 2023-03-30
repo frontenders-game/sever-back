@@ -6,17 +6,17 @@ import {
     getProductService,
     updateProductService
 } from "./product.service";
-import { UuidParams } from "../shared/schemas";
+import { UuidOrSlugParams, UuidParams } from "../shared/schemas";
 
 export async function getProductHandler(
-    request: FastifyRequest<{ Params: UuidParams }>,
+    request: FastifyRequest<{ Params: UuidOrSlugParams }>,
     reply: FastifyReply
 ) {
-    const id = request.params.id
-    const product = await getProductService(id)
+
+    const product = await getProductService(request.params)
     product ?
         reply.code(200).send({message: "Success", data: product}) :
-        reply.code(404);
+        reply.code(404).send({error: `Product with ${JSON.stringify(request.params)} not found.`});
 }
 
 
