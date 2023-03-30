@@ -2,11 +2,14 @@
   "name": "Сметана Станция молочная 15% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 67.99,
-  "priceWithCard": 63.91,
-  "promo": null,
+  "priceRegular": "67.99",
+  "priceWithCard": "63.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Сливки, закваска.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах L`or Espresso Delizioso жареный молотый 10x5.2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 327.59,
-  "promo": null,
+  "priceRegular": "359.99",
+  "priceWithCard": "338.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "100% арабика",
   "information": [
     {

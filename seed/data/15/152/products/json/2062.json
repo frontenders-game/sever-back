@@ -2,16 +2,14 @@
   "name": "Паста шоколадно-ореховая Cuisine Royale 330г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 244.99,
-  "promo": {
-    "discountedPriceRegular": 199.99,
-    "discountedPriceWithCard": 195.99,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "244.99",
+  "discountPercent": 20,
+  "discountedPrice": "195.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Сахар, масло растительное, паста фундучная, какао-порошок, молоко сухое обезжиренное, эмульгатор (соевый лецитин), ароматизаторы.",
   "information": [
     {

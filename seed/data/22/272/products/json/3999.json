@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Tolli Classic влажная 30шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 56.99,
-  "priceWithCard": 55.28,
-  "promo": null,
+  "priceRegular": "56.99",
+  "priceWithCard": "53.57",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "Нетканое полотно, пропитывающий лосьон.",
   "information": [
     {

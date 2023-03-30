@@ -2,16 +2,14 @@
   "name": "Напиток Fantola Bubble Gum газированный 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.99,
-  "priceWithCard": 62.69,
-  "promo": {
-    "discountedPriceRegular": 48.17,
-    "discountedPriceWithCard": 45.76,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "65.99",
+  "priceWithCard": "63.35",
+  "discountPercent": 27,
+  "discountedPrice": "46.25",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "вода, сахар, регулятор кислотности кислота лимонная, стабилизаторы (гуммиарабик, эфиры глицерина и смоляных кислот), ароматизаторы, консервант бензоат натрия, краситель E122. Содержит краситель, который может оказывать отрицательное влияние на активность и внимание детей",
   "information": [
     {

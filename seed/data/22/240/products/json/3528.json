@@ -2,16 +2,14 @@
   "name": "Гель для стирки Ласка Эффект восстановления черного 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 417.09,
-  "promo": {
-    "discountedPriceRegular": 352.59,
-    "discountedPriceWithCard": 342.01,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "421.39",
+  "discountPercent": 18,
+  "discountedPrice": "345.54",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "5-15% анионные ПАВ; <5% неионогенные ПАВ, мыло, фосфонаты, консервант, энзимы, краситель, отдушка (в т.ч. бутилфенил метилпропиональ, гексилциннамаль, амилциннамаль, цитронеллол, лимонен).",
   "information": [
     {

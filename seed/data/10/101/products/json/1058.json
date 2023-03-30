@@ -2,11 +2,14 @@
   "name": "Йогуртный продукт Campina Нежный с соком клубники 1.2% 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 23.19,
-  "priceWithCard": 21.33,
-  "promo": null,
+  "priceRegular": "23.19",
+  "priceWithCard": "21.33",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "обезжиренное молоко, сливки, вода, сахар, глюкозно-фруктовый сироп, загуститель – модифицированный крахмал, сухая молочная сыворотка, наполнитель (концентрированный сок клубники, вода, ароматизатор, краситель – кармины, загуститель – модифицированный крахмал, регулятор кислотности – цитрат натрия), пищевой желатин, лактоза, с использованием закваски",
   "information": [
     {

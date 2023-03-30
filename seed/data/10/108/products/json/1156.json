@@ -2,11 +2,14 @@
   "name": "Сметана Искренне Ваш 10% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.34,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "сливки нормализованные, закваска",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Творог Пискаревский со сливками зернёный 6%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 57.95,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "61.10",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": null,
   "information": [
     {

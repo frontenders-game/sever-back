@@ -2,16 +2,14 @@
   "name": "Шампунь Syoss Volume с экстрактом фиолетового риса для тонких волос 0.45л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 395.59,
-  "promo": {
-    "discountedPriceRegular": 253.69,
-    "discountedPriceWithCard": 233.4,
-    "discountPercent": 41,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 11,
+  "priceRegular": "429.99",
+  "priceWithCard": "399.89",
+  "discountPercent": 41,
+  "discountedPrice": "235.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 7,
   "ingredients": "Aqua, sodium laureth sulfate, cocamidopropyl betaine, peg-7 glyceryl cocoate, sodium chloride, hydrolyzed collagen, panthenol, hydrolyzed keratin, disodium cocoamphodiacetate, cocamide mea, glycol distearate, citric acid, sodium benzoate, laureth-4, peg-40 hydrogenated castor oil, parfum, hydrogenated castor oil, propylene glycol, peg-120 methyl glucose dioleate, polyquaternium-10, hexyl cinnamal, butylphenyl methylpropional, benzyl salicylate, linalool, glycerin, sorbitol, benzyl alcohol, limonene, nymphaea alba root extract.",
   "information": [
     {

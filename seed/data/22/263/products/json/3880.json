@@ -2,11 +2,14 @@
   "name": "Мыло Bodyart туалетное тропические фрукты 125г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 64.39,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "sodium palmate, sodium cocoate, aqua,glycerin, parfum, sodium acrylates copolymer (monoid 6613), sodium chloride, sorbitol, palm acid, peg 600, propylene glycol, titanium dioxide (ci 77891), tetrasodium edta, tetrasodium etidronate, disodium distyrylbiphenyl disulfonate, carica papaya(papaya)extract, ci16035, ci18050",
   "information": [
     {

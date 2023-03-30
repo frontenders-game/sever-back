@@ -2,11 +2,14 @@
   "name": "Фундук Mixbar жареные ядра 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 148.79,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "151.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Ядра фундука жареные, масло подсолнечное, комплексная пищевая добавка «Гриндокс» (агент влагоудерживающий Е1520, антиоксилители (Е319, Е330)).",
   "information": [
     {

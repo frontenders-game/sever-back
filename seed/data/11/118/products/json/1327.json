@@ -2,11 +2,14 @@
   "name": "Хлебцы Щедрые гречневые, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.49,
-  "priceWithCard": 59.37,
-  "promo": null,
+  "priceRegular": "62.49",
+  "priceWithCard": "57.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "Мука пшеничная хлебопекарная второго сорта, мука ржаная хлебопекарная обдирная, мука гречневая, отруби пшеничные, вода питьевая, молоко сухое, сахар, дрожжи хлебопекарные, соль, эмульгатор соевый лецитин.",
   "information": [
     {

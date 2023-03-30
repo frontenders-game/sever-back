@@ -2,16 +2,14 @@
   "name": "Эскимо Свитлогорье пломбир ванильное в глазури 15%, 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 108.99,
-  "priceWithCard": 99.18,
-  "promo": {
-    "discountedPriceRegular": 65.39,
-    "discountedPriceWithCard": 59.51,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "108.99",
+  "priceWithCard": "100.27",
+  "discountPercent": 40,
+  "discountedPrice": "60.16",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "Молоко цельное, глазурь сливочная какаосодержащая (масло сливочное, сахар, какао-порошок), масло сливочное, молоко цельное сгущенное с сахаром (молоко нормализованное, сахар, лактоза), сахар, вода питьевая, молоко сухое цельное,сухое обезжиренное, эмульгатор (моно- и диглицериды жирных кислот), стабилизатор (камедь рожкового дерева, гуаровая камедь, каррагинан), экстракт ванили натуральный",
   "information": [
     {

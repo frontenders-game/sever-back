@@ -2,11 +2,14 @@
   "name": "Крем для лица Nivea Care увлажняющий, 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 348.99,
-  "priceWithCard": 324.56,
-  "promo": null,
+  "priceRegular": "348.99",
+  "priceWithCard": "331.54",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Aqua, Glycerin, Butyrospermum Parkii Butter, Cetyl Palmitate, Olus Oil, Cetyl Alcohol, Isopropyl Palmitate, Dimethicone, Sodium Polyacrylate, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Geraniol, Limonene, Parfum.",
   "information": [
     {

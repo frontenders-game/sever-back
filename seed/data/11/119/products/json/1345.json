@@ -2,11 +2,14 @@
   "name": "Сушка Зерница Челночок, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.04,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "52.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, маргарин (масла растительные дезодорированные, вода питьевая, эмульгаторы (моно- и диглицериды жирных кислот, лецитины), соль пищевая, краситель каротины, ароматизатор, регулятор кислотности лимонная кислота), масло подсолнечное нерафинированное, соль пищевая, дрожжи хлебопекарные прессованные.",
   "information": [
     {

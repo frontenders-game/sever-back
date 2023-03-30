@@ -2,11 +2,14 @@
   "name": "Грецкий орех Mix Bar 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 144.99,
-  "priceWithCard": 131.94,
-  "promo": null,
+  "priceRegular": "144.99",
+  "priceWithCard": "134.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Ядра грецкого ореха сушеные. ТУ 9761-004-60458573-12. Продукт может содержать фрагменты скорлупы, следы арахиса, кунжута и других орехов.",
   "information": [
     {

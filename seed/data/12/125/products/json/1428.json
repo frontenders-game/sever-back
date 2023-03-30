@@ -2,11 +2,14 @@
   "name": "Зелень Global Village Ассорти лук укроп и петрушка 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.09,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "укроп, петрушка, лук зеленый.",
   "information": [
     {

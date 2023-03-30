@@ -2,16 +2,14 @@
   "name": "Биотворог Верховье Малина-жимолость 4.2% 140г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.04,
-  "promo": {
-    "discountedPriceRegular": 45.09,
-    "discountedPriceWithCard": 41.03,
-    "discountPercent": 18,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 19,
+  "priceRegular": "54.99",
+  "priceWithCard": "50.59",
+  "discountPercent": 18,
+  "discountedPrice": "41.48",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 15,
   "ingredients": "Молоко нормализованное, наполнитель (сахар, малина, вода, жимолость, кукурузный крахмал, концентрированный морковный сок, загуститель пектины, натуральный ароматизатор), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
   "information": [
     {

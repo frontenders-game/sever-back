@@ -2,16 +2,14 @@
   "name": "Вода ФрутоНяня негазированная с 0 мес. 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.39,
-  "priceWithCard": 59.24,
-  "promo": {
-    "discountedPriceRegular": 56.02,
-    "discountedPriceWithCard": 51.54,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "64.39",
+  "priceWithCard": "60.53",
+  "discountPercent": 13,
+  "discountedPrice": "52.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "кальций 25-60, магний 5-30 мг/л, натрий 2-20 мг/л, гидрокарбонат-ион 30-400 мг/л, хлориды 30-150 мг/л, сульфаты 30-150 мг/л, калий 2-20 мг/л. Общая минерализация 0.1-0.5 г/л",
   "information": [
     {

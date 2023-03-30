@@ -2,11 +2,14 @@
   "name": "Фарш говяжий Рестория 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 200.19,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "211.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "рецептура 2: говядина, вода, животный белок, регуляторы кислотности: ацетаты натрия, цитраты натрия; антиокислители: аскорбиновая кислота, лимонная кислота; сок красной свеклы, ароматизатор",
   "information": [
     {

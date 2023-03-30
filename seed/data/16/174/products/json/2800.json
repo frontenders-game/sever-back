@@ -2,16 +2,14 @@
   "name": "Чай Curtis Hugo Cocktail зелёный в пакетиках 20х1.8г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": {
-    "discountedPriceRegular": 85.39,
-    "discountedPriceWithCard": 78.56,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "130.19",
+  "discountPercent": 39,
+  "discountedPrice": "79.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Зеленый листовой чай, ароматизатор лайм и цветы бузины, цедра цитрусовых, мята, лепестки подсолнечника.",
   "information": [
     {

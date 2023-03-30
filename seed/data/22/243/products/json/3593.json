@@ -2,16 +2,14 @@
   "name": "Средство для мытья посуды Fairy сочный лимон, 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 144.99,
-  "priceWithCard": 133.39,
-  "promo": {
-    "discountedPriceRegular": 100.04,
-    "discountedPriceWithCard": 92.04,
-    "discountPercent": 31,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 22,
+  "priceRegular": "144.99",
+  "priceWithCard": "140.64",
+  "discountPercent": 31,
+  "discountedPrice": "97.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 18,
   "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Консерванты, Ароматизирующие Добавки, Гераниол.",
   "information": [
     {

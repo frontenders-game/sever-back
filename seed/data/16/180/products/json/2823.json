@@ -2,16 +2,14 @@
   "name": "Цикорий Большая чашка натуральный растворимый 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 327.59,
-  "promo": {
-    "discountedPriceRegular": 230.39,
-    "discountedPriceWithCard": 209.66,
-    "discountPercent": 36,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 28,
+  "priceRegular": "359.99",
+  "priceWithCard": "338.39",
+  "discountPercent": 36,
+  "discountedPrice": "216.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 24,
   "ingredients": "цикорий натуральный растворимый сублимированный",
   "information": [
     {

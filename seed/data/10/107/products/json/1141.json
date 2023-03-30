@@ -2,16 +2,14 @@
   "name": "Творог Простоквашино зерненый 5% 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 72.74,
-  "promo": {
-    "discountedPriceRegular": 59.99,
-    "discountedPriceWithCard": 58.19,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 6,
+  "priceRegular": "74.99",
+  "priceWithCard": "72.74",
+  "discountPercent": 20,
+  "discountedPrice": "58.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 2,
   "ingredients": "творожное зерно (обезжиренное молоко, закваска молочнокислых культур, уплотнитель – хлорид кальция, ферментный препарат), сливки, соль, консервант – сорбат калия",
   "information": [
     {

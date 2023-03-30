@@ -2,11 +2,14 @@
   "name": "Десерт ФрутоНяня Фруктовые кусочки яблоко-клубника с 12 мес. 16г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.49,
-  "priceWithCard": 56.74,
-  "promo": null,
+  "priceRegular": "58.49",
+  "priceWithCard": "54.98",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "пюре из яблок концентрированное, сок из яблок концентрированный, пюре из клубники, сок из рябины черноплодной концентрированный, агент желирующий (пектин), пищевые волокна",
   "information": [
     {

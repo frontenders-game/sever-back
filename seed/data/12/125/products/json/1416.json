@@ -2,11 +2,14 @@
   "name": "Шпинат Global Village 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 119.59,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "120.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "шпинат свежий",
   "information": [
     {

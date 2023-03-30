@@ -2,11 +2,14 @@
   "name": "Кефир Большая кружка 2.5% 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 89.29,
-  "promo": null,
+  "priceRegular": "94.99",
+  "priceWithCard": "89.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "молоко нормализованное, закваска на кефирных грибках",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Кофе Nescafe Classic растворимый 320г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.99,
-  "priceWithCard": 551.99,
-  "promo": {
-    "discountedPriceRegular": 401.99,
-    "discountedPriceWithCard": 369.83,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "599.99",
+  "priceWithCard": "587.99",
+  "discountPercent": 33,
+  "discountedPrice": "393.95",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "кофе натуральный растворимый порошкообразный, кофе натуральный жареный молотый",
   "information": [
     {

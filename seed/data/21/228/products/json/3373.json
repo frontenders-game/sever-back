@@ -2,11 +2,14 @@
   "name": "Рагу Великолукский МК из свинины 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 60.79,
-  "promo": null,
+  "priceRegular": "63.99",
+  "priceWithCard": "62.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "мясокостные кусочки свинины",
   "information": [
     {

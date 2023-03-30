@@ -2,11 +2,14 @@
   "name": "Масло сливочное Экомилк Традиционное 82.5% 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 184.29,
-  "promo": null,
+  "priceRegular": "189.99",
+  "priceWithCard": "178.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 50,
+  "stockCount": 46,
   "ingredients": "Высокожирные пастеризованные сливки",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Средство чистящее Domestos Ультра Блеск для унитаза 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 254.99,
-  "priceWithCard": 237.14,
-  "promo": {
-    "discountedPriceRegular": 203.99,
-    "discountedPriceWithCard": 189.71,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 24,
+  "priceRegular": "254.99",
+  "priceWithCard": "232.04",
+  "discountPercent": 20,
+  "discountedPrice": "185.63",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 20,
   "ingredients": "< 5%: гипохлорит натрия, анионные ПАВ, неионогенные ПАВ, мыло, отдушка.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Напиток Fancy газированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 117.59,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "111.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "вода подготовленная, сахар, апельсиновый сок (3%), регулятор кислотности - лимонная кислота, стабилизатор- гуммиарабик, эмульгатор - глицерина и смоляных кислот, ароматизаторы, натуральные ароматизаторы,  апельсиновые терпены, растительные экстракты (эфирные масла: мандарина, апельсина, лимона, грейпфрута, лайма), красители ( каротина, бета-апо-8-каротиновый альдегид (С30)",
   "information": [
     {

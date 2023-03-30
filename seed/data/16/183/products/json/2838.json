@@ -2,11 +2,14 @@
   "name": "Сахар Советский Экстра 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 76.99,
-  "priceWithCard": 73.14,
-  "promo": null,
+  "priceRegular": "76.99",
+  "priceWithCard": "72.37",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Сахар.",
   "information": [
     {

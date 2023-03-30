@@ -2,11 +2,14 @@
   "name": "Мандарины",
   "unitsOfMeasurement": "кг",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 106.69,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "104.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 62,
+  "stockCount": 58,
   "ingredients": "мандарин.",
   "information": [
     {

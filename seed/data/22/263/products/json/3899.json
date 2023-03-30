@@ -2,11 +2,14 @@
   "name": "Мыло жидкое Absolut Nature Алоэ антибактериальное, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 165.99,
-  "priceWithCard": 161.01,
-  "promo": null,
+  "priceRegular": "165.99",
+  "priceWithCard": "152.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Вода, лауретсульфат натрия, кокамидопропилбетаин, кокамид ДЭА, хлорид натрия, ПЭГ-7 глицерилкокоат, стирен/акриловый сополимер (и) коко-глюкозид, парфюмерная композиция (бутилфенилметилпропиональ, гексилциннамаль), экстракт прополиса, алоэ вера гель, масло чайного дерева, кислота лимонная, ЭДТА тетранатрия или ЭДТА динатрия, метилхлороизотиазолинон и метилизотиазолинон.",
   "information": [
     {

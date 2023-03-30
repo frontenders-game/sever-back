@@ -2,16 +2,14 @@
   "name": "Печенье Дымка Кольцо с сахаром 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 55.29,
-    "discountedPriceWithCard": 53.08,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "64.39",
+  "discountPercent": 21,
+  "discountedPrice": "50.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 58,
+  "stockCount": 54,
   "ingredients": "мука пшеничная первого сорта, сахар, масло пальмовое рафинированное отбеленное дезодорированное (рафинированное дезодорированное пальмовое масло, антиокислители: бутилгидроксианизол, бутилгидрокситолуол), соль, разрыхлители: гидрокарбонат натрия, карбонат аммония; ароматизаторы: «Молоко концентрированное», «Ваниль»; регулятор кислотности лимонная кислота. Продукт содержит глютен.",
   "information": [
     {

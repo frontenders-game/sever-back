@@ -2,11 +2,14 @@
   "name": "Батарейки Liberhaus AAA, 4шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 122.19,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "119.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Цинк, оксид марганца (IV).",
   "information": [
     {

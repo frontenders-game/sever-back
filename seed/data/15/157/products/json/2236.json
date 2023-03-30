@@ -2,11 +2,14 @@
   "name": "Карамель Lenco Иммунцы леденцовая 14г в ассортименте",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.99,
-  "priceWithCard": 37.82,
-  "promo": null,
+  "priceRegular": "38.99",
+  "priceWithCard": "37.82",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 79,
+  "stockCount": 75,
   "ingredients": "сахар, патока, антиокислитель аскорбиновая кислота, ароматизаторы, красители",
   "information": [
     {

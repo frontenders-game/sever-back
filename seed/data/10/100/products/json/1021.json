@@ -2,11 +2,14 @@
   "name": "Молоко Вологодское ультрапастеризованное 2.5%, 970мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 75.49,
-  "priceWithCard": 73.98,
-  "promo": null,
+  "priceRegular": "75.49",
+  "priceWithCard": "71.72",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "Молоко цельное, молоко обезжиренное.",
   "information": [
     {

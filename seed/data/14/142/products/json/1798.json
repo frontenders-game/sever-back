@@ -2,11 +2,14 @@
   "name": "Сок Сады Придонья яблоко-вишня для детского питания 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 88.49,
-  "priceWithCard": 85.84,
-  "promo": null,
+  "priceRegular": "88.49",
+  "priceWithCard": "83.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Яблочный сок, вишневый сок. Изготовлен из концентрированных соков.",
   "information": [
     {

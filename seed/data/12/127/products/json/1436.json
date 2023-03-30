@@ -2,11 +2,14 @@
   "name": "Десерт Сила традиции Манго 2х100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 142.99,
-  "priceWithCard": 131.55,
-  "promo": null,
+  "priceRegular": "142.99",
+  "priceWithCard": "134.41",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "пюре манго",
   "information": [
     {

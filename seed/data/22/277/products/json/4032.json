@@ -2,11 +2,14 @@
   "name": "Кассета сменная Барьер №6 Жесткость для фильтра",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 524.99,
-  "priceWithCard": 493.49,
-  "promo": null,
+  "priceRegular": "524.99",
+  "priceWithCard": "509.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Кассета фильтрующая сменная к фильтрам-кувшинам для очистки воды Барьер. Предназначена для очистки питьевой водопроводной воды. Пластик 100%.",
   "information": [
     {

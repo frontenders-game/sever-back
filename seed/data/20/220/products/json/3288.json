@@ -2,11 +2,14 @@
   "name": "Молоко Маша и Медведь детское ультрапастеризованное 3.2% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.99,
-  "priceWithCard": 34.55,
-  "promo": null,
+  "priceRegular": "35.99",
+  "priceWithCard": "33.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Нормализованное молоко.",
   "information": [
     {

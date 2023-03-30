@@ -2,16 +2,14 @@
   "name": "Средство чистящее Cillit Антиналет + Блеск Сила цитруса для туалета дезинфицирующее 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 296.99,
-  "priceWithCard": 285.11,
-  "promo": {
-    "discountedPriceRegular": 222.74,
-    "discountedPriceWithCard": 213.83,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "296.99",
+  "priceWithCard": "288.08",
+  "discountPercent": 25,
+  "discountedPrice": "216.06",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "5% или более, но не менее 15% соляной кислоты, менее 5% неионогенные и катионные ПАВ, парфюмерная отдушка.",
   "information": [
     {

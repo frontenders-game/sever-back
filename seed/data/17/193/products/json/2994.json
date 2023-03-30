@@ -2,11 +2,14 @@
   "name": "Суп Суперсуп борщ с настоящим мясом 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 71.99,
-  "priceWithCard": 69.11,
-  "promo": null,
+  "priceRegular": "71.99",
+  "priceWithCard": "69.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "свекла сушеная, капуста сушеная, хлопья картофельные сушеные, соль, морковь сушеная, паста томатная, мальтодекстрин, ароматизатор \"Говядина\", масло растительное, зелень петрушки сушеная, лук сушеный, фарш говяжий сушеный, регулятор кислотности - кислота лимонная, экстракт перца черного, лист лавровый сухой",
   "information": [
     {

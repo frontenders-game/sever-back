@@ -2,11 +2,14 @@
   "name": "Прокладки Pupi Normal, 10шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 57.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Нетканный материал, распушенная целлюлоза, суперабсорбент, п/э пленка, клей, силиконизированная бумага.",
   "information": [
     {

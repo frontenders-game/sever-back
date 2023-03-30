@@ -2,16 +2,14 @@
   "name": "Батончик шоколадный Bounty Трио 82.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 48.38,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 88,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": 28,
+  "discountedPrice": "48.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 84,
   "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, сухое цельное молоко, лактоза, сухая молочная сыворотка, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)), сушеная мякоть кокоса, сахар, глюкозный сироп (кукурузный, пшеничный), эмульгатор (моно- и диглицериды жирных кислот), агент влагоудерживающий (глицерин), ароматизатор (ванилин), соль. Содержит глютен. Может содержать незначительное количество яичного белка, арахиса, фундука",
   "information": [
     {

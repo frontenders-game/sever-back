@@ -2,11 +2,14 @@
   "name": "Картофель фасованный 2-2.5кг",
   "unitsOfMeasurement": "кг",
   "step": "2.3",
-  "priceRegular": 24.99,
-  "priceWithCard": 24.24,
-  "promo": null,
+  "priceRegular": "24.99",
+  "priceWithCard": "24.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 116,
+  "stockCount": 112,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пудинг Чудо Ваниль 1шт. 3% 125г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 31.99,
-  "priceWithCard": 30.39,
-  "promo": null,
+  "priceRegular": "31.99",
+  "priceWithCard": "30.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "А - молоко нормализованное, сахар, стабилизаторы (Е1422,гуаровая камедь, каррагинан), ароматизатор, краситель - аннато.",
   "information": [
     {

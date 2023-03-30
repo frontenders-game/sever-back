@@ -2,16 +2,14 @@
   "name": "Завтрак Хрутка Duo готовый шоколадный обогащенный 230г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 131.59,
-  "promo": {
-    "discountedPriceRegular": 90.99,
-    "discountedPriceWithCard": 85.53,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "135.79",
+  "discountPercent": 35,
+  "discountedPrice": "88.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "пшеница (содержит глютен), сахар, крупа кукурузная, пшеничная мука (содержит глютен), рисовая крупа, патока, масло подсолнечное, какао-порошок алкализованный, карбонат кальция, молоко сухое обезжиренное, соль, эмульгатор (лецитины), ароматизаторы натуральные, карамельный сироп",
   "information": [
     {

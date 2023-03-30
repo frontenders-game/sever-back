@@ -2,11 +2,14 @@
   "name": "Йогурт питьевой Активиа клубника-земляника 1.5% 260г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 78.49,
-  "priceWithCard": 76.92,
-  "promo": null,
+  "priceRegular": "78.49",
+  "priceWithCard": "74.57",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (клубника, вода, сахар, кукурузный крахмал, пюре земляники, ароматизатор натуральный, сок черной моркови концентрированный, сок лимона концентрированный, загуститель – пектины, краситель – экстракт паприки), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена",
   "information": [
     {

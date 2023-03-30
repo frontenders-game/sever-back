@@ -2,11 +2,14 @@
   "name": "Бритва безопасная Venus со сменной кассетой",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 524.99,
-  "priceWithCard": 482.99,
-  "promo": null,
+  "priceRegular": "524.99",
+  "priceWithCard": "477.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "PEG-115M, PEG-7M, PEG-100, Silica, Tocopheryl Acetate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Aloe Barbadensis Leaf Juice, Tris (Di-T-Butyl) Phosphite, BHT, Glycol.",
   "information": [
     {

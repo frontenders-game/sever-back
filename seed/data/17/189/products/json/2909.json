@@ -2,16 +2,14 @@
   "name": "Мюсли Mollis запечённые с орехом, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 103.49,
-  "priceWithCard": 101.42,
-  "promo": {
-    "discountedPriceRegular": 90.04,
-    "discountedPriceWithCard": 88.24,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "103.49",
+  "priceWithCard": "96.25",
+  "discountPercent": 13,
+  "discountedPrice": "83.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Хлопья овсяные, хлопья пшеничные, масло рапсовое, вода питьевая, сахар, изюм, патока, ядра семян подсолнечника, арахис половинки, кокосовая стружка, мука пшеничная, ядра ореха фундука, мука рисовая экструдированная, соль. Продукт может содержать незначительное количество кунжута.",
   "information": [
     {

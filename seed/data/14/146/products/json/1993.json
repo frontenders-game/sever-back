@@ -2,11 +2,14 @@
   "name": "Чай холодный Nestea Ананас-манго черный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 152.99,
-  "priceWithCard": 148.4,
-  "promo": null,
+  "priceRegular": "152.99",
+  "priceWithCard": "149.93",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "вода, сахар, регуляторы кислотности (лимонная кислота, цитрат натрия), экстракт черного чая, ароматизаторы натуральные (манго-ананас), антиокислитель - аскорбиновая кислота",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Суп Суперсуп гороховый с беконом, 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.99,
-  "priceWithCard": 45.07,
-  "promo": null,
+  "priceRegular": "48.99",
+  "priceWithCard": "48.01",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Горох варено-сушеный, хлопья картофельные сушеные, соль, свинина сырокопченая, масло растительное, комплексная пищевая добавка «Бекон жареный» (соль, ароматизаторы пищевые, масло растительное), морковь сушеная, лук сушеный, сахар, зелень петрушки сушеная, чеснок сушеный, куркума, лист лавровый сухой, экстракт перца черного. Может содержать следы пшеничного глютена.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Конфеты Шарлиз желейные со вкусом лимона",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 299.99,
-  "priceWithCard": 293.99,
-  "promo": {
-    "discountedPriceRegular": 260.99,
-    "discountedPriceWithCard": 255.77,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "299.99",
+  "priceWithCard": "272.99",
+  "discountPercent": 13,
+  "discountedPrice": "237.50",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Сахар, кондитерская глазурь (сахар, заменитель какао-масла лауринового типа (масло растительное), какао-порошок, эмульгатор соевый лецитин (Е322), ароматизатор ванилин), патока крахмальная, вода питьевая, желирующий агент – пектин (Е440), регулятор кислотности - лимонная кислота (Е330), краситель натуральный бета-каротин (Е160а), ароматизатор «Лимон».",
   "information": [
     {

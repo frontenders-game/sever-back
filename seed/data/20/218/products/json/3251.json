@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из говядины с языком с 8 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 94.75,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 73.91,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 9,
+  "priceRegular": "102.99",
+  "priceWithCard": "93.72",
+  "discountPercent": 22,
+  "discountedPrice": "73.10",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 5,
   "ingredients": "говядина, язык свиной и говяжий, масло подсолнечное, мука рисовая, вода",
   "information": [
     {

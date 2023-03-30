@@ -2,11 +2,14 @@
   "name": "Кассеты для бритья Venus 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.99,
-  "priceWithCard": 545.99,
-  "promo": null,
+  "priceRegular": "599.99",
+  "priceWithCard": "581.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

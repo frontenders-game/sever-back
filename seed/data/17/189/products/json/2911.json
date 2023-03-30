@@ -2,11 +2,14 @@
   "name": "Каша Mollis овсяная с молоком и со вкусом черники 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 18.39,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "19.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 78,
+  "stockCount": 74,
   "ingredients": "хлопья овсяные, сахар, молоко сухое обезжиренное, кусочки сушеной клубники, соль пищевая. Продукт содержит глютен",
   "information": [
     {

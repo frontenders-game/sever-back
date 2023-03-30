@@ -2,16 +2,14 @@
   "name": "Бекон Велком Двойное копчение сырокопченый нарезка 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 246.99,
-  "promo": {
-    "discountedPriceRegular": 150.79,
-    "discountedPriceWithCard": 143.25,
-    "discountPercent": 42,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 19,
+  "priceRegular": "259.99",
+  "priceWithCard": "236.59",
+  "discountPercent": 42,
+  "discountedPrice": "137.22",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 15,
   "ingredients": "свинина, вода, сахар, экстракты любистока, лука, сельдерея, антиокислитель аскорбиновая кислота, стабилизатор Е 452, соль нитритная (соль, фиксатор окраски нитрит натрия)",
   "information": [
     {

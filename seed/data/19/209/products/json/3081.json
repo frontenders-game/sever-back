@@ -2,11 +2,14 @@
   "name": "Корм влажный Katty с говядиной для кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 18.04,
-  "promo": null,
+  "priceRegular": "18.99",
+  "priceWithCard": "18.42",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 48,
+  "stockCount": 44,
   "ingredients": "мясо и мясные субпродукты (в т. ч. говядина минимум 4%), фарш куриный и куриные субпродукты, рыба и рыбные субпродукты, злаки, протеины животного происхождения, витаминно–минеральный комплекс. Содержит таурин",
   "information": [
     {

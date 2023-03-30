@@ -2,11 +2,14 @@
   "name": "Кофе Nescafe Gold натуральный растворимый сублимированный с добавлением натурального жаренного кофе 48г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 145.59,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "151.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "натуральный растворимый сублимированный кофе, натуральный жареный молотый кофе",
   "information": [
     {

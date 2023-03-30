@@ -2,11 +2,14 @@
   "name": "Пюре Маленькое Счастье Фиксики яблоко-персик с 5 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "пюре из яблок (70%), пюре из персиков (30%). Изготовлено из концентрированного персикового пюре",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Салфетки влажные Tolli Plus универсальные очищающие с экстрактом алоэ вера, 60 шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Нетканный материал, деминирализированная вода, пропиленгликоль, 2-бром-2-нитропропан-1,3-диол, этилпарабен, бромид цетримония, ППГ-2 метиловый эфир, динатриевая соль ЭДТА, ПЭГ-40 гидрогенизированное касторовое масло, экстракт алоэ вера, кокамидопропилбетаин, отдушка, лимонная кислота.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Карамель Lenco Монстры На Каникулах леденцовая с игрушкой 13г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 97.49,
-  "priceWithCard": 88.72,
-  "promo": {
-    "discountedPriceRegular": 69.22,
-    "discountedPriceWithCard": 62.99,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "97.49",
+  "priceWithCard": "92.62",
+  "discountPercent": 29,
+  "discountedPrice": "65.76",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 41,
+  "stockCount": 37,
   "ingredients": "cахар, патока, ароматизатор, краситель кармины",
   "information": [
     {

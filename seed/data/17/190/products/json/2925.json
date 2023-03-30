@@ -2,11 +2,14 @@
   "name": "Крупа кукурузная шлифованная 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.59,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "\".\"",
   "information": [
     {

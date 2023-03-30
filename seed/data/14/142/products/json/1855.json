@@ -2,11 +2,14 @@
   "name": "Нектар Global Village апельсиновый 950мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 91.19,
-  "promo": null,
+  "priceRegular": "94.99",
+  "priceWithCard": "86.44",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сок апельсиновый, сахар, регулятор кислотности - лимонная кислота, вода",
   "information": [
     {

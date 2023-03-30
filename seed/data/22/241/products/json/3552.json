@@ -2,11 +2,14 @@
   "name": "Средство чистящее Санокс для сантехники, 750г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 78.95,
-  "promo": null,
+  "priceRegular": "83.99",
+  "priceWithCard": "80.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "<5% неионогенные ПАВ; 5-15% анионные ПАВ, щавелевая кислота. Дополнительно: ароматизатор, краситель.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Автоотчиститель стекол Top Energy -20°C 4л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 242.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "242.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Вода >30%, изопропиловый спирт >30%, гликоли >5%, на <15%, неионогенное поверхностно-активное вещество <5%, бензоат натрия <5%, краситель <5%, отдушка <5%.",
   "information": [
     {

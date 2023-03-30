@@ -2,16 +2,14 @@
   "name": "Напиток кисломолочный Actimel с черника-ежевика обогащенный цинком 1.5% 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 34.49,
-  "promo": {
-    "discountedPriceRegular": 29.24,
-    "discountedPriceWithCard": 26.9,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "37.49",
+  "priceWithCard": "35.24",
+  "discountPercent": 22,
+  "discountedPrice": "27.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (вода; пюре черники; пюре ежевики; сахар; стабилизатор – Е1442; ароматизатор; регуляторы кислотности – Е331(iii), глюконат цинка (цинк), лимонная кислота), молоко сухое обезжиренное, глюкоза, витамин B6, витамин D3, йогуртовая закваска, лактобактерии L. CASEI IMUNITASS",
   "information": [
     {

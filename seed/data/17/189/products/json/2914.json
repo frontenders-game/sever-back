@@ -2,11 +2,14 @@
   "name": "Шарики Любятово Шоколадные 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 214.99,
-  "priceWithCard": 202.09,
-  "promo": null,
+  "priceRegular": "214.99",
+  "priceWithCard": "204.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "зерновые продукты [крупа кукурузная, крупа пшеничная], сахар, какао-порошок, глюкоза, соль, кальция карбонат, ароматизаторы, витамин С (аскорбиновая кислота)",
   "information": [
     {

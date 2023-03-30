@@ -2,11 +2,14 @@
   "name": "Сахар Экстра белый кусковой 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "58.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "Категория Экстра. Присхождение по виду сырья: свекловичный.",
   "information": [
     {

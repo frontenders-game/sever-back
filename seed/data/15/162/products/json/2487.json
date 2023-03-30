@@ -2,16 +2,14 @@
   "name": "Батончик Невский Кондитер So Crispy с клубникой 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.29,
-  "promo": {
-    "discountedPriceRegular": 20.09,
-    "discountedPriceWithCard": 18.28,
-    "discountPercent": 33,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 51,
+  "priceRegular": "29.99",
+  "priceWithCard": "28.19",
+  "discountPercent": 33,
+  "discountedPrice": "18.89",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 47,
   "ingredients": "злаковые хлопья (пшеничная мука, сахар, рисовая мука, кукурузная мука, поваренная соль), патока, цельнозерновые хлопья (овсяные, пшеничные, ячменные), сахар, кокосовое масло, клубника сушенная, кукурузные хлопья (кукуруза, поваренная соль), заменитель масла какао (рафинированные дезодорированные растительные масла), арахис обжаренный, сыворотка сухая молочная, какао – порошок, ароматизатор «Клубника», соль поваренная, эмульгатор – соевый лецитин, консервант – диоксид серы. Может содержать следы орехов и арахиса",
   "information": [
     {

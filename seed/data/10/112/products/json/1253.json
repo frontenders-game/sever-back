@@ -2,11 +2,14 @@
   "name": "Сгущенка вареная Станция Молочная с сахаром  370г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 115.99,
-  "priceWithCard": 106.71,
-  "promo": null,
+  "priceRegular": "115.99",
+  "priceWithCard": "111.35",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Молоко нормализованное, сыворотка молочная концентрированная, сахар (сахароза), сливки, мука рисовая, сахар молочный пищевой (лактоза).",
   "information": [
     {

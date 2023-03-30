@@ -2,11 +2,14 @@
   "name": "Чай Лисма чёрный байховый индийский крепкий в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 150.39,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "145.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "чай черный байховый индийский",
   "information": [
     {

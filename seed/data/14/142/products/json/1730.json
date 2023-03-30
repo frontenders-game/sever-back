@@ -2,11 +2,14 @@
   "name": "Нектар Soko Grande Premium морковный с мякотью 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 105.59,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "100.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "пюре морковное, сахар, лимонная кислота, вода питьевая",
   "information": [
     {

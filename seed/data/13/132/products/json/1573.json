@@ -2,11 +2,14 @@
   "name": "Треска Fish House тихоокеанская филе без кожи замороженная 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 384.99,
-  "priceWithCard": 354.19,
-  "promo": null,
+  "priceRegular": "384.99",
+  "priceWithCard": "354.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Треска, вода (защитная ледяная глазурь).",
   "information": [
     {

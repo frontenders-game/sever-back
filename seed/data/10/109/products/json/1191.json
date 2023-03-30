@@ -2,11 +2,14 @@
   "name": "Снежок Домик в деревне сладкий 2.5% 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.79,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "молоко нормализованное, молоко восстановленное (В)**,  сахар, закваска.\n**- при использовании молока восстановленного в маркировке указывается буква В. \nСодержание молочнокислых микроорганизмов в продукте 1х107 КОЕ/г\n",
   "information": [
     {

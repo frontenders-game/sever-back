@@ -2,11 +2,14 @@
   "name": "Грунт Seasons универсальный 10л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 61.09,
-  "promo": null,
+  "priceRegular": "64.99",
+  "priceWithCard": "61.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "торф, комплексное удобрение, известняковые материалы, рыхлители",
   "information": [
     {

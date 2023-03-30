@@ -2,11 +2,14 @@
   "name": "Биолакт Тёма сладкий с 8 месяцев 3.2%, 208г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.19,
-  "priceWithCard": 44.34,
-  "promo": null,
+  "priceRegular": "46.19",
+  "priceWithCard": "45.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "нормализованное молоко, сахарный сироп, закваска из термофильных молочнокислых стрептококков (Streptococcus thermophilus) и молочнокислых ацидофильных палочек (Lactobacillus acidophilus)",
   "information": [
     {

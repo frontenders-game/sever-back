@@ -2,11 +2,14 @@
   "name": "Напиток Волчок газированный с соком персика 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 60.47,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "57.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "вода питьевая артезианская, концентрированный персиковый сок, сахар, ароматизатор пищевой натуральный \"тип персиковый\"",
   "information": [
     {

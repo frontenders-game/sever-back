@@ -2,16 +2,14 @@
   "name": "Средство для стирки Losk Горное Озеро 1.3л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 479.99,
-  "priceWithCard": 465.59,
-  "promo": {
-    "discountedPriceRegular": 331.19,
-    "discountedPriceWithCard": 321.26,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "479.99",
+  "priceWithCard": "446.39",
+  "discountPercent": 31,
+  "discountedPrice": "308.01",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "5-15% анионные ПАВ, менее 5% неионогенные ПАВ, фосфонаты, мыло, оптический отбеливатель, энзимы, консервант, отдушка, (в т.ч. гексилцинамаль, бутилфенилметилпропиональ).",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Окорок цыпленка Северная ПФ охлажденный",
   "unitsOfMeasurement": "кг",
   "step": "0.8",
-  "priceRegular": 178.99,
-  "priceWithCard": 162.88,
-  "promo": null,
+  "priceRegular": "178.99",
+  "priceWithCard": "166.46",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "окорочок цыпленка бройлера с кожей ",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Напиток Добрый Cola без сахара сильногазированный 0.33л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 41.99,
-  "priceWithCard": 41.15,
-  "promo": null,
+  "priceRegular": "41.99",
+  "priceWithCard": "39.47",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "очищенная вода, краситель сахарный колер IV, регуляторы кислотности (ортофосфорная кислота ,цитрат натрия 3-замещенный), подсластители (натриевая соль цикламовой кислоты, ацесульфам калия, аспартам), натуральный ароматизатор, кофеин (менее 150 мг/л).  Содержит источник фенилаланина",
   "information": [
     {

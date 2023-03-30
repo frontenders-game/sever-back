@@ -2,11 +2,14 @@
   "name": "Рис Селяночка длиннозёрный шлифованный, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 108.99,
-  "priceWithCard": 99.18,
-  "promo": null,
+  "priceRegular": "108.99",
+  "priceWithCard": "105.72",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Рис длиннозерный шлифованный.",
   "information": [
     {

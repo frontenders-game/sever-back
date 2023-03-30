@@ -2,11 +2,14 @@
   "name": "Масло сливочное Из Вологды Традиционное 82.5% 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 93.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "сливки пастеризованные",
   "information": [
     {

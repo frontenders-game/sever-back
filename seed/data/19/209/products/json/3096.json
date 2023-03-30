@@ -2,11 +2,14 @@
   "name": "Корм влажный Felix Суп с треской в соусе для взрослых кошек 48г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 17.99,
-  "priceWithCard": 16.55,
-  "promo": null,
+  "priceRegular": "17.99",
+  "priceWithCard": "17.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 59,
+  "stockCount": 55,
   "ingredients": "мясо и продукты его переработки, экстракты растительного белка, рыба и продукты ее переработки (из которых треска 4%), аминокислоты, минеральные вещества, загустители, продукты переработки растительного сырья, сахара, дрожжи",
   "information": [
     {

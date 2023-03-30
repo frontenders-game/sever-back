@@ -2,16 +2,14 @@
   "name": "Скраб Банька Агафьи гречишный для тела для упругости кожи 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 105.59,
-  "promo": {
-    "discountedPriceRegular": 80.29,
-    "discountedPriceWithCard": 77.08,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "107.79",
+  "discountPercent": 27,
+  "discountedPrice": "78.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Aqua, Carbomer, Potassium Hydroxide, Polyethylene, Polygonum Fagopyrum Seed Powder (зеленая гречка), Mel (алтайский мед), Melissa Officinalis Leaf Extract (экстракт лимонной травы), Organic Melissa Officinalis Leaf Oil (органическое масло мелиссы), Parfum, Lavandula Angustifolia (Lavender) Oil, Benzyl Alcohol, Benzoic Acid, Sorbic Acid, Citric Acid, Caramel, Iron Oxydes.",
   "information": [
     {

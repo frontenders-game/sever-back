@@ -2,16 +2,14 @@
   "name": "Набор Бархатные Ручки С теплотой для тебя крем для рук дневной 80мл + ночной 80мл в ассортименте",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 248.39,
-  "promo": {
-    "discountedPriceRegular": 135.0,
-    "discountedPriceWithCard": 124.19,
-    "discountPercent": 50,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "245.69",
+  "discountPercent": 50,
+  "discountedPrice": "122.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "крем ночной восстанавливающий для рук: состав/ingredients: aqua, glycerin, dimethicone, urea, *zea mays (corn) oil, *caprylic/capric triglyceride, glyceryl stearate citrate, cetearyl alcohol, hydrogenated polyisobutene, paraffin, *theobroma cacao (cocoa) seed butter, allantoin, *hydrolyzed silk, hydrolyzed elastin, *hydrolyzed collagen (коллаген), panthenol, *butyrospermum parkii (shea butter) (масло ши), acrylates/c10-30 alkyl acrylate crosspolymer, disodium edta, ethylparaben, methylparaben, *olea europaea (olive) fruit oil, pantolactone, parfum, *persea gratissima (avocado) oil, phenoxyethanol, potassium cetyl phosphate, potassium sorbate, sodium benzoate, triethanolamine, alpha-isomethyl ionone, coumarin, hexyl cinnamal, hydroxycitronellal, linalool;\nкрем питательный для рук: состав/ingredients: aqua, cyclopentasiloxane, caprylic/capric triglyceride, glycerin, glyceryl stearate citrate, isohexadecane, cetearyl alcohol, *butyrospermum parkii [shea butter] (масло ши), dimethicone, sodium hyaluronate (гиалурон), acrylates/c10-30 alkyl acrylate crosspolymer, allantoin, ammonium lactate, disodium edta, ethylparaben, hydroxyethyl urea, *hydrolyzed silk, methylparaben, parfum, panthenol (провитамин b5), pantolactone, phenoxyethanol, *persea gratissima (avocado) oil, potassium cetyl phosphate, potassium sorbate, tocopheryl acetate, triethanolamine, alpha-isomethyl ionone, coumarin, geraniol, hexyl cinnamal, hydroxycitronellal, linalool. *в составах средств отмечены компоненты, входящие в формулу silk oil elixir",
   "information": [
     {

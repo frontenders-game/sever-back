@@ -2,16 +2,14 @@
   "name": "Шампунь Head & shoulders Цитрусовая Свежесть против перхоти 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 271.59,
-  "promo": {
-    "discountedPriceRegular": 221.19,
-    "discountedPriceWithCard": 214.56,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 7,
+  "priceRegular": "279.99",
+  "priceWithCard": "265.99",
+  "discountPercent": 21,
+  "discountedPrice": "210.13",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 3,
   "ingredients": "aqua, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, sodium xylenesulfonate, zinc pyrithione, cocamidopropyl betaine, parfum, dimethicone, menthol, sodium benzoate, hydrochloric acid, guar hydroxypropyltrimonium chloride, sodium hydroxide, magnesium carbonate hydroxide, hexyl cinnamal, limonene, benzyl salicylate, propylene glycol, magnesium nitrate, citronellol, citrus limon fruit extract, sodium polynaphthalenesulfonate, ci 19140, methylchloroisothiazolinone, magnesium chloride, methylisothiazolinone, ci 42090",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Перец душистый Kotanyi горошком 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.49,
-  "priceWithCard": 68.87,
-  "promo": null,
+  "priceRegular": "72.49",
+  "priceWithCard": "65.97",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "Черный перец.",
   "information": [
     {

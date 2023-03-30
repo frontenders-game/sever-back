@@ -2,11 +2,14 @@
   "name": "Пюре Honey Kid Нежные овощи с 7 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.99,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "47.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": null,
   "information": [
     {

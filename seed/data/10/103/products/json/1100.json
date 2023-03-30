@@ -2,11 +2,14 @@
   "name": "Сырок глазированный Простоквашино ванильный 23% 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 40.03,
-  "promo": null,
+  "priceRegular": "43.99",
+  "priceWithCard": "41.35",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "Творожная часть: творог, сахар, масло сливочное, ароматизаторы, консервант - сорбат калия, ароматизатор; глазурь, эмульгаторы (лецитин соевый, Е476), ароматизаторы; сухое обезжиренное молоко.",
   "information": [
     {

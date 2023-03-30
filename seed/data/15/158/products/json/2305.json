@@ -2,11 +2,14 @@
   "name": "Карамель Konti Рачки-Морячки",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 449.99,
-  "priceWithCard": 413.99,
-  "promo": null,
+  "priceRegular": "449.99",
+  "priceWithCard": "427.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "сахар, патока, ядра арахиса жареные тертые, заменитель молочного жира (рафинированные дезодорированные растительные масла: пальмовое и его фракции, подсолнечное; антиокислитель токоферолы), какао-порошок, краситель кармины, регулятор кислотности кислота молочная, ароматизатор. Может содержать молоко, сою и продукты их переработки, диоксид серы",
   "information": [
     {

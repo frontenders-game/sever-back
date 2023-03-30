@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня из индейки с 6 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": {
-    "discountedPriceRegular": 75.99,
-    "discountedPriceWithCard": 72.19,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": 24,
+  "discountedPrice": "70.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мясо индейки, мука рисовая, масло растительное кукурузное рафинированное дезодорированное, вода питьевая специально подготовленная",
   "information": [
     {

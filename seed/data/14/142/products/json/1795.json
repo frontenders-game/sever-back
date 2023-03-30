@@ -2,11 +2,14 @@
   "name": "Напиток сокосодержащий Агуша яблоко 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.49,
-  "priceWithCard": 42.77,
-  "promo": null,
+  "priceRegular": "46.49",
+  "priceWithCard": "42.77",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "яблочный сок, вода. Объемная доля сока не менее 50%",
   "information": [
     {

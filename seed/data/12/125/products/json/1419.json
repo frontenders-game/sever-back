@@ -2,11 +2,14 @@
   "name": "Салат Листовой в горшочке 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 66.49,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "68.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 41,
+  "stockCount": 37,
   "ingredients": "салат.",
   "information": [
     {

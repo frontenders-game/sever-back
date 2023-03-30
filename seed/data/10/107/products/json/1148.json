@@ -2,11 +2,14 @@
   "name": "Творог Свежее Завтра 9%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.19,
-  "priceWithCard": 97.21,
-  "promo": null,
+  "priceRegular": "99.19",
+  "priceWithCard": "96.21",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Цельное молоко, обезжиренное молоко, закваска чистых культур молочнокислых бактерий.",
   "information": [
     {

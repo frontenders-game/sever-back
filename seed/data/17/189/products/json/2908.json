@@ -2,16 +2,14 @@
   "name": "Хлопья кукурузные Хрутка хрустящие 320г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 137.19,
-  "promo": {
-    "discountedPriceRegular": 90.99,
-    "discountedPriceWithCard": 89.17,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": 35,
+  "discountedPrice": "89.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "зерновые продукты 86,3 % (кукурузная крупа, кукуруза), сахар, соль, кальция карбонат, патока, ячменно-солодовый экстракт (содержит глютен), масло подсолнечное, антиокислитель (токоферолы, концентрат смеси).\nпродукт может содержать молоко",
   "information": [
     {

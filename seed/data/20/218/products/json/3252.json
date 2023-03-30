@@ -2,11 +2,14 @@
   "name": "Пюре ФрутоНяня индейка-овощи с 8 месяцев, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 57.32,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "58.58",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Мясо индейки, картофель, кабачок, крупа рисовая, морковь, масло растительное, вода питьевая.",
   "information": [
     {

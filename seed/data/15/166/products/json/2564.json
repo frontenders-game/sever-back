@@ -2,16 +2,14 @@
   "name": "Халва Шарлиз подсолнечная глазированная",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 310.49,
-  "priceWithCard": 285.65,
-  "promo": {
-    "discountedPriceRegular": 270.13,
-    "discountedPriceWithCard": 248.52,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "310.49",
+  "priceWithCard": "301.18",
+  "discountPercent": 13,
+  "discountedPrice": "262.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "Ядро подсолнечника протёртое, патока, кондитерская глазурь (сахар, заменитель масла какао (фракция пальмоядрового масла, эмульгаторы: Е492, лецитин соевый) какао-порошок, эмульгаторы: лецитин соевый, Е 492, Е476, ароматизатор «Ванилин»), сахар, вода питьевая, пенообразователь: солодкового корня экстракт, ароматизатор Ванилин. Возможно наличие незначительного количества арахиса, кунжута, мака, сушёных фруктов, молочных продуктов.",
   "information": [
     {

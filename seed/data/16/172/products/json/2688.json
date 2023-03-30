@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах Jardin Andante молотый 10x5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 284.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "290.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "кофе жареный молотый, упаковочный газ (азот)",
   "information": [
     {

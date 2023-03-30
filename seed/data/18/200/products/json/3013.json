@@ -2,16 +2,14 @@
   "name": "Зерно Ваше Здоровье Семя льна для проращивания 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 110.39,
-  "promo": {
-    "discountedPriceRegular": 70.79,
-    "discountedPriceWithCard": 65.13,
-    "discountPercent": 41,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "119.99",
+  "priceWithCard": "117.59",
+  "discountPercent": 41,
+  "discountedPrice": "69.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "лен",
   "information": [
     {

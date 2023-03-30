@@ -2,11 +2,14 @@
   "name": "Зубная щетка Colgate Доктор Заяц детская 2+ супермягкая в ассортименте 1шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 79.79,
-  "promo": null,
+  "priceRegular": "83.99",
+  "priceWithCard": "78.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "щетина: pbt (poly butylene terephthalate);  ручка: copolyester (petg) + tpe (thermo plastic elastomer)",
   "information": [
     {

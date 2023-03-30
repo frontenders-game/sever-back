@@ -2,16 +2,14 @@
   "name": "Лакомство Dreamies с курицей для кошек 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 84.59,
-  "promo": {
-    "discountedPriceRegular": 70.19,
-    "discountedPriceWithCard": 65.98,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "89.99",
+  "priceWithCard": "81.89",
+  "discountPercent": 22,
+  "discountedPrice": "63.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "злаки и продукты их переработки, продукты животного происхождения (в том числе из курицы), животные жиры и растительные масла (в том числе подсолнечное масло), гидролизат куриного белка, минеральные вещества, натуральный краситель, витамины, пивные дрожжи, аминокислоты (в том числе таурин), антиоксиданты",
   "information": [
     {

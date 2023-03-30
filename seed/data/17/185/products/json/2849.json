@@ -2,16 +2,14 @@
   "name": "Рис Агро-Альянс Slim&fit Экстра бурый, 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 117.99,
-  "priceWithCard": 112.09,
-  "promo": {
-    "discountedPriceRegular": 95.57,
-    "discountedPriceWithCard": 90.79,
-    "discountPercent": 19,
-    "isActive": true
-  },
+  "priceRegular": "117.99",
+  "priceWithCard": "112.09",
+  "discountPercent": 19,
+  "discountedPrice": "90.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Бурый рис.",
   "information": [
     {

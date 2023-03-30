@@ -2,11 +2,14 @@
   "name": "Кофе Venetto растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 213.39,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "200.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Кофе растворимый сублимированный.",
   "information": [
     {

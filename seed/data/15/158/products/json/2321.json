@@ -2,11 +2,14 @@
   "name": "Конфеты Победа вкуса Мишки в лесу шоколадные",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 599.99,
-  "priceWithCard": 557.99,
-  "promo": null,
+  "priceRegular": "599.99",
+  "priceWithCard": "587.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Сахар, какао-масло, какао тёртое, какао-порошок, цельное сухое молоко, лактоза, эмульгатор (лецитин), ароматизатор (ванилин); начинка – сахар, растительный жир, сухое обезжиренное молоко, какао-порошок, сухая молочная сыворотка, вафельная крошка (крисп), эмульгатор (лецитин), ароматизатор (ванилин). \nМожет содержать следы орехов.",
   "information": [
     {

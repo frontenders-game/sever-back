@@ -2,11 +2,14 @@
   "name": "Лук-репка Выгодно в сетке",
   "unitsOfMeasurement": "кг",
   "step": "1.8",
-  "priceRegular": 55.99,
-  "priceWithCard": 51.51,
-  "promo": null,
+  "priceRegular": "55.99",
+  "priceWithCard": "52.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Лук",
   "information": [
     {

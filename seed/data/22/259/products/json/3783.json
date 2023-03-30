@@ -2,11 +2,14 @@
   "name": "Тампоны Kotex Normal гигиенические женские 16шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 264.59,
-  "promo": null,
+  "priceRegular": "269.99",
+  "priceWithCard": "256.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Polypropylene, viscose, polyester.",
   "information": [
     {

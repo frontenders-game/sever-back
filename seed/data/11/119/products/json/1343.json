@@ -2,11 +2,14 @@
   "name": "Тараллини Trattoria Turatti классические 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 52.79,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода, масло подсолнечное высокоолеиновое рафинированное дезодорированное, соль, спирт этиловый ректификованный из пищевого сырья. Содержит сахара природного (естественного) происхождения.",
   "information": [
     {

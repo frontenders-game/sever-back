@@ -2,11 +2,14 @@
   "name": "Мини-сушки Невская Сушка с маком, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 91.99,
-  "priceWithCard": 88.31,
-  "promo": null,
+  "priceRegular": "91.99",
+  "priceWithCard": "87.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Мука пшеничная хлебопекарная в/с, вода питьевая, масло подсолнечное, мак пищевой , соль поваренная пищевая, сахар - песок, дрожжи хлебопекарные прессованные. Продукт может содержать следы арахиса, кунжута и яичных продуктов.",
   "information": [
     {

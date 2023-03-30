@@ -2,11 +2,14 @@
   "name": "Шоколад молочный Milka с соленым крекером Tuc 87г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "Сахар, масло какао, мука пшеничная, молоко сухое обезжиренное, какао тертое, сыворотка сухая молочная, жир молочный, масло пальмовое, сироп глюкозный, солодовый экстракт из ячменя, эмульгаторы (лецитин соевый, Е476), соль, крахмал пшеничный, разрыхлители (натрия гидрокарбонат, аммония гидрокарбонат, Е 450i), консервант (пиросульфит натрия), масло сливочное, молоко сухое цельное, ароматизаторы.",
   "information": [
     {

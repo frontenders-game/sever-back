@@ -2,16 +2,14 @@
   "name": "Творог Резной Палисад обезжиренный 1.8%, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 172.99,
-  "priceWithCard": 157.42,
-  "promo": {
-    "discountedPriceRegular": 147.04,
-    "discountedPriceWithCard": 133.81,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "172.99",
+  "priceWithCard": "167.80",
+  "discountPercent": 15,
+  "discountedPrice": "142.63",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

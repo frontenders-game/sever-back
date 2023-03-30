@@ -2,11 +2,14 @@
   "name": "Печенье Любятово Шоколадное сахарное 228г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 80.99,
-  "priceWithCard": 76.94,
-  "promo": null,
+  "priceRegular": "80.99",
+  "priceWithCard": "73.70",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "мука пшеничная, сахар, масло растительное,  сироп инвертный [сахар, регуляторы кислотности: молочная кислота, гидрокарбонат натрия], какао-порошок, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия (сода пищевая); соль, меланж яичный сухой, эмульгаторы: эфиры глицерина и диацетилвинной и жирных кислот, лецитин соевый; ароматизатор, сыворотка молочная сухая",
   "information": [
     {

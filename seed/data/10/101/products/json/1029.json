@@ -2,11 +2,14 @@
   "name": "Пудинг молочный Grand Dessert ваниль 4.7% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 93.49,
-  "priceWithCard": 88.82,
-  "promo": null,
+  "priceRegular": "93.49",
+  "priceWithCard": "86.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "обезжиренное молоко, сливки, глюкозно-фруктозный сироп, сахар, загустители: модифицированный кукурузный крахмал Е1422,  каррагинан, гуаровая камедь, пищевой желатин; вода, лактоза, сывороточный продукт, натуральный ароматизатор «Ваниль «Бурбон»», эмульгатор: Е472b; соль, краситель: B-каротин; натуральный сливочный ароматизатор",
   "information": [
     {

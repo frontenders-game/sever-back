@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из телятины с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 94.75,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 73.91,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "102.99",
+  "priceWithCard": "94.75",
+  "discountPercent": 22,
+  "discountedPrice": "73.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "телятина, крупа рисовая, масло подсолнечное, вода",
   "information": [
     {

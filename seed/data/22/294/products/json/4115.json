@@ -2,11 +2,14 @@
   "name": "Набор ручек Colorio Kinderline шариковых 6шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 101.89,
-  "priceWithCard": 99.85,
-  "promo": null,
+  "priceRegular": "101.89",
+  "priceWithCard": "95.78",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "АБС пластик, металл",
   "information": [
     {

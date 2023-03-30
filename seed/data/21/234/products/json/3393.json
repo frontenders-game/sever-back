@@ -2,11 +2,14 @@
   "name": "Колбаса варёная Великолукский МК Докторская, 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 284.99,
-  "priceWithCard": 270.74,
-  "promo": null,
+  "priceRegular": "284.99",
+  "priceWithCard": "270.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Свинина, говядина, молоко коровье цельное, яйца куриные, натуральные пряности (орех мускатный), вода, соль поваренная, сахар, стабилизатор Е450, антиокилитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия).",
   "information": [
     {

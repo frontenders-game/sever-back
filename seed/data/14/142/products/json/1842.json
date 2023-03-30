@@ -2,11 +2,14 @@
   "name": "Напиток сокосодержащий Добрый из манго 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 111.54,
-  "promo": null,
+  "priceRegular": "114.99",
+  "priceWithCard": "105.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "ДОБРЫЙ Напиток сокосодержащий из манго 1л.",
   "information": [
     {

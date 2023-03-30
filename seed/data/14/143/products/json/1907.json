@@ -2,11 +2,14 @@
   "name": "Напиток Черноголовка Кола 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 100.79,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "98.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "вода, сахар, регуляторы кислотности: кислота орто-фосфорная лимонная, краситель сахарный колер IV, ароматизатор натуральный, кофеин (не более 150 мн/л) консервант бензоат натрия ароматизатор пищевой \"Ванилин\"",
   "information": [
     {

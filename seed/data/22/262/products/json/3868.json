@@ -2,16 +2,14 @@
   "name": "Крем для лица рук и тела Nivea Soft интенсивный и увлажняющий, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 391.99,
-  "promo": {
-    "discountedPriceRegular": 299.99,
-    "discountedPriceWithCard": 293.99,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "399.99",
+  "priceWithCard": "387.99",
+  "discountPercent": 25,
+  "discountedPrice": "290.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Aqua, Glycerin, Paraffinum Liquidum, Myristyl Alcohol, Butylene Glycol, Alcohol Denat, Stearic Acid, Myristyl Myristate, Cera Microcristallina, Glyceryl Stearate, Hydrogenated Coco-Glycerides, Simmondsia Chinensis Seed Oil, Tocopheryl Acetate, Lanolin Alcohol (Eucerit®), Polyglyceryl-2 Caprate, Dimethicone, Sodium Carbomer, Phenoxyethanol, Linalool, Citronellol, Alpha-Isomethyl Ionone, Butylphenyl Methylpropional, Limonene, Benzyl Alcohol, Benzyl Salicylate, Parfum.",
   "information": [
     {

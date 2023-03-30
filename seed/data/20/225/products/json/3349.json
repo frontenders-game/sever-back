@@ -2,11 +2,14 @@
   "name": "Кусочки фруктовые ФрутоНяня из яблок, персиков и маракуйи с 12 месяцев 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.19,
-  "priceWithCard": 43.42,
-  "promo": null,
+  "priceRegular": "46.19",
+  "priceWithCard": "42.96",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "cок из яблок концентрированный, пюре из яблок концентрированный, пюре из персиков концентрированное, сок из маракуйи концентрированный, агент желируйщий-пектин, сок из лимона концентрированный, цитрусовые пищевые волокна. Без добавления сахара. Содержит сахара природного происхождения",
   "information": [
     {

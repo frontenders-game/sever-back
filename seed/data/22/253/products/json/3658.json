@@ -2,11 +2,14 @@
   "name": "Мыло хозяйственное Econta 72%, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 23.99,
-  "priceWithCard": 22.79,
-  "promo": null,
+  "priceRegular": "23.99",
+  "priceWithCard": "23.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "натриевые соли жирных кислот натуральных жиров и масел, вода, глицерин, хлорид натрия, диоксид титана, неостаб(триэтаноламин, этидронат натрия, бензойная кислота, винная кислота, ПЭГ-400, натрий-карбоксиметилцеллюлоза)",
   "information": [
     {

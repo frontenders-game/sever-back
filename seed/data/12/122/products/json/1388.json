@@ -2,11 +2,14 @@
   "name": "Кабачки",
   "unitsOfMeasurement": "кг",
   "step": "0.6",
-  "priceRegular": 239.99,
-  "priceWithCard": 220.79,
-  "promo": null,
+  "priceRegular": "239.99",
+  "priceWithCard": "227.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

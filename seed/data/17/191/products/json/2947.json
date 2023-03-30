@@ -2,16 +2,14 @@
   "name": "Макароны Barilla Girandole n.34 из твердых сортов пшеницы 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 90.24,
-  "promo": {
-    "discountedPriceRegular": 80.74,
-    "discountedPriceWithCard": 76.7,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "94.99",
+  "priceWithCard": "91.19",
+  "discountPercent": 15,
+  "discountedPrice": "77.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука из твердой пшеницы высшего сорта, вода. Может содержать следы соевых продуктов",
   "information": [
     {

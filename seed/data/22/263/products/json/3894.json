@@ -2,16 +2,14 @@
   "name": "Мыло жидкое Synergetic Мелисса и ромашка чистота и ультразащита 99.9%, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": {
-    "discountedPriceRegular": 195.49,
-    "discountedPriceWithCard": 189.63,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "229.99",
+  "priceWithCard": "213.89",
+  "discountPercent": 15,
+  "discountedPrice": "181.81",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Purify water with silver ion, sodium laureth sulfate, sodium lauroamphoacetate, PEG-4 rapeseedamide, glycerin, sea salt, undecylenamidopropyltrimonium methosulfate, 2-phenoxyethanol, nonallergenic parfume with natural oils, candida bombicola/glucose/methyl rapeseedate ferment, citric acid, melaleuca alternafolia (tea tree) leaf oil, eucalyptus globulus leaf oil, thymus vulgaris (thyme) flower/leaf oil, anthemis nobilis flower oil, melissa officinalis essential oil, vitamin complex (A, E, F): ethyl linoleate, isopropyl myristate, cetearyl ethylhexanoate, triticum vulgare germ oil, retinyl palmitate, retinyl acetate, tocopheryl acetate, food dyes (tartrazine, brilliant blue).",
   "information": [
     {

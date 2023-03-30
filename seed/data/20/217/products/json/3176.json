@@ -2,16 +2,14 @@
   "name": "Пюре Honey Kid из яблок и банана со вкусом печенья с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.19,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 38.44,
-    "discountPercent": 11,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 20,
+  "priceRegular": "44.99",
+  "priceWithCard": "44.09",
+  "discountPercent": 11,
+  "discountedPrice": "39.24",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 16,
   "ingredients": "Пюре яблочное (75,0%), пюре из банана (24,93%) ароматизатор пищевой натуральный жидкий «Печенье» (0,07%).n«*» в зоне нанесения даты означает, что продукт изготовлен из концентрированного сырья.n Содержит сахара природного (естественного) происхождения.",
   "information": [
     {

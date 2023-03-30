@@ -2,11 +2,14 @@
   "name": "Кофе Jardin Americano Crema молотый 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 334.79,
-  "promo": null,
+  "priceRegular": "359.99",
+  "priceWithCard": "327.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "бленд зерен Арабики средней обжарки из Южной и Центральной Америки",
   "information": [
     {

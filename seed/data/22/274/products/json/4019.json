@@ -2,11 +2,14 @@
   "name": "Набор шампуров Seasons 3 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 45.99,
-  "priceWithCard": 44.61,
-  "promo": null,
+  "priceRegular": "45.99",
+  "priceWithCard": "42.31",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 55,
+  "stockCount": 51,
   "ingredients": "сталь",
   "information": [
     {

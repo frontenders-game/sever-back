@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня из мяса цыплят с 6 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 81.99,
-  "priceWithCard": 78.71,
-  "promo": {
-    "discountedPriceRegular": 66.41,
-    "discountedPriceWithCard": 63.76,
-    "discountPercent": 19,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 10,
+  "priceRegular": "81.99",
+  "priceWithCard": "77.07",
+  "discountPercent": 19,
+  "discountedPrice": "62.43",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 6,
   "ingredients": "Мясо цыпленка, мука рисовая, масло растительное , вода питьевая.",
   "information": [
     {

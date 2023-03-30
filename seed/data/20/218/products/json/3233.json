@@ -2,11 +2,14 @@
   "name": "Крем-суп ФрутоНяня Овощной тыква-картофель-морковь с 6 месяцев 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "тыква, вода питьевая, морковь, сливки, картофель, мука рисовая",
   "information": [
     {

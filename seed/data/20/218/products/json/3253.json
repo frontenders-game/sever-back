@@ -2,11 +2,14 @@
   "name": "Пюре мясное Агуша цыпленок-говядина 7.7% с 6 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 78.84,
-  "promo": null,
+  "priceRegular": "82.99",
+  "priceWithCard": "77.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "мясо цыплят и говядины, вода, мука рисовая, масло растительное. Продукт может содержать незначительное количество глютена",
   "information": [
     {

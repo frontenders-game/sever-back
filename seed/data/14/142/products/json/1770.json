@@ -2,11 +2,14 @@
   "name": "Сок J7 Fresh Taste Апельсин с мякотью 850мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 142.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "143.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Сок апельсиновый с мякотью для детского питания.",
   "information": [
     {

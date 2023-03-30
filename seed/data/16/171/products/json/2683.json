@@ -2,16 +2,14 @@
   "name": "Кофе Jacobs Monarch классический натуральный жареный в зернах 230г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 439.99,
-  "priceWithCard": 422.39,
-  "promo": {
-    "discountedPriceRegular": 272.79,
-    "discountedPriceWithCard": 261.88,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "439.99",
+  "priceWithCard": "431.19",
+  "discountPercent": 38,
+  "discountedPrice": "267.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Кофе жареный в зернах.",
   "information": [
     {

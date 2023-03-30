@@ -2,16 +2,14 @@
   "name": "Чай Curtis Fresh Mojito зеленый в пирамидках 20х1.7г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 137.19,
-  "promo": {
-    "discountedPriceRegular": 85.39,
-    "discountedPriceWithCard": 83.69,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": 39,
+  "discountedPrice": "83.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Листовой зеленый чай, ароматизатор мохито, цедра цитрусовых, мята, лимонник.",
   "information": [
     {

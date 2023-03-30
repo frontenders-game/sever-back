@@ -2,16 +2,14 @@
   "name": "Корм сухой Perfect Fit Sensitive с индейкой для кошек с чувствительным пищеварением 650г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 349.99,
-  "priceWithCard": 321.99,
-  "promo": {
-    "discountedPriceRegular": 272.99,
-    "discountedPriceWithCard": 251.15,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "349.99",
+  "priceWithCard": "321.99",
+  "discountPercent": 22,
+  "discountedPrice": "251.15",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "мука животного происхождения (в том числе из индейки), концентраты растительных белков, кукурузная мука, рис, животные жиры и растительные масла, бульон из продуктов животного происхождения, минеральные вещества, пивоваренные дрожжи, высушенная мякоть сахарной свеклы, витамины, сушеный корень цикория, аминокислоты (таурин, метионин), натуральный карамельный краситель, антиоксиданты",
   "information": [
     {

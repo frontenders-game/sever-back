@@ -2,11 +2,14 @@
   "name": "Календула DURU 1+1 Увлажняющий Крем И Морские Минералы туалетное 4х80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 209.29,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "223.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Parfum, Palm Kernel Acid, Glycerin, Sodium Chloride, Octyldodecanol, Tetrasodium EDTA,Tetrasodium Etidronate, Sodium PCA, Propylene Glycol, Maris Sal, Fucus Vesiculosus Extract, Algae Extract, Sodium Methylparaben, Sodium Propylparaben, Coumarin, Limonene, CI 77891, CI 74160, CI 12490.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Тампоны Ola! Normal 8шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 132.99,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "130.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Впитывающее вискозное волокно, шелковистое покрытие, шнур из полиэтилена.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Молоко Клевер топлёное ультрапастеризованное 4% 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 104.49,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "101.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Молоко цельное.",
   "information": [
     {

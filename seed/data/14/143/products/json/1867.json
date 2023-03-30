@@ -2,11 +2,14 @@
   "name": "Напиток Добрый Апельсин сильногазированный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "очищенная вода, сахар, апельсиновый сок 3%, регулятор кислотности лимонная кислота, витамин С (аскорбиновая кислота), натуральные ароматизаторы, стабилизаторы (гуммиарабик, эфиры глицерина и смоляных кислот), подсластитель сахаринат натрия, краситель каротины, консервант сорбат калия",
   "information": [
     {

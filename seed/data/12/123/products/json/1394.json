@@ -2,11 +2,14 @@
   "name": "Лимоны",
   "unitsOfMeasurement": "кг",
   "step": "0.25",
-  "priceRegular": 109.99,
-  "priceWithCard": 105.59,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "102.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 56,
+  "stockCount": 52,
   "ingredients": "Лимоны.",
   "information": [
     {

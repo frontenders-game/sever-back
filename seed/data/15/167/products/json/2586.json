@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Dirol Маракуйя без сахара 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 35.99,
-  "promo": null,
+  "priceRegular": "37.49",
+  "priceWithCard": "35.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 46,
+  "stockCount": 42,
   "ingredients": "подсластители (сорбит, изомальт, ксилит, мальтит, маннит, аспартам, сукралоза, ацесульфам калия), резиновая основа, ароматизаторы, агенты влагоудерживающие (Е422, Е1518), регуляторы кислотности (Е296, Е330), загуститель (Е414), эмульгаторы (лецитин подсолнечный, Е472а), красители (Е171, Е160а), глазирователь (Е903), антиокислитель (Е321)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Kingstone черный байховый с ароматом бергамота 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.44,
-  "priceWithCard": 69.54,
-  "promo": {
-    "discountedPriceRegular": 63.02,
-    "discountedPriceWithCard": 60.5,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "72.44",
+  "priceWithCard": "67.37",
+  "discountPercent": 13,
+  "discountedPrice": "58.61",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "чай черный байховый листовой, ароматизатор бергамот",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Зубная паста Colgate тройное действие 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 130.94,
-  "promo": {
-    "discountedPriceRegular": 110.69,
-    "discountedPriceWithCard": 107.37,
-    "discountPercent": 18,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 18,
+  "priceRegular": "134.99",
+  "priceWithCard": "122.84",
+  "discountPercent": 18,
+  "discountedPrice": "100.73",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 14,
   "ingredients": "calcium carbonate, aqua, sorbitol, hydrated silica, sodium lauryl sulfate, sodium monofluorophosphate, aroma, cellulose gum, magnesium aluminum silicate, sodium carbonate, benzyl alcohol, sodium saccharin, sodium bicarbonate, eugenol, limonene, cl 74260, cl 74160",
   "information": [
     {

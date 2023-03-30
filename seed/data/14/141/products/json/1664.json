@@ -2,11 +2,14 @@
   "name": "Вода Ессентуки Целебная минеральная 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 51.49,
-  "priceWithCard": 48.4,
-  "promo": null,
+  "priceRegular": "51.49",
+  "priceWithCard": "49.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Основной ионный состав: Анионы HCO 1600-1800, SO2 1300-1600, CI 1800-2200, Катионы: Ca <250, Mg <100, (Na+Ka) 2100-2400.",
   "information": [
     {

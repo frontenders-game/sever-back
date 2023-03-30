@@ -2,16 +2,14 @@
   "name": "Окорок Иней Юбилейный копчено-вареный нарезка 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 131.99,
-  "priceWithCard": 126.71,
-  "promo": {
-    "discountedPriceRegular": 91.07,
-    "discountedPriceWithCard": 87.43,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "131.99",
+  "priceWithCard": "120.11",
+  "discountPercent": 31,
+  "discountedPrice": "82.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "свинина, вода питьевая, посолочная смесь (соль, фиксатор окраски (нитрит натрия)), крахмал картофельный, регуляторы кислотности (пирофосфаты, трифосфаты), декстроза, ароматизатор, стабилизатор (ксантановая камедь), усилитель вкуса и аромата (глутамат натрия). Может содержать следы молочных продуктов, горчицы, яичных продуктов, сельдерея",
   "information": [
     {

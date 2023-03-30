@@ -2,11 +2,14 @@
   "name": "Лакомство для собак Titbit Б2-М легкое говяжье для дрессуры 10г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 161.49,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "164.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 44,
+  "stockCount": 40,
   "ingredients": "легкое говяжье",
   "information": [
     {

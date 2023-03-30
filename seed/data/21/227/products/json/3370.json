@@ -2,11 +2,14 @@
   "name": "Мясо Диета 18 котлетное охлажденное 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 181.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "187.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "говядина",
   "information": [
     {

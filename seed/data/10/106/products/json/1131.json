@@ -2,16 +2,14 @@
   "name": "Напиток кокосовый Nemoloko Barista на рисовой основе, 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 136.49,
-  "promo": {
-    "discountedPriceRegular": 113.99,
-    "discountedPriceWithCard": 103.73,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "145.49",
+  "discountPercent": 24,
+  "discountedPrice": "110.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Вода, кокосовые сливки 7%, рисовая мука, сахар, витаминно-минеральный премикс (витамин D2, витамин В2 (рибофлавин), кальций (трикальций фосфат), кальция карбонат), стабилизатор - каррагинан, стабилизатор Е471, соль.",
   "information": [
     {

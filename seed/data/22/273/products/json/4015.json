@@ -2,16 +2,14 @@
   "name": "Набор Organic shop Fresh Energy Blackwood & Mint шампунь 200мл + гель для душа 200мл для мужчин",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 549.99,
-  "priceWithCard": 505.99,
-  "promo": {
-    "discountedPriceRegular": 275.0,
-    "discountedPriceWithCard": 253.0,
-    "discountPercent": 50,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 7,
+  "priceRegular": "549.99",
+  "priceWithCard": "511.49",
+  "discountPercent": 50,
+  "discountedPrice": "255.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 3,
   "ingredients": "шампунь: aqua, quercus robur bark extract (экстракт коры дуба), mentha piperita leaf extract (экстракт мяты), sodium coco sulfate, cocamidopropyl betaine, coco-glucoside, guar hydroxypropyltrimonium chloride, benzyl alcohol, sodium benzoate, potassium sorbate, sodium chloride, citric acid, parfum;\nгель: aqua, quercus robur bark extract (экстракт коры дуба), mentha piperita leaf extract (экстракт мяты), sodium coco sulfate, cocamidopropyl betaine, coco glucoside, benzyl alcohol, sodium benzoate, potassium sorbate, sodium chloride, citric acid, parfum",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Детское печенье Honey Kid Обогащённое кальцием 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 73.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "76.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Мука пшеничная, сахар, масло растительное, молоко сухое обезжиренное, солод ячменный, разрыхлители (гидрокарбонат аммония , гидрокарбонат натрия, натрия пирофосфат), карбонат кальция, соль, эмульгатор лецитин соевый, витаминно-минеральный премикс (железа (II) фумарат, никотиновая кислота, пиридоксин гидрохлорид, тиамина гидрохлорид, рибофлавин), ароматизатор ванилин.",
   "information": [
     {

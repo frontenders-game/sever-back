@@ -2,11 +2,14 @@
   "name": "Арахис Станичные жареный 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "124.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Арахис.",
   "information": [
     {

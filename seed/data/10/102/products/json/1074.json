@@ -2,11 +2,14 @@
   "name": "Биойогурт Верховье Со злаками 2% 260г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 54.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "молоко нормализованное, наполнитель (сахар, вода, отруби ржаные, отруби овсяные, хлопья зародышевые пшеничные, яблочный сок восстановленный, крахмал кукурузный, концентрированный лимонный сок, натуральный ароматизатор печенье), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus",
   "information": [
     {

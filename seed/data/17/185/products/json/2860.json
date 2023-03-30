@@ -2,16 +2,14 @@
   "name": "Рис Global Village шлифованный, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 137.99,
-  "promo": {
-    "discountedPriceRegular": 115.49,
-    "discountedPriceWithCard": 106.25,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 15,
+  "priceRegular": "149.99",
+  "priceWithCard": "145.49",
+  "discountPercent": 23,
+  "discountedPrice": "112.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 11,
   "ingredients": "Крупа рисовая шлифованная. Рис Жасмин 100%.",
   "information": [
     {

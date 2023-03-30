@@ -2,16 +2,14 @@
   "name": "Капсулы для стирки Persil Color 11шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 569.99,
-  "priceWithCard": 547.19,
-  "promo": {
-    "discountedPriceRegular": 421.79,
-    "discountedPriceWithCard": 404.92,
-    "discountPercent": 26,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 9,
+  "priceRegular": "569.99",
+  "priceWithCard": "541.49",
+  "discountPercent": 26,
+  "discountedPrice": "400.70",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 5,
   "ingredients": "15-30 % анионных ПАВ, неионогенных ПАВ, 5-15 % мыла, < 5 % фосфонатов, энзимов, отдушки (в т.ч. гераниола, линалоола), консерванта, красителя",
   "information": [
     {

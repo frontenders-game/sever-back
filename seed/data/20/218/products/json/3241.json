@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из индейки с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 99.9,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 77.92,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "102.99",
+  "priceWithCard": "93.72",
+  "discountPercent": 22,
+  "discountedPrice": "73.10",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "мясо индейки, крупа рисовая, масло подсолнечное, вода",
   "information": [
     {

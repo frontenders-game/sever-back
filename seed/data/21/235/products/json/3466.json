@@ -2,11 +2,14 @@
   "name": "Сосиски Иней Венские 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 263.19,
-  "promo": null,
+  "priceRegular": "279.99",
+  "priceWithCard": "263.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "свинина, филе куриное, говядина, вода питьевая, посолочная смесь (соль, фиксатор окраски (нитрит натрия)), стабилизаторы (пирофосфат натрия, полифосфат натрия), ароматизаторы, антиокислители (изоаскорбат натрия, лимонная кислота), клетчатка пшеничная, сахар, краситель (кармин)",
   "information": [
     {

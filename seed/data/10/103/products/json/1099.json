@@ -2,11 +2,14 @@
   "name": "Сырок творожный Вкуснотеево Премиум с ванилью глазированный 16% 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.79,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Творог, сахар, глазурь шоколадная (масло сливочное, сахар, какао-порошок), пряность - ванильный порошок.",
   "information": [
     {

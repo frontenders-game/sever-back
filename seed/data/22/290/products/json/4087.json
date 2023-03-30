@@ -2,16 +2,14 @@
   "name": "Подгузники-трусики Pampers Pants Midi размер 3 6-11кг 60шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1699.0,
-  "priceWithCard": 1648.03,
-  "promo": {
-    "discountedPriceRegular": 1308.23,
-    "discountedPriceWithCard": 1268.98,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "1699.00",
+  "priceWithCard": "1614.05",
+  "discountPercent": 23,
+  "discountedPrice": "1242.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "состав бальзама: petrolatum, stearyl alcohol, paraffinum liquidum, aloe barbaderis leaf extract",
   "information": [
     {

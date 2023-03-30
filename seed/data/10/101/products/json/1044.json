@@ -2,11 +2,14 @@
   "name": "Биойогурт Верховье с бананом и грушей 2.9% 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 41.84,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "43.64",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "молоко нормализованное, наполнитель (сахар, вода, пюре из банана, груша, крахмал кукурузный, натуральные ароматизаторы, концентрированный лимонный сок), молоко сухое обезжиреное, закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus",
   "information": [
     {

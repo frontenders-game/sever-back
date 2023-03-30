@@ -2,16 +2,14 @@
   "name": "Напиток кисломолочный Actimel клубника обогащенный цинком 1.5% 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 36.37,
-  "promo": {
-    "discountedPriceRegular": 29.24,
-    "discountedPriceWithCard": 28.37,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "37.49",
+  "priceWithCard": "35.99",
+  "discountPercent": 22,
+  "discountedPrice": "28.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (клубничное пюре, вода, сахар, стабилизатор – Е1442, ароматизатор, концентрированный сок черной моркови, регулятор кислотности – Е331(iii), глюконат цинка (цинк)), молоко сухое обезжиренное, глюкоза, витамин B6, витамин D3, йогуртовая закваска, лактобактерии L.CASEI IMUNITASS",
   "information": [
     {

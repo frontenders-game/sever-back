@@ -2,11 +2,14 @@
   "name": "АРТ/ДИЗ.Конверт для денег МК",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 112.99,
-  "priceWithCard": 102.82,
-  "promo": null,
+  "priceRegular": "112.99",
+  "priceWithCard": "108.47",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Бумага.",
   "information": [
     {

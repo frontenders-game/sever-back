@@ -2,11 +2,14 @@
   "name": "Cредство для стирки Peros жидкое для цветного белья и одежды 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 237.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "232.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "5-15% анионные ПАВ, менее 5%: неионогенные ПАВ, мыло, полимеры, фермент, ароматизатор (бутилфенилметилпропиональ), метилглицин диуксусная кислота, консерванты (метилхлороизотиазолинон, метилизотиазолинон)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Корм сухой Felix Мясное объедение с говядиной для взрослых кошек 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 237.49,
-  "promo": {
-    "discountedPriceRegular": 209.99,
-    "discountedPriceWithCard": 199.49,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "244.99",
+  "discountPercent": 16,
+  "discountedPrice": "205.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "злаки, мясо и мясные ингредиенты (включая говядину), экстракты растительного белка, животные жиры, продукты переработки растительного сырья, дрожжи, консерванты, минеральные вещества, аминокислоты, красители, витамины, антиоксиданты",
   "information": [
     {

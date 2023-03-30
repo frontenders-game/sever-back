@@ -2,11 +2,14 @@
   "name": "Гель Nivea Men для душа Заряд чистоты мужской, 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 287.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "293.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocoate, Glycerin, Glyceryl Glucoside, Bambusa Vulgaris Leaf/Stem Extract, Prunus Amygdalus Dulcis Oil, Sodium Chloride, Helianthus Annuus Seed Oil, PEG-40 Hydrogenated Castor Oil, Polyquaternium-7, Styrene/Acrylates Copolymer, Citric Acid, PEG-200 Hydrogenated Glyceryl Palmate, Glyceryl Stearate SE, Sodium Benzoate, Linalool, Limonene, Parfum.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Масло сладкосливочное Вологодское Традиционное 82.5%, 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 187.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "183.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 64,
+  "stockCount": 60,
   "ingredients": null,
   "information": [
     {

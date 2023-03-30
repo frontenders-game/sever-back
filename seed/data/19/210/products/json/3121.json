@@ -2,11 +2,14 @@
   "name": "Корм сухой Kitekat Курочка аппетитная для кошек 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 98.99,
-  "priceWithCard": 94.04,
-  "promo": null,
+  "priceRegular": "98.99",
+  "priceWithCard": "91.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "злаки и продукты их переработки, муки животного происхождения (в том числе из курицы), гидролизат куриного белка,  животные жиры и растительные масла (в том числе подсолнечное масло, свекловичный жом, соль, минеральные вещества, витамины, аминокислоты (в том числе таурин), красители, антиоксиданты, морковь сушеная",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Печенье Honey Kid детское 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 48.99,
-  "promo": {
-    "discountedPriceRegular": 29.99,
-    "discountedPriceWithCard": 29.39,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "47.99",
+  "discountPercent": 40,
+  "discountedPrice": "28.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Мука пшеничная, сахар, масло растительное, молоко сухое обезжиренное, крахмал картофельный, экстракт ячменного солода, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия, пирофосфат натрия), карбонат кальция, соль, эмульгатор - лецитин соевый, витаминно-минеральный премикс (железа (II) фумарат, Витамин PP, Витамин B6, Витамин B1, Витамин B2), ароматизатор - ванилин.",
   "information": [
     {

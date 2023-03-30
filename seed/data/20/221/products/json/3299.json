@@ -2,11 +2,14 @@
   "name": "Каша Агуша злаки-персик с 6 месяцев 2.5% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.39,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Молоко нормализованное, вода, сахар, мука экструдированная (пшеничная, рисовая, гречневая, овсяная, кукурузная), пребио-тические пищевые волокна – олигофруктоза, пюре концентрирован-ное персиковое, ароматизатор натуральный «Со вкусом персика».",
   "information": [
     {

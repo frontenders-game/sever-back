@@ -2,16 +2,14 @@
   "name": "Чай Assand Authentic черный с мятой в пакетиках 25x2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": {
-    "discountedPriceRegular": 78.99,
-    "discountedPriceWithCard": 71.88,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "97.99",
+  "discountPercent": 21,
+  "discountedPrice": "77.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "чай черный байховый, мята перечная.",
   "information": [
     {

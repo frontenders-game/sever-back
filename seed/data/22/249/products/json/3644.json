@@ -2,11 +2,14 @@
   "name": "Сменный баллон для Glade Автоматик Океанский оазис 269мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 427.99,
-  "priceWithCard": 419.43,
-  "promo": null,
+  "priceRegular": "427.99",
+  "priceWithCard": "406.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Изобутан/пропан >30%, денатурат, отдушка, линалоол, 2-(4-третбутилбензил)пропиональдегид, d-лимонен, цитронеллол, цитраль, гераниол.",
   "information": [
     {

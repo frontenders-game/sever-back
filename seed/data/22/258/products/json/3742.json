@@ -2,16 +2,14 @@
   "name": "Лак для волос Taft Три погоды Объем очень сильная фиксация 225мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 363.99,
-  "priceWithCard": 338.51,
-  "promo": {
-    "discountedPriceRegular": 302.11,
-    "discountedPriceWithCard": 280.96,
-    "discountPercent": 17,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 21,
+  "priceRegular": "363.99",
+  "priceWithCard": "356.71",
+  "discountPercent": 17,
+  "discountedPrice": "296.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 17,
   "ingredients": "Dimethyl Ether, Alcohol denat. (26,3 % Vol.), Aqua, Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer, Aminomethyl Propanol, Panthenol, Benzophenone-4, Tocopheryl Acetate, AMPD-Isostearoyl Hydrolyzed Collagen, Parfum, Isopropyl Myristate, Butylphenyl Methylpropional, Linalool, Limonene, Benzyl Alcohol, Geraniol, Alpha-Isomethyl Ionone, Citronellol.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Конфеты Азовская КФ Микс 1 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "209.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

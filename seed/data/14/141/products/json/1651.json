@@ -2,11 +2,14 @@
   "name": "Вода Черноголовка артезианская негазированная 2.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "58.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "гидрокарбонаты (HCO5) 130-280, Хлориды (Cl) ≤10, Сульфаты (S01) ≤20, Кальций (Ca) 30-65, Калий (K) 2-10, Магний (Mg) 5-30, Фторид-ион (F) 0.6-1.0",
   "information": [
     {

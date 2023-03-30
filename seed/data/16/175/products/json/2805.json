@@ -2,16 +2,14 @@
   "name": "Напиток чайный Вкус и польза Мята перечная 20x1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.59,
-  "promo": {
-    "discountedPriceRegular": 43.44,
-    "discountedPriceWithCard": 39.97,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 21,
+  "discountedPrice": "41.27",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "мята перечная",
   "information": [
     {

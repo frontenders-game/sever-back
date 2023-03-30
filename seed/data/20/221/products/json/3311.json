@@ -2,11 +2,14 @@
   "name": "Каша Nestle безмолочная гречневая с 4 мес. 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 140.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "143.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Мука гречневая, мальтодекстрин, витамины и минеральные вещества, бифидобактерии не менее 1х10^6 КОЕ/г. Продукт может содержать глютен и молоко. Содержит 9 витаминов и 5 минеральных веществ.",
   "information": [
     {

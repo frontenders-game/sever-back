@@ -2,11 +2,14 @@
   "name": "Сырок творожный Свитлогорье с какао глазированный 26%, 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 55.99,
-  "priceWithCard": 52.63,
-  "promo": null,
+  "priceRegular": "55.99",
+  "priceWithCard": "52.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Творог, сахар-песок, кондитерская глазурь на заменителе какао-масла (сахар-песок, заменитель какао-масла, какао-порошок, эмульгатор-лецитин, ароматизатор пищевой) сливочное масло, какао-порошок, ароматизатор пищевой.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Капуста Global Village квашенная с клюквой 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 102.29,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "101.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "капуста белокочанная, морковь столовая, клюква, соль поваренная пищевая.",
   "information": [
     {

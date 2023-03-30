@@ -2,11 +2,14 @@
   "name": "Нектар Мой Вишня-яблоко 0.95л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 68.24,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "70.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "вишнёвый сок, яблочный сок, сахар, регулятор кислотности - лимонная кислота, вода",
   "information": [
     {

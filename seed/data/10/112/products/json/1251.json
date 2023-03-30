@@ -2,11 +2,14 @@
   "name": "Молоко сгущённое Вологодские Молочные Продукты 8.5%, 370г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 118.99,
-  "priceWithCard": 113.04,
-  "promo": null,
+  "priceRegular": "118.99",
+  "priceWithCard": "110.66",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 49,
+  "stockCount": 45,
   "ingredients": "Молоко цельное, молоко обезжиренное, сахар (сахароза), молочный сахар (лактоза).",
   "information": [
     {

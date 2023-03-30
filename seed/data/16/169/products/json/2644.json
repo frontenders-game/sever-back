@@ -2,11 +2,14 @@
   "name": "Кофе растворимый Carte Noire сублимированный 1.8г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 24.99,
-  "priceWithCard": 24.24,
-  "promo": null,
+  "priceRegular": "24.99",
+  "priceWithCard": "24.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "кофе натуральный растворимый сублимированный",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Корм влажный Lamour С кроликом в соусе для кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 12.99,
-  "priceWithCard": 11.95,
-  "promo": null,
+  "priceRegular": "12.99",
+  "priceWithCard": "12.08",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 55,
+  "stockCount": 51,
   "ingredients": "субпродукты и продукты животного происхождения (в т. ч. кролик - мин. 4 %), растительные компоненты, минеральные добавки, загустители, витамины",
   "information": [
     {

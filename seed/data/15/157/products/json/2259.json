@@ -2,11 +2,14 @@
   "name": "Конфеты Столичные штучки с начинкой ореховый мусс 104г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 181.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "187.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": null,
   "information": [
     {

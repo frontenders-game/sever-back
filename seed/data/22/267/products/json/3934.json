@@ -2,16 +2,14 @@
   "name": "Гель для душа Fa Yoghurt Алое Вера 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 427.99,
-  "priceWithCard": 406.59,
-  "promo": {
-    "discountedPriceRegular": 333.83,
-    "discountedPriceWithCard": 317.14,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "427.99",
+  "priceWithCard": "402.31",
+  "discountPercent": 22,
+  "discountedPrice": "313.80",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "Aqua, sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, yogurt, aloe barbadensis leaf juice, niacinamide, parfum, polyquaternium-7, propylene glycol, peg-7 glyceryl cocoate, peg-55 propylene glycol oleate, laureth-2, styrene/acrylates copolymer, tetrasodium edta, bht, citric acid, geraniol, benzyl alcohol, hexyl cinnamal, butylphenyl methylpropional, citronellol, sodium benzoate, sodium salicylate.",
   "information": [
     {

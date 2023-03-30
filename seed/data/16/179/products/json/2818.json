@@ -2,16 +2,14 @@
   "name": "Какао-напиток Хрутка быстрорастворимый 135г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 113.99,
-  "promo": {
-    "discountedPriceRegular": 80.39,
-    "discountedPriceWithCard": 76.37,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "117.59",
+  "discountPercent": 33,
+  "discountedPrice": "78.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "сахар, какао-порошок с пониженным содержанием жира, сыворотка молочная сухая, эмульгатор (соевый лецитин), ароматизатор натуральный, корица\n",
   "information": [
     {

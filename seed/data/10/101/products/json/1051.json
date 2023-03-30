@@ -2,11 +2,14 @@
   "name": "Биойогурт Верховье вишня-черешня-асая обогащённый детский 2.9%, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.19,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "42.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Молоко нормализованное, наполнитель (сахар, вишня, вода, черешня, крахмал кукурузный, ароматизаторы натуральные, концентрированный морковный сок, загуститель пектины, порошок из ягод асаи), молоко сухое обезжиренное, закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Кофе Jacobs Millicano растворимый сублимированный с добавлением жареного молотого 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 379.99,
-  "priceWithCard": 349.59,
-  "promo": {
-    "discountedPriceRegular": 273.59,
-    "discountedPriceWithCard": 251.7,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "379.99",
+  "priceWithCard": "357.19",
+  "discountPercent": 28,
+  "discountedPrice": "257.18",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Кофе натуральный растворимый сублимированный, кофе жареный молотый.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Хлопья Любятово кукурузные, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 123.49,
-  "promo": {
-    "discountedPriceRegular": 90.99,
-    "discountedPriceWithCard": 86.44,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "129.99",
+  "priceWithCard": "118.29",
+  "discountPercent": 30,
+  "discountedPrice": "82.80",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Крупа кукурузная, сахар, экстракт ячменно-солодовый, соль.",
   "information": [
     {

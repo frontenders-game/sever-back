@@ -2,11 +2,14 @@
   "name": "Рис Агро-Альянс Gold Экстра элитный пропаренный, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 125.54,
-  "promo": null,
+  "priceRegular": "134.99",
+  "priceWithCard": "126.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Рис.",
   "information": [
     {

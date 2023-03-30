@@ -2,16 +2,14 @@
   "name": "Зубная паста Colgate максимальная защита от кариеса свежая мята 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 158.09,
-  "promo": {
-    "discountedPriceRegular": 151.29,
-    "discountedPriceWithCard": 140.7,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "158.09",
+  "discountPercent": 11,
+  "discountedPrice": "140.70",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "карбонат кальция вода сорбитол гидратированный диоксид кремния лаурилсульфат натрия монофторфосфат натрия 1,1% (1450 ppm F-) вкусовая добавка натриевая соль КМЦ алюмосиликат магния карбонат натрия бензиловый спирт сахаринат натрия бикарбонат натрия d-лимонен краситель CI 74260",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Творог Славянские кружева рассыпчатый 5% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 97.64,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "99.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "молоко нормализованное, закваска",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Жевательная резинка Dirol Colors XXL ассорти мятных вкусов без сахара 19г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.49,
-  "promo": {
-    "discountedPriceRegular": 39.99,
-    "discountedPriceWithCard": 37.19,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "48.99",
+  "discountPercent": 20,
+  "discountedPrice": "39.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "подсластители (сорбит, изомальт, мальтит, мальтитный сироп, маннит, ксилит, сукралоза, аспартам, ацесульфам калия), резиновая основа, носитель (карбонат кальция), ароматизаторы, влагоудерживающий агент (Е422), загуститель (Е414), эмульгаторы (лецитин подсолнечный, Е472а), красители (Е171, Е160а, Е133, Е141), масло растительное (кокосовое), глазирователь (Е903), антиокислитель (Е321)",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Сок ФрутоНяня яблочно-шиповниковый осветлённый для детей раннего возраста 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 41.35,
-  "promo": null,
+  "priceRegular": "43.99",
+  "priceWithCard": "41.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Сок яблочный, сок из шиповника, изготовлен из концентрированного сока.",
   "information": [
     {

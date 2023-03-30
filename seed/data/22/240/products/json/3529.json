@@ -2,16 +2,14 @@
   "name": "Капсулы Ariel Color для стирки 10х22.8г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 499.99,
-  "priceWithCard": 459.99,
-  "promo": {
-    "discountedPriceRegular": 299.99,
-    "discountedPriceWithCard": 275.99,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "499.99",
+  "priceWithCard": "474.99",
+  "discountPercent": 40,
+  "discountedPrice": "284.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": ">30% анионные ПАВ; 5-15% мыло; <5% неионогенные ПАВ, фосфонаты; энзимы, оптические отбеливатели, ароматизирующие добавки, бензилсалицилат, лимонен, линалоол",
   "information": [
     {

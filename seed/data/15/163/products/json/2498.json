@@ -2,16 +2,14 @@
   "name": "Варенье Global Village selection бруснично-апельсиновое с пряностями 310г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 166.59,
-  "promo": {
-    "discountedPriceRegular": 151.29,
-    "discountedPriceWithCard": 148.27,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "163.19",
+  "discountPercent": 11,
+  "discountedPrice": "145.24",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "сахар, брусника, апельсины, регулятор кислотности - лимонная кислота, пряности - корица, гвоздика, Изготавливается из апельсинов с цедрой. Возможно попадание косточек",
   "information": [
     {

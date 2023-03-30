@@ -2,11 +2,14 @@
   "name": "Ассорти шоколада Коркунов темный, молочный и молочный шоколад с фундуком 131г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 388.99,
-  "priceWithCard": 357.87,
-  "promo": null,
+  "priceRegular": "388.99",
+  "priceWithCard": "365.65",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "молочный шоколад (сахар, сухое цельное молоко, какао масло, какао тертое, молочный жир, эмульгаторы(соевый лецитин, сорбитан тристеарат), ароматизатор (ванилин)); темный шоколад(какао тертое, сахар, какао масло, молочный жир, эмульгаторы(соевый лецитин, сорбитан тристеарат), ароматизатор (ванилин)); дробленый фундук",
   "information": [
     {

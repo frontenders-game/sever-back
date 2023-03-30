@@ -2,16 +2,14 @@
   "name": "Чай Tusker черный 100х1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 110.39,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 92.73,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "109.19",
+  "discountPercent": 16,
+  "discountedPrice": "91.72",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "чай черный байховый",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Assand Earl Grey черный 25х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": {
-    "discountedPriceRegular": 78.99,
-    "discountedPriceWithCard": 71.88,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": 21,
+  "discountedPrice": "73.46",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": null,
   "information": [
     {

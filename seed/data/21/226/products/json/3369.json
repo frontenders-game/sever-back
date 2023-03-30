@@ -2,11 +2,14 @@
   "name": "Набор суповой Курятинка из мяса цыпленка бройлера",
   "unitsOfMeasurement": "кг",
   "step": "0.7",
-  "priceRegular": 89.99,
-  "priceWithCard": 88.19,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "85.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 5,
+  "stockCount": 1,
   "ingredients": " мясо цыплят бройлеров",
   "information": [
     {

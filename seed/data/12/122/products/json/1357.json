@@ -2,11 +2,14 @@
   "name": "Капуста белокочанная",
   "unitsOfMeasurement": "кг",
   "step": "3.0",
-  "priceRegular": 21.99,
-  "priceWithCard": 20.67,
-  "promo": null,
+  "priceRegular": "21.99",
+  "priceWithCard": "20.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 65,
+  "stockCount": 61,
   "ingredients": "капуста белокочанная.",
   "information": [
     {

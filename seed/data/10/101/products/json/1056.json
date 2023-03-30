@@ -2,16 +2,14 @@
   "name": "Йогурт Активиа клубника 2.9% 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 56.99,
-  "priceWithCard": 53.57,
-  "promo": {
-    "discountedPriceRegular": 38.18,
-    "discountedPriceWithCard": 35.89,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "56.99",
+  "priceWithCard": "54.14",
+  "discountPercent": 33,
+  "discountedPrice": "36.27",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (клубника, вода, сахар, кукурузный крахмал, концентрированный сок черной моркови, загуститель – пектины, концентрированный сок лимона, натуральный ароматизатор, краситель – экстракт паприки), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена, орехов.  Количество молочнокислых микроорганизмов – не менее 1х107 КОЕ/г.  Количество бифидобактерий ActiRegularis® – не менее 3,4х107 КОЕ/г",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Щетка зубная Koreain мягкая 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.59,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Dirol Арбузная свежесть без сахара 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 36.37,
-  "promo": null,
+  "priceRegular": "37.49",
+  "priceWithCard": "35.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 58,
+  "stockCount": 54,
   "ingredients": "подсластители (сорбит, мальтит, мальтитный сироп, аспартам, сукралоза, ацесульфам калия), резиновая основа, регуляторы кислотности (Е330, Е296), ароматизаторы, загуститель (Е414), влагоудерживающий агент (Е422), краситель (Е171), масло растительное (кокосовое), эмульгатор (лецитин подсолнечный), глазирователь (Е903), антиокислитель (Е321)",
   "information": [
     {

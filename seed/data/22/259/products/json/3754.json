@@ -2,16 +2,14 @@
   "name": "Прокладки ежедневные Discreet Deo water lily multiform, 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 109.24,
-  "promo": {
-    "discountedPriceRegular": 100.04,
-    "discountedPriceWithCard": 95.04,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "114.99",
+  "priceWithCard": "108.09",
+  "discountPercent": 13,
+  "discountedPrice": "94.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

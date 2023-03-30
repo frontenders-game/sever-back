@@ -2,11 +2,14 @@
   "name": "Добавка в чай BioniQ Мята сушеная 35г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "сушеная мята",
   "information": [
     {

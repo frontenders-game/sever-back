@@ -2,11 +2,14 @@
   "name": "Гречка Агро-Альянс Экстра элитная 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 108.99,
-  "priceWithCard": 103.54,
-  "promo": null,
+  "priceRegular": "108.99",
+  "priceWithCard": "105.72",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Гречка.",
   "information": [
     {

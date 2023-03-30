@@ -2,16 +2,14 @@
   "name": "Аэрозоль Mosquitall Профессиональная защита от всех насекомых, 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 314.99,
-  "priceWithCard": 302.39,
-  "promo": {
-    "discountedPriceRegular": 132.3,
-    "discountedPriceWithCard": 127.0,
-    "discountPercent": 58,
-    "isActive": true
-  },
+  "priceRegular": "314.99",
+  "priceWithCard": "289.79",
+  "discountPercent": 58,
+  "discountedPrice": "121.71",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Диэтилтолуамид (50,0%); < 5%: отдушка, триэтиленгликоль; ≥ 15% но < 30% - спирт этиловый денатурированный (16,9% об.).; ≥ 30% - пропеллент углеводородный (пропан, бутан, изобутан).",
   "information": [
     {

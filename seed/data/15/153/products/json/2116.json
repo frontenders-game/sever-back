@@ -2,11 +2,14 @@
   "name": "Шоколад молочный и белый Россия-Щедрая Душа с начинкой кокосовая стружка и вафли, 82г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.14,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "53.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "СТО 96436727-008-2016.",
   "information": [
     {

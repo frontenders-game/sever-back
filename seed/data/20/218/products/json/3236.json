@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из говядины с печенью с 8 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 97.84,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 76.32,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 10,
+  "priceRegular": "102.99",
+  "priceWithCard": "100.93",
+  "discountPercent": 22,
+  "discountedPrice": "78.73",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 6,
   "ingredients": "говядина, печень говяжья, масло подсолнечное, мука рисовая, вода",
   "information": [
     {

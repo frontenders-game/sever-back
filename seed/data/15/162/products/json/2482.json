@@ -2,11 +2,14 @@
   "name": "Халва Азовская АФ Царская подсолнечная на фруктозе 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Ядро подсолнечника протертое, патока, фруктоза, пенообразователь: экстракт солодкового корня, ароматизатор \"Ванилин\".",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Яйцо Kinder Сюрприз из молочного шоколада с игрушкой в ассортименте 20г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "78.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 67,
+  "stockCount": 63,
   "ingredients": "молочный шоколад, (сахар, сухое цельное молоко, масло какао, тертое какао, эмульгатор: лецитины, ароматизатор), сухое обезжиренное молоко, сахар, растительные жиры, молочный жир, эмульгатор: лецитины, ароматизатор",
   "information": [
     {

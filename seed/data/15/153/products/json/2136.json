@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Красный октябрь Алёнка много молока, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.99,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 66.87,
-    "discountPercent": 12,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 32,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.19",
+  "discountPercent": 12,
+  "discountedPrice": "66.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 28,
   "ingredients": "Сахар, сухое цельное молоко, масло какао, какао тертое, эмульгаторы: Е322, Е476, ароматизатор идентичный натуральному «Шоколад». Противопоказано при индивидуальной непереносимо-сти белка молока. Пищевая ценность на 100г продукта, г: белки 8,1; жиры 35,1; углеводы 51,7. Энергетическая ценность: 548 ккал.",
   "information": [
     {

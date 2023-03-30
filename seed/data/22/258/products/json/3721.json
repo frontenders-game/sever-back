@@ -2,11 +2,14 @@
   "name": "Шампунь Clear Vita abe защита от выпадения волос 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 379.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "383.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Zinc Pyrithione, Dimethicone, Sodium Chloride, Parfum, Carbomer, Sodium Hydroxide, DMDM Hydantoin, Citric Acid, Guar Hydroxypropyltrimonium Chloride, TEA-Dodecylbenzenesulfonate, Zinc Sulfate, PPG-9, Poloxamer 407, Laureth-23, Laureth-4, PEG-4, Xanthan Gum, Glycerin, Zinc Gluconate, Panthenol, Sodium Benzoate, Phenoxyethanol, Sodium Polynaphthalenesulfonate, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Climbazole, Methylisothiazolinone, Lysine HCl, Cellulose Gum, Panax Ginseng Root Extract, Pantolactone, Pyridoxine HCl, Sodium Ascorbyl Phosphate, Hydrolyzed Collagen, Maltodextrin, Methylchloroisothiazolinone, Butylphenyl Methylpropional, Hexyl Cinnamal, Linalool.",
   "information": [
     {

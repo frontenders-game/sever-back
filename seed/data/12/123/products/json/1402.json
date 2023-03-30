@@ -2,11 +2,14 @@
   "name": "Груша красная",
   "unitsOfMeasurement": "кг",
   "step": "0.3",
-  "priceRegular": 199.99,
-  "priceWithCard": 187.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "183.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Груша красная.",
   "information": [
     {

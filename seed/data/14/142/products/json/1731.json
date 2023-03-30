@@ -2,11 +2,14 @@
   "name": "Нектар Малышарики Яблочно-вишневый c 5 мес. 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.59,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "27.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 53,
+  "stockCount": 49,
   "ingredients": "сок яблочный осветленный, сахар, сок вишневый осветленный, вода. Изготовлен из концентрированных соков",
   "information": [
     {

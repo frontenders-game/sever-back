@@ -2,11 +2,14 @@
   "name": "Киви",
   "unitsOfMeasurement": "кг",
   "step": "0.3",
-  "priceRegular": 119.99,
-  "priceWithCard": 115.19,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "Киви.",
   "information": [
     {

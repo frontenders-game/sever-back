@@ -2,11 +2,14 @@
   "name": "Сырок творожный А. Ростагрокомплекс в молочном шоколаде с вареной сгущенкой 26% 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.48,
-  "priceWithCard": 58.68,
-  "promo": null,
+  "priceRegular": "64.48",
+  "priceWithCard": "62.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "творог, шоколад молочный (сахар, какао - масло, сухое цельное молоко, какао тертое, эмульгатор: лецитины (соевый лецитин), ароматизатор натуральный: ваниль), сахар, сливочное масло, молоко сгущенное с сахаром вареное (молоко нормализованное, сахар (сахароза))",
   "information": [
     {

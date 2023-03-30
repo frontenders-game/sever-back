@@ -2,16 +2,14 @@
   "name": "Торт Cuisine Royale вафельный с орехами и изюмом 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 172.89,
-  "promo": {
-    "discountedPriceRegular": 150.09,
-    "discountedPriceWithCard": 136.58,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "189.99",
+  "priceWithCard": "184.29",
+  "discountPercent": 21,
+  "discountedPrice": "145.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": null,
   "information": [
     {

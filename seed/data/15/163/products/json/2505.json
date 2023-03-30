@@ -2,11 +2,14 @@
   "name": "Клюква Варенька протертая 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 136.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "143.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "клюква, сахар-песок",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Alpen Gold с фундуком и изюмом 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 48.88,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "55.79",
+  "discountPercent": 16,
+  "discountedPrice": "46.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 50,
+  "stockCount": 46,
   "ingredients": "сахар, изюм, какао тертое, масло какао, сухое цельное молоко, сухая молочная сыворотка, фундук обжаренный дробленный, молочный жир, эмульгаторы (лецитин соевый, Е476), ароматизатор ванилин идентичный натуральному. Содержит фундук, молочные продукты, лецитин соевый. Может содержать следы арахиса, других орехов и пшеницы",
   "information": [
     {

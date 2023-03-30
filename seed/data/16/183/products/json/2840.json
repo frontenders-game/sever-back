@@ -2,16 +2,14 @@
   "name": "Сахар Русский рафинад прессованный 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.19,
-  "priceWithCard": 56.29,
-  "promo": {
-    "discountedPriceRegular": 45.28,
-    "discountedPriceWithCard": 41.65,
-    "discountPercent": 26,
-    "isActive": true
-  },
+  "priceRegular": "61.19",
+  "priceWithCard": "56.29",
+  "discountPercent": 26,
+  "discountedPrice": "41.65",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 49,
+  "stockCount": 45,
   "ingredients": "сахар",
   "information": [
     {

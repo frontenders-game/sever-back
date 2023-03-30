@@ -2,11 +2,14 @@
   "name": "Драже Skittles фрукты 38г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 40.99,
-  "priceWithCard": 39.76,
-  "promo": null,
+  "priceRegular": "40.99",
+  "priceWithCard": "37.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Сахар, глюкозный сироп, жир специального назначения, кислоты: лимонная, яблочная; загустители: крахмал кукурузный, картофельный (е1400, е1422); натуральные и искуственные ароматизаторы, регулятор кислотности е331, глазирователи: е903, е904, жир специального назначения, красители: е120,е100, е171, е160А, е132,е133, е160Е.",
   "information": [
     {

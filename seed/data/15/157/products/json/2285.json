@@ -2,16 +2,14 @@
   "name": "Конфеты Азовская КФ Сливочные, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 103.49,
-  "priceWithCard": 94.18,
-  "promo": {
-    "discountedPriceRegular": 90.04,
-    "discountedPriceWithCard": 81.94,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 25,
+  "priceRegular": "103.49",
+  "priceWithCard": "100.39",
+  "discountPercent": 13,
+  "discountedPrice": "87.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 21,
   "ingredients": "Сахар, молоко цельное сгущенное с сахаром (цельное молоко, обезжиренное молоко, сахар (сахароза, лактоза)), патока, масло сливочное (пастеризованные сливки из коровьего молока), агент влагоудерживающий – сорбитовый сироп, ароматизатор “Ванилин”.",
   "information": [
     {

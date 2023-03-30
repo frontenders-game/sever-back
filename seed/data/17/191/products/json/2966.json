@@ -2,11 +2,14 @@
   "name": "Макароны Зерница Улитки, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.49,
-  "priceWithCard": 45.04,
-  "promo": null,
+  "priceRegular": "49.49",
+  "priceWithCard": "48.50",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Мука из твердой пшеницы для макаронных изделий, вода питьевая. Содержит натуральный белок злаковых культур - глютен.",
   "information": [
     {

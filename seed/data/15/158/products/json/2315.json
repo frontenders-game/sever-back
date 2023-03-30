@@ -2,11 +2,14 @@
   "name": "Карамель Леденцы Мини",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 249.99,
-  "priceWithCard": 227.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "244.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Сахар-песок, патока карамельная, регулятор кислотности - смесь молочной и лимонной кислот, ароматизаторы натуральные: Малина, Яблоко, Лимон, Персик, красители: куркумин, кармин, паприка, антоцианин.",
   "information": [
     {

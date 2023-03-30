@@ -2,11 +2,14 @@
   "name": "Кефир Славянские Кружева 3.2% 175г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 28.19,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "29.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "молоко цельное, молоко обезжиренное, закваска на кефирных грибках",
   "information": [
     {

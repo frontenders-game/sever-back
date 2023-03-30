@@ -2,16 +2,14 @@
   "name": "Крупа Увелка Алтайская гречневая ядрица 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 76.35,
-  "promo": {
-    "discountedPriceRegular": 70.54,
-    "discountedPriceWithCard": 64.9,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "82.99",
+  "priceWithCard": "77.18",
+  "discountPercent": 15,
+  "discountedPrice": "65.60",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "крупа гречневая ядрица",
   "information": [
     {

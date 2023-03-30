@@ -2,11 +2,14 @@
   "name": "Напиток чайный Вкус и Польза Расслабление 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 103.39,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "100.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "листья кипрея ферментированные, лемонграсс, листья смородины, листья земляники, мята, листья брусники, ромашка, лепестки календулы",
   "information": [
     {

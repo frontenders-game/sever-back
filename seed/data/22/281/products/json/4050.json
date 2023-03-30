@@ -2,11 +2,14 @@
   "name": "Лампа накаливания Старт Б Е27 95Вт теплый свет",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "47.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "стекло, металл",
   "information": [
     {

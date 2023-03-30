@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Love is ассорти, 21г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 45.99,
-  "priceWithCard": 43.69,
-  "promo": null,
+  "priceRegular": "45.99",
+  "priceWithCard": "44.61",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Сахар, глюкозный сироп, резиновая основа, регуляторы кислотности: лимонная кислота, яблочная кислота (E330, E296), ароматизатор идентичный натуральному (зеленое яблоко, апельсин, клубника, лимон, вишня, кокос, ананас, банан), эмульгатор лецитин подсолнечный, красители (E141i, E120, E160a), антиокислитель E321.",
   "information": [
     {

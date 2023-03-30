@@ -2,16 +2,14 @@
   "name": "Кофе Jacobs Monarch натуральный растворимый сублимированный, 210г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 799.99,
-  "priceWithCard": 735.99,
-  "promo": {
-    "discountedPriceRegular": 431.99,
-    "discountedPriceWithCard": 397.43,
-    "discountPercent": 46,
-    "isActive": true
-  },
+  "priceRegular": "799.99",
+  "priceWithCard": "759.99",
+  "discountPercent": 46,
+  "discountedPrice": "410.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Кофе натуральный растворимый сублимированный",
   "information": [
     {

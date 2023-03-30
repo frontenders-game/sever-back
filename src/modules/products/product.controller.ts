@@ -6,10 +6,10 @@ import {
     getProductService,
     updateProductService
 } from "./product.service";
-import { UuidParamsRequest } from "../shared/schemas";
+import { UuidParams } from "../shared/schemas";
 
 export async function getProductHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest }>,
+    request: FastifyRequest<{ Params: UuidParams }>,
     reply: FastifyReply
 ) {
     const id = request.params.id
@@ -32,7 +32,7 @@ export async function createProductHandler(
 
 
 export async function updateProductHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest, Body: UpdateProductInput }>,
+    request: FastifyRequest<{ Params: UuidParams, Body: UpdateProductInput }>,
     reply: FastifyReply
 ) {
     const result = await updateProductService(request.params.id, request.body);
@@ -40,7 +40,7 @@ export async function updateProductHandler(
 }
 
 export async function deleteProductHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest }>,
+    request: FastifyRequest<{ Params: UuidParams }>,
     reply: FastifyReply
 ) {
     const id = request.params.id

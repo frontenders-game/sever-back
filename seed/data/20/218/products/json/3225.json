@@ -2,11 +2,14 @@
   "name": "Пюре ФрутоНяня говядина-овощи с 8 месяцев, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 61.1,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "57.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Говядина, картофель, морковь, крупа рисовая, капуста белокочанная, масло растительное, вода питьевая.",
   "information": [
     {

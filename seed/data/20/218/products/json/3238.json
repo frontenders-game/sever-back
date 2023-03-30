@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня из цветной капусты с 4 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.34,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 44.81,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": 16,
+  "discountedPrice": "42.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "цветная капуста, вода питьевая",
   "information": [
     {

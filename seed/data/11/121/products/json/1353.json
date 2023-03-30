@@ -2,11 +2,14 @@
   "name": "Тарталетки Кит для салата 15шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 93.49,
-  "priceWithCard": 91.62,
-  "promo": null,
+  "priceRegular": "93.49",
+  "priceWithCard": "90.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мука пшеничная общего назначения тип М 55-23, мука хлебопекарная ржаная сеяная, масло подсолнечное рафинированное дезодорированное \"Высший сорт\", вода, соль, разрыхлитель (сода пищевая), уксус. Содержит естественный пшеничный  белок - глютен",
   "information": [
     {

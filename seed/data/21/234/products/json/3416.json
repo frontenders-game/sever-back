@@ -2,11 +2,14 @@
   "name": "Колбаса сырокопчёная Останкино Пресижн, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 319.99,
-  "priceWithCard": 303.99,
-  "promo": null,
+  "priceRegular": "319.99",
+  "priceWithCard": "291.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Говядина, шпик, соль, растительный белок, регулятор кислотности Е575, пряности, сахар, антиокислитель изоаскорбат натрия, усилитель вкуса и аромата Е621, красители: рис красный ферментированный, Е120, стартовая культура, фиксатор окраски Е250.",
   "information": [
     {

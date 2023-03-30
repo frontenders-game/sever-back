@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Яблоко, банан, груша с печеньем с 6 месяцев  90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 62.07,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 47.79,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "62.71",
+  "discountPercent": 23,
+  "discountedPrice": "48.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Пюре из яблок, пюре из банана, пюре из груш, вода питьевая, печенье (мука пшеничная, сахар, масло сливочное, яйцо куриное, экстракт солодовый, молоко сухое цельное, крахмал кукурузный, разрыхлитель (карбонаты натрия)), натуральный ароматизатор \"Печенье\".",
   "information": [
     {

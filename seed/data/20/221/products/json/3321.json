@@ -2,11 +2,14 @@
   "name": "Каша Heinz Многозерновая кашка из 5 злаков сухая безмолочная быстрорастворимая 6 месяцев+ 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 175.99,
-  "priceWithCard": 165.43,
-  "promo": null,
+  "priceRegular": "175.99",
+  "priceWithCard": "170.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "мука (рисовая, овсяная, гречневая, пшеничная, кукурузная), волокна пребиотические",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Капуста квашеная Global Village с морковью, 700г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 118.29,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "123.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": null,
   "information": [
     {

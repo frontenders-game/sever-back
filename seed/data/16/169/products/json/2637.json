@@ -2,16 +2,14 @@
   "name": "Напиток кофейный Kruger Ice Coffeе Choco растворимый 200гр",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 104.49,
-  "promo": {
-    "discountedPriceRegular": 76.99,
-    "discountedPriceWithCard": 73.14,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "100.09",
+  "discountPercent": 30,
+  "discountedPrice": "70.06",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 55,
+  "stockCount": 51,
   "ingredients": "сахар, кофе натуральный растворимый, какао-порошок, соль, ароматизатор \"Ванилин\"",
   "information": [
     {

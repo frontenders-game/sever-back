@@ -2,16 +2,14 @@
   "name": "Биотворог Верховье Клубника-земляника 4.2% 140г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.69,
-  "promo": {
-    "discountedPriceRegular": 45.09,
-    "discountedPriceWithCard": 42.39,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.79",
+  "discountPercent": 18,
+  "discountedPrice": "43.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "молоко нормализованное, наполнитель (сахар, клубника, вода, клубничный сок восстановленный, крахмал кукурузный, земляничный сок восстановленный, натуральный ароматизатор клубника, концентрированный сок из черной моркови, натуральные ароматизаторы земляники, концентрированный лимонный сок), закваска молочнокислых микроорганизмов, закваска пробиотическая howaru dophilus",
   "information": [
     {

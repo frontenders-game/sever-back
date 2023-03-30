@@ -2,11 +2,14 @@
   "name": "Кофе Жокей Триумф растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 218.49,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "220.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "кофе растворимый",
   "information": [
     {

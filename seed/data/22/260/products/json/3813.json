@@ -2,16 +2,14 @@
   "name": "Зубная паста Parodontax без фтора 75мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 253.99,
-  "priceWithCard": 236.21,
-  "promo": {
-    "discountedPriceRegular": 193.03,
-    "discountedPriceWithCard": 179.52,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "253.99",
+  "priceWithCard": "238.75",
+  "discountPercent": 24,
+  "discountedPrice": "181.45",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Sodium Bicarbonate, Aqua, Glycerin, Cocamidolpropyl betaine, Alcohol, Krameria Triandra extract, Echinacea purpurea Juice, Xanthan gum, Chamomilla recutita extract, Comiphora myrrha extract, sodium saccharin, Sodium benzoate, Salvia officinalis oil, Mentha piperita oil, Mentha arvensis oil, Limonene, CI 77491.",
   "information": [
     {

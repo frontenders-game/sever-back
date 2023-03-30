@@ -2,16 +2,14 @@
   "name": "Набор конфет M&M's 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 224.99,
-  "priceWithCard": 220.49,
-  "promo": {
-    "discountedPriceRegular": 157.49,
-    "discountedPriceWithCard": 154.34,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "224.99",
+  "priceWithCard": "206.99",
+  "discountPercent": 30,
+  "discountedPrice": "144.89",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "шоколадные батончики Snickers Minis, Milky Way Minis, Драже M&M's с арахисом, печенье Twix Minis",
   "information": [
     {

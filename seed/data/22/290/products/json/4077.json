@@ -2,16 +2,14 @@
   "name": "Подгузники Nishoomi 3M 6-11 кг 52шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1149.0,
-  "priceWithCard": 1114.53,
-  "promo": {
-    "discountedPriceRegular": 907.71,
-    "discountedPriceWithCard": 880.48,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "1149.00",
+  "priceWithCard": "1045.59",
+  "discountPercent": 21,
+  "discountedPrice": "826.02",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": null,
   "information": [
     {

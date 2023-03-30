@@ -2,16 +2,14 @@
   "name": "Бальзам Gliss Kur Жидкий шёлк для непослушных тусклых волос 360мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 331.19,
-  "promo": {
-    "discountedPriceRegular": 280.79,
-    "discountedPriceWithCard": 258.33,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "359.99",
+  "priceWithCard": "349.19",
+  "discountPercent": 22,
+  "discountedPrice": "272.37",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Aqua, Cetearyl Alcohol, Quaternium-87, Dimethicone, Isopropyl Myristate, Prunus Armeniaca Kernel Oil, Hydrolyzed Silk, Sericin, Panthenol, Cocodimonium Hydroxypropyl Hydrolyzed Keratin, Hydrolyzed Keratin, Stearamidopropyl Dimethylamine, Glyceryl Stearate, Distearoylethyl Hydroxyethylmonium Methosulfate, Propylene Glycol, Ceteareth-20, Citric Acid, Phenoxyethanol, Polyquaternium-37, Dimethiconol, Methylparaben, Parfum, Propylene Glycol Dicaprylate/Dicaprate, PPG-1 Trideceth-6, Limonene, Cyclomethicone, Hexyl Cinnamal, Citronellol, Coumarin.",
   "information": [
     {

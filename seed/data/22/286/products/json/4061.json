@@ -2,11 +2,14 @@
   "name": "Газета ТелеСемь",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 52.99,
-  "priceWithCard": 51.4,
-  "promo": null,
+  "priceRegular": "52.99",
+  "priceWithCard": "48.75",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Бумага.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Мыло Ординарное банное, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "Sodium Palmate, Sodium Tallowate, Sodium Palm Kernelate/Sodium Cocoate, Aqua, Parfum,Titanium Dioxide, Terasodium EDTA/Disodium EDTA, Sodium Chloride, Hexyl cinnamal, Butylphenyl methylpropional, Limonene, Linalool.",
   "information": [
     {

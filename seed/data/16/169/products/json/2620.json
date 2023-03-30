@@ -2,16 +2,14 @@
   "name": "Кофе Fresco Arabica Blend растворимый сублимированный 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 459.99,
-  "priceWithCard": 427.79,
-  "promo": {
-    "discountedPriceRegular": 271.39,
-    "discountedPriceWithCard": 252.4,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "459.99",
+  "priceWithCard": "432.39",
+  "discountPercent": 41,
+  "discountedPrice": "255.11",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Кофе растворимый сублимированный.",
   "information": [
     {

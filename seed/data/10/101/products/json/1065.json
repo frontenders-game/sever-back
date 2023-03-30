@@ -2,11 +2,14 @@
   "name": "Десерт творожный Чудо груша-персик 4% 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 47.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "47.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Взбитая творожная основа (творог, сливки, йогурт, сахар, стабилизаторы (E1422, гуаровая камедь, камедь тары, пектин, E1442), желатин), фруктовый наполнитель (вода, фрукты (персик, груша), сахар, глюкозно-фруктозный сироп (G)*, стабилизаторы (Е1442, гуаровая камедь, ксантановая камедь, камедь рожкового дерева), ароматизатор «Персик-Груша», регулятор кислотности - лимонная кислота).",
   "information": [
     {

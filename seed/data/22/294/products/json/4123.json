@@ -2,11 +2,14 @@
   "name": "Альбом Centrum для рисования 40 листов 285х200мм в ассортименте 1шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мелованная бумага",
   "information": [
     {

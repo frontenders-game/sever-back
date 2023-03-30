@@ -2,16 +2,14 @@
   "name": "Яйцо Kinder Сюрприз из молочного шоколада с игрушкой ApplayDu Розовое, 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 389.99,
-  "priceWithCard": 362.69,
-  "promo": {
-    "discountedPriceRegular": 272.99,
-    "discountedPriceWithCard": 253.88,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "389.99",
+  "priceWithCard": "382.19",
+  "discountPercent": 30,
+  "discountedPrice": "267.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Молочный шоколад, (сахар, сухое цельное молоко, масло какао, тертое какао, эмульгатор: лецитины, ароматизатор), сухое обезжиренное молоко, сахар, растительные жиры, молочный жир, эмульгатор: лецитины, ароматизатор.",
   "information": [
     {

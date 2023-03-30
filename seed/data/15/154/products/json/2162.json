@@ -2,16 +2,14 @@
   "name": "Шоколадные батончики Snickers с жареным арахисом, карамелью и нугой 4х40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.71,
-  "priceWithCard": 129.93,
-  "promo": {
-    "discountedPriceRegular": 121.55,
-    "discountedPriceWithCard": 113.04,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "139.71",
+  "priceWithCard": "127.14",
+  "discountPercent": 13,
+  "discountedPrice": "110.61",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, сухое цельное молоко (W) или сухое обезжиренное молоко (R), лактоза, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)); глюкозный сироп (кукурузный, пшеничный), арахис, сахар, масло пальмовое рафинированное дезодорированное, сухое обезжиренное молоко, соль, сухой яичный белок, ароматизатор (ванилин)",
   "information": [
     {

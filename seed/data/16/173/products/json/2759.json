@@ -2,16 +2,14 @@
   "name": "Чай черный Champion pekoe цейлонский 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 206.79,
-  "promo": {
-    "discountedPriceRegular": 140.79,
-    "discountedPriceWithCard": 132.35,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "219.99",
+  "priceWithCard": "206.79",
+  "discountPercent": 36,
+  "discountedPrice": "132.35",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Чай черный байховый среднелистовой цейлонский.",
   "information": [
     {

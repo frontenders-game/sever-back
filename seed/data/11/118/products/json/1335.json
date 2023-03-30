@@ -2,11 +2,14 @@
   "name": "Хлебцы Хлебцы Молодцы Фитнес линия цельнозерновые витамин плюс хрустящие, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 40.49,
-  "priceWithCard": 39.68,
-  "promo": null,
+  "priceRegular": "40.49",
+  "priceWithCard": "39.28",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Целые и специально пророщенные зерна пшеницы, ржаной солод, крупа овсяная, соль поваренная пищевая, эмульгатор натуральный растительный (соевый) лецитин, , витаминно - минеральная добавка Кастомикс Иммунити, пищевая добавка антиокислитель (токоферолы, концентрат смеси).",
   "information": [
     {

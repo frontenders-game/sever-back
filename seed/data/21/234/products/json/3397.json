@@ -2,16 +2,14 @@
   "name": "Колбаса Атяшево Печеночная ливерная, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 51.99,
-  "priceWithCard": 49.39,
-  "promo": {
-    "discountedPriceRegular": 38.99,
-    "discountedPriceWithCard": 37.04,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "51.99",
+  "priceWithCard": "48.87",
+  "discountPercent": 25,
+  "discountedPrice": "36.65",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Печень свиная, головы свиные, вода питьевая, свинина, шкурка свиная, мука ячменная, крупа манная, крахмал картофельный, лук сушеный, соль, экстракты пряностей (чеснок, черный перец, белый перец), регулятор кислотности (ацетат натрия), антиокислитель (изоаскорбат натрия), ароматизаторы. на производстве используются: горчица, злаки, содержащие глютен, сельдерей, кунжут, соя, яйца, молоко и продукты их переработки.",
   "information": [
     {

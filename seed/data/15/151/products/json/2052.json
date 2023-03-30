@@ -2,11 +2,14 @@
   "name": "Рюмки Econta одноразовые 100 мл 6 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 47.99,
-  "priceWithCard": 46.55,
-  "promo": null,
+  "priceRegular": "47.99",
+  "priceWithCard": "45.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Полистирол.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Смесь Салаты с поля руккола, радиччо, фриссе салатная 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "127.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "руккола, радиччо, фриссе",
   "information": [
     {

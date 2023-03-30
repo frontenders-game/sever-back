@@ -2,11 +2,14 @@
   "name": "Вода Ессентуки №4 минеральная лечебно-столовая газированная 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 87.19,
-  "priceWithCard": 81.09,
-  "promo": null,
+  "priceRegular": "87.19",
+  "priceWithCard": "85.45",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "анионы (мг/л): гидрокарбонаты - 3400-4850; сульфаты - 0.5-30; хлориды - 1300-2000; катионы (мг/л): кальций 10-150; магний - 5-65; натрий+калий - 2000-3000. Минерализация, г/л: 7-10",
   "information": [
     {

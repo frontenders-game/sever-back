@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Mentos Pure White Клубника, 15.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.19,
-  "priceWithCard": 31.8,
-  "promo": null,
+  "priceRegular": "34.19",
+  "priceWithCard": "31.45",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Подсластители (E967, E420, E421, E965, E951, E950, E955), основа резиновая, агент влагоудерживающий (E422), регуляторы кислотности (E296, E330), мальтодекстрин, крахмал (рисовый, кукурузный), пищевая добавка (E451i ), ароматизаторы, растительное масло, экстракт белого чая, эмульгаторы (E473, E322), загустители (E466, E415), краситель (E120), глазирователь (E903), антиокислитель (E321), содержат соевый лецитин, содержит источник фенилаланина, содержит подсластители.",
   "information": [
     {

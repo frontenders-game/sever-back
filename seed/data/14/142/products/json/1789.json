@@ -2,11 +2,14 @@
   "name": "Морс ФрутоНяня клюквенно-малиновый для детей с 5 мес. 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.99,
-  "priceWithCard": 36.65,
-  "promo": null,
+  "priceRegular": "38.99",
+  "priceWithCard": "36.26",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Пюре из клюквы, сок из малины, сок из клюквы, сахар, регулятор кислотности – кислота лимонная, вода",
   "information": [
     {

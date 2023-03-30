@@ -2,11 +2,14 @@
   "name": "Нектар Малышарики яблочный осветленный с 4 месяцев 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.89,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "28.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 57,
+  "stockCount": 53,
   "ingredients": "сок яблочный осветленный, сахар, вода питьевая. Изготовлен из концентрированного сока",
   "information": [
     {

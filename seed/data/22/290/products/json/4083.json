@@ -2,11 +2,14 @@
   "name": "Подгузники Pampers New baby dry размер 2 4-8кг 27шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 449.99,
-  "priceWithCard": 422.99,
-  "promo": null,
+  "priceRegular": "449.99",
+  "priceWithCard": "409.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "petrolatum, stearyl alcohol, parrafinum liquidum, aloe barbadensis leaf extract, ci 61565",
   "information": [
     {

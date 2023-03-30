@@ -2,11 +2,14 @@
   "name": "Мицеллярная вода Nivea Смягчающая 3в1 для сухой и чувствительной кожи, 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 379.99,
-  "priceWithCard": 368.59,
-  "promo": null,
+  "priceRegular": "379.99",
+  "priceWithCard": "345.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Aqua, PEG-40 Hydrogenated Castor Oil, Glycerin, Prunus Amygdalus Dulcis Oil, Panthenol, Sorbitol, Decyl Glucoside, Glyceryl Glucoside, Poloxamer 124, Propylene Glycol, Disodium Cocoyl Glutamate, Sodium Chloride, Trisodium EDTA, Polyquaternium-10, 1,2-Hexanediol, Citric Acid, Sodium Acetate, Phenoxyethanol.",
   "information": [
     {

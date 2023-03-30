@@ -2,16 +2,14 @@
   "name": "Сыр творожный Hochland Сливочный 60% 220г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 183.99,
-  "priceWithCard": 178.47,
-  "promo": {
-    "discountedPriceRegular": 130.63,
-    "discountedPriceWithCard": 126.71,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "183.99",
+  "priceWithCard": "169.27",
+  "discountPercent": 29,
+  "discountedPrice": "120.18",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Творог (молоко, cливки, бактериальная закваска молочнокислых микроорганизмов, фермент микробного происхождения), молоко сухое обезжиренное, соль пищевая, комплексная пищевая добавка (стабилизаторы камедь рожкового дерева и гуаровая камедь), регулятор кислотности лимонная кислота, вода питьевая.",
   "information": [
     {

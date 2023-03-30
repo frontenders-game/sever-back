@@ -2,11 +2,14 @@
   "name": "Напиток сокосодержащий Агуша Садовые ягоды 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.49,
-  "priceWithCard": 43.7,
-  "promo": null,
+  "priceRegular": "46.49",
+  "priceWithCard": "42.77",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Виноградный сок, сок из черноплодной рябины, сок из шиповника, клубничный сок, сок из ежевики, вода. Объемная доля сока не менее 40%.",
   "information": [
     {

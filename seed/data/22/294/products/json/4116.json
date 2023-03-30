@@ -2,11 +2,14 @@
   "name": "Набор канцелярский Colorio Kinderline точилка 1шт. и ластик 3шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 101.89,
-  "priceWithCard": 98.83,
-  "promo": null,
+  "priceRegular": "101.89",
+  "priceWithCard": "99.85",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "точилка - АБС пластик, металл; ластик - резина",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Трубочки для молока Ухтышка ягодный микс 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "гранулы растворимые - сахар, декстроза, какао-порошок, крахмал картофельный, регулятор кислотности лимонная кислота, ароматизаторы: клубника, малина, шоколад, дыня, ежевика; красители: кармины, аннато, каротины, экстракт генипы, экстракт красной капусты. Трубочка - полипропилен",
   "information": [
     {

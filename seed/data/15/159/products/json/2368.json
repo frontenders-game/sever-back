@@ -2,11 +2,14 @@
   "name": "Печенье Шарлиз овсяное 5 злаков 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука пшеничная, сахар-песок, хлопья\nовсяные Геркулес , мука овсяная, маргарин,\nарахис жареный, изюм, вода питьевая,\nкунжут, семена льна, ядра подсолнечника,\nразрыхлитель-гидрокарбонат натрия (сода\nпищевая), соль, корица, ароматизатор-ванилин (идентичный натуральному)",
   "information": [
     {

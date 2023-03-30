@@ -2,11 +2,14 @@
   "name": "Маска для волос Кедр Агафьи Восстановление и блеск 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "131.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "aqua with infusions of Ag+ (ионы био серебра), Organic Erythraea Centaurium Extract (органический экстракт семисильника); Cetearyl Alcohol, Cetrimonium Chloride, Pinus Sibirica Seed Oil (масло сибирского кедра), Arctium Lappa Seed Extract (масляный экстракт корня репейника), Lauryl Glucoside, Cetyl Esters, Hydrolyzed Wheat Protein, Guar Hydroxypropyltrimonium Chloride, Benzyl Alcohol, Benzoic Acid, Sorbic Acid, Citric Acid, Parfum",
   "information": [
     {

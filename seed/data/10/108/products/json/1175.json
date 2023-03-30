@@ -2,11 +2,14 @@
   "name": "Сметана Домик в деревне 20% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 83.69,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "83.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Сливки нормализованные, закваска",
   "information": [
     {

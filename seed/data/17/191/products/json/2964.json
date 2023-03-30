@@ -2,11 +2,14 @@
   "name": "Вермишель Federici №96 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 86.44,
-  "promo": null,
+  "priceRegular": "94.99",
+  "priceWithCard": "88.34",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "мука из твердой пшеницы для макаронных изделий высшего сорта, вода питьевая",
   "information": [
     {

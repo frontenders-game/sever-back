@@ -2,11 +2,14 @@
   "name": "Корм влажный Katty с кусочками говядины в соусе для кошек 415г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 63.69,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "63.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": null,
   "information": [
     {

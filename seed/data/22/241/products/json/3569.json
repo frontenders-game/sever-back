@@ -2,16 +2,14 @@
   "name": "Средство дезинфицирующее Harpic Power Plus Original для туалета 700мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 274.99,
-  "priceWithCard": 261.24,
-  "promo": {
-    "discountedPriceRegular": 219.99,
-    "discountedPriceWithCard": 208.99,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "274.99",
+  "priceWithCard": "258.49",
+  "discountPercent": 20,
+  "discountedPrice": "206.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "5% или более, но менее 15%: соляная кислота; менее 5%: амфотерные ПАВ, катионные ПАВ, неионогенные ПАВ, ароматизатор",
   "information": [
     {

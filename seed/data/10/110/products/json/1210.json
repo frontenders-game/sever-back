@@ -2,11 +2,14 @@
   "name": "Майонез Слобода Провансаль 67%, 230мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 59.51,
-  "promo": null,
+  "priceRegular": "63.99",
+  "priceWithCard": "59.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Подсолнечное масло, вода, сахар, яичный желток, соль поваренная, уксус, горчичное масло.",
   "information": [
     {

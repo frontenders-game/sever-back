@@ -2,11 +2,14 @@
   "name": "Жидкое мыло для интимной гигиены Bodyart 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 145.59,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "155.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Coco-Glucoside, Glyceryl Oleate, Decyl Glucoside, Glycerin, Inulin, Alpha-Glucan Oligosaccharide, Lactic Acid, Propylene Glycol, Chamomilla Recutita Flower Extract, Calendula Officinalis Flower Extract, Lavandula Angustifolia Flower Extract, Polyquaternium-7, Parfum, Disodium EDTA, Citric Acid, Benzyl Alcohol, Methylisothiazolinone, Methylchloroisothiazolinone.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Сок Сады Придонья яблоко-черная смородина 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 31.39,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 27.31,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "34.49",
+  "priceWithCard": "32.42",
+  "discountPercent": 13,
+  "discountedPrice": "28.21",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "яблочный сок, сок черной смородины",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Губки Liberhaus хозяйственные для мытья посуды 6шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.99,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "46.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Пенополиуретан, клей, абразивное полотно",
   "information": [
     {

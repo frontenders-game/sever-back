@@ -10,6 +10,7 @@ import { JWT } from '@fastify/jwt'; // fastifyJWT,
 import ajvKeywords from "ajv-keywords";
 import addSchemas from "./utils/server/add-schemas";
 import { normalizeAjvErrors } from "./utils/server/ajv";
+import addCors from "./utils/server/cors";
 
 
 declare module "fastify" {
@@ -64,6 +65,9 @@ export function buildServer() {
     // server.register(fastifyJWT, {secret: env.JWT_SECRET})
     server.register(multipart, {attachFieldsToBody: true})
         .register(fastifyStatic, {root: path.join(__dirname, '../../public/'), prefix: "/public/"})
+
+    //Cors
+    addCors(server)
 
     //Type.Ref schemas
     addSchemas(server)

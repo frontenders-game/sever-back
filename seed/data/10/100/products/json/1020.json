@@ -2,11 +2,14 @@
   "name": "Молоко Домик в деревне 3.2% 925мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.99,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "76.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Молоко нормализованное.",
   "information": [
     {

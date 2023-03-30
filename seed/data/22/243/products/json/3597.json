@@ -2,11 +2,14 @@
   "name": "Средство Econta для мытья посуды 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 57.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "30% и более вода; менее 5% или более, но менее 15%: смесь А-ПАВ и Н-ПАВ, алкилбензосульфокислота, карбамид; мене 5%: гидроксид натрия, хлорид натрия, ЭДТА, глицерин, консервант, CI 19140.",
   "information": [
     {

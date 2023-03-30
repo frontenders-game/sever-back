@@ -2,16 +2,14 @@
   "name": "Антиперспирант-дезодорант Rexona Прозрачный кристалл спрей 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 229.99,
-  "promo": {
-    "discountedPriceRegular": 189.99,
-    "discountedPriceWithCard": 174.79,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "234.99",
+  "discountPercent": 24,
+  "discountedPrice": "178.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Isobutane, Cyclopentasiloxane, Propane, Aluminum Chlorohydrate, PPG-14 Butyl Ether, Butane, Parfum, Disteardimonium Hectorite, Propylene Carbonate, Caprylic/Capric Triglyceride, Gelatin Crosspolymer, Cellulose Gum, Sodium Benzoate, Aqua, Hydrated Silica, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolysed Corn Starch, Silica, BHT, Benzyl Alcohol, Benzyl Benzoate, Benzyl Cinnamate, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Geraniol, Hexyl Cinnamal, Hydroxycitronellal, Limonene, Linalool.",
   "information": [
     {

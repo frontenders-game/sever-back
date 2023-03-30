@@ -2,16 +2,14 @@
   "name": "Печенье Любятово Мария традиционное затяжное, 156г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.99,
-  "priceWithCard": 57.81,
-  "promo": {
-    "discountedPriceRegular": 45.42,
-    "discountedPriceWithCard": 44.51,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "58.99",
+  "priceWithCard": "54.27",
+  "discountPercent": 23,
+  "discountedPrice": "41.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Мука пшеничная, сахар, масло растительное, сироп инвертный [сахар, регуляторы кислотности: молочная кислота, гидрокарбонат натрия], крахмал кукурузный, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия (сода пищевая); соль, эмульгатор: эфиры глицерина и диацетилвинной и жирных кислот, ароматизатор (Ванилин), антиокислитель: пиросульфит натрия, подсластитель натуральный: экстракт стевии.",
   "information": [
     {

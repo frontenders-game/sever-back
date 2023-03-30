@@ -2,11 +2,14 @@
   "name": "Гель Mipao для стирки детского белья 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 349.99,
-  "priceWithCard": 342.99,
-  "promo": null,
+  "priceRegular": "349.99",
+  "priceWithCard": "342.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "менее 5%: АПАВ, амфотерный ПАВ, энзимы, борная кислота, пропиленгликоль, пеногаситель,  комплексообразователь, консервант, оптический отбеливатель, ароматизатор",
   "information": [
     {

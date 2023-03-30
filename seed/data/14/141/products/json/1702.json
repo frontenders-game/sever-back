@@ -2,16 +2,14 @@
   "name": "Вода Святой Источник Светлячок негазированная 5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 96.76,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "139.99",
+  "priceWithCard": "132.99",
+  "discountPercent": 28,
+  "discountedPrice": "95.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "кальций (Ca) 25-80 мг/л, Магний (Mg) 5-20 мг/л, Калий (K) 2-20 мг/л, Гидрокарбонаты (HCO5) 5-250 мг/л, Хлориды (Cl) 15-100 мг/л, Сульфаты (S01) <50 мг/л, Фторид-ион (F) 0,6-1,0 мг/л",
   "information": [
     {

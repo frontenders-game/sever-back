@@ -2,11 +2,14 @@
   "name": "Конфеты Азовская КФ Азовская молочная",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 349.99,
-  "priceWithCard": 332.49,
-  "promo": null,
+  "priceRegular": "349.99",
+  "priceWithCard": "332.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Сахар, молоко цельное сгущенное с сахаром с массовой долей жира 8,5% (цельное молоко, обезжиренное молоко, сахар (сахароза, лактоза)); патока, вода питьевая, масло сливочное (пастеризованные сливки), агент влагоудерживающий - сорбитовый сироп, ароматизатор «Ванилин».",
   "information": [
     {

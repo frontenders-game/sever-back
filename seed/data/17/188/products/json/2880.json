@@ -2,11 +2,14 @@
   "name": "Хлопья овсяные Селяночка №3 быстрого приготовления, 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 47.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "48.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "Хлопья овсяные быстроразваривающиеся",
   "information": [
     {

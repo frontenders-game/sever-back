@@ -2,16 +2,14 @@
   "name": "Семечки От Мартина белые солёные, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 71.99,
-  "priceWithCard": 65.51,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 45.86,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "71.99",
+  "priceWithCard": "68.39",
+  "discountPercent": 30,
+  "discountedPrice": "47.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 84,
+  "stockCount": 80,
   "ingredients": "Семена подсолнечника, поваренная пищевая соль.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Тампоны Tampax Compak super plus, 16шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 379.99,
-  "priceWithCard": 353.39,
-  "promo": null,
+  "priceRegular": "379.99",
+  "priceWithCard": "353.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

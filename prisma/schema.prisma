@@ -100,6 +100,18 @@ model Review {
   @@map("reviews")
 }
 
+model Article {
+  id        String   @id @default(uuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  content   String   @db.VarChar(1024)
+  image     Image?
+  title     String   @db.VarChar(255)
+  rating    Int      @default(0)
+
+  @@map("articles")
+}
+
 model Order {
   id                String   @id @default(uuid())
   createdAt         DateTime @default(now())
@@ -124,38 +136,39 @@ model Favorites {
   userId    String
 
   @@id([productId, userId])
+  @@map("favorites")
 }
 
 model Product {
   id                 String        @id @unique @default(uuid())
   name               String        @unique @db.VarChar(255)
   slug               String        @unique @db.VarChar(255)
-  images             ProducImage[]
+  images             ProductImage[]
   unitsOfMeasurement String        @default("шт.")
   step               Decimal       @default(1.0)
   isNew              Boolean       @default(true)
+  stockCount         Int           @default(0)
   ingredients        String?
-  stockCount         Int
   priceRegular       Decimal
   priceWithCard      Decimal
-  promo              Promo?
+  discountedPrice    Decimal?
+  discountPercent    Decimal?
+  discountIsActive   Boolean       @default(false)
+  discountExpiresAt  DateTime?
   information        Information[]
   favoredByUsers     Favorites[]
   cartItem           CartItem[]
   orders             Order[]
-  reviewsCount       Int           @default(0)
-  averageRating      Int           @default(0)
   reviews            Review[]
-  subcategory        Subcategory   @relation(fields: [subcategoryId], references: [id])
-  subcategoryId      String
   category           Category      @relation(fields: [categoryId], references: [id])
   categoryId         String
+  subcategoryId      String
 
-  @@index([subcategoryId, categoryId])
+  @@index([id, subcategoryId])
   @@map("products")
 }
 
-model ProducImage {
+model ProductImage {
   id        String   @id @default(uuid())
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -169,27 +182,12 @@ model ProducImage {
   @@map("product_images")
 }
 
-model Promo {
-  id                      String    @id @default(uuid())
-  createdAt               DateTime  @default(now())
-  updatedAt               DateTime  @updatedAt
-  discountedPriceRegular  Decimal
-  discountedPriceWithCard Decimal
-  discountPercent         Decimal
-  isActive                Boolean   @default(true)
-  expiresAt               DateTime?
-  product                 Product   @relation(fields: [productId], references: [id])
-  productId               String    @unique
-
-  @@map("promos")
-}
-
 model Information {
   id                 String  @id @default(uuid())
   value              String
   unitsOfMeasurement String?
   name               String
-  order              Int
+  order              Int     @default(autoincrement())
   isNutrient         Boolean
   nutrientName       String?
   product            Product @relation(fields: [productId], references: [id])
@@ -198,30 +196,33 @@ model Information {
   @@map("information")
 }
 
-model Category {
-  id                 String        @id @unique @default(uuid())
-  name               String        @unique @db.VarChar(255)
-  slug               String        @unique @db.VarChar(255)
-  image              String?
-  description        String?
-  subcategoriesCount Int           @default(0)
-  subcategories      Subcategory[]
-  products           Product[]
-  productsCount      Int           @default(0)
+model Image {
+  id         String    @id @unique @default(uuid())
+  createdAt  DateTime  @default(now())
+  updatedAt  DateTime  @updatedAt
+  url        String
+  category   Category? @relation(fields: [categoryId], references: [id])
+  categoryId String?   @unique
+  article    Article?  @relation(fields: [articleId], references: [id])
+  articleId  String?   @unique
 
-  @@map("categories")
+  @@map("images")
 }
 
-model Subcategory {
-  id            String    @id @unique @default(uuid())
-  name          String    @unique @db.VarChar(255)
-  slug          String    @unique @db.VarChar(255)
-  image         String?
-  description   String?
-  productsCount Int       @default(0)
-  products      Product[]
-  category      Category  @relation(fields: [categoryId], references: [id])
-  categoryId    String
+model Category {
+  id               String     @id @unique @default(uuid())
+  createdAt        DateTime   @default(now())
+  updatedAt        DateTime   @updatedAt
+  order            Int        @default(autoincrement())
+  name             String     @unique @db.VarChar(255)
+  slug             String     @unique @db.VarChar(255)
+  description      String?
+  image            Image?
+  parentCategoryId String?
+  parentCategory   Category?  @relation(name: "CategorySubcategory", fields: [parentCategoryId], references: [id])
+  subcategories    Category[] @relation(name: "CategorySubcategory")
+  products         Product[]
 
-  @@map("subcategories")
+  @@index([id, slug])
+  @@map("categories")
 }

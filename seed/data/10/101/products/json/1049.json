@@ -2,11 +2,14 @@
   "name": "Творожок Даниссимо черника 5.5% 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "творог обезжиренный, сливки, обезжиренное молоко, сахар, наполнитель (сахарный сироп; черника; загустители – Е1442, гуаровая камедь; регуляторы кислотности – цитраты натрия, лимонная кислота; ароматизатор). \nМожет содержать следы глютена, соевого лецитина, яйца куриного, грецкого ореха, фисташки.",
   "information": [
     {

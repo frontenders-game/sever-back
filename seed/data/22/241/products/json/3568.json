@@ -2,16 +2,14 @@
   "name": "Средство чистящее Sanfor Белизна 3в1 многофункциональное, 700г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 92.73,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "134.39",
+  "discountPercent": 28,
+  "discountedPrice": "96.76",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "≥5%, но < 15% гипохлорит натрия, < 5%: АПАВ или мыло на основе натуральных жирных кислот, НПАВ, щелочь, ароматизатор.",
   "information": [
     {

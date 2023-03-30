@@ -2,16 +2,14 @@
   "name": "Мыло жидкое Palmolive нейтрализующее запах с экстрактом лайма, 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 218.39,
-  "promo": {
-    "discountedPriceRegular": 170.39,
-    "discountedPriceWithCard": 155.06,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "239.99",
+  "priceWithCard": "225.59",
+  "discountPercent": 29,
+  "discountedPrice": "160.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Aqua, Sodium C12-13, Pareth Sulfate(*A) /Sodium Laureth Sulfate(*B), Cocamidopropyl Betaine, Lactic Acid, Sodium Cloride, Cocamide MEA, Parfum, Sodium Salicylate, Sodium Benzoate, Sodium Hydroxide, Tetrasodium EDTA, Citric Acid, Benzophenone-4, Citrus Aurantifolia Juice, Cl 47005, Cl 42090.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Гречка Селяночка ядрица быстроразваривающаяся, 5х80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.39,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Крупа гречневая, ядрица быстроразваривающаяся высший сорт.",
   "information": [
     {

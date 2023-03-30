@@ -2,11 +2,14 @@
   "name": "Филе куриное охлажденное",
   "unitsOfMeasurement": "кг",
   "step": "0.95",
-  "priceRegular": 245.99,
-  "priceWithCard": 223.85,
-  "promo": null,
+  "priceRegular": "245.99",
+  "priceWithCard": "241.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Куриное филе",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Curtis Blue Berries Blues черный в пирамидках 20х1.8г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 132.99,
-  "promo": {
-    "discountedPriceRegular": 85.39,
-    "discountedPriceWithCard": 81.12,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "128.79",
+  "discountPercent": 39,
+  "discountedPrice": "78.56",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "черный листовой чай, ароматизатор черная смородина, крыжовник и слива, кусочки черной смородины, кусочки ежевики, кусочки черники, лепестки цветов василька",
   "information": [
     {

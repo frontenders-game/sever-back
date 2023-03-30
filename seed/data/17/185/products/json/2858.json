@@ -2,16 +2,14 @@
   "name": "Рис Агроальянс Экстра Элитный длиннозерный 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 112.79,
-  "promo": {
-    "discountedPriceRegular": 89.99,
-    "discountedPriceWithCard": 84.59,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 23,
+  "priceRegular": "119.99",
+  "priceWithCard": "110.39",
+  "discountPercent": 25,
+  "discountedPrice": "82.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 19,
   "ingredients": null,
   "information": [
     {

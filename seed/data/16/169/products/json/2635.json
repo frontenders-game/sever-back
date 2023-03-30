@@ -2,16 +2,14 @@
   "name": "Кофе Жокей Фаворит растворимый гранулированный 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 345.59,
-  "promo": {
-    "discountedPriceRegular": 241.19,
-    "discountedPriceWithCard": 231.55,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "359.99",
+  "priceWithCard": "334.79",
+  "discountPercent": 33,
+  "discountedPrice": "224.31",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "кофе растворимый",
   "information": [
     {

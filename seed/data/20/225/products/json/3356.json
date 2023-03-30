@@ -2,16 +2,14 @@
   "name": "Палочки кукурузные ФрутоНяня с яблоком и клубникой 20г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 56.99,
-  "priceWithCard": 55.28,
-  "promo": {
-    "discountedPriceRegular": 40.46,
-    "discountedPriceWithCard": 39.25,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 17,
+  "priceRegular": "56.99",
+  "priceWithCard": "55.28",
+  "discountPercent": 29,
+  "discountedPrice": "39.25",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 13,
   "ingredients": "Крупа кукурузная, сок яблочный концентрированный, сухой порошок клубники",
   "information": [
     {

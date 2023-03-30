@@ -2,11 +2,14 @@
   "name": "Сливки Станция Молочная стерилизованные 20% 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 147.19,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "148.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "сливки нормализованные.",
   "information": [
     {

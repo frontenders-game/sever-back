@@ -2,11 +2,14 @@
   "name": "Гель для рук Tolli Plus Антибактериальный эффект 60мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.59,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "спирт изопропиловый (56% об.), вода, спирт пропиловый (13% об.), глицерин, пропиленгликоль, парфюмерная композиция, карбомер, гель Алоэ Вера, аминометилпропилен, ментол",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Вода Нарзан минеральная газированная 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.49,
-  "priceWithCard": 65.32,
-  "promo": null,
+  "priceRegular": "69.49",
+  "priceWithCard": "66.02",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "гидрокарбонаты НСО3: 1000 – 1700; сульфаты SO4: 250 – 500; хлориды Cl: 50 - 200 кальций Ca: 200 – 500; магний Mg: 50 – 150; натрий+калий Na++K+: 50 – 250. Общая минерализация г/л: 2.0-3.5",
   "information": [
     {

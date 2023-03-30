@@ -2,16 +2,14 @@
   "name": "Средство для мытья посуды Fairy Нежные руки чайное дерево и мята, 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 144.99,
-  "priceWithCard": 139.19,
-  "promo": {
-    "discountedPriceRegular": 100.04,
-    "discountedPriceWithCard": 96.04,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "144.99",
+  "priceWithCard": "142.09",
+  "discountPercent": 31,
+  "discountedPrice": "98.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 44,
+  "stockCount": 40,
   "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Консерванты, Ароматизирующие Добавки, Гераниол.",
   "information": [
     {

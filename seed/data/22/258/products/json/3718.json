@@ -2,11 +2,14 @@
   "name": "Крем-краска Palette Стойкая WN3 Золотистый кофе 110мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 197.99,
-  "priceWithCard": 194.03,
-  "promo": null,
+  "priceRegular": "197.99",
+  "priceWithCard": "184.13",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "окрашивающий крем: Aqua, Cetearyl Alcohol, Ammonium Hydroxide, Glyceryl Stearate, Toluene-2,5-Diamine Sulfate, Ceteareth-20, Octyldodecanol, Ethanolamine, Sodium Laureth Sulfate, Resorcinol, Sodium Cetearyl Sulfate, Parfum, Oleic Acid, Silica, Potassium Stearate, Glycerin, \nSodium Sulfite, 2-Amino-3-Hydroxypyridine, Tetrasodium EDTA, Carbomer, m-Aminophenol, 2-Methyl resorcinol, Potassium Hydroxide, Serine, Ascorbic Acid, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Propylene Glycol, Sodium Sulfate\nПроявляющая эмульсия: Aqua, Hydrogen Peroxide, Cetearyl Alcohol, Propylene Glycol, Ceteareth-20, Steartrimonium Chloride, Paraffinum Liquidum, Etidronic Acid, 2,6-Dicarboxypyridine, Disodium Pyrophosphate, Potassium Hydroxide, Isopropyl Alcohol, Sodium Benzoate\nокрашивающий крем: aqua, cetearyl alcohol, ammonium hydroxide, glyceryl stearate, toluene-2,5-diamine sulfate, ceteareth-20, octyldodecanol, ethanolamine, sodium laureth sulfate, resorcinol, sodium cetearyl sulfate, parfum, oleic acid, silica, potassium stearate, glycerin, \nsodium sulfite, 2-amino-3-hydroxypyridine, tetrasodium edta, carbomer, m-aminophenol, 2-methyl resorcinol, potassium hydroxide, serine, ascorbic acid, linoleamidopropyl pg-dimonium chloride phosphate, propylene glycol, sodium sulfate\nпроявляющая эмульсия: aqua, hydrogen peroxide, cetearyl alcohol, propylene glycol, ceteareth-20, steartrimonium chloride, paraffinum liquidum, etidronic acid, 2,6-dicarboxypyridine, disodium pyrophosphate, potassium hydroxide, isopropyl alcohol, sodium benzoate\nмаска-уход: aqua, cetearyl alcohol, quaternium-87, hydrolyzed keratin, panthenol, prunus armeniaca kernel oil, niacinamide,  stearamidopropyl dimethylamine, ceteareth-20, propylene glycol, isopropyl myristate, distearoylethyl hydroxyethylmonium methosulfate, citric acid, phenoxyethanol, parfum, glyceryl stearate, sodium methylparaben, hexyl cinnamal, butylphenyl methylpropional, benzyl salicylate, linalool, benzyl alcohol, limonene",
   "information": [
     {

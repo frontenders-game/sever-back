@@ -2,16 +2,14 @@
   "name": "Крупа Селяночка кукурузная шлифованная 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 51.74,
-  "priceWithCard": 48.64,
-  "promo": {
-    "discountedPriceRegular": 45.01,
-    "discountedPriceWithCard": 42.32,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "51.74",
+  "priceWithCard": "48.64",
+  "discountPercent": 13,
+  "discountedPrice": "42.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Однокомпонентный продукт",
   "information": [
     {

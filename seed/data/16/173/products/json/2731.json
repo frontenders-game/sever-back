@@ -2,11 +2,14 @@
   "name": "Чай Greenfield Золотой цейлон черный цейлонский листовой 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 349.99,
-  "priceWithCard": 335.99,
-  "promo": null,
+  "priceRegular": "349.99",
+  "priceWithCard": "318.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "крупнолистовой цейлонский чай",
   "information": [
     {

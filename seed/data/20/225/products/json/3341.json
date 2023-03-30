@@ -2,16 +2,14 @@
   "name": "Палочки кукурузные ФрутоНяня яблоко-банан с 12 мес. 20г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 56.99,
-  "priceWithCard": 54.71,
-  "promo": {
-    "discountedPriceRegular": 40.46,
-    "discountedPriceWithCard": 38.84,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "56.99",
+  "priceWithCard": "54.71",
+  "discountPercent": 29,
+  "discountedPrice": "38.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "крупа кукурузная, сок яблочный концентрированный, сухой порошок банана",
   "information": [
     {

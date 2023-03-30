@@ -2,16 +2,14 @@
   "name": "Сок Сады Придонья яблочно-персиковый с мякотью 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 33.46,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 29.11,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "34.49",
+  "priceWithCard": "31.73",
+  "discountPercent": 13,
+  "discountedPrice": "27.61",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "Яблочный сок, персиковое пюре.",
   "information": [
     {

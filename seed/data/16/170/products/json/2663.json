@@ -2,16 +2,14 @@
   "name": "Кофе Le Select Espresso Crema натуральный молотый 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 230.39,
-  "promo": {
-    "discountedPriceRegular": 201.59,
-    "discountedPriceWithCard": 193.53,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "239.99",
+  "priceWithCard": "227.99",
+  "discountPercent": 16,
+  "discountedPrice": "191.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "кофе натуральный молотый",
   "information": [
     {

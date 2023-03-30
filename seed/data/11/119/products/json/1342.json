@@ -2,11 +2,14 @@
   "name": "Сушки Петрохлеб Малышок простые 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 81.49,
-  "priceWithCard": 79.86,
-  "promo": null,
+  "priceRegular": "81.49",
+  "priceWithCard": "75.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Мука пшеничная хлебопекарная высший сорт, вода питьевая, жир специального назначения (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде (пальмовое масло и его фракции, подсолнечное масло), эмульгатор Е322, антиокислители Е320 и Е321, сахар белый, соль поваренная пищевая, дрожжи хлебопекарные прессованные",
   "information": [
     {

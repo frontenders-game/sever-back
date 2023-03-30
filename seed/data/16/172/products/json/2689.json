@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах Caffe Tiziano Bonini Cappuccino жареный молотый 16 шт. 164г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 469.99,
-  "priceWithCard": 451.19,
-  "promo": null,
+  "priceRegular": "469.99",
+  "priceWithCard": "432.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "капсула с кофе: кофе натуральный, 50% арабика, 50% робуста. Капсула с молоком: сухая основа(сироп глюкозы негидрогенизированное кокосовое масло, стабилизаторы: Е340, Е452; молочный белок, противослеживающий агент Е551; эмульгатор: Е472е; краситель: Е160а) Обезжиренное сухое молоко(24%), сухая сыворотка, сахар, декстроза, сывороточный протеин, агент против слеживания: Е551; соль",
   "information": [
     {

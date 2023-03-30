@@ -2,11 +2,14 @@
   "name": "Биотворог ФрутоНяня малина с 6 мес. 4.2% 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 32.99,
-  "priceWithCard": 31.34,
-  "promo": null,
+  "priceRegular": "32.99",
+  "priceWithCard": "30.35",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Молоко нормализованное, фруктовый наполнитель Малина (сахар, вода, пюре малиновое концентрированное, загустители: крахмал кукурузный, пектин, сок черной моркови концентрированный, натуральный ароматизатор Малина , сок лимонный концентрированный), закваска молочнокислых культур, пробиотическая культура – бифидобактерии (BB-12™), витамин D₃.",
   "information": [
     {

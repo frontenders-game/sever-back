@@ -2,16 +2,14 @@
   "name": "Шоколад тёмный Бабаевский с целым миндалем 55%, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": {
-    "discountedPriceRegular": 69.99,
-    "discountedPriceWithCard": 67.89,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": 30,
+  "discountedPrice": "63.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Какао тёртое, сахар, ядро ореха миндаля целое, масло какао, жир молочный, эмульгаторы: лицитин соевый, E476; спирт этиловый ректификованный, чай, вода питьевая, ароматизатор «Ваниль». Возможно наличие незначительных количеств арахиса, орехов: фундука и кешью, молочных продуктов, изюма и апельсиновых кусочков.",
   "information": [
     {

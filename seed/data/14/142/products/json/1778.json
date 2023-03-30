@@ -2,16 +2,14 @@
   "name": "Сок Honey kid яблочно-вишневый восстановленный осветлённый 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 27.99,
-  "priceWithCard": 27.15,
-  "promo": {
-    "discountedPriceRegular": 20.15,
-    "discountedPriceWithCard": 19.55,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "27.99",
+  "priceWithCard": "25.47",
+  "discountPercent": 28,
+  "discountedPrice": "18.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Яблочный сок, вишневый сок.",
   "information": [
     {

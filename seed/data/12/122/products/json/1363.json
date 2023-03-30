@@ -2,16 +2,14 @@
   "name": "Огурец Global Village среднеплодный гладкий 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 126.49,
-  "priceWithCard": 115.11,
-  "promo": {
-    "discountedPriceRegular": 110.05,
-    "discountedPriceWithCard": 100.15,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "126.49",
+  "priceWithCard": "121.43",
+  "discountPercent": 13,
+  "discountedPrice": "105.64",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "огурец свежий.",
   "information": [
     {

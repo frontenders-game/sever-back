@@ -2,16 +2,14 @@
   "name": "Каша ФрутоНяня овсяная с молоком яблоко-банан с 6 мес. 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 153.99,
-  "priceWithCard": 146.29,
-  "promo": {
-    "discountedPriceRegular": 130.89,
-    "discountedPriceWithCard": 124.35,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "153.99",
+  "priceWithCard": "149.37",
+  "discountPercent": 15,
+  "discountedPrice": "126.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Молоко сухое цельное, мука овсяная, сахар, пюре банановое, пюре яблочное концентрированное, витамины (C, E, PP, пантотеновая кислота, B2, B1, B6, A, фолиевая кислота, D3, биотин, B12), минеральные вещества(железо, цинк, йод).",
   "information": [
     {

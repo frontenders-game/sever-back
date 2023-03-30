@@ -2,11 +2,14 @@
   "name": "Хлебцы рисовые Агуша груша с 12 месяцев 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Крупа рисовая шлифованная (рис круглозерный), концентрированный грушевый сок, пюре грушевое, ароматизатор натуральный «Груша».",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Напиток Липецкая росинка Вишня газированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.79,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "вода минеральная природная столовая питьевая, сахар (S)* или глюкозно-фруктозный сироп и сахар (G)* или глюкозно-фруктозный сироп (F)*, концентрированный яблочный сок, концентрированный вишневый сок,регулятор кислотности – лимонная кислота, ароматизатор натуральный",
   "information": [
     {

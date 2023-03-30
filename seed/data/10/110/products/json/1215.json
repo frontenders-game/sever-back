@@ -2,16 +2,14 @@
   "name": "Майонез Ряба Провансаль 67% 744г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 178.99,
-  "priceWithCard": 175.41,
-  "promo": {
-    "discountedPriceRegular": 161.09,
-    "discountedPriceWithCard": 157.87,
-    "discountPercent": 10,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 18,
+  "priceRegular": "178.99",
+  "priceWithCard": "164.67",
+  "discountPercent": 10,
+  "discountedPrice": "148.20",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 14,
   "ingredients": "Масло подсолнечное, вода, сахар, яичные продукты, соль, уксус, эфирное горчичное масло, натуральный бета-каротин (провитамин А).",
   "information": [
     {

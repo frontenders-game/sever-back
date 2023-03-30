@@ -2,16 +2,14 @@
   "name": "Конфеты Fruittella жевательные со вкусом клубничного йогурта 41г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": {
-    "discountedPriceRegular": 40.19,
-    "discountedPriceWithCard": 37.38,
-    "discountPercent": 33,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 42,
+  "priceRegular": "59.99",
+  "priceWithCard": "57.59",
+  "discountPercent": 33,
+  "discountedPrice": "38.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 38,
   "ingredients": "Глюкозный сироп (из пшеницы), сахар, гидрогенизированное растительное масло, клубничный сок (3%), регулятор кислотности (лимонная кислота), желатин, рисовый крахмал, загустители (гуммиарабик, декстрины), натуральные ароматизаторы, концентрированные соки (бузина, черная морковь).",
   "information": [
     {

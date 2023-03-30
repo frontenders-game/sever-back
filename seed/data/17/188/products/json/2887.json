@@ -2,11 +2,14 @@
   "name": "Хлопья овсяные Ясно Солнышко №2, 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 78.84,
-  "promo": null,
+  "priceRegular": "82.99",
+  "priceWithCard": "75.52",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Хлопья овсяные.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Томат сливовидный Global Village, 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 209.99,
-  "priceWithCard": 203.69,
-  "promo": null,
+  "priceRegular": "209.99",
+  "priceWithCard": "195.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Томат сливовидный",
   "information": [
     {

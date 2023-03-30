@@ -2,16 +2,14 @@
   "name": "Капсулы для стирки Mipao для белого и цветного белья концентрированные 15шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 334.79,
-  "promo": {
-    "discountedPriceRegular": 230.39,
-    "discountedPriceWithCard": 214.27,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "359.99",
+  "priceWithCard": "331.19",
+  "discountPercent": 36,
+  "discountedPrice": "211.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "ПАВ 30% и более, энзимы 15% и более, средство для смягчения воды 15% и более, средство против повторного осаждения пятен 5-15%, ароматизатор.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Чай Принцесса Гита черный 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 117.59,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "109.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "черный байховый индийский чай",
   "information": [
     {

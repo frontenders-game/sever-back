@@ -2,11 +2,14 @@
   "name": "Грудинка свиная Великолукский МК сырокопченая категория Б нарезка охлажденная 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 189.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "191.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "свинина (грудорёберная часть), натуральные пряности (кориандр, ягоды можжевельника, перец чёрный), соль, стабилизатор (Е 450i), сахар, антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

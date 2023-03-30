@@ -2,11 +2,14 @@
   "name": "Крем Пискаревский сливочный с ванилином 15% 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Сливки, сахар, молоко сухое обезжиренное, с использованием закваски, стабилизаторы консистенции (молочный белок, желатин, пектин, гуаровая камедь), ароматизатор.",
   "information": [
     {

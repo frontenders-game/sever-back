@@ -2,11 +2,14 @@
   "name": "Лук репчатый",
   "unitsOfMeasurement": "кг",
   "step": "1.0",
-  "priceRegular": 48.49,
-  "priceWithCard": 45.58,
-  "promo": null,
+  "priceRegular": "48.49",
+  "priceWithCard": "45.10",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 113,
+  "stockCount": 109,
   "ingredients": "Лук.",
   "information": [
     {

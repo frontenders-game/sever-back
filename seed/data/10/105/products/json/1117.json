@@ -2,11 +2,14 @@
   "name": "Масло Из Вологды Бутербродное сливочное 61.5% 160г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 125.54,
-  "promo": null,
+  "priceRegular": "134.99",
+  "priceWithCard": "122.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "сливки пастеризованные",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Фисташки неочищенные обжаренные подсоленные",
   "unitsOfMeasurement": "кг",
   "step": "0.3",
-  "priceRegular": 1299.99,
-  "priceWithCard": 1234.99,
-  "promo": null,
+  "priceRegular": "1299.99",
+  "priceWithCard": "1195.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Орехи фисташковые неочищенные обжаренные подсолёные.",
   "information": [
     {

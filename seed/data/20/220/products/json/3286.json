@@ -2,11 +2,14 @@
   "name": "Коктейль ФрутоНяня малина с 12 месяцев 2.1% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 45.99,
-  "priceWithCard": 42.77,
-  "promo": null,
+  "priceRegular": "45.99",
+  "priceWithCard": "44.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Молоко нормализованное, сахар, пюре малиновое, ароматизатор натуральный “Малина”",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кефир Сарафаново детский 1.5%, 930г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Нормализованное молоко, закваска на кефирных грибах.",
   "information": [
     {

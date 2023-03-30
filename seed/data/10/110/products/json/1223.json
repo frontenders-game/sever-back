@@ -2,16 +2,14 @@
   "name": "Соус Heinz сырный 230мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 109.19,
-  "promo": {
-    "discountedPriceRegular": 85.19,
-    "discountedPriceWithCard": 77.52,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "113.99",
+  "discountPercent": 29,
+  "discountedPrice": "80.93",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "масло растительное, вода, сыворотка молочная сухая, сахар, уксус натуральный, соль, сыр, сливки сухие, загуститель крахмал кукурузный, камедь ксантановая, ароматизаторы натуральные, регулятор кислотности кислота молочная, красители (экстракт паприки, куркумин), экстракт зеленого чая",
   "information": [
     {

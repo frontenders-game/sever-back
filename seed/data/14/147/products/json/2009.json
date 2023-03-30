@@ -2,11 +2,14 @@
   "name": "Напиток пивной Балтика №0 Пшеничный нефильтрованный безалкогольный 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "48.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "вода питьевая очищенная, солод ячменный светлый, ячмень пивоваренный, солод пшеничный, солодовый экстракт, комплексная пищевая добавка «Спайс» (ароматизаторы, регуляторы кислотности, лимонная кислота, молочная кислота, антиокислители: аскорбиновая кислота, альфа-токоферол), хмелепродукты",
   "information": [
     {

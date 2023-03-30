@@ -2,11 +2,14 @@
   "name": "Нектар Мой вишневый осветленный 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 18.39,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "19.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "вишнёвый сок, сахар, регулятор кислотности лимонная кислота, вода",
   "information": [
     {

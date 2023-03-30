@@ -2,16 +2,14 @@
   "name": "Средство Calgon 3в1 для смягчения воды и предотвращения образования известкового налёта, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 312.99,
-  "priceWithCard": 294.21,
-  "promo": {
-    "discountedPriceRegular": 187.79,
-    "discountedPriceWithCard": 176.53,
-    "discountPercent": 40,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 12,
+  "priceRegular": "312.99",
+  "priceWithCard": "291.08",
+  "discountPercent": 40,
+  "discountedPrice": "174.65",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 8,
   "ingredients": "30% и более: цеолиты; менее 5%: поликарбоксилаты, неионогенные ПАВ.",
   "information": [
     {

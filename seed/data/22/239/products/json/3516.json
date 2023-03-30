@@ -2,16 +2,14 @@
   "name": "Порошок стиральный Ariel Color automat 3кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.99,
-  "priceWithCard": 587.99,
-  "promo": {
-    "discountedPriceRegular": 449.99,
-    "discountedPriceWithCard": 440.99,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 15,
+  "priceRegular": "599.99",
+  "priceWithCard": "563.99",
+  "discountPercent": 25,
+  "discountedPrice": "422.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 11,
   "ingredients": "5-15% анионные пав, <5% неионогенные пав, фосфонаты, поликарбоксилаты, цеолиты, энзимы, ароматизирующие добавки",
   "information": [
     {

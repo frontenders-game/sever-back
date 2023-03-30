@@ -2,16 +2,14 @@
   "name": "Сок Soko grande яблочный восстановленный осветленный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 115.19,
-  "promo": {
-    "discountedPriceRegular": 89.99,
-    "discountedPriceWithCard": 86.39,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "115.19",
+  "discountPercent": 25,
+  "discountedPrice": "86.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Изготовлен из концентрированного фруктового сока",
   "information": [
     {

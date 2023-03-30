@@ -2,16 +2,14 @@
   "name": "Напиток кисломолочный Actimel Ягодный микс обогащенный цинком 1.5% 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 35.24,
-  "promo": {
-    "discountedPriceRegular": 29.24,
-    "discountedPriceWithCard": 27.49,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "37.49",
+  "priceWithCard": "35.24",
+  "discountPercent": 22,
+  "discountedPrice": "27.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (вода; сахар; стабилизатор – Е1442; ароматизаторы натуральные; пюре земляники; конц. яблочный сок; пюре малины; регуляторы кислотности – лимонная кислота;  витамин С;  конц. соки клюквы, черной моркови и клубники; пюре черники, морошки, ежевики, черной смородины,  глюконат цинка (цинк)), молоко сухое обезжиренное, глюкоза, витамин B6, витамин D3, йогуртовая закваска, лактобактерии L. CASEI IMUNITASS",
   "information": [
     {

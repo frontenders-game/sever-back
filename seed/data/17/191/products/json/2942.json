@@ -2,11 +2,14 @@
   "name": "Макароны Шебекинские №400 Бабочки 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "57.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "мука из твердых сортов пшеницы, вода питьевая.",
   "information": [
     {

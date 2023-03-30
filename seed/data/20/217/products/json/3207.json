@@ -2,11 +2,14 @@
   "name": "Пюре Сады Придонья яблоко c 4 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.19,
-  "priceWithCard": 32.02,
-  "promo": null,
+  "priceRegular": "35.19",
+  "priceWithCard": "34.13",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "яблочное пюре",
   "information": [
     {

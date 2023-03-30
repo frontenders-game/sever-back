@@ -2,11 +2,14 @@
   "name": "Зубная паста Colgate Доктор Заяц детская со вкусом клубники 50мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 117.99,
-  "priceWithCard": 115.63,
-  "promo": null,
+  "priceRegular": "117.99",
+  "priceWithCard": "115.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "sorbitol, aqua, hydrated silica, peg-12, sodium lauryl sulfate, cellulose gum, tetrasodium pyrophosphate, aroma, sodium saccharin, benzyl alcohol, sodium fluoride, ci 16035, ci 17200",
   "information": [
     {

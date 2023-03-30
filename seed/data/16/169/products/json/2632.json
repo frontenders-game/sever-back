@@ -2,11 +2,14 @@
   "name": "Кофе Tchibo Gold Selection растворимый 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 241.79,
-  "promo": null,
+  "priceRegular": "259.99",
+  "priceWithCard": "236.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Кофе натуральный растворимый сублимированный.",
   "information": [
     {

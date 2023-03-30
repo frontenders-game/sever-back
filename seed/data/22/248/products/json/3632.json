@@ -2,11 +2,14 @@
   "name": "Гель чистящий Glorix Med Ультра гигиена универсальный, 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 145.59,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "145.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "<5% гипохлорит натрия, <5% анионные ПАВ, <5% неионогенные ПАВ, <5% мыло, <5% отдушка, <5% экстракт эвкалипта, <5% эфирное масло эвкалипта.",
   "information": [
     {

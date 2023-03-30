@@ -2,11 +2,14 @@
   "name": "Шоколад молочный Milka с цельным миндалем 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 83.69,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "81.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "сахар, миндаль обжаренный цельный, масло какао, какао тертое, молоко сухое цельное, сыворотка сухая молочная, молоко сухое обезжиренное, жир молочный, эмульгаторы (лецитин соевый, Е476), паста ореховая (фундук), ароматизатор. может содержать следы других орехов",
   "information": [
     {

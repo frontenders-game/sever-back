@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Milka 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": {
-    "discountedPriceRegular": 80.09,
-    "discountedPriceWithCard": 73.68,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "89.99",
+  "priceWithCard": "84.59",
+  "discountPercent": 11,
+  "discountedPrice": "75.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "сахар, масло какао, какао тертое, молоко сухое цельное, сыворотка сухая молочная, молоко сухое обезжиренное, жир молочный, эмульгаторы (лецитин соевый, Е476), паста ореховая (фундук), ароматизатор",
   "information": [
     {

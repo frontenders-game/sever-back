@@ -2,11 +2,14 @@
   "name": "Корм влажный Felix Ягненок и курица в желе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.99,
-  "priceWithCard": 25.47,
-  "promo": null,
+  "priceRegular": "25.99",
+  "priceWithCard": "23.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 87,
+  "stockCount": 83,
   "ingredients": "мясо и мясные ингредиенты (включая ягненка и курицу), экстракты растительного белка, рыба и продукты ее переработки, аминокислоты, загустители, минеральные вещества, сахара, витамины",
   "information": [
     {

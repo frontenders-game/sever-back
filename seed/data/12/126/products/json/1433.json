@@ -2,16 +2,14 @@
   "name": "Шампиньоны Global Village, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 88.19,
-  "promo": {
-    "discountedPriceRegular": 80.09,
-    "discountedPriceWithCard": 78.49,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "89.99",
+  "priceWithCard": "81.89",
+  "discountPercent": 11,
+  "discountedPrice": "72.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "грибы шампиньоны.",
   "information": [
     {

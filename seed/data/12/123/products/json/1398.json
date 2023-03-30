@@ -2,11 +2,14 @@
   "name": "Яблоко сезонное",
   "unitsOfMeasurement": "кг",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 102.89,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "96.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "Яблоко.",
   "information": [
     {

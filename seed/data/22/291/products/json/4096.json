@@ -2,11 +2,14 @@
   "name": "Мыло жидкое Honey Kid с экстрактом оливы и алоэ вера детское 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "aqua, sodium, laureth sulfate, cocamidopropyl betaine, sodium chloride, coco-glucoside, glyceryl oleate, cocamide dea, propylene glycol, glycerin, peg-40 hydrogenated castor oil, d-panthenol (vitamin b5), retinyl, palmitate (vitamin a), tocopheryl acetate (vitamin e), aloe barbadensis leaf extract, olea europaea friut extract, calendula officinalis flower extract, chamomilla recutita flower extract, parfum, disodium edta, citric acid, methylisothiazolinone, methylchloroisothiazolinone",
   "information": [
     {

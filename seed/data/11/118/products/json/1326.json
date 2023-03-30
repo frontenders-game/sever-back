@@ -2,16 +2,14 @@
   "name": "Хлебцы Dr.Korner гречневые с витаминами 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 88.88,
-  "priceWithCard": 86.21,
-  "promo": {
-    "discountedPriceRegular": 70.22,
-    "discountedPriceWithCard": 68.11,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "88.88",
+  "priceWithCard": "83.55",
+  "discountPercent": 21,
+  "discountedPrice": "66.00",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Крупа гречневая ядрица, смесь витаминно-минеральная \"Колосок-1\"(B1, B2, B6, PP, фолиевая кислота, железо).",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Туалетная бумага Familia Plus 2 слоя 12шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.99,
-  "priceWithCard": 309.39,
-  "promo": {
-    "discountedPriceRegular": 220.99,
-    "discountedPriceWithCard": 201.1,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "339.99",
+  "priceWithCard": "329.79",
+  "discountPercent": 35,
+  "discountedPrice": "214.36",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "Целлюлоза 100%.",
   "information": [
     {

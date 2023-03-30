@@ -2,16 +2,14 @@
   "name": "Чай Майский Корона Российской Империи черный в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 274.99,
-  "priceWithCard": 269.49,
-  "promo": {
-    "discountedPriceRegular": 192.49,
-    "discountedPriceWithCard": 188.64,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "274.99",
+  "priceWithCard": "255.74",
+  "discountPercent": 30,
+  "discountedPrice": "179.02",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "цейлонский черный байховый чай",
   "information": [
     {

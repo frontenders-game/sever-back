@@ -2,11 +2,14 @@
   "name": "Перчатки Econta хозяйственные латексные",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 55.99,
-  "priceWithCard": 52.07,
-  "promo": null,
+  "priceRegular": "55.99",
+  "priceWithCard": "52.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 58,
+  "stockCount": 54,
   "ingredients": "Латекс, хлопковое напыление",
   "information": [
     {

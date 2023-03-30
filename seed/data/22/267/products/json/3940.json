@@ -2,11 +2,14 @@
   "name": "Гель для душа Bodyart Тропический микс 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 225.59,
-  "promo": null,
+  "priceRegular": "239.99",
+  "priceWithCard": "230.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": null,
   "information": [
     {

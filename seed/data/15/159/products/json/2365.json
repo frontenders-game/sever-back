@@ -2,16 +2,14 @@
   "name": "Печенье Юбилейное Постное 268г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 97.64,
-  "promo": {
-    "discountedPriceRegular": 80.84,
-    "discountedPriceWithCard": 75.18,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "104.99",
+  "priceWithCard": "98.69",
+  "discountPercent": 23,
+  "discountedPrice": "75.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "мука пшеничная, сахар, масла растительные (рапсовое, пальмовое) вода, крахмал кукурузный, разрыхлитель (гидрокарбонат натрия, карбонат аммония), соль, эмульгатор (лецитин соевый), ароматизатор, регулятор кислотности лимонная кислота",
   "information": [
     {

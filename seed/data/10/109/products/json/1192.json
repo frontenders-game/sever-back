@@ -2,11 +2,14 @@
   "name": "Тан Лесная Сказка 1.5% 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.49,
-  "priceWithCard": 44.61,
-  "promo": null,
+  "priceRegular": "48.49",
+  "priceWithCard": "46.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "произведен из восстановленного молока с использованием бактериальной закваски (чистые культуры молочнокислой болгарской палочки и лактосбраживающих дрожжей),воды питьевой,соли поваренной пищевой",
   "information": [
     {

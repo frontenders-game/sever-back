@@ -2,16 +2,14 @@
   "name": "Печенье Невская Сушка Звездочка Турецкая 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 120.89,
-  "promo": {
-    "discountedPriceRegular": 90.99,
-    "discountedPriceWithCard": 84.62,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "129.99",
+  "priceWithCard": "126.09",
+  "discountPercent": 30,
+  "discountedPrice": "88.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 5,
+  "stockCount": 1,
   "ingredients": "мука пшеничная хлебопекарная высшего сорта, сахар, маргарин (рафинированные дезодорированные растительные масла (пальмовое, модифицированное пальмовое, кокосовое, подсолнечное), вода, эмульгаторы (Е471, Е433, лецитин соевый), консерванты (сорбиновая кислота, бензоат натрия), ароматизатор, краситель каротины, регулятор кислотности лимонная кислота, разрыхлитель E500. Продукт может содержать следы арахиса и продукты его переработки",
   "information": [
     {

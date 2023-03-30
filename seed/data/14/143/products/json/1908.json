@@ -2,11 +2,14 @@
   "name": "Напиток Черноголовка Кола газированный 0.33л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "вода, сахар (s) или сахар и сироп глюкозно-фруктозный (g), регулятор кислотности кислота орто-фосфорная, краситель сахарный колер iv, ароматизаторы, консервант бензоат натрия, кофеин (не более 150 мг/л)",
   "information": [
     {

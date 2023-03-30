@@ -2,11 +2,14 @@
   "name": "Творог Свежее Завтра 5%, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 168.99,
-  "priceWithCard": 155.47,
-  "promo": null,
+  "priceRegular": "168.99",
+  "priceWithCard": "163.92",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Цельное молоко, обезжиренное молоко, закваска чистых культур молочнокислых бактерий.",
   "information": [
     {

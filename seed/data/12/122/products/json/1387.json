@@ -2,11 +2,14 @@
   "name": "Имбирь",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 446.99,
-  "priceWithCard": 424.64,
-  "promo": null,
+  "priceRegular": "446.99",
+  "priceWithCard": "411.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Имбирь.",
   "information": [
     {

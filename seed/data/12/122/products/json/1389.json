@@ -2,11 +2,14 @@
   "name": "Авокадо",
   "unitsOfMeasurement": "кг",
   "step": "0.4",
-  "priceRegular": 499.99,
-  "priceWithCard": 479.99,
-  "promo": null,
+  "priceRegular": "499.99",
+  "priceWithCard": "454.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Авокадо.",
   "information": [
     {

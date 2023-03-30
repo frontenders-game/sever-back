@@ -2,11 +2,14 @@
   "name": "Шоколад Бабаевский темный с целым миндалем 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 132.99,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "128.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "какао тёртое, сахар, ядро ореха миндаля целое, масло какао, жир молочный, эмульгаторы: лецитин соевый, Е476; спирт этиловый ректификованный (0,3%), чай, ароматизатор «Ваниль»",
   "information": [
     {

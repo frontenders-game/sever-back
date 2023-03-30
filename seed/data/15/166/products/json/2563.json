@@ -2,11 +2,14 @@
   "name": "Халва Мааг подсолнечная с какао 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 54.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Ядро подсолнечника обжаренное, протертое, патока крахмальная, сахар-песок, пенообразователь - экстракт мыльного корня, лимонная кислота, ароматизатор \"Ванилин\".",
   "information": [
     {

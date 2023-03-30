@@ -2,16 +2,14 @@
   "name": "Кета Fish House филе-ломтики 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 169.19,
-  "promo": {
-    "discountedPriceRegular": 131.39,
-    "discountedPriceWithCard": 123.51,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "179.99",
+  "priceWithCard": "176.39",
+  "discountPercent": 27,
+  "discountedPrice": "128.76",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": null,
   "information": [
     {

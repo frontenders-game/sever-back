@@ -2,16 +2,14 @@
   "name": "Тесто слоёное Морозко бездрожжевое, 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 242.49,
-  "promo": {
-    "discountedPriceRegular": 189.99,
-    "discountedPriceWithCard": 184.29,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "237.49",
+  "discountPercent": 24,
+  "discountedPrice": "180.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, маргарин (масло растительное, вода питьевая, эмульгаторы: моно и диглицериды жирных кислот, соевый лецитин; соль, сахар, консервант сорбат калия, краситель каротин, антиокислитель аскорбиновая кислота), вода питьевая, соль.",
   "information": [
     {

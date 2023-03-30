@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня телятина с 6 месяцев 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": {
-    "discountedPriceRegular": 75.99,
-    "discountedPriceWithCard": 73.71,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "97.99",
+  "discountPercent": 24,
+  "discountedPrice": "74.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "телятина, крупа рисовая, масло растительное, сок лимонный концентрированный, вода питьевая",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пюре Honey Kid Фруктовый Салатик из яблок груш персиков с 5 месяцев 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 83.69,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "88.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Пюре яблочное (50%), пюре из груш (30%), пюре из персиков (20%). Изготовлено из концентрированного пюре из груш и персиков. Содержит сахара природного (естественного) происхождения.",
   "information": [
     {

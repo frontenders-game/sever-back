@@ -2,11 +2,14 @@
   "name": "Яйцо куриное Роскар Экстра СО 10шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 115.99,
-  "priceWithCard": 111.35,
-  "promo": null,
+  "priceRegular": "115.99",
+  "priceWithCard": "109.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "Яйца.",
   "information": [
     {

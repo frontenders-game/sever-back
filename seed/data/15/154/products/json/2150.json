@@ -2,16 +2,14 @@
   "name": "Конфета Хрутка с суфле и молочной начинкой 43г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 52.79,
-  "promo": {
-    "discountedPriceRegular": 38.49,
-    "discountedPriceWithCard": 36.95,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "50.59",
+  "discountPercent": 30,
+  "discountedPrice": "35.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 61,
+  "stockCount": 57,
   "ingredients": "сахар, патока, жир специального назначения (из пальмового масла), молоко сухое цельное, эквивалент масла какао (масло пальмовое, масло ши), какао тертое, молоко сухое обезжиренное, сыворотка молочная сухая, карбонат кальция, молочный жир, мука рисовая, какао-порошок с пониженным содержание жира, мука пшеничная (содержит глютен), эмульгаторы (лецитины, Е476), белок яичный сухой, масло какао, ароматизаторы натуральные, соль, регулятор кислотности (лимонная кислота)",
   "information": [
     {

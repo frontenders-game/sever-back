@@ -2,16 +2,14 @@
   "name": "Конфеты Золотой Степ Славянка глазированные",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 599.99,
-  "priceWithCard": 545.99,
-  "promo": {
-    "discountedPriceRegular": 473.99,
-    "discountedPriceWithCard": 431.33,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 17,
+  "priceRegular": "599.99",
+  "priceWithCard": "545.99",
+  "discountPercent": 21,
+  "discountedPrice": "431.33",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 13,
   "ingredients": "Патока, арахис, сахар, молоко цельное сгущенное с сахаром (молоко цельное, сахар), эквивалент масла какао, сыворотка молочная сухая, жир растительный (масла растительные; антиокислители: Е319, кислота лимонная), какао-тертое, эмульгаторы (сорбит, лецитин соевый, Е476), заменитель масла какао, молоко сухое обезжиренное, соль, ароматизаторы, какао-порошок, пенообразователь экстракт солодки.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Рис Global Village Басмати шлифованный 5х80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 136.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "136.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "рис Басмати 100%",
   "information": [
     {

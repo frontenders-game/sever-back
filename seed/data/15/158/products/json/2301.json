@@ -2,16 +2,14 @@
   "name": "Конфеты Славянка Жаклин клубника в шоколаде, кг",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 549.99,
-  "priceWithCard": 505.99,
-  "promo": {
-    "discountedPriceRegular": 324.49,
-    "discountedPriceWithCard": 298.53,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "549.99",
+  "priceWithCard": "527.99",
+  "discountPercent": 41,
+  "discountedPrice": "311.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Патока, сахар, какао - тертое, эквивалент масла какао, агенты желирующие, (пектин, каррагинан), заменитель масла какао, краситель диоксид титана, ароматизаторы, регуляторы кислотности (кислота лимонная, цитрат натрия), эмульгаторы (лецитин соевый, Е476), какао- порошок, краситель натуральный кармин.",
   "information": [
     {

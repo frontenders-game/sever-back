@@ -2,16 +2,14 @@
   "name": "Жидкость моющая Mr.Proper Лимон для полов и стен, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 155.19,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 97.77,
-    "discountPercent": 37,
-    "isActive": true
-  },
+  "priceRegular": "159.99",
+  "priceWithCard": "153.59",
+  "discountPercent": 37,
+  "discountedPrice": "96.76",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "<5% Анионные ПАВ, Неионогенные ПАВ, Консерванты, Ароматизирующие Добавки, Цитраль, Цитронеллол, Гераниол, Гексилкоричный Альдегид, Лимонен, Линалоол.",
   "information": [
     {

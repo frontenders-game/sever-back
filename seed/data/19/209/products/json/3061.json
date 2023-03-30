@@ -2,11 +2,14 @@
   "name": "Корм влажный Whiskas желе говядина и ягненок для кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 19.19,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "18.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 54,
+  "stockCount": 50,
   "ingredients": "мясо и субпродукты (в том числе говядина и ягнёнок), продукты животного происхождения, пшеничная мука, аминокислоты (в том числе таурин), загустители, минеральные вещества, витамины, свекловичный жом, сахара, натуральные красители",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Assand черный с шиповником 25x1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 103.49,
-  "priceWithCard": 95.21,
-  "promo": {
-    "discountedPriceRegular": 90.04,
-    "discountedPriceWithCard": 82.83,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 20,
+  "priceRegular": "103.49",
+  "priceWithCard": "97.28",
+  "discountPercent": 13,
+  "discountedPrice": "84.63",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 16,
   "ingredients": "чай черный байховый, шиповник, каркаде",
   "information": [
     {

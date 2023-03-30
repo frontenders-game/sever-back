@@ -2,11 +2,14 @@
   "name": "Конфеты КФ Крупской Сказки Перро, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 144.99,
-  "priceWithCard": 136.29,
-  "promo": null,
+  "priceRegular": "144.99",
+  "priceWithCard": "136.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Сахар, эквивалент масла какао (масла растительные, эмульгатор лецитин соевый, антиокислители ( Е306, кислота лимонная)), арахис дробленый, какао-тертое, мука пшеничная, желток яичный сухой, эмульгаторы (лецитин соевый, Е476), масло кокосовое, соль, ароматизатор, разрыхлитель гидрокарбонат натрия, регулятор кислотности кислота лимонная. Может содержать следы яичного белка.",
   "information": [
     {

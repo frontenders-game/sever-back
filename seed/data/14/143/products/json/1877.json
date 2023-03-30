@@ -2,11 +2,14 @@
   "name": "Напиток Frustyle Кактус-Киви безалкогольный газированный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 63.69,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "вода, сахар, регуляторы кислотности (E330, Е331 (iii)), ароматизаторы, стабилизатор Е440, консерванты (Е202, Е211), красители (Е102, Е104, Е131, E150d), подсластитель сукралоза. Содержит красители Е142, Е104, которые могут оказывать отрицательное влияние на внимание и активность детей",
   "information": [
     {

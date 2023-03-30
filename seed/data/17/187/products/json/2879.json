@@ -2,16 +2,14 @@
   "name": "Чечевица Global Village красная 450 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": {
-    "discountedPriceRegular": 110.49,
-    "discountedPriceWithCard": 106.07,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "129.99",
+  "priceWithCard": "122.19",
+  "discountPercent": 15,
+  "discountedPrice": "103.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Чечевица.",
   "information": [
     {

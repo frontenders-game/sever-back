@@ -2,16 +2,14 @@
   "name": "Конфеты Невский кондитер Цитрон глазированные с помадной начинкой",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 259.99,
-  "priceWithCard": 241.79,
-  "promo": {
-    "discountedPriceRegular": 231.39,
-    "discountedPriceWithCard": 215.19,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "259.99",
+  "priceWithCard": "236.59",
+  "discountPercent": 11,
+  "discountedPrice": "210.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "сахар, кондитерская глазурь (сахарная пудра, заменитель масла какао (рафинированное дезодорированное растительное масло), какао порошок, эмульгатор лецитин соевый, ароматизатор \"Ванильный\"), патока, регулятор кислотности кислота лимонная, ароматизатор \"Лимонное масло\", краситель натуральный куркумин",
   "information": [
     {

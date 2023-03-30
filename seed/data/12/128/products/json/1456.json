@@ -2,11 +2,14 @@
   "name": "Абрикос Mixbar сушёный, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 191.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "181.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Абрикос сушеный целый без косточки, консервант - Е220.",
   "information": [
     {

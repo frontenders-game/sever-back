@@ -2,16 +2,14 @@
   "name": "Корм влажный Perfect Fit Говядина в соусе для стерилизованных кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 28.19,
-  "promo": {
-    "discountedPriceRegular": 25.19,
-    "discountedPriceWithCard": 23.68,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "29.99",
+  "priceWithCard": "29.09",
+  "discountPercent": 16,
+  "discountedPrice": "24.44",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 118,
+  "stockCount": 114,
   "ingredients": "мясо и субпродукты минимум 34% (в том числе говядина), злаки, минеральные вещества, витамины, метионин, таурин, L-карнитин, натуральный краситель бета-каротин",
   "information": [
     {

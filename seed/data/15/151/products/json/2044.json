@@ -2,11 +2,14 @@
   "name": "Открытка Код Н",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "95.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 72,
+  "stockCount": 68,
   "ingredients": "Мелованный картон.",
   "information": [
     {

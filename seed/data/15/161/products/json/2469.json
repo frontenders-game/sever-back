@@ -2,16 +2,14 @@
   "name": "Пастила Шарлиз с кусочками мармелада 220г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 83.69,
-  "promo": {
-    "discountedPriceRegular": 75.59,
-    "discountedPriceWithCard": 70.3,
-    "discountPercent": 16,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 12,
+  "priceRegular": "89.99",
+  "priceWithCard": "81.89",
+  "discountPercent": 16,
+  "discountedPrice": "68.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 8,
   "ingredients": "сахар-песок, мармеладная крошка (сахар-песок, патока крамельная, желирующий агент - агар, регулятор кислотности: кислота лимонная, ароматизатор \"Вишня\", красители натуральные: кармин, лютеин, хлорофиллин), патока карамельная, пюре яблочное, желирующий агент: агар, белок яичный сухой, регулятор кислотности: кислота молочная, ароматизатор \"Ванильно-сливочный\"",
   "information": [
     {

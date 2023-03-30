@@ -2,11 +2,14 @@
   "name": "Масло шоколадное Станция Молочная 62% 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 118.29,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "126.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Пастеризованные сливки, сахар - песок, какао - порошок, ароматизатор натуральный ванилин.",
   "information": [
     {

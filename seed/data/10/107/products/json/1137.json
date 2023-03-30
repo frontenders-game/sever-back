@@ -2,11 +2,14 @@
   "name": "Биотворог Сарафаново обогащенный пробиотиками 5% 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.99,
-  "priceWithCard": 33.94,
-  "promo": null,
+  "priceRegular": "34.99",
+  "priceWithCard": "33.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "молоко обезжиренное, сливки, закваска молочнокислых микроорганизмов, закваска пробиотическая howaru® dophilus",
   "information": [
     {

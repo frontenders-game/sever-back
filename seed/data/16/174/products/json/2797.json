@@ -2,11 +2,14 @@
   "name": "Чай черный Необычайный с мелиссой 20х1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "чай черный байховый мелкий, трава мелиссы измельченная",
   "information": [
     {

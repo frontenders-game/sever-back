@@ -2,16 +2,14 @@
   "name": "Средство Eco Солнце и луна для стирки детского белья 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 347.99,
-  "priceWithCard": 337.55,
-  "promo": {
-    "discountedPriceRegular": 236.63,
-    "discountedPriceWithCard": 229.53,
-    "discountPercent": 32,
-    "isActive": true
-  },
+  "priceRegular": "347.99",
+  "priceWithCard": "330.59",
+  "discountPercent": 32,
+  "discountedPrice": "224.80",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 5,
+  "stockCount": 1,
   "ingredients": "5% АПАВ, 5% НПАВ, 5% мыла, экстракт мыльного ореха, экстракт хлопка, экстракт льна, консервант",
   "information": [
     {

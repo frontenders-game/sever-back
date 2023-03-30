@@ -2,11 +2,14 @@
   "name": "Варенье Варенька малиновое, 380г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 209.99,
-  "priceWithCard": 203.69,
-  "promo": null,
+  "priceRegular": "209.99",
+  "priceWithCard": "191.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Сахар, салина.",
   "information": [
     {

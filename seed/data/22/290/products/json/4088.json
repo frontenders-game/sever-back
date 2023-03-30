@@ -2,16 +2,14 @@
   "name": "Подгузники Huggies Elite Soft р.3 5-9кг 80шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 4226.0,
-  "priceWithCard": 3845.66,
-  "promo": {
-    "discountedPriceRegular": 3423.06,
-    "discountedPriceWithCard": 3114.98,
-    "discountPercent": 19,
-    "isActive": true
-  },
+  "priceRegular": "4226.00",
+  "priceWithCard": "4141.48",
+  "discountPercent": 19,
+  "discountedPrice": "3354.60",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "целлюлоза, хлопок",
   "information": [
     {

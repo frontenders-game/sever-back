@@ -2,11 +2,14 @@
   "name": "Колбаса варёная Пит-продукт Докторская в нарезке, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 244.99,
-  "priceWithCard": 235.19,
-  "promo": null,
+  "priceRegular": "244.99",
+  "priceWithCard": "230.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Свинина, говядина, вода, меланж яичный сухой, сухое обезжиренное молоко, посолочно-нитритная смесь (соль, фиксатор окраски (нитрит натрия)), стабилизаторы (Е450i, Е452i), регулятор кислотности (Е451i), глюкоза, пряности, антиокислитель (Е301), усилитель вкуса и аромата (Е621).",
   "information": [
     {

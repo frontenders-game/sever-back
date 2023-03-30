@@ -1,14 +1,6 @@
-import { Static, Type } from "@sinclair/typebox";
-import {  uuidType } from "../../shared/schemas";
+import { Type } from "@sinclair/typebox";
+import { idSchema } from "../../shared/schemas";
 
-export const productInformationIdSchema = Type.Object(
-    {
-        id:  uuidType
-    },
-    {$id: "productInformationIdSchema", additionalProperties: false}
-)
-
-export type ProductInformationId = Static<typeof productInformationIdSchema>
 
 export const createProductInformationSchema = Type.Object({
         value: Type.String(),
@@ -21,12 +13,10 @@ export const createProductInformationSchema = Type.Object({
     {$id: "createProductInformationSchema", additionalProperties: false}
 )
 
-export type CreateProductInformationInput = Static<typeof createProductInformationSchema>
 
 export const responseProductInformationSchema = Type.Intersect([
-    productInformationIdSchema,
+    idSchema,
     createProductInformationSchema
 ],
     {$id: "responseProductInformationSchema", additionalProperties: false})
 
-export type InformationResponse = Static<typeof responseProductInformationSchema>

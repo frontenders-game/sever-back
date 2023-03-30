@@ -2,16 +2,14 @@
   "name": "Напиток чайный Вкус и Польза Иван-чай 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 109.19,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 91.72,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "111.59",
+  "discountPercent": 16,
+  "discountedPrice": "93.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "листья кипрея ферментированные",
   "information": [
     {

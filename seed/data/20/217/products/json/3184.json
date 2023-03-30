@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня груша-яблоко с 5 месяцев, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 81.33,
-  "promo": {
-    "discountedPriceRegular": 64.73,
-    "discountedPriceWithCard": 63.44,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "82.99",
+  "priceWithCard": "75.52",
+  "discountPercent": 22,
+  "discountedPrice": "58.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Пюре из груш, пюре из яблок.",
   "information": [
     {

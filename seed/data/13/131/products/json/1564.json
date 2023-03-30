@@ -2,16 +2,14 @@
   "name": "Котлеты Белорусские из индейки, 560г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 294.99,
-  "priceWithCard": 268.44,
-  "promo": {
-    "discountedPriceRegular": 182.89,
-    "discountedPriceWithCard": 166.43,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "294.99",
+  "priceWithCard": "274.34",
+  "discountPercent": 38,
+  "discountedPrice": "170.09",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Филе индейки, мясо птицы, вода питьевая, лук репчатый, сухари панировочные, меланж пастеризованный (продукт яичный),молоко сухое, соль поваренная пищевая, пшеничная клетчатка, чеснок, перец белый, перец душистый, стабилизаторы: Е450i, E452i, регулятор кислотности E451i.",
   "information": [
     {

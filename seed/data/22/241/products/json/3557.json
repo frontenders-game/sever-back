@@ -2,16 +2,14 @@
   "name": "Средство чистящее Cillit Налёт и ржавчина 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 253.79,
-  "promo": {
-    "discountedPriceRegular": 215.99,
-    "discountedPriceWithCard": 203.03,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "264.59",
+  "discountPercent": 20,
+  "discountedPrice": "211.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Менее 5% щавелевая кислота, неионогенные и амфотерные ПАВ, ароматизатор.",
   "information": [
     {

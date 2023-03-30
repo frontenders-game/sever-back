@@ -2,11 +2,14 @@
   "name": "Спред растительно-жировой Бурёнкин Луг 72%, 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.99,
-  "priceWithCard": 56.41,
-  "promo": null,
+  "priceRegular": "61.99",
+  "priceWithCard": "57.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": null,
   "information": [
     {

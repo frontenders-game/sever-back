@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Zewa Плюс Сирень 2 слоя 8шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 235.19,
-  "promo": null,
+  "priceRegular": "239.99",
+  "priceWithCard": "220.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "вторичное волокно",
   "information": [
     {

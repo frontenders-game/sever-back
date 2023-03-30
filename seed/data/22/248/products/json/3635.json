@@ -2,11 +2,14 @@
   "name": "Порошок чистящий Пемолюкс лимон, 480г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "74.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "<5% амфотерные ПАВ, отдушка (в т.ч. лимонен); природный молотый мрамор, сода, сульфат натрия, краситель.",
   "information": [
     {

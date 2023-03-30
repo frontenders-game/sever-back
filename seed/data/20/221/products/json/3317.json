@@ -2,11 +2,14 @@
   "name": "Каша ФрутоНяня Молочная с персиком пять злаков с 6 месяцев 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 53.99,
-  "priceWithCard": 51.83,
-  "promo": null,
+  "priceRegular": "53.99",
+  "priceWithCard": "49.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Молоко сухое цельное, пюре из персиков, фруктоза, мальтодекстрин, мука рисовая, мука кукурузная, мука пшеничная, мука гречневая, мука овсяная, пребиотик-инулин, натуральный ароматизатор \"Персик\", вода",
   "information": [
     {

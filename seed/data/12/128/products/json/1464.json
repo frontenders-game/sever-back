@@ -2,16 +2,14 @@
   "name": "Бананы Вьетконг сушёные 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 84.99,
-  "priceWithCard": 80.74,
-  "promo": {
-    "discountedPriceRegular": 65.44,
-    "discountedPriceWithCard": 62.17,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 44,
+  "priceRegular": "84.99",
+  "priceWithCard": "83.29",
+  "discountPercent": 23,
+  "discountedPrice": "64.13",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 40,
   "ingredients": "Бананы сушёные.",
   "information": [
     {

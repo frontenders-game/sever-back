@@ -2,16 +2,14 @@
   "name": "Коктейль молочный ФрутоНяня банан 2.1%, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 55.19,
-  "priceWithCard": 51.88,
-  "promo": {
-    "discountedPriceRegular": 48.02,
-    "discountedPriceWithCard": 45.14,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "55.19",
+  "priceWithCard": "52.43",
+  "discountPercent": 13,
+  "discountedPrice": "45.61",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Молоко нормализованное, сахар, пюре банановое, ароматизатор натуральный \"банан\".",
   "information": [
     {

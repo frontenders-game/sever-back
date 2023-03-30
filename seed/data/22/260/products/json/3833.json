@@ -2,16 +2,14 @@
   "name": "Зубная щетка Splat Junior детская в ассортименте 1шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 257.59,
-  "promo": {
-    "discountedPriceRegular": 181.99,
-    "discountedPriceWithCard": 167.43,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "279.99",
+  "priceWithCard": "271.59",
+  "discountPercent": 35,
+  "discountedPrice": "176.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "pet, tpe, pbt",
   "information": [
     {

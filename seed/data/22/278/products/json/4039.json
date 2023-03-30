@@ -2,11 +2,14 @@
   "name": "Батарейки Duracell MX1500 Ultra Power 4 шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 360.49,
-  "priceWithCard": 346.07,
-  "promo": null,
+  "priceRegular": "360.49",
+  "priceWithCard": "342.47",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": null,
   "information": [
     {

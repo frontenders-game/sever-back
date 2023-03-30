@@ -2,16 +2,14 @@
   "name": "Батончик Mixbar с какао, молоком и криспи 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 16.99,
-  "priceWithCard": 16.48,
-  "promo": {
-    "discountedPriceRegular": 15.12,
-    "discountedPriceWithCard": 14.67,
-    "discountPercent": 11,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 50,
+  "priceRegular": "16.99",
+  "priceWithCard": "16.48",
+  "discountPercent": 11,
+  "discountedPrice": "14.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 46,
   "ingredients": null,
   "information": [
     {

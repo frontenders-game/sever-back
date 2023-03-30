@@ -2,16 +2,14 @@
   "name": "Сок Сады Придонья яблочно-виноградный 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 32.77,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 28.51,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 24,
+  "priceRegular": "34.49",
+  "priceWithCard": "32.08",
+  "discountPercent": 13,
+  "discountedPrice": "27.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 20,
   "ingredients": "Яблочный сок, виноградный сок. Изготовлен из концентрированных соков.",
   "information": [
     {

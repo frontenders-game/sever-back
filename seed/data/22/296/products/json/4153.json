@@ -2,11 +2,14 @@
   "name": "Носки Conte elegant женские 40 den размер 23-25 коричнево-бежевые 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 97.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "полиамид 88%, эластан 12%",
   "information": [
     {

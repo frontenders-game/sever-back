@@ -2,16 +2,14 @@
   "name": "Пюре Heinz Яблоко, клубника, красная смородина с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.99,
-  "priceWithCard": 61.37,
-  "promo": {
-    "discountedPriceRegular": 42.89,
-    "discountedPriceWithCard": 39.89,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "65.99",
+  "priceWithCard": "62.03",
+  "discountPercent": 35,
+  "discountedPrice": "40.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "пюре яблочное, клубника, красная смородина, вода",
   "information": [
     {

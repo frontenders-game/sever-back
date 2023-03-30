@@ -2,11 +2,14 @@
   "name": "Биотворог Сарафаново Яблоко-груша 4.5% 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.99,
-  "priceWithCard": 32.19,
-  "promo": null,
+  "priceRegular": "34.99",
+  "priceWithCard": "33.94",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Молоко нормализованное, наполнитель (сахар, вода, кукурузный крахмал, натуральные ароматизаторы, загуститель пектин, регулятор кислотности лимонная кислота, загуститель гуаровая камедь, концентрированное пюре из яблок, концентрированное пюре из груши), закваска молочнокислых микроорганизмов, закваска пробиотическая Howaru® Dophilus.",
   "information": [
     {

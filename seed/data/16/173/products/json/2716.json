@@ -2,16 +2,14 @@
   "name": "Чай Richard Эрл Грей черный с бергамотом в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 395.59,
-  "promo": {
-    "discountedPriceRegular": 262.29,
-    "discountedPriceWithCard": 241.31,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "421.39",
+  "discountPercent": 39,
+  "discountedPrice": "257.05",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "цейлонский черный байховый чай, ароматизатор бергамот",
   "information": [
     {

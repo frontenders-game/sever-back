@@ -2,11 +2,14 @@
   "name": "Губка для обуви Econta чёрная, 25г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 27.99,
-  "priceWithCard": 25.47,
-  "promo": null,
+  "priceRegular": "27.99",
+  "priceWithCard": "26.87",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 45,
+  "stockCount": 41,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

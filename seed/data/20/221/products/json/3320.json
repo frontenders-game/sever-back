@@ -2,11 +2,14 @@
   "name": "Каша молочная Агуша Засыпайка рис-яблоко-груша 2.7% с 6 месяцев 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.59,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "38.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "молоко нормализованное, вода, мука рисовая экструдированная, сахар, пребиотические вещества (фибрегам, олигофруктоза), фруктовые порошки «Груша», «Яблоко», ароматизаторы натуральные «Груша», «Яблоко». Продукт может содержать незначительно количество глютена",
   "information": [
     {

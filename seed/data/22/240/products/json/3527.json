@@ -2,11 +2,14 @@
   "name": "Капсулы Liberhaus для стирки белья концентрированные универсальные 12шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 183.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "195.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": null,
   "information": [
     {

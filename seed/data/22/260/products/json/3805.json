@@ -2,11 +2,14 @@
   "name": "Зубная паста R.O.C.S. Активный Кальций 64г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 220.79,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "209.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "aqua, silica, glycerin, xylitol, sodium lauryl sulfate, xanthan gum, aroma, magnesiun chloride, sodium glycerophosphate, calcium glycerophosphate, sodium saccharin, methylparaben, titanium dioxide, sodium silicate, propylparaben, limonene",
   "information": [
     {

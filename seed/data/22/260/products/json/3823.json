@@ -2,16 +2,14 @@
   "name": "Зубная паста Colgate Total 12 Витаминный заряд 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 252.99,
-  "priceWithCard": 245.4,
-  "promo": {
-    "discountedPriceRegular": 161.91,
-    "discountedPriceWithCard": 157.06,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "252.99",
+  "priceWithCard": "232.75",
+  "discountPercent": 36,
+  "discountedPrice": "148.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Glycerin, Aqua, Hydrated Silica, Sodium Lauryl Sulfate, Arginine, Aroma, Zinc Oxide, Poloxamer 407, Xanthan Gum, Cellulose Gum, Zinc Citrate, Tetrasodium Pyrophosphate, Benzyl Alcohol, Cocamidopropyl Betaine, Sodium Fluoride, Sodium Saccharin, Phosphoric Acid, Mica, Sucralose, CI 74160, CI 77891",
   "information": [
     {

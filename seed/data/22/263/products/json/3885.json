@@ -2,11 +2,14 @@
   "name": "Мыло Harmony of body для бани черное 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 140.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "143.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "aqua, sodium laureth sulfate, cocamide DEA, sorbitol, lanolinum, methylparaben, propylparaben, methylisothisothiazolinone, citric acid, humulus lupulus extract, utrica dioica extract, arctium majus root extract, cocos mucifera oil, parfum, CI16955, CI19140, CI15985, CI28440, CI42090",
   "information": [
     {

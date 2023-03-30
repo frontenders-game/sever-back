@@ -2,16 +2,14 @@
   "name": "Корм сухой Purina ONE с курицей и рисом для взрослых собак мелких и карликовых пород при активном образе жизни 1.5кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 479.99,
-  "priceWithCard": 451.19,
-  "promo": {
-    "discountedPriceRegular": 403.19,
-    "discountedPriceWithCard": 379.0,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "479.99",
+  "priceWithCard": "436.79",
+  "discountPercent": 16,
+  "discountedPrice": "366.90",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "сухой белок домашней птицы, пшеница, курица (14%), животный жир, глютен, высушенная мякоть свеклы, рис (4%), растительное волокно, соевая мука, вкусоароматическая кормовая добавка, кукуруза, глицерин, минеральные вещества, пропиленгликоль, кукурузная крупа, консерванты, солодовая мука, витамины, рыбий жир, антиоксиданты",
   "information": [
     {

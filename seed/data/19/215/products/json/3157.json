@@ -2,11 +2,14 @@
   "name": "Косточки Деревенские лакомства утиные для собак 55г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 228.99,
-  "priceWithCard": 208.38,
-  "promo": null,
+  "priceRegular": "228.99",
+  "priceWithCard": "222.12",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мясо утки, сыромятная говяжья кожа",
   "information": [
     {

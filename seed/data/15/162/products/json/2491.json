@@ -2,11 +2,14 @@
   "name": "Батончик-мюсли Bombbar Клубника, 45г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Миндаль, клубника, изомальтоолигосахарид, арахис, рисовые шарики (рисовая мука, кукурузная крупа, соль), хлопья овсяные (содержат глютен), вода, кокосовое масло, агенты влагоудерживающие (глицерин, сорбит), соль, ароматизаторы натуральные, регулятор кислотности - лимонная кислота, эмульгатор (соевый лецитин), антиокислитель (аскорбиновая кислота), натуральный подсластитель - стевиозид.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Ряженка Домик в деревне 2.5% 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.59,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "38.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "А – молоко нормализованное и молоко восстановленное топленые, закваска;\nВ – молоко восстановленное и молоко нормализованное топленые, закваска\n\n",
   "information": [
     {

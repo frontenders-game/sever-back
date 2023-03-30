@@ -2,16 +2,14 @@
   "name": "Пряники Хлебный дом Чайная классика Классические 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 95.99,
-  "promo": {
-    "discountedPriceRegular": 79.99,
-    "discountedPriceWithCard": 76.79,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": 20,
+  "discountedPrice": "75.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "сахар, мука пшеничная хлебопекарная первого сорта, мука пшеничная хлебопекарная второго сорта, вода питьевая, мёд искусственный (сахар, вода питьевая, регуляторы кислотности: гидрокарбонат натрия, кислота лимонная, ароматизатор «Мёд»), патока, жир хлебопекарный жидкий (масла растительные рафинированные дезодорированные, антиокислитель Е304i), разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия, пряности",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Крылья куриные охлажденные",
   "unitsOfMeasurement": "кг",
   "step": "0.9",
-  "priceRegular": 199.99,
-  "priceWithCard": 191.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "185.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "крылья куриные",
   "information": [
     {

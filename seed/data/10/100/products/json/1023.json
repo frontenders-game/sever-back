@@ -2,11 +2,14 @@
   "name": "Молоко Пискаревский пастеризованное 2.5% 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "молоко цельное, молоко обезжиренное",
   "information": [
     {

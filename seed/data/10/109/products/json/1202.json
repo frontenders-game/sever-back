@@ -2,11 +2,14 @@
   "name": "Напиток кисломолочный Имунеле for Kids Малиновый пломбир 1.5% 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 28.79,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "29.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Молоко нормализованное, наполнитель «Малиновый пломбир» (сахар, вода, глюкозно-фруктозный сироп (G***), сок малины концентрированный, загуститель - пектин, ароматизаторы натуральные, краситель натуральный - кармины, регуляторы кислотности - цитрат натрия 3-замещенный, лимонная кислота), витаминный премикс, закваска, пробиотические культуры (Lactobacillus Casei, Lactobacillus Rhamnosus).",
   "information": [
     {

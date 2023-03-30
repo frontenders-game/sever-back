@@ -2,11 +2,14 @@
   "name": "Пюре Доширак картофельное со вкусом курицы, 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 45.49,
-  "priceWithCard": 42.76,
-  "promo": null,
+  "priceRegular": "45.49",
+  "priceWithCard": "43.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Картофельные хлопья, жир растительный, соль йодированная, гренки, лук жареный, усилитель вкуса (глутамат натрия), сахар, белый перец, куркума, ароматизатор идентичный натуральному \"вареная курица\", петрушка, лук сушеный зеленый.",
   "information": [
     {

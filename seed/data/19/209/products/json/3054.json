@@ -2,11 +2,14 @@
   "name": "Корм влажный Felix Суп с курицей в соусе для взрослых кошек 48г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 15.99,
-  "priceWithCard": 14.71,
-  "promo": null,
+  "priceRegular": "15.99",
+  "priceWithCard": "15.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "мясо и продукты его переработки (из которых курица 4%), экстракты растительного белка, рыба и продукты ее переработки, аминокислоты, минеральные вещества, загустители, продукты переработки растительного сырья, сахара, дрожжи",
   "information": [
     {

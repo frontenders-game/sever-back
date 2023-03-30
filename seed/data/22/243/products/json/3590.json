@@ -2,16 +2,14 @@
   "name": "Средство для мытья посуды Fairy Нежные руки ромашка и витамин Е, 900мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 239.19,
-  "promo": {
-    "discountedPriceRegular": 192.39,
-    "discountedPriceWithCard": 177.0,
-    "discountPercent": 26,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 31,
+  "priceRegular": "259.99",
+  "priceWithCard": "246.99",
+  "discountPercent": 26,
+  "discountedPrice": "182.77",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 27,
   "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Консерванты, Ароматизирующие Добавки, Гераниол.",
   "information": [
     {

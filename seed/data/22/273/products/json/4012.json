@@ -2,16 +2,14 @@
   "name": "Набор подарочный Bodyart Гель для умывания 100мл + Вода мицеллярная для любого типа кожи 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 227.49,
-  "promo": {
-    "discountedPriceRegular": 149.99,
-    "discountedPriceWithCard": 136.49,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "239.99",
+  "discountPercent": 40,
+  "discountedPrice": "143.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Гель для умывания для нормальной и комбинированной кожи, 100мл / Мицеллярная вода для любого типа кожи, 100 мл",
   "information": [
     {

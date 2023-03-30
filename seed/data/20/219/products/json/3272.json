@@ -2,11 +2,14 @@
   "name": "Йогурт Растишка Банан 2.8% 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 70.49,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "72.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "молоко нормализованное, наполнитель (вода, пюре банана, сахар, кальция цитрат (источник кальция), кукурузный крахмал, натуральные ароматизаторы, сок лимона концентрированный, краситель – каротины, витамин D3), сахар, йогуртовая закваска",
   "information": [
     {

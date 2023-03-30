@@ -2,16 +2,14 @@
   "name": "Фруктоза Great Life кристаллическая 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 206.99,
-  "priceWithCard": 198.71,
-  "promo": {
-    "discountedPriceRegular": 180.08,
-    "discountedPriceWithCard": 172.88,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "206.99",
+  "priceWithCard": "190.43",
+  "discountPercent": 13,
+  "discountedPrice": "165.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Фруктоза кристаллическая.",
   "information": [
     {

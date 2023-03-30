@@ -2,11 +2,14 @@
   "name": "Батон Звёздочки высший сорт Подмосковный в нарезке, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 41.79,
-  "promo": null,
+  "priceRegular": "43.99",
+  "priceWithCard": "42.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, масло подсолнечное, дрожжи хлебопекарные, соль",
   "information": [
     {

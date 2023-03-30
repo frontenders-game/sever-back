@@ -2,16 +2,14 @@
   "name": "Гель Tiret Turbo для устранения засоров 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 519.99,
-  "priceWithCard": 499.19,
-  "promo": {
-    "discountedPriceRegular": 332.79,
-    "discountedPriceWithCard": 319.48,
-    "discountPercent": 36,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 13,
+  "priceRegular": "519.99",
+  "priceWithCard": "478.39",
+  "discountPercent": 36,
+  "discountedPrice": "306.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 9,
   "ingredients": "Более 5%, но менее 15% хлоросодержащий отбеливатель:менее 5% анионные и неиногенные ПАВ.",
   "information": [
     {

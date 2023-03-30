@@ -2,11 +2,14 @@
   "name": "Мармелад Chupa Chups Страйпсы cо вкусом клубники 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 137.99,
-  "priceWithCard": 129.71,
-  "promo": null,
+  "priceRegular": "137.99",
+  "priceWithCard": "133.85",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "сахар, глюкозный сироп, мука пшеничная, регуляторы кислотности (яблочная кислота, лимонная кислота), растительное масло, смесь экстрактов сладкого картофеля и черной моркови, масло какао, ароматизатор. Содержит глютен",
   "information": [
     {

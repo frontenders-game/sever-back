@@ -2,11 +2,14 @@
   "name": "Сметана Пискаревский 15%, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 72.79,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "Сливки, с использованием закваски",
   "information": [
     {

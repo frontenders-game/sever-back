@@ -2,11 +2,14 @@
   "name": "Горох Скайфуд колотый шлифованный 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 35.62,
-  "promo": null,
+  "priceRegular": "37.49",
+  "priceWithCard": "34.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "горох колотый",
   "information": [
     {

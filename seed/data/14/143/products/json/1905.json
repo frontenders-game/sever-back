@@ -2,11 +2,14 @@
   "name": "Напиток Ильинские лимонады фейхоа 0.48л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.79,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "подготовленная вода, сахар, регуляторы кислотности кислота лимонная и цитрат натрия, концентрированный яблочный сок, ароматизатор, краситель сахарный колер 4, подсластители аспартам и ацесульфам калия, консервант бензоат натрия",
   "information": [
     {

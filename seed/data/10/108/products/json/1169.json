@@ -2,11 +2,14 @@
   "name": "Сметана Сарафаново 10% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 67.99,
-  "priceWithCard": 64.59,
-  "promo": null,
+  "priceRegular": "67.99",
+  "priceWithCard": "65.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "нормализованные сливки, закваска молочнокислых микроорганизмов",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Колбаса Ногинский Брауншвейгская сырокопченая особая 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 293.99,
-  "promo": {
-    "discountedPriceRegular": 200.99,
-    "discountedPriceWithCard": 196.97,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "299.99",
+  "priceWithCard": "293.99",
+  "discountPercent": 33,
+  "discountedPrice": "196.97",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "филе куриное, свинина, говядина, шпик свиной, сль нитритная, соль поваренная пищевая, животный белок, антиокислитель - аскорбиновая кислота, регулятор кислотности - уксусная кислота, краситель - кармины, перец черный молотый",
   "information": [
     {

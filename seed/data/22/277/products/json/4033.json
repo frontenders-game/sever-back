@@ -2,11 +2,14 @@
   "name": "Крышки Econta металлические для стеклянных банок 50шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 287.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "278.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 133,
+  "stockCount": 129,
   "ingredients": "Жесть ЭЖК, крышка укомплектована викельным кольцом",
   "information": [
     {

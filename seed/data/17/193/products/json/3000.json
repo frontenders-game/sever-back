@@ -2,11 +2,14 @@
   "name": "Суп Суперсуп харчо по-кавказски, 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.99,
-  "priceWithCard": 45.07,
-  "promo": null,
+  "priceRegular": "48.99",
+  "priceWithCard": "44.58",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Рис подсушенный, соль, лук сушеный, морковь сушеная, паста томатная, ароматизатор идентичный натуральному «Харчо», жир растительный, сахар, фарш говяжий сушеный, чеснок сушеный, зелень сушеная петрушки или укропа, порошок томатный, краситель натуральный (сахарный колер), перец красный молотый, кислота лимонная, лист лавровый сухой, экстракт перца черного.",
   "information": [
     {

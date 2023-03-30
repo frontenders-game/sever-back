@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Blox перечная мята",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 21.99,
-  "priceWithCard": 21.11,
-  "promo": null,
+  "priceRegular": "21.99",
+  "priceWithCard": "21.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "сахар, глюкозный сироп (глюкоза), влагоудерживающий агент: растительный глицерин, эмульгатор: подсолнечный лецитин, антиоксидант: ВНА Е320, ароматизаторы: вкус перечной мяты",
   "information": [
     {

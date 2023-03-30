@@ -2,16 +2,14 @@
   "name": "Сок Добрый томатный с мякотью 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 135.79,
-  "promo": {
-    "discountedPriceRegular": 118.99,
-    "discountedPriceWithCard": 115.42,
-    "discountPercent": 15,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 24,
+  "priceRegular": "139.99",
+  "priceWithCard": "130.19",
+  "discountPercent": 15,
+  "discountedPrice": "110.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 20,
   "ingredients": "томатный сок, соль",
   "information": [
     {

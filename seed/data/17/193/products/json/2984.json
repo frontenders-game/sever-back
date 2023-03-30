@@ -2,11 +2,14 @@
   "name": "Бульон Роллтон говяжий домашний 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.99,
-  "priceWithCard": 34.91,
-  "promo": null,
+  "priceRegular": "35.99",
+  "priceWithCard": "33.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "соль пищевая поваренная йодированная, усилители вкуса и аромата (глутамат, инозинат и гуанилат натрия), сахар, мясо говядины сушеное, крахмал картофельный, морковь сушеная, зелень петрушки сушеная, куркума, ароматизатор (говядина), масло растительное рафинированное",
   "information": [
     {

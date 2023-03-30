@@ -2,16 +2,14 @@
   "name": "Спрей чистящий Cif Ультра гигиена универсальный, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 324.99,
-  "priceWithCard": 295.74,
-  "promo": {
-    "discountedPriceRegular": 259.99,
-    "discountedPriceWithCard": 236.59,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 6,
+  "priceRegular": "324.99",
+  "priceWithCard": "318.49",
+  "discountPercent": 20,
+  "discountedPrice": "254.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 2,
   "ingredients": "< 5% неионогенные ПАВ, < 5% катионные ПАВ, < 5% сода, < 5% отдушка, < 5% эфирное масло эвкалипта, < 5% эфирное масло кедрового дерева, < 5% линалоол. Антимикробный компонент: < 5% бензалкония хлорид.",
   "information": [
     {

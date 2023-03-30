@@ -2,11 +2,14 @@
   "name": "Печенье Шарлиз Классическое овсяное, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Мука пшеничная высшего сорта, сахар, мука овсяная, вода питьевая, масло сливочное, масло подсолнечное рафинированное дезодорированное, изюм, корица молотая, разрыхлитель – гидрокарбонат натрия (сода пищевая), соль поваренная пищевая, экстракт ванили натуральный.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кофе Nescafe Gold Aroma Intenso сублимированный 170г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 352.79,
-  "promo": null,
+  "priceRegular": "359.99",
+  "priceWithCard": "345.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "100% натуральный растворимый сублимированный кофе с добавлением натурального жареного молотого",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Бальзам AOS для мытья посуды алоэ вера, 900мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 243.99,
-  "priceWithCard": 222.03,
-  "promo": null,
+  "priceRegular": "243.99",
+  "priceWithCard": "231.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "5% или более, но менее 15%: анионные ПАВ; меньше 5%; неионогенные ПАВ; ароматизирующая добавка (в т.ч. лимонен), соль, этилендиаминтетрауксусной кислоты, алоэ вера гель, регулятор pH, консервант, красители.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Семечки подсолнечные Mixbar жареные 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 48,
+  "stockCount": 44,
   "ingredients": "Семена подсолнечника жареные \"Mixbar\" Возможно наличие следов арахиса и других орехов,а так же продуктов их переработки.",
   "information": [
     {

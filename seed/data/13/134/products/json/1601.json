@@ -2,11 +2,14 @@
   "name": "Тушка кальмара Fish House замороженная, 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 391.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "391.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "кальмар командорский",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Ряженка Большая кружка 4% 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "97.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "молоко нормализованное, закваска молочнокислых микроорганизмов",
   "information": [
     {

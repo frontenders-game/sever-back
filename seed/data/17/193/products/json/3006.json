@@ -2,11 +2,14 @@
   "name": "Бульон Роллтон куриный домашний, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.99,
-  "priceWithCard": 34.55,
-  "promo": null,
+  "priceRegular": "35.99",
+  "priceWithCard": "34.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "cоль поваренная, соль йодированная, усилители вкуса и аромата (Е621, Е635), сахар, мальтодекстрин, овощи сушеные (морковь, пастернак, лук зеленый, лук репчатый), мясо курицы сушеное, ароматизатор (курица), зелень сушеная (петрушка, укроп), куркума, жир куриный топленый,  краситель Е101i",
   "information": [
     {

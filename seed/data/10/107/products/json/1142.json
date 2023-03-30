@@ -2,16 +2,14 @@
   "name": "Творог Простоквашино 5% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 111.54,
-  "promo": {
-    "discountedPriceRegular": 90.84,
-    "discountedPriceWithCard": 88.12,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "114.99",
+  "priceWithCard": "105.79",
+  "discountPercent": 21,
+  "discountedPrice": "83.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "А – нормализованное молоко, закваска молочнокислых культур; В – нормализованное молоко, восстановленное молоко из сухого молока, закваска молочнокислых культур",
   "information": [
     {

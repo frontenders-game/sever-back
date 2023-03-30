@@ -2,11 +2,14 @@
   "name": "Творог Агуша Злаки 3.9% с 6 мес. 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 34.4,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "35.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "творог (молоко нормализованное, закваска), наполнитель «Злаки» (сахар, вода, мука рисовая, мука кукурузная, крахмал кукурузный, загуститель - пектины, пюре из чернослива (в качестве красящего вещества), ароматизатор натуральный «Злаки», концентрированный лимонный сок (для корректировки кислотности))",
   "information": [
     {

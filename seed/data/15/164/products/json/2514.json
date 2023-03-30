@@ -2,11 +2,14 @@
   "name": "Пряники Хлебный Дом Чайная классика Шоколадные узоры 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 110.39,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "113.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "мука пшеничная хлебопекарная первого сорта, сахар, вода питьевая, молоко цельное сухое, жир хлебопекарный жидкий (масла растительные рафинированные дезодорированные, антиокислитель Е304i), какао-порошок, патока, меланж яичный сухой, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия",
   "information": [
     {

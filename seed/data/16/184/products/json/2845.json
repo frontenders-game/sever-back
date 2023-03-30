@@ -2,11 +2,14 @@
   "name": "Мускатный орех Индана молотый 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 52.49,
-  "priceWithCard": 50.39,
-  "promo": null,
+  "priceRegular": "52.49",
+  "priceWithCard": "49.34",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Мускатный орех.",
   "information": [
     {

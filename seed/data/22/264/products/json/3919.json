@@ -2,11 +2,14 @@
   "name": "Станки бритвенные Gillette 2 одноразовые 5шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 131.59,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "131.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": null,
   "information": [
     {

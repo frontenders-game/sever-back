@@ -2,11 +2,14 @@
   "name": "Каша овсяная Русский Продукт Геркулес с клубникой, 35г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 22.49,
-  "priceWithCard": 20.92,
-  "promo": null,
+  "priceRegular": "22.49",
+  "priceWithCard": "22.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Хлопья овсяные, сахар, клубника сушёная, отруби овсяные, соль, ароматизатор натуральный. Продукт может содержать следы молока, орехов и пшеничного глютена.",
   "information": [
     {

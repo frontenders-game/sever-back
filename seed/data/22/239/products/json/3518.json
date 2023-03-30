@@ -2,11 +2,14 @@
   "name": "Стиральный порошок ABC для цветного белья 3кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 314.99,
-  "priceWithCard": 308.69,
-  "promo": null,
+  "priceRegular": "314.99",
+  "priceWithCard": "308.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "анионные активные вещества, кислородный отбеливатель %5-15, неионогенные активные вещества, мыло, поликарбоксилат меньше % 5, оптические отбеливатели, энзим, парфюмерное средство",
   "information": [
     {

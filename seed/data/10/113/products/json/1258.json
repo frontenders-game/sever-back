@@ -2,11 +2,14 @@
   "name": "Яйцо куриное Селяночка C1 10шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 71.99,
-  "priceWithCard": 67.67,
-  "promo": null,
+  "priceRegular": "71.99",
+  "priceWithCard": "68.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "Яйца куриные.",
   "information": [
     {

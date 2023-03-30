@@ -2,11 +2,14 @@
   "name": "Томаты",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 174.99,
-  "priceWithCard": 169.74,
-  "promo": null,
+  "priceRegular": "174.99",
+  "priceWithCard": "171.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "Томаты.",
   "information": [
     {

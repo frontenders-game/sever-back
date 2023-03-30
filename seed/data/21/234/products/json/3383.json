@@ -2,11 +2,14 @@
   "name": "Колбаса вареная Окраина Докторская 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 274.99,
-  "priceWithCard": 266.74,
-  "promo": null,
+  "priceRegular": "274.99",
+  "priceWithCard": "255.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "свинина, говядина, вода питьевая, яичный меланж, молоко коровье сухое цельное, соль нитритная (соль пищевая, фиксатор окраски - нитрит натрия), соль пищевая, сахар, экстракт кардамона, регулятор кислотности (пирофосфаты, трифосфаты), усилитель вкуса и аромата (глутамат натрия), антиокислитель (аскорбиновая кислота)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Азерчай Букет черный байховый крупнолистовой 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 334.99,
-  "priceWithCard": 318.24,
-  "promo": {
-    "discountedPriceRegular": 231.14,
-    "discountedPriceWithCard": 219.59,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "334.99",
+  "priceWithCard": "314.89",
+  "discountPercent": 31,
+  "discountedPrice": "217.27",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "чай черный байховый крупнолистовой, сорт букет",
   "information": [
     {

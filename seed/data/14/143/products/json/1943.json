@@ -2,16 +2,14 @@
   "name": "Напиток Rich Биттер Лемон безалкогольный сильногазированный 0.33л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 68.99,
-  "priceWithCard": 62.78,
-  "promo": {
-    "discountedPriceRegular": 60.02,
-    "discountedPriceWithCard": 54.62,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "68.99",
+  "priceWithCard": "64.16",
+  "discountPercent": 13,
+  "discountedPrice": "55.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "очищенная вода, сахар, лимонный сок 2%, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный, молочная кислота), ароматизаторы, стабилизатор эфиры глицерина и смоляных кислот, антиокислители (альфа-Токоферол, аскорбиновая кислота), хинин, подсластители (ацесульфам калия,  сахарин натриевая соль), краситель каротины, консервант сорбат калия",
   "information": [
     {

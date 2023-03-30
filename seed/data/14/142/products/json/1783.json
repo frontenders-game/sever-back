@@ -2,16 +2,14 @@
   "name": "Нектар Rich из апельсинов и манго 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 155.19,
-  "promo": {
-    "discountedPriceRegular": 140.79,
-    "discountedPriceWithCard": 136.57,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "159.99",
+  "priceWithCard": "147.19",
+  "discountPercent": 12,
+  "discountedPrice": "129.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Апельсиновый сок, пюре из манго, сахар, регулятор кислотности - лимонная кислота, вода. Изготовлен из концентрированного сока и пюре.",
   "information": [
     {

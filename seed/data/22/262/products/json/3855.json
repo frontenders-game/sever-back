@@ -2,16 +2,14 @@
   "name": "Крем для рук Бархатные Ручки Питательный с маслом ши 80мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": {
-    "discountedPriceRegular": 84.99,
-    "discountedPriceWithCard": 78.19,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": 15,
+  "discountedPrice": "79.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Aqua, Cyclopentasiloxane, Caprylic/Capric Triglyceride, Glycerin, Glyceryl Stearate Citrate, Isohexadecane, Cetearyl Alcohol, *Butyrospermum Parkii [Shea Butter] (масло ши), Dimethicone, Sodium Hyaluronate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Ammonium Lactate, Disodium EDTA, Ethylparaben, Hydroxyethyl Urea, *Hydrolyzed Silk, Methylparaben, Parfum, Panthenol (провитамин B5), Pantolactone, Phenoxyethanol, *Persea Gratissima (Avocado) Oil, Potassium Cetyl Phosphate, Potassium Sorbate, Tocopheryl Acetate, Triethanolamine, Alpha- Isomethyl Ionone, Butylphenyl Methylpropional, Cinnamyl Alcohol, Citronellol, Coumarin, Hexyl Cinnamal, Hydroxycitronellal, Geraniol, Linalool.\n*компоненты, входящие в состав формулы Silk Oil Elixir.",
   "information": [
     {

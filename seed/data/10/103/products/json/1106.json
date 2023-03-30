@@ -2,11 +2,14 @@
   "name": "Сырок творожный А. Ростагрокомплекс в темном шоколаде с ванилью 26% 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.48,
-  "priceWithCard": 61.26,
-  "promo": null,
+  "priceRegular": "64.48",
+  "priceWithCard": "59.97",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 60,
+  "stockCount": 56,
   "ingredients": "творог, сахар, шоколад темный (какао тертое, сахар, какао-масло, эмульгатор – лецитины (соевый лецитин), ароматизатор натуральный: ваниль),  сливочное масло, экстракт ванили",
   "information": [
     {

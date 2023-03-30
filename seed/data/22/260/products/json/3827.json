@@ -2,16 +2,14 @@
   "name": "Зубная щетка Oral-B 3D White Whitening средней жесткости 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 220.79,
-  "promo": {
-    "discountedPriceRegular": 200.09,
-    "discountedPriceWithCard": 192.09,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "229.99",
+  "priceWithCard": "220.79",
+  "discountPercent": 13,
+  "discountedPrice": "192.09",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": null,
   "information": [
     {

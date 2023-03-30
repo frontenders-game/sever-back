@@ -2,11 +2,14 @@
   "name": "Молоко Тема детское 3.2% с 3 лет 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 73.99,
-  "priceWithCard": 71.03,
-  "promo": null,
+  "priceRegular": "73.99",
+  "priceWithCard": "67.33",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Нормализованное молоко.",
   "information": [
     {

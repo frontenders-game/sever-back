@@ -2,11 +2,14 @@
   "name": "Йогурт Телушка Персик 1% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 38.39,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "нормализованное  молоко, сахар, сухое обезжиренное молоко, загустители: Е1422, гуаровая камедь, желатин, ароматизатор \"Персик\", краситель: каротины, йогуртовая закваска",
   "information": [
     {

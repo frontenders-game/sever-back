@@ -2,16 +2,14 @@
   "name": "Печенье Фрутоняня овсяное 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 41.35,
-  "promo": {
-    "discountedPriceRegular": 27.27,
-    "discountedPriceWithCard": 25.64,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "43.99",
+  "priceWithCard": "40.47",
+  "discountPercent": 38,
+  "discountedPrice": "25.09",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "мука пшеничная, сахар, мука овсяная, масло кукурузное, пюре яблочное концентрированное, крахмал пшеничный, молоко сухое цельное, экстракт солодовый, пищевые волокна, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия, эмульгатор- лецитин соевый, пищевые яблочные волокна, ароматизатор «Ванилин», соль, корица молотая, витамины (РР, В6, фолиевая кислота, В2, В1)",
   "information": [
     {

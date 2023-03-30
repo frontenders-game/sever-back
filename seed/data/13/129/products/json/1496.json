@@ -2,11 +2,14 @@
   "name": "Мороженое пломбир Чистая Линия ванильное 12%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 216.19,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "211.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Молоко коровье цельное – 51.5%, сливки натуральные – 21.6%, молоко сгущенное цельное с сахаром – 17.7% (молоко цельное, молоко обезжиренное, сахароза, лактоза), сахар – 5.5%, глюкозный сироп – 2%, цитрусовые волокна – 0.6%, яичный желток - 0.5%, молочный белок – 0.5%, натуральный ароматизатор ванили – 0.1%.",
   "information": [
     {

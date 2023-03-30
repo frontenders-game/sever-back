@@ -2,11 +2,14 @@
   "name": "Хлопья овсяные Русский Продукт Геркулес Монастырский, 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 81.19,
-  "priceWithCard": 74.69,
-  "promo": null,
+  "priceRegular": "81.19",
+  "priceWithCard": "79.57",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Овсяные хлопья.",
   "information": [
     {

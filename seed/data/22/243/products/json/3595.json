@@ -2,16 +2,14 @@
   "name": "Таблетки для посудомоечных машин Finish Powerball Power Aio 50шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1499.0,
-  "priceWithCard": 1379.08,
-  "promo": {
-    "discountedPriceRegular": 1004.33,
-    "discountedPriceWithCard": 923.98,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "1499.00",
+  "priceWithCard": "1364.09",
+  "discountPercent": 33,
+  "discountedPrice": "913.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "5% или более , но не менее 15%: отбеливающие вещества на основе кислорода, поликарбоксилаты; менее 5% фосфонаты, неионогенные ПАВ; энзимы, ароматизирующие добавки",
   "information": [
     {

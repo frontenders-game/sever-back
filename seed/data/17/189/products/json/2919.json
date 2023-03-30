@@ -2,11 +2,14 @@
   "name": "Каша Секреты природы льняная 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 124.99,
-  "priceWithCard": 116.24,
-  "promo": null,
+  "priceRegular": "124.99",
+  "priceWithCard": "119.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "перемолотые семена льна",
   "information": [
     {

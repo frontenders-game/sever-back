@@ -2,16 +2,14 @@
   "name": "Зубная щетка Splat Professional Whitening medium 1 шт. цвет в ассортименте",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 257.99,
-  "priceWithCard": 237.35,
-  "promo": {
-    "discountedPriceRegular": 157.37,
-    "discountedPriceWithCard": 144.78,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "257.99",
+  "priceWithCard": "234.77",
+  "discountPercent": 39,
+  "discountedPrice": "143.21",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Полиэтилентерефталат, полибутилентерефталат, термопластичный эластомер",
   "information": [
     {

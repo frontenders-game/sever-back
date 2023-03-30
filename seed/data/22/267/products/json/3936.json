@@ -2,16 +2,14 @@
   "name": "Пена для ванны Bodyart тонизирующая c ароматом можжевельника 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 148.79,
-  "promo": {
-    "discountedPriceRegular": 135.99,
-    "discountedPriceWithCard": 126.47,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "159.99",
+  "priceWithCard": "147.19",
+  "discountPercent": 15,
+  "discountedPrice": "125.11",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "aqua, sodium laureth sulpate, cocomidopropylbetain, cocamide dea, sodium chiaride, edta, parfum, metylparaben, propylparaben, citric asid, cl 191140, cl 42090",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Коктейль Чудо Шоколад молочный 2% 910мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 157.99,
-  "priceWithCard": 154.83,
-  "promo": null,
+  "priceRegular": "157.99",
+  "priceWithCard": "150.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "А - молоко нормализованное, сахар, какао-порошок, стабилизаторы (Е471, каррагинан, гуаровая камедь), ароматизатор \"Шоколад\"; В - молоко нормализованное, молоко восстановленное, сахар, какао-порошок, стабилизаторы (Е471, каррагинан, гуаровая камедь), ароматизатор \"Шоколад\".",
   "information": [
     {

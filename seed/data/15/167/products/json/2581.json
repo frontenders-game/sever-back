@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Mentos Нежная мята 15.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.19,
-  "priceWithCard": 33.51,
-  "promo": null,
+  "priceRegular": "34.19",
+  "priceWithCard": "32.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "подсластилели (E967, E420, E421, E965, E951, E950, E955), основа резиновая, агент влагоудерживающий (E422), ароматизаторы, мальтодекстрин, пищевая добавка (E451i), крахмал (рисовый, кукурузный), экстракт белого чая, эмульгаторы (E473,  E322), загустители (E466, E415), растительное масло, глазирователь (E903), красители (E133, E100), антиокислитель (E321). Содержит соевый лецитин. Содержит источник фенилаланина. Содержит подсластители",
   "information": [
     {

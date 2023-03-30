@@ -2,16 +2,14 @@
   "name": "Восточные сладости Караван-Сарай Рахат-Лукум с арахисом, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 73.59,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 64.76,
-    "discountPercent": 12,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 15,
+  "priceRegular": "79.99",
+  "priceWithCard": "74.39",
+  "discountPercent": 12,
+  "discountedPrice": "65.46",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 11,
   "ingredients": "Состав: сахар, крахмал кукурузный, очищенное обжаренное ядро арахиса, регулятор кислотности - лимонная кислота, ароматизатор \"Ванилин\".",
   "information": [
     {

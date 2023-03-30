@@ -2,11 +2,14 @@
   "name": "Сырок творожный А. Ростагрокомплекс в молочном шоколаде с ванилью 26% 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.48,
-  "priceWithCard": 63.19,
-  "promo": null,
+  "priceRegular": "64.48",
+  "priceWithCard": "58.68",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "творог, сахар, шоколад молочный (сахар, какао-масло, сухое цельное молоко, какао тертое, эмульгатор – лецитин (соевый лецитин), ароматизатор натуральный: ваниль), сливочное масло, экстракт ванили",
   "information": [
     {

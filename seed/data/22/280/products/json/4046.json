@@ -2,11 +2,14 @@
   "name": "Контейнер Полимербыт Важные мелочи для хранения с вкладышем 31x20x18cм 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 367.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "387.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "пластик",
   "information": [
     {

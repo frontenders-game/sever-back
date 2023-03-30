@@ -2,16 +2,14 @@
   "name": "Майонез Махеевъ Провансаль с лимонным соком 50.5% 800мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 174.79,
-  "promo": {
-    "discountedPriceRegular": 150.09,
-    "discountedPriceWithCard": 138.08,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 6,
+  "priceRegular": "189.99",
+  "priceWithCard": "184.29",
+  "discountPercent": 21,
+  "discountedPrice": "145.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 2,
   "ingredients": "Масло подсолнечное рафинированное дезодорированное, вода, сахар, яичный желток, соль, лимонный сок, лимонная кислота, масло горчичное, консервант сорбиновая кислота, краситель бета-каротин.",
   "information": [
     {

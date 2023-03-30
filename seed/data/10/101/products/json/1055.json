@@ -2,16 +2,14 @@
   "name": "Творожок Danone груша-банан 3.6% 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.99,
-  "promo": {
-    "discountedPriceRegular": 41.99,
-    "discountedPriceWithCard": 38.63,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "46.49",
+  "discountPercent": 16,
+  "discountedPrice": "39.05",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "творог обезжиренный, нормализованные сливки, наполнитель (сахар; груша; пюре банана; вода; крахмал кукурузный; натуральный ароматизатор; загуститель - пектины; сок лимона концентрированный; краситель – каротины), сахар. Может содержать следы глютена, орехов, яйца куриного",
   "information": [
     {

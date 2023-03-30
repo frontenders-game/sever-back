@@ -2,11 +2,14 @@
   "name": "Ряженка Агуша Сладкая 3.2% 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "48.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "молоко нормализованное топленое, сахар, концентрат сывороточных белков, закваска",
   "information": [
     {

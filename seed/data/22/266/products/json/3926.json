@@ -2,11 +2,14 @@
   "name": "Салфетки влажные Tolli Plus антисептические 15шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "48.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Нетканый материал, деминерализованная вода, этанол, пропиленгликоль, полигексаметиленбигуанид гидрохлорид, цетеарил изононаноат, цетеарет-12, цетеариловый спирт, глицерил стеарат, глицерин, цетилпальмитат, цетеарет-20, цетримониум хлорид, метилизотиазолинон, бензизотиазолинон, лимонная кислота.",
   "information": [
     {

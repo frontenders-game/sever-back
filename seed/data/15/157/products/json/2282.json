@@ -2,11 +2,14 @@
   "name": "Конфеты Milla Vanilla Трюфель классический 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 156.39,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "156.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": null,
   "information": [
     {

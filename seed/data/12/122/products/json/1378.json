@@ -2,16 +2,14 @@
   "name": "Чеснок",
   "unitsOfMeasurement": "кг",
   "step": "0.1",
-  "priceRegular": 275.99,
-  "priceWithCard": 256.67,
-  "promo": {
-    "discountedPriceRegular": 240.11,
-    "discountedPriceWithCard": 223.3,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 8,
+  "priceRegular": "275.99",
+  "priceWithCard": "259.43",
+  "discountPercent": 13,
+  "discountedPrice": "225.70",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 4,
   "ingredients": "Чеснок",
   "information": [
     {

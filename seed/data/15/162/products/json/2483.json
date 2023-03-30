@@ -2,11 +2,14 @@
   "name": "Батончик-мюсли Здоровый Перекус орехи-мёд, 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.39,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Зерновые хлопья (овсяные, пшеничные, ржаные, ячменные), рис и кукуруза воздушные экструдированные, пшеница воздушная, арахис жареный, орехи дробленые (фундук, миндаль, грецкий орех), кунжут, мед натуральный, питьевое молоко, патока, паста арахисовая (арахис тертый обажренный), масло подсолнечное рафинированное дезодорированное, соль поваренная пищевая.",
   "information": [
     {

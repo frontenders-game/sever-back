@@ -2,11 +2,14 @@
   "name": "Конфеты Raffaello с цельным миндалем в кокосовой обсыпке 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 158.09,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "154.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "сушеная кокосовая стружка, растительные жиры, сахар, орехи миндаля сладкого, сухое обезжиренное молоко, сухая молочная сыворотка, мука пшеничная, тапиоковый крахмал, эмульгатор: лецитины, ароматизаторы, разрыхлитель: гидрокарбонат натрия, соль. Содержит молоко, орехи, злаки содержащие глютен, сою и продукты их переработки",
   "information": [
     {

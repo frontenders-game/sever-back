@@ -2,16 +2,14 @@
   "name": "Батончик шоколадный Snickers лесной орех 81г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.09,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 46.86,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "65.79",
+  "discountPercent": 28,
+  "discountedPrice": "47.37",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 104,
+  "stockCount": 100,
   "ingredients": "молочный шоколад (сахар, какао масло, какао тертое, лактоза, сухое цельное молоко, сухая молочная сыворотка, молочный жир, эмульгатор (соевый лецитин), ароматизатор (ванилин)); глюкозный сироп (кукурузный, пшеничный), арахис, сахар, масло пальмовое рафинированное дезодорированное, фундук, сухое обезжиренное молоко, сухой яичный белок, соль, ароматизаторы (ванилин, лесной орех). Cодержит глютен. Может содержать незначительное количество миндаля",
   "information": [
     {

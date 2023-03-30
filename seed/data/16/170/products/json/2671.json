@@ -2,16 +2,14 @@
   "name": "Кофе Jardin Dessert Cup молотый, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 439.99,
-  "priceWithCard": 409.19,
-  "promo": {
-    "discountedPriceRegular": 303.59,
-    "discountedPriceWithCard": 282.34,
-    "discountPercent": 31,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 19,
+  "priceRegular": "439.99",
+  "priceWithCard": "417.99",
+  "discountPercent": 31,
+  "discountedPrice": "288.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 15,
   "ingredients": "Кофе натуральный жареный молотый Арабика.",
   "information": [
     {

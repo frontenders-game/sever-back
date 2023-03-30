@@ -2,11 +2,14 @@
   "name": "Бумажные платочки 3-слойные 10 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 12.99,
-  "priceWithCard": 11.82,
-  "promo": null,
+  "priceRegular": "12.99",
+  "priceWithCard": "12.60",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 38,
+  "stockCount": 34,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

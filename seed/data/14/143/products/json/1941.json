@@ -2,11 +2,14 @@
   "name": "Напиток Fresh Bar Kiwi Mix газированный 0.45л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "47.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "подготовленная вода, сахар, регуляторы кислотности кислота лимонная и цитрат натрия, концентрированные соки яблока, киви и груши, экстракт сафлора, ароматизаторы, консервант бензоат натрия, красители сахарный колер IV и синий патентованный V",
   "information": [
     {

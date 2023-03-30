@@ -2,11 +2,14 @@
   "name": "Нектар ФрутоНяня Яблоко и слива с мякотью с 3 лет 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 76.49,
-  "priceWithCard": 74.96,
-  "promo": null,
+  "priceRegular": "76.49",
+  "priceWithCard": "69.61",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "пюре из яблок, пюре из слив, сахар, регулятор кислотности - кислота лимонная, вода",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Сок Любимый яблочный осветленный 970мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": {
-    "discountedPriceRegular": 78.99,
-    "discountedPriceWithCard": 72.67,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": 21,
+  "discountedPrice": "73.46",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "яблочный сок. Изготовлен из концентрированного сока",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Мармелад Chupa Chups Фансы с фруктовым вкусом 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 152.99,
-  "priceWithCard": 140.75,
-  "promo": null,
+  "priceRegular": "152.99",
+  "priceWithCard": "148.40",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сахар, глюкозный сироп, кукурузный крахмал, загустители (Е1401, Е1404), регуляторы кислотности (лимонная кислота, яблочная кислота, малат натрия, цитрат натрия 3-замещенный), агент Влагоудерживающий (сорбит), растительное масло, ароматизатор, соль, красители (куркумин, кармины, синий блестящий FCF). Может содержать следы глютена",
   "information": [
     {

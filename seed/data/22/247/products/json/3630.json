@@ -2,11 +2,14 @@
   "name": "Рожок для обуви Econta, 20см",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 18.79,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "18.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Полипропилен, краситель",
   "information": [
     {

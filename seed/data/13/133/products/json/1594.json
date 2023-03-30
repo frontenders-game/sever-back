@@ -2,11 +2,14 @@
   "name": "Смесь Мираторг Detox Микс полезных овощей замороженная 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 204.99,
-  "priceWithCard": 200.89,
-  "promo": null,
+  "priceRegular": "204.99",
+  "priceWithCard": "196.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "капуста цветная, фасоль стручковая, сельдерей, перец сладкий, морковь, спаржа, проростки сои. На предприятии используются продукты переработки рыбы, ракообразных, моллюсков, молока, сои и горчицы",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Корм влажный Sheba Курица ломтики в соусе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.99,
-  "priceWithCard": 35.33,
-  "promo": null,
+  "priceRegular": "37.99",
+  "priceWithCard": "34.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 60,
+  "stockCount": 56,
   "ingredients": "мясо и субпродукты (в том числе курица), злаки и продукты их переработки, аминокислоты (в том числе таурин), минеральные вещества, витамины, сахара, загустители, натуральные красители",
   "information": [
     {

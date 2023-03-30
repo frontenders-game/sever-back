@@ -2,16 +2,14 @@
   "name": "Напиток CoolCola Zero газированный 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 59.79,
-  "promo": {
-    "discountedPriceRegular": 50.04,
-    "discountedPriceWithCard": 46.04,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "64.99",
+  "priceWithCard": "59.14",
+  "discountPercent": 23,
+  "discountedPrice": "45.54",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "вода, краситель сахарный колер IV, регуляторы кислотности (ортофосфорная  кислота, лимонная кислота), подсластители (цикламат натрия, ацесульфам калия, сукралоза,  сахаринат натрия), натуральные ароматизаторы, кофеин (менее 150 мг/л), экстракт ванили",
   "information": [
     {

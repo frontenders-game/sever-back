@@ -2,16 +2,14 @@
   "name": "Зубочистки Зубочистка №1 пластиковые 150шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 154.99,
-  "priceWithCard": 144.14,
-  "promo": {
-    "discountedPriceRegular": 123.99,
-    "discountedPriceWithCard": 115.31,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "154.99",
+  "priceWithCard": "145.69",
+  "discountPercent": 20,
+  "discountedPrice": "116.55",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "пластик.",
   "information": [
     {

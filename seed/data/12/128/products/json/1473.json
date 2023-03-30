@@ -2,16 +2,14 @@
   "name": "Чернослив",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 425.49,
-  "priceWithCard": 404.22,
-  "promo": {
-    "discountedPriceRegular": 370.18,
-    "discountedPriceWithCard": 351.67,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "425.49",
+  "priceWithCard": "416.98",
+  "discountPercent": 13,
+  "discountedPrice": "362.77",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": null,
   "information": [
     {

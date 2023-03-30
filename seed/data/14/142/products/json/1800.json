@@ -2,16 +2,14 @@
   "name": "Нектар Я Мандарин-апельсин 970мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 166.59,
-  "promo": {
-    "discountedPriceRegular": 134.29,
-    "discountedPriceWithCard": 131.61,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "154.69",
+  "discountPercent": 21,
+  "discountedPrice": "122.21",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "мандариновый сок, апельсиновый сок, сахар, вода",
   "information": [
     {

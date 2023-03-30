@@ -2,16 +2,14 @@
   "name": "Соус Рестория сырный 233г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 63.04,
-  "promo": {
-    "discountedPriceRegular": 58.49,
-    "discountedPriceWithCard": 56.74,
-    "discountPercent": 10,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 20,
+  "priceRegular": "64.99",
+  "priceWithCard": "62.39",
+  "discountPercent": 10,
+  "discountedPrice": "56.15",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 16,
   "ingredients": "вода, масло подсолнечное, загустители (Е1442, ксантановая камедь), сахар, соль, яичный желток, продукт сырный молокосодержащий (сыр, эмульгирующая соль Е339, растительный жир), регулятор кислотности - уксусная кислота, ароматизаторы натуральные, консерванты (сорбиновая кислота, Е385), красители (каротин, экстракт  паприки). Продукт содержит лактозу, может содержать следы сельдерея, горчицы и продуктов их переработки",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пряники Зерница Славянские мятный вкус 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "83.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": null,
   "information": [
     {

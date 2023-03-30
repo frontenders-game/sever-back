@@ -2,11 +2,14 @@
   "name": "Майонез Слобода оливковый 67%, 800мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 195.99,
-  "priceWithCard": 190.11,
-  "promo": null,
+  "priceRegular": "195.99",
+  "priceWithCard": "182.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Подсолнечное и оливковое масла, вода, сахар, яичный желток, соль поваренная, лимонный сок, уксус, горчичное масло.",
   "information": [
     {

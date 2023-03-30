@@ -2,11 +2,14 @@
   "name": "Салфетки Honey Kid влажные детские с алоэ 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 41.39,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "41.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": null,
   "information": [
     {

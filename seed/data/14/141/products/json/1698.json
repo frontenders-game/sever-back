@@ -2,11 +2,14 @@
   "name": "Вода Ессентуки минеральная целебная газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.49,
-  "priceWithCard": 64.18,
-  "promo": null,
+  "priceRegular": "65.49",
+  "priceWithCard": "60.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "основной ионный состав: анионы HCO 1600-1800, SO2 1300-1600, CI 1800-2200, катионы: Ca <250, Mg <100, (Na+Ka) 2100-2400",
   "information": [
     {

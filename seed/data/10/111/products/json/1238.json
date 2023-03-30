@@ -2,16 +2,14 @@
   "name": "Сливки Белый Город 33% 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 265.99,
-  "priceWithCard": 244.71,
-  "promo": {
-    "discountedPriceRegular": 226.09,
-    "discountedPriceWithCard": 208.0,
-    "discountPercent": 15,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 17,
+  "priceRegular": "265.99",
+  "priceWithCard": "247.37",
+  "discountPercent": 15,
+  "discountedPrice": "210.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 13,
   "ingredients": "нормализованные сливки, стабилизаторы: моно- и диглицериды жирных кислот, каррагинан",
   "information": [
     {

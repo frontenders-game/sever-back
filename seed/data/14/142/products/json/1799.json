@@ -2,16 +2,14 @@
   "name": "Сок Добрый яблочный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 130.19,
-  "promo": {
-    "discountedPriceRegular": 118.99,
-    "discountedPriceWithCard": 110.66,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": 15,
+  "discountedPrice": "116.61",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 43,
+  "stockCount": 39,
   "ingredients": "яблочный сок, содержит сахара природного происхождения",
   "information": [
     {

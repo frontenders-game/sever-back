@@ -2,11 +2,14 @@
   "name": "Сметана Пискаревский 20%, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.99,
-  "priceWithCard": 60.75,
-  "promo": null,
+  "priceRegular": "61.99",
+  "priceWithCard": "60.75",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Сливки, с использованием закваски.",
   "information": [
     {

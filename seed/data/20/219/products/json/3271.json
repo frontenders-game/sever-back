@@ -2,11 +2,14 @@
   "name": "Творог Агуша 4.5% с 6 мес. 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 35.51,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "35.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "молоко нормализованное, закваска",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Зефир Зефирюшки Enchantimals воздушный для десертов 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 139.49,
-  "promo": {
-    "discountedPriceRegular": 70.5,
-    "discountedPriceWithCard": 65.56,
-    "discountPercent": 53,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "137.99",
+  "discountPercent": 53,
+  "discountedPrice": "64.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сахар-песок, патока, вода питьевая, глюкоза кристаллическая, желатин пищевой, кукурузный крахмал, ароматизатор натуральный: ваниль",
   "information": [
     {

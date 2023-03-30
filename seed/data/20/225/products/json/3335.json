@@ -2,11 +2,14 @@
   "name": "Печенье детское Бонди Бегемотик обогащенное кальцием с 5 мес. 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 85.99,
-  "priceWithCard": 80.83,
-  "promo": null,
+  "priceRegular": "85.99",
+  "priceWithCard": "83.41",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мука пшеничная хлебопекарная высший сорт, сахар-песок, масло сливочное высший сорт, яйцо куриное, вода питьевая, экстракт солодовый, молоко сухое цельное, минеральные внщества (лактат кальция, кальций фосфорнокислый (однозамещенный), железо сернокислое (II) семиводное чистое), крахмал кукурузный, разрыхлитель (карбонаты натрия), витамины: С, РР, В1, В2",
   "information": [
     {

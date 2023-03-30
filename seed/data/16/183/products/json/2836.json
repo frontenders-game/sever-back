@@ -2,11 +2,14 @@
   "name": "Сахар белый песок 5кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 220.99,
-  "priceWithCard": 201.1,
-  "promo": null,
+  "priceRegular": "220.99",
+  "priceWithCard": "205.52",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Сахар.",
   "information": [
     {

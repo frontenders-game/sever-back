@@ -2,11 +2,14 @@
   "name": "Крем Аванта Детский 46мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "46.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "paraffinum liquidum, aqua, ceresin, paraffin, sorbitan oleate, hydrogenated vegetable oil, lanolin, magnesium sulfate, ethyl linoleate (and) ethyl linolenate (and) ethyl oleate, benzyl acetate, benzyl alcohol, eucalyptus globulus leaf oil, сhamomilla recutita (matricaria) flowers extract, retinyl palmitate, menthol",
   "information": [
     {

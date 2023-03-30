@@ -2,11 +2,14 @@
   "name": "Чай Крепкие Традиции черный байховый в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 154.99,
-  "priceWithCard": 141.04,
-  "promo": null,
+  "priceRegular": "154.99",
+  "priceWithCard": "147.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "чай черный байховый первый сорт",
   "information": [
     {

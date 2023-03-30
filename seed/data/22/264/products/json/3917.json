@@ -2,16 +2,14 @@
   "name": "Пена для бритья Nivea Men успокаивающая, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 309.99,
-  "priceWithCard": 288.29,
-  "promo": {
-    "discountedPriceRegular": 201.49,
-    "discountedPriceWithCard": 187.39,
-    "discountPercent": 35,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 9,
+  "priceRegular": "309.99",
+  "priceWithCard": "297.59",
+  "discountPercent": 35,
+  "discountedPrice": "193.43",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 5,
   "ingredients": "Aqua, Isobutane, TEA-Stearate, Laureth-23, Glycerin, Glycyrrhiza Inflata Root Extract, Chamomilla Recutita Flower Extract, Panthenol, Propylene Glycol, Sorbitol, Maltodextrin, Coco-Caprylate/Caprate, Hydroxypropyl Methylcellulose, PEG-7M, Potassium Stearate, Butane, Propane, Piroctone Olamine, Linalool, Limonene, Parfum, CI 42090, CI 10316.",
   "information": [
     {

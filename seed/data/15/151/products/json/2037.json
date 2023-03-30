@@ -2,11 +2,14 @@
   "name": "Спички Пыл да жар хозяйственные 700шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 127.39,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "118.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": null,
   "information": [
     {

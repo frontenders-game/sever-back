@@ -2,16 +2,14 @@
   "name": "Шоколад Россия-Щедрая Душа Gold Selection Марципан молочный с миндалем 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": {
-    "discountedPriceRegular": 55.99,
-    "discountedPriceWithCard": 52.07,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "73.59",
+  "discountPercent": 30,
+  "discountedPrice": "51.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "сахар, молоко сухое цельное, жир специального назначения (из пальмового масла), масло какао, какао тертое, сыворотка молочная сухая, миндаль дробленный, молочный жир, эмульгаторы (лецитины, Е475, Е476), фисташка тертая, ароматизаторы натуральные, соль, антиокислители (аскорбиновая кислота, l-, альфа-токоферол). Продукт может содержать арахис, другие орехи, яичный белок, глютен, сою и кунжут",
   "information": [
     {

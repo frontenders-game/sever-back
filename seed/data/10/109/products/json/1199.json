@@ -2,11 +2,14 @@
   "name": "Напиток кисломолочный Имунеле Малина-Морошка 1.2% 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.59,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "28.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "А - молоко нормализованное, сахар, вода, глюкозно-фруктозный сироп, концентрированный малиновый сок, стабилизатор - пектин, ароматизаторы, витаминно-минеральный премикс, краситель - бета-каротин, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), закваска, пробиотические микроорганизмы (Lactobacillus Casei, Lactobacillus Rhamnosus).",
   "information": [
     {

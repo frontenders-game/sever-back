@@ -2,11 +2,14 @@
   "name": "Сок Global Village яблочный 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 26.99,
-  "priceWithCard": 25.1,
-  "promo": null,
+  "priceRegular": "26.99",
+  "priceWithCard": "25.10",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Яблочный сок.",
   "information": [
     {

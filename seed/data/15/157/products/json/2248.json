@@ -2,11 +2,14 @@
   "name": "Конфеты Pink Truffle с начинками 163г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 123.49,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "126.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "жиры растительные, сахар, какао-порошок, сыворотка молочная сухая деминерализованная, патока, эмульгаторы: лецитин соевый; ароматизаторы, краситель сахарный колер Е150d. В составе содержатся продукты переработки молока и сои. Возможно содержание муки пшеничной, орехов, арахиса и продуктов переработки яиц",
   "information": [
     {

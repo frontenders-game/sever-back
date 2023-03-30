@@ -2,11 +2,14 @@
   "name": "Перчатки Econta трикотажные р.8, 5пар",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 116.39,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "115.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 42,
+  "stockCount": 38,
   "ingredients": "70% х/б пряжа, 30% полиэфирная нить, поливинилхлоридное покрытие (точка).",
   "information": [
     {

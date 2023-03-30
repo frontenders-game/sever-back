@@ -2,16 +2,14 @@
   "name": "Салями сырокопчёная Клинский Венская, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 389.99,
-  "priceWithCard": 362.69,
-  "promo": {
-    "discountedPriceRegular": 261.29,
-    "discountedPriceWithCard": 243.0,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "389.99",
+  "priceWithCard": "382.19",
+  "discountPercent": 33,
+  "discountedPrice": "256.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Свинина, шпик, белок (соевый) растительный, соль нитритная (соль, фиксатор окраски – Е250), комплексная пищевая добавка (пищевые волокна (пшеница), сахар, регуляторы кислотности – Е451(ii), антиокислитель – Е316, краситель пищевой – Е120), черный перец, кардамон, усилитель вкуса и аромата Е621, стартовая культура.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Напиток чайный Greenfield Черри блоссом фруктовый с ароматом вишни в пакетиках 25х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 133.99,
-  "priceWithCard": 125.95,
-  "promo": null,
+  "priceRegular": "133.99",
+  "priceWithCard": "123.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Гибискус, плоды шиповника, яблоко сушеное, ароматизатор малина, листья ежевики, измельченные ягоды малины, ароматизатор вишня.",
   "information": [
     {

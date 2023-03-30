@@ -2,16 +2,14 @@
   "name": "Средство Sanfor Chlorum санитарно-гигиеническое 700г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 130.94,
-  "promo": {
-    "discountedPriceRegular": 107.99,
-    "discountedPriceWithCard": 104.75,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "134.99",
+  "priceWithCard": "125.54",
+  "discountPercent": 20,
+  "discountedPrice": "100.43",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "≥ 5 %, но ˂ 15 % гипохлорит натрия, ˂ 5 %: АПАВ или мыло на основе натуральных жирных кислот, НПАВ, щёлочь, ароматизирующая добавка",
   "information": [
     {

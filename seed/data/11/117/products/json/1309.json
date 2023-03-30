@@ -2,16 +2,14 @@
   "name": "Крекер Зерница с луком 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 47.49,
-  "promo": {
-    "discountedPriceRegular": 39.99,
-    "discountedPriceWithCard": 37.99,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "48.99",
+  "discountPercent": 20,
+  "discountedPrice": "39.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": null,
   "information": [
     {

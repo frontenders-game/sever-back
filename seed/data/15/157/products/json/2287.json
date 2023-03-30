@@ -2,16 +2,14 @@
   "name": "Конфеты Родные Просторы с вафельной крошкой 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 278.99,
-  "priceWithCard": 265.04,
-  "promo": {
-    "discountedPriceRegular": 195.29,
-    "discountedPriceWithCard": 185.53,
-    "discountPercent": 30,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 9,
+  "priceRegular": "278.99",
+  "priceWithCard": "256.67",
+  "discountPercent": 30,
+  "discountedPrice": "179.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 5,
   "ingredients": "сахар, арахис тертый (20,6%), какао тертое, вафля (8,9%) (мука пшеничная (содержит глютен), продукты яичные, соль, разрыхлитель (гидрокарбонат натрия)), жир специального назначения (масла пальмовое, ши), эквивалент масла какао (масла пальмовое, ши), сыворотка молочная сухая, молочный жир, эмульгаторы (соевый лецитин, Е476). Продукт может содержать орехи",
   "information": [
     {

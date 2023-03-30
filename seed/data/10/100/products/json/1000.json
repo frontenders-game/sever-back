@@ -2,11 +2,14 @@
   "name": "Молоко Станция Молочная 3.3-6.0% 930мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 78.99,
-  "priceWithCard": 71.88,
-  "promo": null,
+  "priceRegular": "78.99",
+  "priceWithCard": "75.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "молоко нормализованное",
   "information": [
     {

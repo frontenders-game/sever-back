@@ -2,11 +2,14 @@
   "name": "Зельц Мясная Ферма прессованное мясо 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 137.19,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "135.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "мясо свиных голов вареное, вода питьевая, чеснок, мальтодекстрин, ароматизаторы, дрожжевой экстракт, нитритно-посолочная смесь (соль пищевая, фиксатор окраски - Е250). На предприятии используются: злаки, содержащие глютен, сельдерей, горчица и ее производные, яйца и продукты их переработки, соя и продукты её переработки, молоко и молочные белки, включая лактозу; мясо птицы.",
   "information": [
     {

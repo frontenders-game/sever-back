@@ -2,11 +2,14 @@
   "name": "Орех Арахис жареный соленый",
   "unitsOfMeasurement": "кг",
   "step": "0.25",
-  "priceRegular": 349.99,
-  "priceWithCard": 325.49,
-  "promo": null,
+  "priceRegular": "349.99",
+  "priceWithCard": "321.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "арахис жареный соленый",
   "information": [
     {

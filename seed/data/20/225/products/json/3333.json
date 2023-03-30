@@ -2,11 +2,14 @@
   "name": "Кусочки фруктовые ФрутоНяня Яблоко клубника банан с 12 мес. 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.49,
-  "priceWithCard": 43.24,
-  "promo": null,
+  "priceRegular": "46.49",
+  "priceWithCard": "42.77",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 41,
+  "stockCount": 37,
   "ingredients": "пюре из яблок концентрированное, сок из яблок концентрированный, пюре из клубники, пюре из бананов, сок из рябины черноплодной концентрированный, цитрусовые пищевые волокна, пектин, пищевые волокна",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Сухой корм Katty для взрослых кошек 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 156.79,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "151.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Огурцы Global Village короткоплодные, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 151.99,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "155.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 57,
+  "stockCount": 53,
   "ingredients": "огурцы.",
   "information": [
     {

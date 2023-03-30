@@ -2,11 +2,14 @@
   "name": "Чай Richard Королевский цейлон черный листовой 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 153.99,
-  "priceWithCard": 144.75,
-  "promo": null,
+  "priceRegular": "153.99",
+  "priceWithCard": "144.75",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "цейлонский черный листовой чай",
   "information": [
     {

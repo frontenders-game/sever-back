@@ -2,16 +2,14 @@
   "name": "Пюре фруктовое Агуша Груша для детей с 4 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.14,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 42.96,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 16,
+  "discountedPrice": "43.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "грушевое пюре, грушевый сок, лимонный сок",
   "information": [
     {

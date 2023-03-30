@@ -2,16 +2,14 @@
   "name": "Сосиски Великолукский МК детям 330г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 191.99,
-  "promo": {
-    "discountedPriceRegular": 109.99,
-    "discountedPriceWithCard": 105.59,
-    "discountPercent": 45,
-    "isActive": true
-  },
+  "priceRegular": "199.99",
+  "priceWithCard": "193.99",
+  "discountPercent": 45,
+  "discountedPrice": "106.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "свинина, говядина, филе грудки куриное, молоко коровье, натуральные пряности (кардамон, мускат), вода питьевая очищенная, соль поваренная, мультивитаминный комплекс, антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Корректор Berlingo Fuze в ассортименте 8мл 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 140.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "145.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": null,
   "information": [
     {

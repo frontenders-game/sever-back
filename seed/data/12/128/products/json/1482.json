@@ -2,11 +2,14 @@
   "name": "Семечки От Мартина отборные микс жареные соленые 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 101.19,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "105.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "смесь семечек разных видов, поваренная и морская соль",
   "information": [
     {

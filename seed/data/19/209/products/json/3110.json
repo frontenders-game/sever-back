@@ -2,11 +2,14 @@
   "name": "Влажный корм Whiskas паштет с уткой для кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 19.39,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "19.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 48,
+  "stockCount": 44,
   "ingredients": "мясо и субпродукты (в том числе утка), продукты животного происхождения, аминокислоты (в том числе таурин), загустители, минеральные вещества, витамины, свекловичный жом, сахара",
   "information": [
     {

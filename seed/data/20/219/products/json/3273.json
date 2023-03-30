@@ -2,11 +2,14 @@
   "name": "Творог Растишка Клубника-банан и Пломбир 3.5% в ассортименте 6х45г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 77.27,
-  "promo": null,
+  "priceRegular": "83.99",
+  "priceWithCard": "77.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "обезжиренный творог, сливки, фруктовый наполнитель (сахарный сироп; банановое пюре; пюре клубники концентрированное; кальций (кальция цитрат); кукурузный крахмал; концентрированные соки лимона и красной свеклы; натуральные ароматизаторы; краситель – экстракт паприки; витамин Д3), сахар",
   "information": [
     {

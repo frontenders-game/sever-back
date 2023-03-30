@@ -2,16 +2,14 @@
   "name": "Сок Сады Придонья яблоко-вишня без сахара восстановленный 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 32.42,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 28.21,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "34.49",
+  "priceWithCard": "32.77",
+  "discountPercent": 13,
+  "discountedPrice": "28.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 41,
+  "stockCount": 37,
   "ingredients": "яблочный сок, вишневый сок. Изготовлен из концентрированных соков. Без добавления сахара",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Печенье Спартак Постное с кунжутом и льном 220г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 76.79,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 67.58,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "77.59",
+  "discountPercent": 12,
+  "discountedPrice": "68.28",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "мука пшеничная, масло подсолнечное, сахар, крахмал кукурузный, инвертный сироп, семена кунжута, семена льна, соль йодированная (содержит антислеживающий агент (ферроцианид калия)), разрыхлители (гидрокарбонат натрия (сода пищевая), гидрокарбонат аммония), ароматизатор «ваниль». Продукт может содержать следы арахиса, орехов, молочных и яичных продуктов, сульфитов",
   "information": [
     {

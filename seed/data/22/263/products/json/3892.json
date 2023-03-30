@@ -2,11 +2,14 @@
   "name": "Мыло туалетное Невская Косметика Дегтярное, 140г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "58.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 69,
+  "stockCount": 65,
   "ingredients": "Sodium Palmate, Sodium Tallowate, Sodium Cocoate, Aqua, Glycerin, Betula Tar, Triethanolamine, PEG-400, Disodium EDTA,Citric Acid, Cellulose Gum, Benzoic Acid, Sodium Chloride.",
   "information": [
     {

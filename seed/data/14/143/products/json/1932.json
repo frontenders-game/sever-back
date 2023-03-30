@@ -2,16 +2,14 @@
   "name": "Напиток Русский дар Лимонад дюшес газированный 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 85.49,
-  "promo": {
-    "discountedPriceRegular": 71.99,
-    "discountedPriceWithCard": 68.39,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "89.99",
+  "priceWithCard": "88.19",
+  "discountPercent": 20,
+  "discountedPrice": "70.55",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "вода, сахар, регулятор кислотности Е330, подсластители (Е950, Е951, Е952, Е954), ароматизатор, консерванты (Е202, Е211), краситель Е150d",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Пюре Сады Придонья из цветной капусты с 4 мес. 125г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 32.49,
-  "priceWithCard": 31.19,
-  "promo": {
-    "discountedPriceRegular": 28.27,
-    "discountedPriceWithCard": 27.14,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "32.49",
+  "priceWithCard": "30.22",
+  "discountPercent": 13,
+  "discountedPrice": "26.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "пюре из цветной капусты",
   "information": [
     {

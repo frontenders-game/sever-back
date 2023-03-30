@@ -2,11 +2,14 @@
   "name": "Мини-сушки Невская Сушка с солью, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 91.99,
-  "priceWithCard": 83.71,
-  "promo": null,
+  "priceRegular": "91.99",
+  "priceWithCard": "85.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло подсолнечное, соль поваренная пищевая, дрожжи хлебопекарные прессованные. Продукт может содержать следы арахиса, кунжута и яичных продуктов.",
   "information": [
     {

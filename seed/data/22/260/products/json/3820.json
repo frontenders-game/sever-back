@@ -2,16 +2,14 @@
   "name": "Зубная щётка Colgate Шёлковые нити с древесным углём мягкая в ассортименте",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 294.99,
-  "priceWithCard": 271.39,
-  "promo": {
-    "discountedPriceRegular": 191.74,
-    "discountedPriceWithCard": 176.4,
-    "discountPercent": 35,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 8,
+  "priceRegular": "294.99",
+  "priceWithCard": "283.19",
+  "discountPercent": 35,
+  "discountedPrice": "184.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 4,
   "ingredients": "100% пластик.",
   "information": [
     {

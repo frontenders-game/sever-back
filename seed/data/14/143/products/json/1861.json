@@ -2,11 +2,14 @@
   "name": "Напиток Ascania Вишня газированный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 119.59,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "119.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "подготовленная вода, сахар, концентрат вишневого сока, регулятор кислотности лимонная кислота, красители: концентрат моркови, сахарный колер IV, ароматизатор пищевой вишня, консервант бензоат натрия",
   "information": [
     {

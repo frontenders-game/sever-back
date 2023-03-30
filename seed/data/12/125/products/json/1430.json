@@ -2,11 +2,14 @@
   "name": "Салат Айсберг 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 159.79,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "154.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Салат Айсберг.",
   "information": [
     {

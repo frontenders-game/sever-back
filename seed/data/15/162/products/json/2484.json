@@ -2,11 +2,14 @@
   "name": "Козинак Азовская КФ арахисовый на фруктозе 110г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.34,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "52.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "ядро арахиса жареное, фруктоза, патока. Возможно наличие незначительного количества подсолнечника, кунжута и орехов (миндаль, фундук, грецкий орех)",
   "information": [
     {

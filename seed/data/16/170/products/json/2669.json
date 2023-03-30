@@ -2,11 +2,14 @@
   "name": "Кофе молотый Lebo Extra Арабика для турки 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 92.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "93.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "кофе жареный молотый Арабика среднеобжаренный",
   "information": [
     {

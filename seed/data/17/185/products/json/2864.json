@@ -2,11 +2,14 @@
   "name": "Рис шлифованный дробленый 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 56.19,
-  "priceWithCard": 52.82,
-  "promo": null,
+  "priceRegular": "56.19",
+  "priceWithCard": "51.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Рис шлифованный дробленый",
   "information": [
     {

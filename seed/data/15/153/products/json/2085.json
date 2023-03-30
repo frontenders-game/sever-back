@@ -2,11 +2,14 @@
   "name": "Шоколад Ritter Sport Белый Цельный лесной орех и хлопья 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 118.29,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "120.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сахар, масло какао, сухое цельное молоко, ядро ореха лещины, лактоза, рис, молочный жир, эмульгатор (соевый лецитин), соль, экстракт ячменного солода. Возможно наличие следов арахиса, орехов и яиц. Содержание масла какао - не менее 20%. Содержание в шоколадной массе: общего сухого остатка какао - не менее 26%",
   "information": [
     {

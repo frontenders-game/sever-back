@@ -2,16 +2,14 @@
   "name": "Кофе растворимый Jacobs Day & Night декофеинизированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 519.99,
-  "priceWithCard": 473.19,
-  "promo": {
-    "discountedPriceRegular": 322.39,
-    "discountedPriceWithCard": 293.38,
-    "discountPercent": 38,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 10,
+  "priceRegular": "519.99",
+  "priceWithCard": "488.79",
+  "discountPercent": 38,
+  "discountedPrice": "303.05",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 6,
   "ingredients": "кофе натуральный растворимый сублимированный декофеинизированный",
   "information": [
     {

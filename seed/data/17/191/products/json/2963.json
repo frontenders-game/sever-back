@@ -2,11 +2,14 @@
   "name": "Макароны Зерница Витой рожок, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.49,
-  "priceWithCard": 46.52,
-  "promo": null,
+  "priceRegular": "49.49",
+  "priceWithCard": "46.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Мука из твердой пшеницы для макаронных изделий, вода питьевая. Содержит натуральный белок злаковых культур - глютен.",
   "information": [
     {

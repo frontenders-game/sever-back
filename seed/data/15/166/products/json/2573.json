@@ -2,16 +2,14 @@
   "name": "Козинак Mixbar подсолнечный, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": {
-    "discountedPriceRegular": 35.19,
-    "discountedPriceWithCard": 34.49,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": 12,
+  "discountedPrice": "34.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 44,
+  "stockCount": 40,
   "ingredients": "Обжаренное ядро подсолнечника, сахар-песок, патока.",
   "information": [
     {

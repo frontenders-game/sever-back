@@ -2,16 +2,14 @@
   "name": "Козинак Mixbar арахисовый, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.44,
-  "priceWithCard": 69.54,
-  "promo": {
-    "discountedPriceRegular": 63.02,
-    "discountedPriceWithCard": 60.5,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "72.44",
+  "priceWithCard": "69.54",
+  "discountPercent": 13,
+  "discountedPrice": "60.50",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Ядро арахиса жареное, сахар, патока. Возможно наличие незначительного количества подсолнечника, кунжута и орехов (миндаль, фундук, грецкий орех).",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Вода Сенежская минеральная питьевая негазированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.79,
-  "promo": {
-    "discountedPriceRegular": 33.99,
-    "discountedPriceWithCard": 31.27,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "39.99",
+  "priceWithCard": "38.39",
+  "discountPercent": 15,
+  "discountedPrice": "32.63",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "гидрокарбонаты 250-450, кальций 50-80, магний 15-40",
   "information": [
     {

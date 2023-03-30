@@ -2,11 +2,14 @@
   "name": "Треска Гостово порции филе без кожи атлантическая замороженная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 435.99,
-  "priceWithCard": 427.27,
-  "promo": null,
+  "priceRegular": "435.99",
+  "priceWithCard": "427.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "треска филе (Gadus morhua). Продукт может содержать следы ракообразных, моллюсков",
   "information": [
     {

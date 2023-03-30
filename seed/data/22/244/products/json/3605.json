@@ -2,16 +2,14 @@
   "name": "Гель для стирки Synergetic для детского белья гипоаллергенное 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 483.99,
-  "priceWithCard": 445.27,
-  "promo": {
-    "discountedPriceRegular": 382.35,
-    "discountedPriceWithCard": 351.76,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "483.99",
+  "priceWithCard": "454.95",
+  "discountPercent": 21,
+  "discountedPrice": "359.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": "подготовленная вода > 30%, комплекс растительных А-тензидов 5–15%, комплекс растительных Н-тензидов < 5%, зелёный хелат < 5%",
   "information": [
     {

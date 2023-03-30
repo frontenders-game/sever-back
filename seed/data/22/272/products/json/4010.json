@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Tolli Classic цветная 2 слоя 4шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 76.79,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "100 % целлюлоза.",
   "information": [
     {

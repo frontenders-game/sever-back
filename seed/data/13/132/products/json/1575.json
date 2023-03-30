@@ -2,11 +2,14 @@
   "name": "Палочки рыбные Fish HouseTheragra Chalcogramma в панировке 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 214.99,
-  "priceWithCard": 204.24,
-  "promo": null,
+  "priceRegular": "214.99",
+  "priceWithCard": "204.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Филе минтая, сухари панировочные (мука пшеничная высшего сорта, вода питьевая, соль, дрожжи, красители: аннато, куркумин; специи; имбирь; куркума), вода, питьевая, мука пшеничная первого сорта, крахмал картофельный, соль.",
   "information": [
     {

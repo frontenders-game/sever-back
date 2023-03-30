@@ -2,11 +2,14 @@
   "name": "Халва Азовская КФ Подсолнечная 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 32.42,
-  "promo": null,
+  "priceRegular": "34.49",
+  "priceWithCard": "31.73",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Ядро подсолнечника протертое, патока крахмальная, сахар-песок, пенообразователь: экстракт солодкового корня, ароматизатор \"Ванилин\".  Возможно наличие незначительного количества арахиса, кунжута, мака и сушеных фруктов",
   "information": [
     {

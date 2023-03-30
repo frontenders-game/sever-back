@@ -2,11 +2,14 @@
   "name": "Бритва Venus Simply женская, 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 136.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "140.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Peg-115m, peg-7m, peg-100, silica, aloe barbadensis leaf juice, pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate, tocopheryl acetate, tris(di-t-butyl) phosphite, bht, glycol.",
   "information": [
     {

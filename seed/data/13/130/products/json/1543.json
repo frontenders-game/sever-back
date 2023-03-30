@@ -2,16 +2,14 @@
   "name": "Пельмени Цезарь классика 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 556.99,
-  "priceWithCard": 545.85,
-  "promo": {
-    "discountedPriceRegular": 300.77,
-    "discountedPriceWithCard": 294.76,
-    "discountPercent": 46,
-    "isActive": true
-  },
+  "priceRegular": "556.99",
+  "priceWithCard": "523.57",
+  "discountPercent": 46,
+  "discountedPrice": "282.73",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Мука пшеничная высшего сорта, говядина, свинина, вода питьевая, яйцо куриное, лук репчатый, соль поваренная, перец черный.",
   "information": [
     {

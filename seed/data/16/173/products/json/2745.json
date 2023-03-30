@@ -2,11 +2,14 @@
   "name": "Чай Ahmad Tea Английски завтрак черный в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 514.99,
-  "priceWithCard": 484.09,
-  "promo": null,
+  "priceRegular": "514.99",
+  "priceWithCard": "473.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "чай черный байховый мелкий",
   "information": [
     {

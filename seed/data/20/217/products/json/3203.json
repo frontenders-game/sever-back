@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Яблоко Груша Банан Персик с йогуртом с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 60.15,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 46.32,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "62.71",
+  "discountPercent": 23,
+  "discountedPrice": "48.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Пюре из яблок, пюре из груш, пюре из бананов, пюре из персиков, йогурт.",
   "information": [
     {

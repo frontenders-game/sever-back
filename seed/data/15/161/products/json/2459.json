@@ -2,16 +2,14 @@
   "name": "Мармелад Бон Пари Кислые змейки жевательный фигурный фрукты 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": {
-    "discountedPriceRegular": 81.19,
-    "discountedPriceWithCard": 74.7,
-    "discountPercent": 42,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "134.39",
+  "discountPercent": 42,
+  "discountedPrice": "77.95",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "патока, сахар, желатин, регуляторы кислотности (лимонная и молочная кислоты, лактат кальция), вода, концентрированный яблочный сок, натуральные красители (антоцианы (получен из моркови), куркумин, медные комплексы хлорофиллинов (получен из шелковицы)), натуральные ароматизаторы (черная смородина, яблоко, с маслом лимона, малина), комплексная пищевая добавка (уголь растительный, глицерин)",
   "information": [
     {

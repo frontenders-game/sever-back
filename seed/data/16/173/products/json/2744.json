@@ -2,11 +2,14 @@
   "name": "Чай Greenfield Earl Grey Fantasy черный с бергамотом 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 184.99,
-  "priceWithCard": 175.74,
-  "promo": null,
+  "priceRegular": "184.99",
+  "priceWithCard": "172.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "чай черный байховый, цедра цитрусовых, натуральный ароматизатор \"бергамот\", лепестки василька и календулы",
   "information": [
     {

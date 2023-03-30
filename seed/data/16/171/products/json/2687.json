@@ -2,16 +2,14 @@
   "name": "Кофе Jardin Original oro жареный в зернах 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 586.99,
-  "priceWithCard": 575.25,
-  "promo": {
-    "discountedPriceRegular": 363.93,
-    "discountedPriceWithCard": 356.65,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "586.99",
+  "priceWithCard": "563.51",
+  "discountPercent": 38,
+  "discountedPrice": "349.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 5,
+  "stockCount": 1,
   "ingredients": "кофе жареный",
   "information": [
     {

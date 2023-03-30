@@ -2,11 +2,14 @@
   "name": "Творог Вкуснотеево 9% 750г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 314.99,
-  "priceWithCard": 289.79,
-  "promo": null,
+  "priceRegular": "314.99",
+  "priceWithCard": "292.94",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Нормализованное коровье молоко, закваска.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кефир Пискаревский 2.5%, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.99,
-  "priceWithCard": 56.63,
-  "promo": null,
+  "priceRegular": "58.99",
+  "priceWithCard": "56.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Молоко цельное, молоко обезжиренное, с использованием закваски на кефирных грибках.",
   "information": [
     {

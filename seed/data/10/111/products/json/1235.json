@@ -2,11 +2,14 @@
   "name": "Сливки Село Зелёное стерилизованные 20% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 106.99,
-  "priceWithCard": 102.71,
-  "promo": null,
+  "priceRegular": "106.99",
+  "priceWithCard": "99.50",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Сливки нормализованные.",
   "information": [
     {

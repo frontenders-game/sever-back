@@ -2,11 +2,14 @@
   "name": "Сушки Каравай Малышок сдобные 400 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 136.99,
-  "priceWithCard": 132.88,
-  "promo": null,
+  "priceRegular": "136.99",
+  "priceWithCard": "134.25",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, масло подсолнечное, дрожжи хлебопекарные, соль.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Крем-гель Dove для душа Глубокое питание и увлажнение бессульфатный 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 254.79,
-  "promo": null,
+  "priceRegular": "259.99",
+  "priceWithCard": "239.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Aqua, Cocamidopropyl Betaine, Sodium Hydroxypropyl Starch Phosphate, Lauric Acid, Sodium Lauroyl Glycinate, Sodium Lauroyl Isethionate, Hydrogenated Soybean Oil, Helianthus Annuus Hybrid Oil, Glycerin, Parfum, Guar Hydroxypropyltrimonium Chloride, Stearic Acid, Palmitic Acid, Sodium Isethionate, Sodium Chloride, Citric Acid, Sodium Hydroxide, BHT, Tetrasodium EDTA, DMDM Hydantoin, Methylisothiazolinone, Benzyl Alcohol, Butylphenyl Methylpropional, Citronellol, Hexyl Cinnamal, Limonene, Linalool.",
   "information": [
     {

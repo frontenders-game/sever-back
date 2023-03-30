@@ -2,11 +2,14 @@
   "name": "Арахис в скорлупе сырой",
   "unitsOfMeasurement": "кг",
   "step": "0.1",
-  "priceRegular": 349.99,
-  "priceWithCard": 325.49,
-  "promo": null,
+  "priceRegular": "349.99",
+  "priceWithCard": "325.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Арахис сырой.",
   "information": [
     {

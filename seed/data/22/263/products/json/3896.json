@@ -2,16 +2,14 @@
   "name": "Мыло жидкое Absolut Nature ромашка, 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 112.69,
-  "promo": {
-    "discountedPriceRegular": 85.09,
-    "discountedPriceWithCard": 83.39,
-    "discountPercent": 26,
-    "isActive": true
-  },
+  "priceRegular": "114.99",
+  "priceWithCard": "108.09",
+  "discountPercent": 26,
+  "discountedPrice": "79.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Sodium Chlroide, PEG-7 Glyceryl Cocoate, Styrene/Acrylates Copolymer (and) Coco-Gluciside, Parfum (Butylphenyl Methylpropional), Triclocarban, Chamomilla Recutita Flower Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citric Acid, Tetrasodium EDTA/ Disodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone.",
   "information": [
     {

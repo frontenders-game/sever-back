@@ -2,11 +2,14 @@
   "name": "Сервелат Великолукский МК Зернистый варено-копченый 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 242.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "239.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "свинина, филе куриной грудки, шпик, молоко коровье, натуральные пряности (перец черный, белый молотый, тмин, чеснок, мускатный орех), соль, стабилизаторы (Е407, Е450iii), краситель (Е120), антиокислитель (аскорбиновая кислота), посолочно-нитритная смесь (соль, фиксатор окраски - нитрит натрия)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Яблоки Гренни Смит",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 111.99,
-  "priceWithCard": 105.27,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 94.74,
-    "discountPercent": 10,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 27,
+  "priceRegular": "111.99",
+  "priceWithCard": "105.27",
+  "discountPercent": 10,
+  "discountedPrice": "94.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 23,
   "ingredients": "Яблоки.",
   "information": [
     {

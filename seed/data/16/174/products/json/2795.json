@@ -2,11 +2,14 @@
   "name": "Чай зеленый Greenfield Flying Dragon крупнолистовой 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 164.99,
-  "priceWithCard": 150.14,
-  "promo": null,
+  "priceRegular": "164.99",
+  "priceWithCard": "156.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "чай зеленый байховый",
   "information": [
     {

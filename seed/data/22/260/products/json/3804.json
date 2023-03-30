@@ -2,11 +2,14 @@
   "name": "Зубная паста Splat отбеливание плюс, 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 188.99,
-  "priceWithCard": 181.43,
-  "promo": null,
+  "priceRegular": "188.99",
+  "priceWithCard": "175.76",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Aqua, Hydrogenated Starch Hydrolysate, Hydrated Silica, Potassium Nitrate, Dicalcium Phosphate Dihydrate, PEG-8, Calcium Pyrophosphate, Pentasodium Triphosphate, Aroma, Sodium Coco-Sulfate, Cellulose Gum, Sodium Monofluorophosphate, CI 77891, Sodium Lauroyl Sarcosinate, PVP, Sodium Methylparaben, Sodium Saccharin, Menthol, Papain, Limonene. Fluoride content – 0, 1 % (1000 ppm).",
   "information": [
     {

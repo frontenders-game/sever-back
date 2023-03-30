@@ -2,16 +2,14 @@
   "name": "Каша ФрутоНяня рисовая тыква-абрикос с 5 мес. 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 161.49,
-  "promo": {
-    "discountedPriceRegular": 135.99,
-    "discountedPriceWithCard": 129.19,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "164.89",
+  "discountPercent": 20,
+  "discountedPrice": "131.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "мука рисовая, молоко сухое обезжиренное, сахар, сливки сухие, масло кукурузное, пюре тыквенное, пюре абрикосовое концентрированное, витамины (C, E, PP, пантотеновая кислота, B2, B1, B6, A, фолиевая кислота, D3, биотин, B12), минеральные вещества ( железо, цинк, йод). Продукт может содержать следы глютена",
   "information": [
     {

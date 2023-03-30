@@ -2,16 +2,14 @@
   "name": "Пюре Агуша яблоко-малина-шиповник с 5 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.69,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 43.42,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 16,
+  "discountedPrice": "43.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Яблочное пюре, пюре из малины, концентрированный яблочный сок, концентрированный сок шиповника.",
   "information": [
     {

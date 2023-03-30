@@ -2,16 +2,14 @@
   "name": "Сок Soko Grande Гранатовый прямого отжима 0.3л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 48.38,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": 28,
+  "discountedPrice": "48.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Сок гранатовый прямого отжима.",
   "information": [
     {

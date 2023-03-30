@@ -2,11 +2,14 @@
   "name": "Корм влажный Katty с говядиной и ягненком в соусе для кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 17.85,
-  "promo": null,
+  "priceRegular": "18.99",
+  "priceWithCard": "18.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "мясо и мясные субпродукты ( в т.ч говядина мин. 4%, ягненок мин. 4%), фарш куриный, рыба и рыбные субпродукты, злаки, протеины жвиотного происхождения, витаминно-минеральный комплекс для кошек, таурин. Не содержит ГМО",
   "information": [
     {

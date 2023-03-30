@@ -2,16 +2,14 @@
   "name": "Капсулы Mipao для стирки детского белья жидкие 15шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 349.99,
-  "priceWithCard": 335.99,
-  "promo": {
-    "discountedPriceRegular": 300.99,
-    "discountedPriceWithCard": 288.95,
-    "discountPercent": 14,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 7,
+  "priceRegular": "349.99",
+  "priceWithCard": "335.99",
+  "discountPercent": 14,
+  "discountedPrice": "288.95",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 3,
   "ingredients": "пав - 15%  или более но менее 30% средство для смягчения воды- более 5%   но менее 15% средство против повторного осаждения пятен- более 5%   но менее 15% ароматизатор – менее 5% энзимы – менее 5%",
   "information": [
     {

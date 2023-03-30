@@ -2,16 +2,14 @@
   "name": "Картофельное пюре Бизнес Меню с куриным филе и овощими110 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 101.84,
-  "promo": {
-    "discountedPriceRegular": 75.59,
-    "discountedPriceWithCard": 73.32,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "104.99",
+  "priceWithCard": "100.79",
+  "discountPercent": 28,
+  "discountedPrice": "72.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "хлопья картофельные, заменитель сухого молочного продукта 30% (патока крахмальная, масло пальмовое, казеинат натрия), соль поваренная пищевая, сахар-песок, морковь, лук зеленый, лук репчатый, зелень укропа и петрушки, перец черный, усилитель вкуса – глютамат натрия; филе куриное с приправами: филе куриное, вода, соль поваренная пищевая, лук репчатый, чеснок, морковь, масло растительное, перец черный, перец сладкий, хмели-сунели, куркума",
   "information": [
     {

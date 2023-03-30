@@ -2,11 +2,14 @@
   "name": "Хлебцы Dr.Korner Злаковый коктейль клюквенные 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 85.99,
-  "priceWithCard": 83.41,
-  "promo": null,
+  "priceRegular": "85.99",
+  "priceWithCard": "82.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Пшеница, крупа рисовая, фруктоза, крупа гречневая ядрица, ароматизатор натуральный клюквенный, соль йодированная, подсластитель сукралоза, сок клюквенный.",
   "information": [
     {

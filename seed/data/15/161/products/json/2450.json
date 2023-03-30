@@ -2,11 +2,14 @@
   "name": "Зефир Лянеж ваниль 315г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 116.99,
-  "priceWithCard": 106.46,
-  "promo": null,
+  "priceRegular": "116.99",
+  "priceWithCard": "106.46",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "яичный белок, ароматизатор ванили, яблочное пюре, вода питьевая, пектин, патока, натрия лактат, сахар, молочная кислота, краситель",
   "information": [
     {

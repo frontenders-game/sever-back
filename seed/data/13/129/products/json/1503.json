@@ -2,11 +2,14 @@
   "name": "Мороженое пломбир Сарафаново ванильное 15%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 164.89,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "156.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Сливки, молоко цельное сгущенное с сахаром (нормализованное молоко, сахароза, лактоза), вода, сахар, какао-порошок, масло сливочное, молоко сухое обезжиренное, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан, антиокислители: альфа-токоферол, аскорбилпальмитат, ароматизатор ванилин.",
   "information": [
     {

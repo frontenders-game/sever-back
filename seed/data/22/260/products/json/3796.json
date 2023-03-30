@@ -2,16 +2,14 @@
   "name": "Зубная паста Colgate отбеливающая лечебные травы, 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 132.99,
-  "promo": {
-    "discountedPriceRegular": 120.39,
-    "discountedPriceWithCard": 114.37,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": 14,
+  "discountedPrice": "117.98",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Calcium Carbonate, Aqua, Sorbitol, Sodium Lauryl Sulfate, Hydrated Silica, Aroma, Sodium Monofluorophosphate, Cellulose Gum, Magnesium Aluminum Silicate, Sodium Carbonate, Benzyl Alcohol, Sodium Saccharin, Sodium Bicarbonate, Anans Sativus Fruiit Juice, Citrus Auruantium Dulcis Juice, Citrus Limon Juice, Fragaria Ananassa Fruit Juice, Mangifera Indica Juice, Camellia Sinensis Leaf Extract, Pearl Powder, Citrus Lemon Peel Oil, Eucalyptol, Foeniculum Vulgare Oil, Mentha Piperitta Oil, Limonene, CI 74260, CI 77492.",
   "information": [
     {

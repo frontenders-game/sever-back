@@ -2,11 +2,14 @@
   "name": "Рис Селяночка круглозёрный шлифованный, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 101.84,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "101.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Крупа рисовая шлифованная.",
   "information": [
     {

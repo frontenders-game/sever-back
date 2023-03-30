@@ -2,11 +2,14 @@
   "name": "Кофе растворимый Fresco Arabica Solo натуральный сублимированный 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 799.99,
-  "priceWithCard": 759.99,
-  "promo": null,
+  "priceRegular": "799.99",
+  "priceWithCard": "767.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "кофе растворимый сублимированный",
   "information": [
     {

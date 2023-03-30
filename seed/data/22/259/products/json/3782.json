@@ -2,16 +2,14 @@
   "name": "Трусы Seni Active normal large впитывающие для взрослых, 10шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 796.19,
-  "priceWithCard": 732.49,
-  "promo": {
-    "discountedPriceRegular": 398.1,
-    "discountedPriceWithCard": 366.25,
-    "discountPercent": 50,
-    "isActive": true
-  },
+  "priceRegular": "796.19",
+  "priceWithCard": "764.34",
+  "discountPercent": 50,
+  "discountedPrice": "382.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Целлюлоза, нетканый материал, суперабсорбент, паропроницаемый ламинат.",
   "information": [
     {

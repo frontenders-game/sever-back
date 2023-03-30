@@ -2,11 +2,14 @@
   "name": "Прокладки Naturella Ultra camomile maxi, 8шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 119.59,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "119.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "Petrolatum, Behenyl Alcohol, Zinc Oxide, Silica Dimethicone Silylate, C12-15 Alkyl Benzoate Glycerin, Nacinamide, , Panthenol, Polyhydroxystearic Acid, Isononyl Isononanoate, Glycine Sola Oil, Chamomilla Recutita Flower Extract, Nisabolol, BHT, Tocopherol, Hexamidine Diisethionate.",
   "information": [
     {

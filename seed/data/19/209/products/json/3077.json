@@ -2,11 +2,14 @@
   "name": "Корм влажный Kitekat с курицей в соусе для взрослых кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 17.49,
-  "priceWithCard": 17.14,
-  "promo": null,
+  "priceRegular": "17.49",
+  "priceWithCard": "16.97",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 77,
+  "stockCount": 73,
   "ingredients": "Мясо и субпродукты (в том числе курица минимум 10%), злаки, таурин, витамины, минеральные вещества.",
   "information": [
     {

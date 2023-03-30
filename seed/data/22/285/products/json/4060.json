@@ -2,11 +2,14 @@
   "name": "Грунт Seasons для рассады 5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 42.99,
-  "priceWithCard": 40.41,
-  "promo": null,
+  "priceRegular": "42.99",
+  "priceWithCard": "40.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "торф, комплексное удобрение, известняковые материалы, рыхлители",
   "information": [
     {

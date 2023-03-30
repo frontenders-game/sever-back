@@ -2,11 +2,14 @@
   "name": "Йогурт питьевой Активиа натуральный 1.8% 260г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 71.24,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "71.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, йогуртовая закваска, бифидобактерии ActiRegularis®",
   "information": [
     {

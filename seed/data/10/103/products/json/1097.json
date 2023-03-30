@@ -2,11 +2,14 @@
   "name": "Пирожное Kinder молочный ломтик 28г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 35.14,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "34.77",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 43,
+  "stockCount": 39,
   "ingredients": "пастеризованное молоко, растительный жир, сахар, пшеничная мука, сухое обезжиренное молоко, мед, молочный жир, яичный порошок, обезжиренный какао-порошок, пшеничные отруби, разрыхлители: дигидропирофосфат натрия, гидрокарбонат натрия и карбонат аммония; эмульгаторы: моно- и диглицерины жиных кислот, ароматизаторы, соль. Содержит молоко, яйца, злаки, содержит глютен и продукты их переработки",
   "information": [
     {

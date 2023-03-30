@@ -2,11 +2,14 @@
   "name": "Вилки одноразовые Econta белые, 12шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 17.99,
-  "priceWithCard": 17.63,
-  "promo": null,
+  "priceRegular": "17.99",
+  "priceWithCard": "16.37",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 53,
+  "stockCount": 49,
   "ingredients": "Полистирол.",
   "information": [
     {

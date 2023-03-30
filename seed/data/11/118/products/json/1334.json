@@ -2,11 +2,14 @@
   "name": "Хлебцы Щедрые ржаные, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.19,
-  "priceWithCard": 58.01,
-  "promo": null,
+  "priceRegular": "59.19",
+  "priceWithCard": "56.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Мука ржаная хлебопекарная, мука пшеничная хлебопекарная второго сорта, отруби пшеничные, вода питьевая, соль, эмульгатор соевый лецитин, дрожжи хлебопекарные, солод ржаной. Может содержать следы кунжута, молока.",
   "information": [
     {

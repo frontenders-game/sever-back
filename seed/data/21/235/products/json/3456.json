@@ -2,16 +2,14 @@
   "name": "Сосиски Клинский Молочные ГОСТ 470г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 342.99,
-  "priceWithCard": 329.27,
-  "promo": {
-    "discountedPriceRegular": 250.38,
-    "discountedPriceWithCard": 240.37,
-    "discountPercent": 27,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 18,
+  "priceRegular": "342.99",
+  "priceWithCard": "318.98",
+  "discountPercent": 27,
+  "discountedPrice": "232.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 14,
   "ingredients": "свинина, говядина, вода, меланж яичный, молоко сухое, посолочная смесь (соль, фиксатор окраски нитрит натрия), черный перец, душистый перец, мускатный орех, регуляторы кислотности пирофосфат натрия, трифосфат натрия, ацетат натрия, цитрат натрия, антиокислитель аскорбиновая кислота",
   "information": [
     {

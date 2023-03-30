@@ -2,11 +2,14 @@
   "name": "Нектар Любимый апельсиновый с мякотью для детского питания 1.93л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 143.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "139.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "апельсиновый сок, сахар (S)** или сахар и глюкозно-фруктозный сироп (G)**, регулятор кислотности – лимонная кислота, вода",
   "information": [
     {

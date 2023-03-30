@@ -2,11 +2,14 @@
   "name": "Кефир Пискаревский 1%, 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.99,
-  "priceWithCard": 57.81,
-  "promo": null,
+  "priceRegular": "58.99",
+  "priceWithCard": "56.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Молоко обезжиренное, молоко цельное, с использованием закваски на кефирных грибках.",
   "information": [
     {

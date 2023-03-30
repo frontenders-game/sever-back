@@ -2,11 +2,14 @@
   "name": "Батончик шоколадный КФ Крупской с помадно-сливочной начинкой и молотым орехом 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 47.19,
-  "priceWithCard": 44.83,
-  "promo": null,
+  "priceRegular": "47.19",
+  "priceWithCard": "46.25",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 42,
+  "stockCount": 38,
   "ingredients": "Сахар, какао тёртое, молоко цельное сгущённое с сахаром (цельное молоко, обезжиренное молоко, сахар (сахароза, лактоза)), какао-масло, масло сливочное, патока крахмальная, спирт этиловый ректификованный, эмульгаторы: лецитин соевый Е322, Е476, ароматизаторы: «Ванильный», «Ваниль», консервант — сорбат калия Е202.",
   "information": [
     {

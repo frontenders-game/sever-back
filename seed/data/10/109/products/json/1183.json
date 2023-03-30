@@ -2,11 +2,14 @@
   "name": "Ацидобифилин Пискаревский сладкий 2.2% 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 45.99,
-  "priceWithCard": 43.23,
-  "promo": null,
+  "priceRegular": "45.99",
+  "priceWithCard": "44.61",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Молоко цельное, молоко обезжиренное, сахарный сироп, молоко сухое обезжиренное, с использованием закваски молочнокислых термофильных стрептококков и ацидофильной палочки, с добавлением бифидобактерий.",
   "information": [
     {

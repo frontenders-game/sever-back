@@ -2,11 +2,14 @@
   "name": "Шоколад Alpen Gold молочный с соленым арахисом и крекером 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.14,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 52,
+  "stockCount": 48,
   "ingredients": "Сахар, какао тертое, масло какао, арахис обжаренный соленый (арахис, масло растительное, соль), сыворотка сухая молочная, молоко сухое цельное, крекер (мука пшеничная, жир специального назначения, сироп солодовый, сироп глюкозный, соль морская, сахар, разрыхлители (гидрокарбонат аммония, гидрокарбонат натрия), ароматизатор), жир молочный, эмульгаторы (лецитин соевый, E 476), ароматизатор.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Крекер Tuc со сметаной и луком, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 84.99,
-  "priceWithCard": 79.04,
-  "promo": {
-    "discountedPriceRegular": 65.44,
-    "discountedPriceWithCard": 60.86,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "84.99",
+  "priceWithCard": "82.44",
+  "discountPercent": 23,
+  "discountedPrice": "63.48",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Мука пшеничная, масла растительные, вода, сироп глюкозно-фруктозный, комплексная пищевая добавка \"Сметана и лук\" (сахар, пахта сухая, порошок лука, соль, сметана сухая, регулятор кислотности (кислота лимонная), порошок петрушки, ароматизаторы, усилитель вкуса и аромата (Е 635)), разрыхлители (карбонат аммония, гидрокарбонат натрия), соль, продукт яичный, консервант (пиросульфит натрия).",
   "information": [
     {

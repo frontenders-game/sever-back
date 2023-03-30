@@ -2,11 +2,14 @@
   "name": "Йогурт Активиа малина 3% 110г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 34.03,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "34.40",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "=нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (вода; сахар; малина; стабилизатор – Е1442; концентрированный сок черной моркови; ароматизатор; регулятор кислотности – лимонная кислота), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена, соевого лецитина, орехов, яйца куриного",
   "information": [
     {

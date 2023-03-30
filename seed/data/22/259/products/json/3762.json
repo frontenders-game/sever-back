@@ -2,16 +2,14 @@
   "name": "Прокладки Discreet Alldays Водная лилия Deo ежедневные 60 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.99,
-  "priceWithCard": 322.99,
-  "promo": {
-    "discountedPriceRegular": 302.59,
-    "discountedPriceWithCard": 287.46,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "339.99",
+  "priceWithCard": "312.79",
+  "discountPercent": 11,
+  "discountedPrice": "278.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "указан на упаковке.",
   "information": [
     {

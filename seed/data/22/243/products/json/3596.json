@@ -2,16 +2,14 @@
   "name": "Ополаскиватель Finish Finish Shine&Protect 800мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 589.99,
-  "priceWithCard": 572.29,
-  "promo": {
-    "discountedPriceRegular": 483.79,
-    "discountedPriceWithCard": 469.28,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "589.99",
+  "priceWithCard": "560.49",
+  "discountPercent": 18,
+  "discountedPrice": "459.60",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "5% или более, но менее 15% неионогенные ПАВ, консерванты.",
   "information": [
     {

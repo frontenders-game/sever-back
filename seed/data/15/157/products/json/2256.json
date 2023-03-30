@@ -2,16 +2,14 @@
   "name": "Леденцы HALLS Ментол Экстра 24.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 42.74,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 38.04,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "40.94",
+  "discountPercent": 11,
+  "discountedPrice": "36.44",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Сахар, патока мальтозная, ментол, регуляторы кислотности (Е270, Е330, Е332(ii)), эвкалиптовое масло, краситель (Е133).",
   "information": [
     {

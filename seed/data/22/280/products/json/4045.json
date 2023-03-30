@@ -2,11 +2,14 @@
   "name": "Контейнер Liberhaus для продуктов герметичный 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": null,
   "information": [
     {

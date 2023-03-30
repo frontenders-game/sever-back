@@ -2,11 +2,14 @@
   "name": "Колбаса полукопчёная Великолукский МК По-краковски категория В, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 122.19,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "127.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Свинина, говядина, филе куриной грудки, молочный белок, натуральные пряности (перец черный, тмин, чеснок), соль, крахмал пшеничный,стабилизатор( пирофосфат натрия), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия).",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Tolli Classic 2 слоя 12шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 195.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "185.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

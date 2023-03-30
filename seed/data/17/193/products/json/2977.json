@@ -2,16 +2,14 @@
   "name": "Суп Суперсуп куриный, 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.04,
-  "priceWithCard": 49.18,
-  "promo": {
-    "discountedPriceRegular": 47.01,
-    "discountedPriceWithCard": 42.79,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "54.04",
+  "priceWithCard": "49.18",
+  "discountPercent": 13,
+  "discountedPrice": "42.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "Изделия макаронные (мука пшеничная, вода), соль, овощи и зелень сушеные (морковь, корень петрушки, лук, паприка красная сладкая, лук зеленый резанец, зелень), комплексная пищевая добавка \"Куриный бульон\" (ароматизаторы пищевые, соль), сахар, масло растительное, дрожжевые экстракты, порошок куриного мяса, чеснок сушеный, куркума, регулятор кислотности (кислота лимонная), экстракт перца черного.",
   "information": [
     {

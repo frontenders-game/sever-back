@@ -2,11 +2,14 @@
   "name": "Сок Фрумка мультифруктовый для детей от 6 месяцев 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 24.99,
-  "priceWithCard": 24.49,
-  "promo": null,
+  "priceRegular": "24.99",
+  "priceWithCard": "24.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "яблочный сок, апельсиновый сок, банановое пюре, абрикосовое пюре, яблочное пюре. Изготовлен из концентрированных соков и концентрированного абрикосового пюре",
   "information": [
     {

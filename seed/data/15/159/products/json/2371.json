@@ -2,16 +2,14 @@
   "name": "Пирожное Orion Choco Pie в глазури с обогащающей добавкой, 12x30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 172.89,
-  "promo": {
-    "discountedPriceRegular": 150.09,
-    "discountedPriceWithCard": 136.58,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "189.99",
+  "priceWithCard": "180.49",
+  "discountPercent": 21,
+  "discountedPrice": "142.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "Мука пшеничная общего назначения тип М55-23, сахар, вода питьевая, патока, жиры специального назначения (масла растительные рафинированные и дезодорированные), какао-порошок, молоко цельное сухое, разрыхлители (гидрокарбонат натрия, гидрокарбонат аммония, отофосфат кальция 1-замещенный), глюкоза, желатин, яичные продукты, соль поваренная пищевая, эмульгатор (лецитин соевый), ароматизатор (ванилин), гидролизат молочного белка, загуститель (ксантановая камедь).",
   "information": [
     {

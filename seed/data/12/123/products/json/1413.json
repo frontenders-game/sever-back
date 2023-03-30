@@ -2,11 +2,14 @@
   "name": "Виноград Киш-миш",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 299.99,
-  "priceWithCard": 293.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "278.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Виноград.",
   "information": [
     {

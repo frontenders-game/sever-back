@@ -2,11 +2,14 @@
   "name": "Кофе Nescafe Classic растворимый 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 260.39,
-  "promo": null,
+  "priceRegular": "279.99",
+  "priceWithCard": "274.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "кофе натуральный растворимый порошкообразный, кофе натуральный жареный молотый.",
   "information": [
     {

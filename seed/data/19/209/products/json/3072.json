@@ -2,11 +2,14 @@
   "name": "Корм влажный Lamour с курицей в соусе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 12.99,
-  "priceWithCard": 12.73,
-  "promo": null,
+  "priceRegular": "12.99",
+  "priceWithCard": "12.60",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "субпродукты и продукты животного происхождения (в том числе курица – минимум 4%), растительные компоненты, минеральные добавки, загустители, витамины",
   "information": [
     {

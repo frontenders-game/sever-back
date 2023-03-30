@@ -2,11 +2,14 @@
   "name": "Лакомство для кошек TitBit Подушечки с лососем 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "130.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "злаки, мясо и мясные субпродукты (в том числе лосось 15%), животные масла и жиры (в том числе 5% лососевое масло), растительное масло, сухое молоко, дрожжи, конопляное семя, минералы и витамины",
   "information": [
     {

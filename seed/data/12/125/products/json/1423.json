@@ -2,11 +2,14 @@
   "name": "Петрушка Global Village, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 64.39,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Петрушка.",
   "information": [
     {

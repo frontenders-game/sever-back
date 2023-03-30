@@ -2,11 +2,14 @@
   "name": "Имбирь Global Village маринованный 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 97.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "уксусная кислота, лимонная кислота, подсластитель Аспартам, консервант сорбат калия, усилитель вкуса и аромата глутамат натрия, краситель Е129.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Каша Маленькое Счастье Смешарики Молочная 5 злаков + фрукты с 8 мес. 111г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.89,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "каша из смеси злаков (молоко коровье питьевое, мука овсяная, мука рисовая, мука пшеничная, мука гречневая, мука ржаная), пюре яблочное, сок грушевый осветлённый, пюре персиковое, сок мультифруктовый (сок яблочный, сок мандариновый, сок ананасовый, пюре из персиков, пюре из киви, сок маракуйи), пюре банановое",
   "information": [
     {

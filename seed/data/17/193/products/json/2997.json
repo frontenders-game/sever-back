@@ -2,16 +2,14 @@
   "name": "Суп Asian Fusion с морским гребешком быстрого приготовления 12г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 78.11,
-  "promo": {
-    "discountedPriceRegular": 72.23,
-    "discountedPriceWithCard": 67.17,
-    "discountPercent": 14,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 22,
+  "priceRegular": "83.99",
+  "priceWithCard": "78.95",
+  "discountPercent": 14,
+  "discountedPrice": "67.90",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 18,
   "ingredients": "соль поваренная пищевая, бурая морская водоросль, морской гребешок, соевый белок, сахар-песок, загуститель - кукурузный крахмал, натуральные специи (сельдерей, белый перец), пальмовое масло, грибы шиитаке",
   "information": [
     {

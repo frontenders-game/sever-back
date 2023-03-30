@@ -2,11 +2,14 @@
   "name": "Филе рыбное Vici Дальневосточное в панировке, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 257.99,
-  "priceWithCard": 250.25,
-  "promo": null,
+  "priceRegular": "257.99",
+  "priceWithCard": "252.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Филе минтая, панировка (мука пшеничная, вода, масло рапсовое, крахмал пшеничный, белок яичный, соль, дрожжи, специи и экстракт специй (содержит: эмульгатор E472e, антиокислитель альфа-токоферол), петрушка).",
   "information": [
     {

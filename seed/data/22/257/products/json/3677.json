@@ -2,16 +2,14 @@
   "name": "Полотенца бумажные Familia 2 слоя, 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 157.99,
-  "priceWithCard": 153.25,
-  "promo": {
-    "discountedPriceRegular": 110.59,
-    "discountedPriceWithCard": 107.27,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "157.99",
+  "priceWithCard": "146.93",
+  "discountPercent": 30,
+  "discountedPrice": "102.85",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

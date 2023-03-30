@@ -2,16 +2,14 @@
   "name": "Молоко Агуша стерилизованное с 8 мес. 2.5% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 47.99,
-  "priceWithCard": 46.55,
-  "promo": {
-    "discountedPriceRegular": 43.19,
-    "discountedPriceWithCard": 41.89,
-    "discountPercent": 10,
-    "isActive": true
-  },
+  "priceRegular": "47.99",
+  "priceWithCard": "46.07",
+  "discountPercent": 10,
+  "discountedPrice": "41.46",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Молоко нормализованное, витаминный премикс: А (ретинол ацетат), С (L-натрия аскорбат).",
   "information": [
     {

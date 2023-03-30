@@ -2,11 +2,14 @@
   "name": "Хлебцы рисовые Агуша ягоды с 12 месяцев 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.39,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Крупа рисовая шлифованная (рис круглозерный), концентрированные соки (яблочный, клубничный), пюре (малиновое, черничное), ароматизатор натуральный «Клубника».",
   "information": [
     {

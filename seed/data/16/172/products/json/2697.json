@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах Jardin Ristretto молотый 10x5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 275.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "278.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "кофе жаренный молотый, упаковочный газ (азот)",
   "information": [
     {

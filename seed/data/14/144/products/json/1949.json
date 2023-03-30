@@ -2,11 +2,14 @@
   "name": "Квас живой Царские Припасы Традиционный, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.49,
-  "priceWithCard": 74.72,
-  "promo": null,
+  "priceRegular": "79.49",
+  "priceWithCard": "76.31",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Специально подготовленная вода, сахар, 100% натуральный солодовый экстракт, дрожжи хлебопекарные",
   "information": [
     {

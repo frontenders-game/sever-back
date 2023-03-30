@@ -2,16 +2,14 @@
   "name": "Смесь овощная Global Village Азиатская с соусом, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 202.39,
-  "promo": {
-    "discountedPriceRegular": 171.59,
-    "discountedPriceWithCard": 157.86,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "219.99",
+  "priceWithCard": "200.19",
+  "discountPercent": 22,
+  "discountedPrice": "156.15",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Бамбук, черный китайский гриб, лук репчатый, морковь, капуста белокочанная, проростки маша, перец сладкий;n соус (растительный жир, соевый соус (вода, соя, пшеничная мука, соль), лук репчатый, сушеный лук, соль, ароматизатор, растительное масло, черный перец, имбирь, вода.",
   "information": [
     {

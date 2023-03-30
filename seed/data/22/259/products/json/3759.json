@@ -2,11 +2,14 @@
   "name": "Прокладки ежедневные Ola! Silk sense daily deo ромашка, 60шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 167.99,
-  "priceWithCard": 156.23,
-  "promo": null,
+  "priceRegular": "167.99",
+  "priceWithCard": "156.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Мягкий хлопок, нетканый материал, природная распушенная целлюлоза, полиэтилен, клей, бумага, парфюмерная композиция.",
   "information": [
     {

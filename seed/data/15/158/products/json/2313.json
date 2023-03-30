@@ -2,16 +2,14 @@
   "name": "Конфеты Co barre de Chocolat мультизлаковые с белой и темной кондитерской глазурью",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 749.99,
-  "priceWithCard": 682.49,
-  "promo": {
-    "discountedPriceRegular": 502.49,
-    "discountedPriceWithCard": 457.27,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "749.99",
+  "priceWithCard": "697.49",
+  "discountPercent": 33,
+  "discountedPrice": "467.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "крупа (овсяная, пшеничная, кукурузная), патока, мальтоза, кондитерская глазурь: сахар, заменитель масла какао нетемперируемый лауринового типа (масло пальмоядровое (стеарин) гидрогенизированное рафинированное дезодорированное, эмульгатор сорбитан тристеарат, сухая молочная сыворотка, молочный жир, эмульгаторы: лецитин соевый, полиглицирин полирицинолеат, ароматизатор «Ванильно-сливочный»)",
   "information": [
     {

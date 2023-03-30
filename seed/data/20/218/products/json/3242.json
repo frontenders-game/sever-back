@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из говядины с сердцем с 8 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 93.72,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 73.1,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 15,
+  "priceRegular": "102.99",
+  "priceWithCard": "98.87",
+  "discountPercent": 22,
+  "discountedPrice": "77.12",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 11,
   "ingredients": "Говядина, сердце говяжье, масло подсолнечное, мука рисовая, вода.",
   "information": [
     {

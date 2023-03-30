@@ -2,11 +2,14 @@
   "name": "Корм влажный Chappi Сытный мясной обед говядина по-домашнему для собак 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 15.99,
-  "priceWithCard": 14.55,
-  "promo": null,
+  "priceRegular": "15.99",
+  "priceWithCard": "15.35",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "мясо и субпродукты (в том числе говядина), пшеничная мука, продукты животного происхождения, минеральные вещества, витамины, натуральный краситель, метионин, загуститель - незаменимая аминокислота для собак",
   "information": [
     {

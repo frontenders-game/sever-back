@@ -2,16 +2,14 @@
   "name": "Чистящее средство для ванной Cif Power&Shine 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 307.99,
-  "priceWithCard": 295.67,
-  "promo": {
-    "discountedPriceRegular": 246.39,
-    "discountedPriceWithCard": 236.54,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "307.99",
+  "priceWithCard": "283.35",
+  "discountPercent": 20,
+  "discountedPrice": "226.68",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "<5% неионогенные ПАВ, отдушка, лимонен.",
   "information": [
     {

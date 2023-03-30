@@ -2,16 +2,14 @@
   "name": "Сок Нар Гранатовый 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 193.99,
-  "promo": {
-    "discountedPriceRegular": 169.99,
-    "discountedPriceWithCard": 164.89,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "199.99",
+  "priceWithCard": "181.99",
+  "discountPercent": 15,
+  "discountedPrice": "154.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Сок гранатовый.",
   "information": [
     {

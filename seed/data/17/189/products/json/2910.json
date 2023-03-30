@@ -2,11 +2,14 @@
   "name": "Завтрак готовый Kellogg’s Unicorn Радужные колечки с фруктовым вкусом 195г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 208.99,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "213.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Зерновые родукты (мука пшеничная, хлопья овсяные, крупа кукурузная), сахар,глюкоза, концентраты: редиса, яблока, черной смородины, моркови; краситель:каратины, соль, ароматизатор натуральный тропические фрукты.",
   "information": [
     {

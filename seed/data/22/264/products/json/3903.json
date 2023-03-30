@@ -2,11 +2,14 @@
   "name": "Кассеты для бритья Gillette Fusion 2шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 999.99,
-  "priceWithCard": 949.99,
-  "promo": null,
+  "priceRegular": "999.99",
+  "priceWithCard": "919.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "PEG-115M, PEG-7M, PEG-100, Silica, Paraffinum Liquidum, Tocopheryl Acetate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tris(Di-T-Butyl)Phosphite, Aloe Barbadensis Leaf Juice, BHT, Glycol.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пюре Сады Придонья из брокколи с 4 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.49,
-  "priceWithCard": 32.65,
-  "promo": null,
+  "priceRegular": "35.49",
+  "priceWithCard": "33.72",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "пюре из капусты брокколи",
   "information": [
     {

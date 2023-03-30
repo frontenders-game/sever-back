@@ -2,16 +2,14 @@
   "name": "Порошок стиральный Ariel Touch of Lenor fresh automat, 3кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.99,
-  "priceWithCard": 575.99,
-  "promo": {
-    "discountedPriceRegular": 449.99,
-    "discountedPriceWithCard": 431.99,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "599.99",
+  "priceWithCard": "551.99",
+  "discountPercent": 25,
+  "discountedPrice": "413.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "5-15% Анионные ПАВ, Отбеливающие Вещества На Основе Кислорода, <5% Неионогенные ПАВ, Фосфонаты, Поликарбоксилаты, Цеолиты, Энзимы, Оптические Отбеливатели, Ароматизирующие Добавки.",
   "information": [
     {

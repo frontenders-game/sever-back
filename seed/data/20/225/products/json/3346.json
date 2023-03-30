@@ -2,16 +2,14 @@
   "name": "Кусочки Фрутоняня фруктовые яблоко с 12 мес. 53г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 152.99,
-  "priceWithCard": 139.22,
-  "promo": {
-    "discountedPriceRegular": 128.51,
-    "discountedPriceWithCard": 116.94,
-    "discountPercent": 16,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 28,
+  "priceRegular": "152.99",
+  "priceWithCard": "148.40",
+  "discountPercent": 16,
+  "discountedPrice": "124.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 24,
   "ingredients": "Пюре из яблок концентрированное, сок из яблок концентрированный, агент желирующи-пектин, пищевые волокна. Без добавления сахара. Содержатся сахара природного происхождения.",
   "information": [
     {

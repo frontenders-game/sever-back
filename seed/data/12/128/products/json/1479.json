@@ -2,11 +2,14 @@
   "name": "Семечки От Мартина отборные жареные, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 71.99,
-  "priceWithCard": 66.23,
-  "promo": null,
+  "priceRegular": "71.99",
+  "priceWithCard": "66.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "Обжаренные семена подсолнуха",
   "information": [
     {

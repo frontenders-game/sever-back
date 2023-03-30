@@ -2,16 +2,14 @@
   "name": "Шоколад Milka молочный с цельным фундуком 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 84.59,
-  "promo": {
-    "discountedPriceRegular": 80.09,
-    "discountedPriceWithCard": 75.29,
-    "discountPercent": 11,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 84,
+  "priceRegular": "89.99",
+  "priceWithCard": "82.79",
+  "discountPercent": 11,
+  "discountedPrice": "73.68",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 80,
   "ingredients": "Сахар, фундук цельный обжаренный, масло какао, какао тертое, молоко сухое цельное, сыворотка сухая молочная, молоко сухое обезжиренное, жир молочный, эмульгаторы (лецитин соевый, Е476), паста ореховая (фундук), ароматизатор.",
   "information": [
     {

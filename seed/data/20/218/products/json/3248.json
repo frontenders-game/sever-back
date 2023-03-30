@@ -2,11 +2,14 @@
   "name": "Пюре ФрутоНяня Говядины с гречкой и морковью с 8 месяцев, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 57.95,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "59.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Говядина, крупа гречневая, морковь, масло растительное, вода питьевая.",
   "information": [
     {

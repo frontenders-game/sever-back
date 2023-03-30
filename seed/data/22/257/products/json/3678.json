@@ -2,11 +2,14 @@
   "name": "Полотенца Tolli Plus бумажные 2 слоя 1 рулон",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 100.09,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "106.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Beta Tea ОРА черный байховый высшего сорта 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 352.79,
-  "promo": {
-    "discountedPriceRegular": 269.99,
-    "discountedPriceWithCard": 264.59,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "359.99",
+  "priceWithCard": "345.59",
+  "discountPercent": 25,
+  "discountedPrice": "259.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "чай черный байховый цейлонский крупнолистовой",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Хлеб Каравай Столовый нарезка, 750г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.99,
-  "priceWithCard": 57.81,
-  "promo": null,
+  "priceRegular": "58.99",
+  "priceWithCard": "56.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Мука ржаная хлебопекарная обдирная, мука пшеничная хлебопекарная второго сорта, вода питьевая, сахар-песок, соль поваренная пищевая, дрожжи хлебопекарные.",
   "information": [
     {

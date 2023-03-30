@@ -2,16 +2,14 @@
   "name": "Макароны Makfa витки, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.24,
-  "priceWithCard": 58.18,
-  "promo": {
-    "discountedPriceRegular": 55.02,
-    "discountedPriceWithCard": 50.62,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 31,
+  "priceRegular": "63.24",
+  "priceWithCard": "60.71",
+  "discountPercent": 13,
+  "discountedPrice": "52.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 27,
   "ingredients": "Мука из твердой пшеницы для макаронных высшего сорта, вода питьевая. Без пищеевых добавок и красителей. Не содержит ГМО.",
   "information": [
     {

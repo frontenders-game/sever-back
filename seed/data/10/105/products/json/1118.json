@@ -2,11 +2,14 @@
   "name": "Масло сливочное Вкуснотеево традиционное 82.5% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 209.29,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "220.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 43,
+  "stockCount": 39,
   "ingredients": "Изготовлено из пастеризованных сливок коровьего молока",
   "information": [
     {

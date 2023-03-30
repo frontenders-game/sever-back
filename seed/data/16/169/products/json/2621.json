@@ -2,16 +2,14 @@
   "name": "Кофе растворимый Venetto сублимированный 130г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 261.89,
-  "promo": {
-    "discountedPriceRegular": 240.29,
-    "discountedPriceWithCard": 233.08,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "248.39",
+  "discountPercent": 11,
+  "discountedPrice": "221.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Кофе растворимый сублимированный",
   "information": [
     {

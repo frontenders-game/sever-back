@@ -2,11 +2,14 @@
   "name": "Антиперспирант Nivea Эффект пудры женский спрей 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 218.99,
-  "priceWithCard": 214.61,
-  "promo": null,
+  "priceRegular": "218.99",
+  "priceWithCard": "212.42",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "butane, isobutane, propane, cyclomethicone, aluminum chlorohydrate, isopropyl palmitate, kaolin, persea gratissima oil, octydodecanol, disteardimonium hectorite, dimethicone, limonene, linalool, alpha-isomethyl ionone, geraniol, benzyl alcohol, coumarin, parfum",
   "information": [
     {

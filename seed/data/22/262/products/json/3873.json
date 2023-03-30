@@ -2,11 +2,14 @@
   "name": "Крем для рук и тела Synergetic Сандал и Ягоды можжевельника 380мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 371.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "391.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "aqua, glycerin (растительный увлажнитель), caprylic/capric triglyceride (смягчающий кожу эмолент на основе пальмового и кокосового масел), butyrospermum parkii butter (масло карите), cetearyl alcohol (натуральный эмульгатор), glyceryl stearate (натуральный эмульгатор), potassium cetyl phosphate (увлажняющий эмульгатор, структурообразователь), behenyl alcohol (натуральный загуститель), stearic acid, palmitic acid (натуральный эмульгатор, смягчающий компонент), santalum album wood extract (экстракт сандала), juniperus communis fruit extract (экстракт можжевельника), inulin (растительный пребиотик), macadamia integrifolia seed oil (масло макадамии), cocos nucifera oil (масло кокоса), sweet almond oil polyglyceryl-4 esters (водорастворимое масло миндаля), saccharide isomerate (увлажняющий актив), undecane, tridecane (натуральный эмолент), sorbitan caprylate (натуральный эмульгатор), propanediol (увлажняющий компонент), benzoic acid (природный консервант), polyglyceryl-10 laurate (натуральный стабилизатор эмульсий), xanthan gum (ксантановая камедь), parfum (отдушка), potassium hydroxide (регулятор кислотности), sodium benzoate, potassium sorbate (природные консерванты), citric acid, sodium citrate, limonene, citral, (ароматические вещества, компоненты отдушки)",
   "information": [
     {

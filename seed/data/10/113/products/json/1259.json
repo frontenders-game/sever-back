@@ -2,11 +2,14 @@
   "name": "Яйцо перепелиное Селяночка 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 84.59,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "82.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "яйца перепелиные столовые",
   "information": [
     {

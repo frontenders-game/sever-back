@@ -2,16 +2,14 @@
   "name": "Смесь фруктовая Mixbar Компотная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 235.19,
-  "promo": {
-    "discountedPriceRegular": 201.59,
-    "discountedPriceWithCard": 197.56,
-    "discountPercent": 16,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 18,
+  "priceRegular": "239.99",
+  "priceWithCard": "230.39",
+  "discountPercent": 16,
+  "discountedPrice": "193.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 14,
   "ingredients": "Сухофрукты (абрикос с косточкой (урюк), яблоко, груша, черешня с косточкой, чернослив с косточкой, персик, алыча с косточкой).nПредназначено для приготовления компота.",
   "information": [
     {

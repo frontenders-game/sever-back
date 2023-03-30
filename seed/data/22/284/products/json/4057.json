@@ -2,11 +2,14 @@
   "name": "Набор свечей Econta С Днем Рождения для торта цветной 13шт. в ассортименте",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 85.99,
-  "priceWithCard": 79.11,
-  "promo": null,
+  "priceRegular": "85.99",
+  "priceWithCard": "79.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "парафин",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Лосьон после бритья Nivea Men успокаивающий 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 569.99,
-  "priceWithCard": 547.19,
-  "promo": {
-    "discountedPriceRegular": 484.49,
-    "discountedPriceWithCard": 465.11,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "569.99",
+  "priceWithCard": "535.79",
+  "discountPercent": 15,
+  "discountedPrice": "455.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "alcohol denat, glycerin, peg-40 hydrogenated castor oil, parfum, limonene",
   "information": [
     {

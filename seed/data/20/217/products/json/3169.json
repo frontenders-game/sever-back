@@ -2,16 +2,14 @@
   "name": "Пюре Агуша яблоко-тыква-персик-банан с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.14,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 42.96,
-    "discountPercent": 16,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 11,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": 16,
+  "discountedPrice": "42.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 7,
   "ingredients": "яблочное пюре, тыквенное пюре, персиковое пюре, банановое пюре, концентрированный лимонный сок",
   "information": [
     {

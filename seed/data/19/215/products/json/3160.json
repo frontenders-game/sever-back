@@ -2,16 +2,14 @@
   "name": "Лакомство Biff Dent жевательный снек со вкусом говядины для чистки зубов для собак мелких пород 35г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 46.99,
-  "promo": {
-    "discountedPriceRegular": 39.99,
-    "discountedPriceWithCard": 37.59,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "47.49",
+  "discountPercent": 20,
+  "discountedPrice": "37.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "рис, мясо и субпродукты (в том числе 20% говядины), белок растительный, клетчатка, лецитин, масла и животные жиры, дрожжевой экстракт, минеральные вещества, петрушка, фитокомплекс экстрактов растений, натуральные ароматизаторы, натуральный краситель",
   "information": [
     {

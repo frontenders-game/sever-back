@@ -2,11 +2,14 @@
   "name": "Желе Желейка Вишня, яблоко, персик с пузырьками 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 34.87,
-  "promo": null,
+  "priceRegular": "37.49",
+  "priceWithCard": "34.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "вода питьевая, сироп глюкозно-фруктозный (глюкоза, фруктоза), желатин пищевой говяжий, регулятор кислотности – лимонная кислота, красители: «Кармины», «Хлорофиллы», «Куркумин», консервант - сорбат калия, ароматизаторы: «Вишня», «Яблоко», «Персик»",
   "information": [
     {

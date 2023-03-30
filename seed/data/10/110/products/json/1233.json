@@ -2,16 +2,14 @@
   "name": "Соус майонезный Ряба Постный провансаль 50%, 372г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 100.09,
-  "promo": {
-    "discountedPriceRegular": 80.29,
-    "discountedPriceWithCard": 73.07,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "107.79",
+  "discountPercent": 27,
+  "discountedPrice": "78.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Масло подсолнечное, вода, сахар, крахмал кукурузный, соль, уксус, ароматизатор натуральный \"белый перец\", эфирное горчичное масло, провитамин А.",
   "information": [
     {

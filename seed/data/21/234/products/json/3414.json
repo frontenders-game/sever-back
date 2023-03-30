@@ -2,11 +2,14 @@
   "name": "Колбаса Мясная ферма Брауншвейгская сырокопченая  полусухая 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 329.99,
-  "priceWithCard": 300.29,
-  "promo": null,
+  "priceRegular": "329.99",
+  "priceWithCard": "306.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "говядина, шпик, свинина, нитритно-посолочная смесь (соль, фиксатор окраски (нитрит натрия) ), декстроза, экстракты пряностей (черный перец, мускатный орех), антиокислитель (аскорбиновая кислота), стартовая культура",
   "information": [
     {

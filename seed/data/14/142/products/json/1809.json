@@ -2,11 +2,14 @@
   "name": "Сок Агуша яблоко-вишня с 5 мес. 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.99,
-  "priceWithCard": 34.57,
-  "promo": null,
+  "priceRegular": "37.99",
+  "priceWithCard": "37.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Яблочный сок, вишневый сок.",
   "information": [
     {

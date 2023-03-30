@@ -2,16 +2,14 @@
   "name": "Средство чистящее Bref Сила-Актив для унитаза лимонная свежесть 2х50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 284.99,
-  "promo": {
-    "discountedPriceRegular": 200.99,
-    "discountedPriceWithCard": 190.94,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "299.99",
+  "priceWithCard": "284.99",
+  "discountPercent": 33,
+  "discountedPrice": "190.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": ">30% анионные ПАВ; солей неорганических; 5-15% неионогенных ПАВ; <5% цитрата натрия, растворителя, отдушки (в т.ч. лимонена), красителя.",
   "information": [
     {

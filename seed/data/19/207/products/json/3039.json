@@ -2,16 +2,14 @@
   "name": "Корм влажный Sheba Курица со сладким перцем для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 33.11,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 28.81,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 94,
+  "priceRegular": "34.49",
+  "priceWithCard": "32.08",
+  "discountPercent": 13,
+  "discountedPrice": "27.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 90,
   "ingredients": "мясо и субпродукты (в том числе курица), пшеничная мука, загустители, аминокислоты (в том числе таурин), минеральные вещества,пивные дрожжи, овощи (в том числе паприка), витамины, сахара",
   "information": [
     {

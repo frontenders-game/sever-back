@@ -2,11 +2,14 @@
   "name": "Чай Greenfield Золотой Цейлон черный в пакетиках 25х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 125.99,
-  "priceWithCard": 119.69,
-  "promo": null,
+  "priceRegular": "125.99",
+  "priceWithCard": "118.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "чай черный байховый цейлонский",
   "information": [
     {

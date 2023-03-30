@@ -2,11 +2,14 @@
   "name": "Батончик-мюсли Здоровый Перекус черника, 55г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 43,
+  "stockCount": 39,
   "ingredients": "Зерновые хлопья (овсяные, пшеничные, ржаные, ячменные), рис и кукуруза воздушные экструдированные, пшеница воздушная, ягоды свежие: черника, ежевика, красная смородина, патока, масло подсолнечное рафинированное дезодорированное.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Тарелки одноразовые Econta белые 205мм, 12шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 64,
+  "stockCount": 60,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

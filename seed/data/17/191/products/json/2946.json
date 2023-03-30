@@ -2,16 +2,14 @@
   "name": "Лапша Роллтон яичная классическая 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 91.99,
-  "priceWithCard": 88.31,
-  "promo": {
-    "discountedPriceRegular": 80.03,
-    "discountedPriceWithCard": 76.83,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "91.99",
+  "priceWithCard": "87.39",
+  "discountPercent": 13,
+  "discountedPrice": "76.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Пшеничная мука в/с, вода питьевая, соль, яичный порошок.",
   "information": [
     {

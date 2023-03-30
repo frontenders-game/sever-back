@@ -2,11 +2,14 @@
   "name": "Молоко Веселый молочник пастеризованное 2.5% 825г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.09,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "молоко нормализованное",
   "information": [
     {

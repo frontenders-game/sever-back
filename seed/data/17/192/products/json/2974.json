@@ -2,16 +2,14 @@
   "name": "Спагетти Barilla Spaghetti n.5 из твёрдых сортов пшеницы группа А высший сорт, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 93.09,
-  "promo": {
-    "discountedPriceRegular": 80.74,
-    "discountedPriceWithCard": 79.13,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "94.99",
+  "priceWithCard": "86.44",
+  "discountPercent": 15,
+  "discountedPrice": "73.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "мука из твердой пшеницы высшего сорта, вода.",
   "information": [
     {

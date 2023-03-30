@@ -2,11 +2,14 @@
   "name": "Сахар Селяночка белый 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 73.99,
-  "priceWithCard": 68.07,
-  "promo": null,
+  "priceRegular": "73.99",
+  "priceWithCard": "69.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Сахар белый кристаллический (категории ТС-2) свекловичный.",
   "information": [
     {

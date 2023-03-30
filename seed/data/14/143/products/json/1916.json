@@ -2,11 +2,14 @@
   "name": "Напиток Черноголовка Chillout Cola газированный 0.9л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 91.99,
-  "priceWithCard": 88.31,
-  "promo": null,
+  "priceRegular": "91.99",
+  "priceWithCard": "90.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "вода, сахар (S), сироп глюкозно-фруктозный (G), регулятор кислотности кислота орто-фосфорная, краситель сахарный коллер IV, ароматизаторы, консервант бензоат натрия, кофеин (не более 150г/л)",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пельмени Сибирская Коллекция классические категория В, 700г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.99,
-  "priceWithCard": 587.99,
-  "promo": null,
+  "priceRegular": "599.99",
+  "priceWithCard": "551.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Фарш – свинина, говядина, филе бедра куриного, лук репчатый свежий, вода питьеваясливки питьевые, соль, перец черный молотый, тесто – мука пшеничная в/с, вода питьевая, меланж яичный, масло подсолнечное, соль.",
   "information": [
     {

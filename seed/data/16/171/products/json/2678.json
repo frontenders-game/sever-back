@@ -2,16 +2,14 @@
   "name": "Кофе LeSelect Espresso Crema в зернах 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 225.59,
-  "promo": {
-    "discountedPriceRegular": 201.59,
-    "discountedPriceWithCard": 189.5,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "239.99",
+  "priceWithCard": "230.39",
+  "discountPercent": 16,
+  "discountedPrice": "193.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "кофе жареный в зёрнах",
   "information": [
     {

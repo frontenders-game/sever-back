@@ -2,11 +2,14 @@
   "name": "Вода ФрутоНяня артезианская питьевая негазированная 5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "126.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "вода высшей категории",
   "information": [
     {

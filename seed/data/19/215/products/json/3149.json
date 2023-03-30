@@ -2,11 +2,14 @@
   "name": "Косточки Деревенские Лакомства из индейки для мини-пород 55г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 237.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "234.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мясо индейки, сыромятная говяжья кожа, субпродукты растительного происхождения, минералы",
   "information": [
     {

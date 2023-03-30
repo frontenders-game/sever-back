@@ -2,11 +2,14 @@
   "name": "Наполнитель для кошачего туалета Katty древесный 2.8кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "указан на упаковке ",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Антиперспирант Nivea Men Невидимый для чёрного и белого спрей, 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 369.99,
-  "priceWithCard": 336.69,
-  "promo": null,
+  "priceRegular": "369.99",
+  "priceWithCard": "336.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Butane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Isopropyl Palmitate, C12-15 Alkyl Benzoate, Palmitamidopropyltrimonium Chloride, Octyldodecanol, Propylene Glycol, Disteardimonium Hectorite, Propylene Carbonate, Dimethiconol, Linalool, Limonene, Geraniol, Parfum.",
   "information": [
     {

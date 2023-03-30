@@ -2,11 +2,14 @@
   "name": "Полотенца бумажные Tolli Econom с перфорацией 1 слой",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.99,
-  "priceWithCard": 25.21,
-  "promo": null,
+  "priceRegular": "25.99",
+  "priceWithCard": "24.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Вторичное волокно.",
   "information": [
     {

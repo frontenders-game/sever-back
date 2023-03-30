@@ -2,11 +2,14 @@
   "name": "Освежитель воздуха Liberhaus Тропический остров 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 142.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "146.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": null,
   "information": [
     {

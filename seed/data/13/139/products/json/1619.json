@@ -2,11 +2,14 @@
   "name": "Печень говяжья замороженная",
   "unitsOfMeasurement": "кг",
   "step": "0.9",
-  "priceRegular": 259.99,
-  "priceWithCard": 246.99,
-  "promo": null,
+  "priceRegular": "259.99",
+  "priceWithCard": "239.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Печень говяжья.",
   "information": [
     {

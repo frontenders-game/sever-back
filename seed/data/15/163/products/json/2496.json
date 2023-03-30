@@ -2,11 +2,14 @@
   "name": "Мед натуральный цветочный фасованный 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.99,
-  "priceWithCard": 35.48,
-  "promo": null,
+  "priceRegular": "38.99",
+  "priceWithCard": "37.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "мед натуральный цветочный",
   "information": [
     {

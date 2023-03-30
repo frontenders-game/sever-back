@@ -2,16 +2,14 @@
   "name": "Бальзам Syoss Volume для тонких волос лишенных объема с экстрактом фиолетового риса 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 421.39,
-  "promo": {
-    "discountedPriceRegular": 253.69,
-    "discountedPriceWithCard": 248.62,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "404.19",
+  "discountPercent": 41,
+  "discountedPrice": "238.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Aqua (Water, Eau), Cetearyl Alcohol, Hydrolyzed Collagen, Panthenol, Steardimonium Hydroxypropyl Hydrolyzed Keratin, Hydrolyzed Keratin, Isopropyl Myristate, Behenoyl PG-Trimonium Chloride, Citric Acid, VP/VA Copolymer, Phenoxyethanol, Behentrimonium Chloride, Sodium Methylparaben, Parfum (Fragrance), Hexylene Glycol, Polyquaternium-37, Isopropyl Alcohol, Dicaprylyl Carbonate, Hexyl Cinnamal, Butylphenyl Methylpropional, Benzyl Salicylate, Linalool, Benzyl Alcohol, Sodium Chloride, Limonene.",
   "information": [
     {

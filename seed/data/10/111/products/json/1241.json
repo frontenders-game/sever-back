@@ -2,11 +2,14 @@
   "name": "Сливки Вкуснотеево для взбивания 33% 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 167.99,
-  "priceWithCard": 152.87,
-  "promo": null,
+  "priceRegular": "167.99",
+  "priceWithCard": "156.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Нормализованные сливки, комплексная пищевая добавка (стабилизатор каррагинан, эмульгатор Е471, декстроза).",
   "information": [
     {

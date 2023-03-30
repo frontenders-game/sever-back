@@ -2,16 +2,14 @@
   "name": "Каша ФрутоНяня мультизлаковая яблоко-банан-земляника с 6 мес. 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 153.99,
-  "priceWithCard": 150.91,
-  "promo": {
-    "discountedPriceRegular": 130.89,
-    "discountedPriceWithCard": 128.27,
-    "discountPercent": 15,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 22,
+  "priceRegular": "153.99",
+  "priceWithCard": "149.37",
+  "discountPercent": 15,
+  "discountedPrice": "126.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 18,
   "ingredients": "молоко сухое обезжиренное, мука пшеничная, сахар, мука овсяная, сливки сухие, мука кукурузная, масло кукурузное, пребиотик-инулин, пюре яблочное, пюре банановое, пюре земляничное, витамины (C, E, PP, пантотеновая кислота, B2, B1, B6, A, фолиевая кислота, D3, биотин, B12), минеральные вещества (железо, цинк, йод)",
   "information": [
     {

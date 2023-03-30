@@ -2,16 +2,14 @@
   "name": "Леденцы HALLS Оригинальный 25г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 40.94,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 36.44,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "41.84",
+  "discountPercent": 11,
+  "discountedPrice": "37.24",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Сахар, патока мальтозная, регуляторы кислотности (Е270, Е330, Е332(II)), ментол, эвкалиптовое масло, ароматизаторы, краситель (Е133).",
   "information": [
     {

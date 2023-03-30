@@ -2,11 +2,14 @@
   "name": "Кофе Tchibo Gold Mokka молотый, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 189.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "183.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Кофе.",
   "information": [
     {

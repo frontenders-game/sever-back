@@ -2,16 +2,14 @@
   "name": "Отбеливатель Vanish Oxi Advance для тканей порошкообразный, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 494.99,
-  "priceWithCard": 485.09,
-  "promo": {
-    "discountedPriceRegular": 376.19,
-    "discountedPriceWithCard": 368.67,
-    "discountPercent": 24,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 5,
+  "priceRegular": "494.99",
+  "priceWithCard": "485.09",
+  "discountPercent": 24,
+  "discountedPrice": "368.67",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 1,
   "ingredients": "30% и более: кислородсодержащий отбеливатель; менее 5%: анионные ПАВ, энзимы, цеолиты, неиногенные ПАВ.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Каша молочная Агуша Засыпайка гречка с 6 мес. 2.5% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "молоко нормализованное, вода, мука гречневая, сахар, пребиотические вещества — фибрегам, олигофруктоза",
   "information": [
     {

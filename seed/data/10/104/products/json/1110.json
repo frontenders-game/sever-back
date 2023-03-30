@@ -2,11 +2,14 @@
   "name": "Коктейль молочный Чудо Клубника 2% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.99,
-  "priceWithCard": 44.58,
-  "promo": null,
+  "priceRegular": "48.99",
+  "priceWithCard": "47.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "А - молоко нормализованное, сахар, ароматизатор «Клубничный» , стабилизатор – каррагинан, краситель – кармин.",
   "information": [
     {

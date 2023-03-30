@@ -2,11 +2,14 @@
   "name": "Гель для стирки Liberhaus для цветного белья, 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 100.09,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "107.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "(30% и более) вода питьевая, (5% или более, но менее 15%( АПАВ, (менее 5%) неиногенный ПАВ, мыло, оптический отбеливатель.ю энзимы, консервант, ароматизирующие добавки.",
   "information": [
     {

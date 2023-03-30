@@ -2,16 +2,14 @@
   "name": "Капсулы для стирки Ariel Color Аромат Масла Ши 15шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 649.99,
-  "priceWithCard": 630.49,
-  "promo": {
-    "discountedPriceRegular": 487.49,
-    "discountedPriceWithCard": 472.87,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 6,
+  "priceRegular": "649.99",
+  "priceWithCard": "591.49",
+  "discountPercent": 25,
+  "discountedPrice": "443.62",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 2,
   "ingredients": ">30% Анионные ПАВ, 5-15% Мыло, <5% Неионогенные ПАВ, Фосфонаты, Энзимы, Оптические Отбеливатели, Ароматизирующие Добавки, Амилциннамаль, Бензилсалицилат, Цитронеллол, Гераниол, Гексилкоричный Альдегид.",
   "information": [
     {

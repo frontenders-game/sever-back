@@ -2,11 +2,14 @@
   "name": "Кефир Домик в деревне 2.5% 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "36.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "А - молоко нормализованное, закваска на кефирных грибках;\nВ - молоко нормализованное, молоко восстановленное,  закваска на кефирных грибках\n",
   "information": [
     {

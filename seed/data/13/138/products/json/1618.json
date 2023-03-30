@@ -2,11 +2,14 @@
   "name": "Вишня Global Village без косточки быcтрозамороженная, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 150.39,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "151.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Вишня без косточки",
   "information": [
     {

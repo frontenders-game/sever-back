@@ -2,11 +2,14 @@
   "name": "Шоколад Фабрика им. Крупской Особый молочный с фундуком 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "85.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "сахар, масло какао, молоко цельное сухое, какао-тёртое, ядра фундука дробленые, сыворотка молочная сухая,  эмульгаторы (лецитин соевый, Е476), соль, ароматизатор. Противопоказано при индивидуальной непереносимости к белку молока",
   "information": [
     {

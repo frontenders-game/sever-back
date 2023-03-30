@@ -2,11 +2,14 @@
   "name": "Молоко Правильное Молоко пастеризованное 3.2-4%, 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 163.79,
-  "promo": null,
+  "priceRegular": "179.99",
+  "priceWithCard": "172.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Цельное молоко.",
   "information": [
     {

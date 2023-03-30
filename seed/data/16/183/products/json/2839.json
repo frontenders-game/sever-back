@@ -2,16 +2,14 @@
   "name": "Сахар Global Village тростниковый кусковой нерафинированный 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 145.49,
-  "promo": {
-    "discountedPriceRegular": 115.49,
-    "discountedPriceWithCard": 112.03,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "136.49",
+  "discountPercent": 23,
+  "discountedPrice": "105.10",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Сахар тростниковый нерафинированный.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Зубная паста Aquafresh Total Care 3 освежающая мята 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 120.89,
-  "promo": {
-    "discountedPriceRegular": 100.09,
-    "discountedPriceWithCard": 93.09,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "129.99",
+  "priceWithCard": "118.29",
+  "discountPercent": 23,
+  "discountedPrice": "91.08",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Pentasodium Triphosphate, PEG-6, Sodium Lauryl Sulfate, Aroma, Alumina, Xanthan Gum, Cocamidopropyl Betaine, Titanium Dioxide, Chondrus Crispus (Carrageenan), Sodium Fluoride, Sodium Saccharin, Sodium Hydroxide, Limonene, CI 73360, CI 74260, CI 74160.",
   "information": [
     {

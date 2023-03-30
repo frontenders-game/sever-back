@@ -2,16 +2,14 @@
   "name": "Мини-рожки Sorbon фундук 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 449.99,
-  "priceWithCard": 436.49,
-  "promo": {
-    "discountedPriceRegular": 314.99,
-    "discountedPriceWithCard": 305.54,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "449.99",
+  "priceWithCard": "427.49",
+  "discountPercent": 30,
+  "discountedPrice": "299.24",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Начинка: Сахар, заменитель масла какао (лаурин. типа),фундук,обезжиренное сухое молоко, какао порошок, заменитель масла какао(нелаурин. типа), лецитины (E322), ванилин. Рожок: мука пшеничная, сахар, растительное масло, лецитины, бикарбонат натрия, соль, ванилин, вода.",
   "information": [
     {

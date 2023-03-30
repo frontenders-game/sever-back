@@ -2,16 +2,14 @@
   "name": "Нектар Любимый томат 1.45л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 137.19,
-  "promo": {
-    "discountedPriceRegular": 102.19,
-    "discountedPriceWithCard": 100.15,
-    "discountPercent": 27,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 17,
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": 27,
+  "discountedPrice": "100.15",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 13,
   "ingredients": "томатный сок, сахар (S)** или сахар и глюкозно-фруктозный сироп (G) **, соль морская, регулятор кислотности – лимонная кислота, вода. **- буква-код используемого ингредиента – см. на верхней панели упаковки",
   "information": [
     {

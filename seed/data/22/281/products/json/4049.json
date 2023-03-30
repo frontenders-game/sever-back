@@ -2,11 +2,14 @@
   "name": "Лампа GP LEDC37 светодиодная свчеча E14 560lm теплый свет 2700K 6W",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 189.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "193.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Металл, пластик.",
   "information": [
     {

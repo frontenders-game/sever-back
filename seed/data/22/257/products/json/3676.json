@@ -2,11 +2,14 @@
   "name": "Полотенца бумажные Papia 3 слоя, 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 153.59,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "153.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

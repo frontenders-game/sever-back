@@ -2,16 +2,14 @@
   "name": "Напиток кисломолочный Actimel гранат обогащенный цинком 1.5% 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 34.49,
-  "promo": {
-    "discountedPriceRegular": 29.24,
-    "discountedPriceWithCard": 26.9,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 15,
+  "priceRegular": "37.49",
+  "priceWithCard": "35.62",
+  "discountPercent": 22,
+  "discountedPrice": "27.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 11,
   "ingredients": "молоко обезжиренное, вода, сахар, сливки, наполнитель (вода, глюкозно-фруктозный сироп, концентрированный сок граната, загуститель – Е1442, ароматизатор, регулятор кислотности – Е331(iii), глюконат цинка (цинк)), молоко сухое обезжиренное, глюкоза, витамин B6, витамин D3, йогуртовая закваска, лактобактерии L. CASEI IМUNITASS",
   "information": [
     {

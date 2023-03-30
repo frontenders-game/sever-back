@@ -2,11 +2,14 @@
   "name": "Игрушка  1Toy хваталка в ассортименте 1шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 200.19,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "211.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "полимерные материалы, материалы из металла",
   "information": [
     {

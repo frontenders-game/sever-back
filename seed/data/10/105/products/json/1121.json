@@ -2,11 +2,14 @@
   "name": "Масло сливочное Станция Молочная Традиционное 82.5%, 175г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 145.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "140.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Пастеризованные сливки.",
   "information": [
     {

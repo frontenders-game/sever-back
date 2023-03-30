@@ -2,11 +2,14 @@
   "name": "Масло сливочное Labas Rytas Традиционное 82.5%, 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 211.19,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "204.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": null,
   "information": [
     {

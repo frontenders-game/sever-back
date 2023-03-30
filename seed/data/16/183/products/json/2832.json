@@ -2,11 +2,14 @@
   "name": "Сахар Чайкофский белый кусковой, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.99,
-  "priceWithCard": 44.64,
-  "promo": null,
+  "priceRegular": "46.99",
+  "priceWithCard": "45.58",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Сахар белый кусковой категории Экстра.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Снек Biff Dental Care с говядиной жевательный для собак мелких пород 45г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 64.39,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "рис, мясо и мясные субпродукты (в том числе 20% говядины), белок растительный, клетчатка, лецитин, масла и животные жиры, дрожжевой экстракт, минеральные вещества, мята, фитокомплекс экстрактов растений, натуральные ароматизаторы, натуральный краситель",
   "information": [
     {

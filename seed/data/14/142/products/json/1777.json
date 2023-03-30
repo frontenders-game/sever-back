@@ -2,11 +2,14 @@
   "name": "Нектар ФрутоНяня банановый с мякотью 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 76.49,
-  "priceWithCard": 72.67,
-  "promo": null,
+  "priceRegular": "76.49",
+  "priceWithCard": "72.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "пюре из бананов, сахар, регулятор кислотности - кислота лимонная, антиокислитель - кислота аскорбиновая, вода",
   "information": [
     {

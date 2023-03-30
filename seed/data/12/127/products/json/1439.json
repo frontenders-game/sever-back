@@ -2,11 +2,14 @@
   "name": "Огурцы Global Village солёные, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 107.79,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "104.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Огурцы, вода питьевая, соль поваренная пищевая, пряности при засолке (чеснок, зелень укропа, перец красный стручковый острый).",
   "information": [
     {

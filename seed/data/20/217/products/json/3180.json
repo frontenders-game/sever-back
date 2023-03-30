@@ -2,16 +2,14 @@
   "name": "Пюре Honey Kid яблочное с 4 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 44.09,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 39.24,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "42.74",
+  "discountPercent": 11,
+  "discountedPrice": "38.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Пюре яблочное (100%). Содержит сахара природного (естественного) происхождения.",
   "information": [
     {

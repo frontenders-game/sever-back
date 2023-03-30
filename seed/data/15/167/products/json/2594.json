@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Orbit Сладкая мята подушечки 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.19,
-  "priceWithCard": 36.66,
-  "promo": null,
+  "priceRegular": "38.19",
+  "priceWithCard": "36.66",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 50,
+  "stockCount": 46,
   "ingredients": "Подсластители: сорбит е420, мальтит е965, резиновая основа, краситель е170, загуститель е414, ароматизаторы, подсластители: маннит е421, аспартам е951, ацесуфам калия е950, эмульгатор соевый лецитин, краситель е171, глазирователь е903, антиокислитель е320.",
   "information": [
     {

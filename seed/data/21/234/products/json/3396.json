@@ -2,11 +2,14 @@
   "name": "Колбаса сырокопчёная Останкино Юбилейная срез, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.98,
-  "priceWithCard": 316.18,
-  "promo": null,
+  "priceRegular": "339.98",
+  "priceWithCard": "326.38",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Свинина, шпик, филе грудок куриных, соевый белок, соль, комплексные пищевые добавки (посолочно-нитритная смесь (соль, фиксатор окраски Е250), сахар, пряности, усилитель вкуса и аромата Е621, ароматизаторы, красители: Е162, Е120, рис красный фермернтированный; пищевые волокна, антиокислитель Е301); стартовая культура.",
   "information": [
     {

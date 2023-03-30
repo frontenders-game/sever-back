@@ -2,11 +2,14 @@
   "name": "Драже Tic Tac со вкусом апельсина, 16г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.49,
-  "priceWithCard": 57.78,
-  "promo": null,
+  "priceRegular": "63.49",
+  "priceWithCard": "58.41",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Сахар, мальтодекстрины, регулятор кислотности: Е334, рисовый крахмал, ароматизаторы и эфирное масло, загуститель: Е414, вода, агент антислеживающий: Е470, антиокислитель: Е300, глазирователь: Е903.",
   "information": [
     {

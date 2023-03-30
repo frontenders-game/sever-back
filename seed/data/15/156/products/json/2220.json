@@ -2,16 +2,14 @@
   "name": "Ирис Meller с шоколадом, 38г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 59.84,
-  "promo": {
-    "discountedPriceRegular": 40.31,
-    "discountedPriceWithCard": 38.3,
-    "discountPercent": 36,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 42,
+  "priceRegular": "62.99",
+  "priceWithCard": "57.95",
+  "discountPercent": 36,
+  "discountedPrice": "37.09",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 38,
   "ingredients": "Сахар, глюкозный сироп (из пшеницы), шоколад 27% (сахар, какао-масса, молочный жир, обезжиренный какао порошок, эмульгатор (соевый лецитин), ароматизатор), молоко цельное сгущеное с сахаром (молоко цельное, сахар), декстроза, сухое обезжиренное молоко, соль, загустители (гуммиарабик, декстрины), ароматизатор, масло растительное, глазирователь (карнаубский воск). Может содержать незначительное количество фундука.",
   "information": [
     {

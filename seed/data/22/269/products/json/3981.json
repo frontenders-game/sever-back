@@ -2,11 +2,14 @@
   "name": "Крем Honey Kid детский с пантенолом 50мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.19,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "44.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": null,
   "information": [
     {

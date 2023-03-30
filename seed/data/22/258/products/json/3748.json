@@ -2,16 +2,14 @@
   "name": "Шампунь Чистая Линия Пшеница и лён для тонких и ослабленных волос 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 183.99,
-  "promo": {
-    "discountedPriceRegular": 155.99,
-    "discountedPriceWithCard": 143.51,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "199.99",
+  "priceWithCard": "189.99",
+  "discountPercent": 22,
+  "discountedPrice": "148.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Sodium Chloride, PEG-7 Glyceryl Cocoate, Achillea Millefolium Extract, Chamomilla Recutita (Matricaria) Flower Extract, Chelidonium Majus Extract, Glycine Soja (Soybean) Oil, Hydrolyzed Wheat Protein, Hypericum Perforatum Flower/Leaf/Stem Extract, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Linum Usitatissimum (Linseed) Seed Extract, Triticum Vulgare (Wheat) Germ Oil (масляный экстракт зародышей пшеницы), Urtica Dioica (Nettle) Leaf Powder, Butyloctanol, Citric Acid, Cocamidopropyl Betaine, Disodium EDTA, Glycerin, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum, Phenoxyethanol, Polyquaternium-10, Silicone Quaternium-16, Sodium Benzoate, Undeceth-11, Undeceth-5, Butylphenyl Methylpropional, Citronellol, Hexyl Сinnamal, Linalool, CI 14720, CI 19140, CI 42090.",
   "information": [
     {

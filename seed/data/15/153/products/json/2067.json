@@ -2,16 +2,14 @@
   "name": "Шоколад Alpen Gold молочный с чернично-йогуртовой начинкой 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 48.88,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "57.59",
+  "discountPercent": 16,
+  "discountedPrice": "48.38",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 48,
+  "stockCount": 44,
   "ingredients": "сахар, жир растительный (масло пальмовое), сыворотка сухая молочная, какао тертое, масло какао, молоко сухое цельное, жир молочный, порошок черничный, йогуртовый порошок, эмульгаторы (лецитин соевый, Е 476), молоко сухое обезжиренное, ароматизаторы, регулятор кислотности (кислота лимонная)",
   "information": [
     {

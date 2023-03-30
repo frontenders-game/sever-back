@@ -2,11 +2,14 @@
   "name": "Крупа ячменная ячневая №2, 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 26.49,
-  "priceWithCard": 25.96,
-  "promo": null,
+  "priceRegular": "26.49",
+  "priceWithCard": "25.17",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Крупа ячменный.",
   "information": [
     {

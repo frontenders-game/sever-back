@@ -2,11 +2,14 @@
   "name": "Сметана Простоквашино 15% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 66.99,
-  "priceWithCard": 62.97,
-  "promo": null,
+  "priceRegular": "66.99",
+  "priceWithCard": "64.98",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Сливки нормализованные, заквасочные микроорганизмы.",
   "information": [
     {

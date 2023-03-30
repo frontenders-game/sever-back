@@ -2,16 +2,14 @@
   "name": "Мармелад Fruittella Змеи XXL жевательный 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": {
-    "discountedPriceRegular": 55.19,
-    "discountedPriceWithCard": 53.54,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "75.19",
+  "discountPercent": 31,
+  "discountedPrice": "51.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Глюкозный сироп (из пшеницы), сахар, желатин, соки из фруктов и ягод (лимонный, яблочный, клубничный, апельсиновый, малиновый) (3%), регулятор кислотности (лимонная кислота), натуральные ароматизаторы, краситель (сахарный колер I простой), концентрированный сок черной моркови, концентраты (сафлор, спирулина), концентрированный сок редиса, масло растительное, глазирователи (воск карнаубский).",
   "information": [
     {

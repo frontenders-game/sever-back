@@ -2,11 +2,14 @@
   "name": "Кофе Jardin Голд растворимый сублимированный 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 668.99,
-  "priceWithCard": 628.85,
-  "promo": null,
+  "priceRegular": "668.99",
+  "priceWithCard": "622.16",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "кофе растворимый сублимированный",
   "information": [
     {

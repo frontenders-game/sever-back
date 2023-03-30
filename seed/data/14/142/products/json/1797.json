@@ -2,11 +2,14 @@
   "name": "Сок Nar гранатовый восстановленный для детского питания 310мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 85.19,
-  "priceWithCard": 80.93,
-  "promo": null,
+  "priceRegular": "85.19",
+  "priceWithCard": "82.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Концентрированный гранатовый сок, сахар, вода питьевая.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Чай Lipton зеленый 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 78.39,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "73.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Вода, сахар, фруктоза, экстракт зелёного чая, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), ароматизаторы, антиокислитель аскорбиновая кислота.",
   "information": [
     {

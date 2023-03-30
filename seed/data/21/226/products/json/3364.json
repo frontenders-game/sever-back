@@ -2,11 +2,14 @@
   "name": "Котлета Индилайт натуральная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 334.99,
-  "priceWithCard": 324.94,
-  "promo": null,
+  "priceRegular": "334.99",
+  "priceWithCard": "314.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "филе грудки индейки",
   "information": [
     {

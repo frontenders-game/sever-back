@@ -2,16 +2,14 @@
   "name": "Апельсины",
   "unitsOfMeasurement": "кг",
   "step": "0.9",
-  "priceRegular": 103.49,
-  "priceWithCard": 96.25,
-  "promo": {
-    "discountedPriceRegular": 90.04,
-    "discountedPriceWithCard": 83.74,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 33,
+  "priceRegular": "103.49",
+  "priceWithCard": "95.21",
+  "discountPercent": 13,
+  "discountedPrice": "82.83",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 29,
   "ingredients": "Апельсин.",
   "information": [
     {

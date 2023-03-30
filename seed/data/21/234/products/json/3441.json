@@ -2,16 +2,14 @@
   "name": "Сервелат Великолукский МК Финский варено-копченый 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 253.79,
-  "promo": {
-    "discountedPriceRegular": 170.09,
-    "discountedPriceWithCard": 159.89,
-    "discountPercent": 37,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "253.79",
+  "discountPercent": 37,
+  "discountedPrice": "159.89",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "свинина, филе куриной грудки, шпик, молоко коровье, натуральные пряности ( перец черный, белый молотый, тмин, чеснок, мускатный орех), соль, стабилизаторы (Е 407, Е 450iii), краситель (Е120), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

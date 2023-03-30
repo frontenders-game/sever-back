@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Papia Балийский цветок 3 слоя 8шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.99,
-  "priceWithCard": 322.99,
-  "promo": null,
+  "priceRegular": "339.99",
+  "priceWithCard": "329.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Целлюлоза",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Гель для стирки детского белья 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 223.19,
-  "promo": {
-    "discountedPriceRegular": 170.39,
-    "discountedPriceWithCard": 158.46,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 10,
+  "priceRegular": "239.99",
+  "priceWithCard": "227.99",
+  "discountPercent": 29,
+  "discountedPrice": "161.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 6,
   "ingredients": "30% и более - вода очищенная, 5% и более, но менее 15%  анионные ПАВ, 5%и более, но менее 15%неионогенные ПАВ, 5% и более, но менее 15% мыло, менее 5% комплексобразователь, парфюмерная композиция, консервант, краситель",
   "information": [
     {

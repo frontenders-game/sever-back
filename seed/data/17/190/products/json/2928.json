@@ -2,16 +2,14 @@
   "name": "Кускус Global Village, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 143.99,
-  "promo": {
-    "discountedPriceRegular": 115.49,
-    "discountedPriceWithCard": 110.87,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "140.99",
+  "discountPercent": 23,
+  "discountedPrice": "108.56",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Крупа кускус пшеничный.",
   "information": [
     {

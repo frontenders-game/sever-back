@@ -2,11 +2,14 @@
   "name": "Печенье Шарлиз овсяное классическое с кусочками шоколада 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 109.19,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Мука пшеничная высшего сорта, сахар, мука овсяная, темный шоколад (какао тертое, сахар, декстроза, эмульгатор: лецитин), вода питьевая, масло сливочное, масло подсолнечное рафинированное дезодорированное, изюм, разрыхлитель – гидрокарбонат натрия (сода пищевая), соль пищевая, корица молотая, экстракт ванили натуральный.",
   "information": [
     {

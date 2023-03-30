@@ -2,16 +2,14 @@
   "name": "Кофе Egoiste Espresso молотый 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 569.99,
-  "priceWithCard": 541.49,
-  "promo": {
-    "discountedPriceRegular": 421.79,
-    "discountedPriceWithCard": 400.7,
-    "discountPercent": 26,
-    "isActive": true
-  },
+  "priceRegular": "569.99",
+  "priceWithCard": "518.69",
+  "discountPercent": 26,
+  "discountedPrice": "383.83",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "100% Арабика.",
   "information": [
     {

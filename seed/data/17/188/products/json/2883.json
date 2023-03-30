@@ -2,16 +2,14 @@
   "name": "Хлопья гречневые Селяночка не требующие варки, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 113.99,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 95.75,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": 16,
+  "discountedPrice": "97.77",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Хлопья гречневые быстрого приготовления 100 %.",
   "information": [
     {

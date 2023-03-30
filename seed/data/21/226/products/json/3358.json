@@ -2,11 +2,14 @@
   "name": "Фарш Индилайт классический охлаждённый, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 185.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "193.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "мясо индейки, кожа индейки, регуляторы кислотности: ацетат натрий, соль. Может содержать глютен, лактозу, горчицу, сою, сельдерей, яйца, кунжут, арахис, орехи и/или продукты их переработки",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "ПЯТЕРОЧКА Зажигалка XHD- 39 пьезо",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.89,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "29.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 125,
+  "stockCount": 121,
   "ingredients": "Материал: пластик, Содержание: горючий газ под давлением",
   "information": [
     {

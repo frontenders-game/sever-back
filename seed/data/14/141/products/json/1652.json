@@ -2,11 +2,14 @@
   "name": "Вода Пилигрим минеральная питьевая 5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "126.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "гидрокарбонаты 30-160 мг/л, кальций < 100 мг/л, натрий + калий < 50 мг/л, минерализация 0,1 - 0,3 мг/л",
   "information": [
     {

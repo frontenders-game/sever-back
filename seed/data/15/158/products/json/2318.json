@@ -2,16 +2,14 @@
   "name": "Конфеты Рот Фронт Батончики шоколадно-сливочные, кг",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 699.99,
-  "priceWithCard": 650.99,
-  "promo": {
-    "discountedPriceRegular": 433.99,
-    "discountedPriceWithCard": 403.61,
-    "discountPercent": 38,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 8,
+  "priceRegular": "699.99",
+  "priceWithCard": "636.99",
+  "discountPercent": 38,
+  "discountedPrice": "394.93",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 4,
   "ingredients": "Сахар, заменитель масла какао, арахис тертый, вафли дробленые (мука пшеничная, масло подсолнечное, яичный порошок, эмульгатор е322, соль повареная, разрыхлитель - сода пищевая, регулятор кислотности-кислота лимонная), мука соевая дезодорированная, сухое цельное молоко, какао- порошок, сухие сливки, коньяк, ароматизаторы, идентичные натуральным: молоко, шоколад , антиокислитель е300.",
   "information": [
     {

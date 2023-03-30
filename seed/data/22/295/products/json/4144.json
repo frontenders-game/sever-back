@@ -2,11 +2,14 @@
   "name": "Колготки Innamore Day 40 den daino размер 3-M",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 193.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "187.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "88% полиамид, 12% эластан",
   "information": [
     {

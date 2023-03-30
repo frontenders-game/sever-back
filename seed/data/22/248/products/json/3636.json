@@ -2,11 +2,14 @@
   "name": "Порошок чистящий Comet лимон с хлорином, 475г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "88.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "<5% анионные ПАВ, отбеливающие вещества на основе хлора, дезинфицирующие вещества (натриевая соль ДХЦК), ароматизирующие добавки, цитраль.",
   "information": [
     {

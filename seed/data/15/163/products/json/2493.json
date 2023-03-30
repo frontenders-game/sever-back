@@ -2,11 +2,14 @@
   "name": "Клубника Буздякский протертая с сахаром 280г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 95.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "клубника, сахар, регулятор кислотности-лимонная кислота, консервант сорбиновая кислота. Может содержать следы сельдерея, горчицы, сухого молока, глютена и продуктов их переработки",
   "information": [
     {

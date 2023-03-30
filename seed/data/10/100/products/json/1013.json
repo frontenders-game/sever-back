@@ -2,11 +2,14 @@
   "name": "Молоко Простоквашино отборное пастеризованное 3.4-4.5% 930мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 83.69,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "85.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "цельное молоко",
   "information": [
     {

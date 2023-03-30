@@ -2,11 +2,14 @@
   "name": "Напиток Вкус и Польза Иммунитет чайный 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 104.49,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "100.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "плоды шиповника, листья кипрея ферментированные, , чабрец, листья смородины, листья земляники, каркаде, листья брусники, листья календулы, ягоды брусники",
   "information": [
     {

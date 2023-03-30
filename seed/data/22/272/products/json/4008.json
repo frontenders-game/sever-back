@@ -2,11 +2,14 @@
   "name": "Туалетная бумага Tolli Lux Ultrasoft 3 слоя 4шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

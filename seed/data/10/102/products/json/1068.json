@@ -2,11 +2,14 @@
   "name": "Йогурт питьевой Активиа злаки 1.6% 260г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 68.24,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "70.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (вода, сахар, мюсли (пшеница, овес), ржаные отруби, концентрированный сок яблока, ароматизатор натуральный, сок лимона концентрированный, кукурузный крахмал), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®",
   "information": [
     {

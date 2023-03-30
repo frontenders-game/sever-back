@@ -2,11 +2,14 @@
   "name": "Сосиски Великолукский Мк Молочные вареные Гост 330г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 151.99,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "156.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "свинина, говядина, коровье молоко, яйца куриные, пряности (чёрный перец, душистый перец, мускатный орех), питьевая вода, соль поваренная пищевая, сахар ,стабилизатор (Е450), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

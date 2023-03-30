@@ -2,16 +2,14 @@
   "name": "Чай Curtis Sunny Lemon черный в пакетиках 20х1.47г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 131.59,
-  "promo": {
-    "discountedPriceRegular": 85.39,
-    "discountedPriceWithCard": 80.27,
-    "discountPercent": 39,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "130.19",
+  "discountPercent": 39,
+  "discountedPrice": "79.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Листовой черный чай, ароматизатор лимон, цедра цитрусовых, лепестки подсолнечника.",
   "information": [
     {

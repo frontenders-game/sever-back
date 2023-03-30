@@ -2,11 +2,14 @@
   "name": "Решетка Seasons для гриля 57,5*30,5*24 см",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 459.99,
-  "priceWithCard": 450.79,
-  "promo": null,
+  "priceRegular": "459.99",
+  "priceWithCard": "427.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "Хромированное железо, дерево.",
   "information": [
     {

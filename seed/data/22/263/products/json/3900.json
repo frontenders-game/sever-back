@@ -2,16 +2,14 @@
   "name": "Мыло жидкое Aura антибактериальное с ромашкой, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 101.19,
-  "promo": {
-    "discountedPriceRegular": 80.29,
-    "discountedPriceWithCard": 73.87,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "107.79",
+  "discountPercent": 27,
+  "discountedPrice": "78.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Cocamide DEA, Chamomilla Recutita Flower Extract (экстракт ромашки), Carbamide, Methylchloroisothiazolinone, Methylisothiazolinone, Citric acid,  2-Na EDTA, Parfume, Benzyl Salicilate, Cl 14720, Cl 19140",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Освежитель воздуха Airwick Freshmatic Нежный шелк и лилия 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 519.99,
-  "priceWithCard": 504.39,
-  "promo": {
-    "discountedPriceRegular": 353.59,
-    "discountedPriceWithCard": 342.99,
-    "discountPercent": 32,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 6,
+  "priceRegular": "519.99",
+  "priceWithCard": "504.39",
+  "discountPercent": 32,
+  "discountedPrice": "342.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 2,
   "ingredients": null,
   "information": [
     {

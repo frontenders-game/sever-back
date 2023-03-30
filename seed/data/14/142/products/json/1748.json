@@ -2,16 +2,14 @@
   "name": "Сок J7 яблочный 0.97л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 137.99,
-  "priceWithCard": 131.09,
-  "promo": {
-    "discountedPriceRegular": 120.05,
-    "discountedPriceWithCard": 114.05,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 36,
+  "priceRegular": "137.99",
+  "priceWithCard": "125.57",
+  "discountPercent": 13,
+  "discountedPrice": "109.25",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 32,
   "ingredients": "Сок яблочный осветлённый.",
   "information": [
     {

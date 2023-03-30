@@ -2,11 +2,14 @@
   "name": "Крем Альпенгурт Классик взбитый сливочный 17% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 289.99,
-  "priceWithCard": 272.59,
-  "promo": null,
+  "priceRegular": "289.99",
+  "priceWithCard": "284.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "сливки, глюкозный сироп, сахар, молоко сухое обезжиренное, эмульгаторы (моно- и диглицериды жирных кислот, эфиры глицерина и уксусной и жирных кислот), стабилизаторы (фосфаты натрия, Е407), ароматизатор ванилин",
   "information": [
     {

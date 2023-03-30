@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня яблочное натуральное с 4 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 58.23,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 44.84,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "60.15",
+  "discountPercent": 23,
+  "discountedPrice": "46.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Пюре из яблок. Без добавления сахара. Содержит сахара природного происхождения. Продукт изготовлен из концентрированного пюре.",
   "information": [
     {

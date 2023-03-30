@@ -2,16 +2,14 @@
   "name": "Зубная щетка Oral-B Black Всесторонняя чистка Средней жесткости, 1 шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 112.69,
-  "promo": {
-    "discountedPriceRegular": 100.04,
-    "discountedPriceWithCard": 98.04,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "114.99",
+  "priceWithCard": "109.24",
+  "discountPercent": 13,
+  "discountedPrice": "95.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Щетина: PBT, ручка:PP.",
   "information": [
     {

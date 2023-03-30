@@ -2,16 +2,14 @@
   "name": "Нектар Soko Grande манго с мякотью 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.98,
-  "priceWithCard": 76.78,
-  "promo": {
-    "discountedPriceRegular": 45.59,
-    "discountedPriceWithCard": 43.76,
-    "discountPercent": 43,
-    "isActive": true
-  },
+  "priceRegular": "79.98",
+  "priceWithCard": "75.18",
+  "discountPercent": 43,
+  "discountedPrice": "42.85",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Пюре из манго, сахар, регулятор кислотности - лимонная кислота, вода питьевая.",
   "information": [
     {

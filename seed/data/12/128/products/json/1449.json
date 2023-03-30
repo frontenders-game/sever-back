@@ -2,11 +2,14 @@
   "name": "Семечки Бабкины Семечки 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.19,
-  "priceWithCard": 59.32,
-  "promo": null,
+  "priceRegular": "65.19",
+  "priceWithCard": "59.97",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "семена подсолнечника жареные",
   "information": [
     {

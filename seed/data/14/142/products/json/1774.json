@@ -2,11 +2,14 @@
   "name": "Нектар ФрутоНяня яблоко-банан-вишня-малина неосветлённый 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 95.99,
-  "priceWithCard": 92.15,
-  "promo": null,
+  "priceRegular": "95.99",
+  "priceWithCard": "87.35",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "пюре из бананов, сок из яблок, сок из вишни, сок из малины, сахар, регулятор кислотности - кислота лимонная, вода",
   "information": [
     {

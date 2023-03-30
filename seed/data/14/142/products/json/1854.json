@@ -2,11 +2,14 @@
   "name": "Сок Сады Придонья яблоко-виноград 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 88.49,
-  "priceWithCard": 83.18,
-  "promo": null,
+  "priceRegular": "88.49",
+  "priceWithCard": "84.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "яблочный сок, виноградный сок. Изготовлен из концентрированных соков",
   "information": [
     {

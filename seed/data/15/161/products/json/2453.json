@@ -2,11 +2,14 @@
   "name": "Маршмеллоу Шарлиз мини, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "94.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Сахар, патока крахмальная, глюкоза, желатин пищевой, влагоудерживающий агент - сорбитовый сироп, ароматизатор Ванилин, возможно содержание незначительного количества яичного белка.",
   "information": [
     {

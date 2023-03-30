@@ -2,16 +2,14 @@
   "name": "Миндаль Mixbar сладкий жареный, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 167.39,
-  "promo": {
-    "discountedPriceRegular": 160.19,
-    "discountedPriceWithCard": 148.98,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "179.99",
+  "priceWithCard": "163.79",
+  "discountPercent": 11,
+  "discountedPrice": "145.77",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Ядра орехов миндаля жареные.",
   "information": [
     {

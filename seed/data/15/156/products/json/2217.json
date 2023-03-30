@@ -2,16 +2,14 @@
   "name": "Конфеты Fruittella желейные ассорти клубника-апельсин-лимон 41г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 57.59,
-  "promo": {
-    "discountedPriceRegular": 40.19,
-    "discountedPriceWithCard": 38.59,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": 33,
+  "discountedPrice": "36.98",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "Глюкозный сироп (из пшеницы), сахар, гидрогенизированное растительное масло, соки из фруктов и ягод (апельсиновый, лимонный, клубничный) (3%), регулятор кислотности (лимонная кислота), желатин, загустители (гуммиарабик, декстрины), влагоудерживающий агент (глицерин), рисовый крахмал, натуральные ароматизаторы, концентрированные соки (бузина, черная морковь), краситель (экстракт паприки).",
   "information": [
     {

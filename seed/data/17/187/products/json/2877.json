@@ -2,11 +2,14 @@
   "name": "Горох Селяночка колотый желтый шлифованный 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 63.69,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Горох шлифованный колотый желтый.",
   "information": [
     {

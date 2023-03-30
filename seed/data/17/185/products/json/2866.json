@@ -2,11 +2,14 @@
   "name": "Рис Националь Золотистый пропаренный 900 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 146.99,
-  "priceWithCard": 135.23,
-  "promo": null,
+  "priceRegular": "146.99",
+  "priceWithCard": "144.05",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "крупа рисовая шлифованная, обработанная паром, первый сорт. Возможно наличие следов глютена\n",
   "information": [
     {

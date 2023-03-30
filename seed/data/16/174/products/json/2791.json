@@ -2,16 +2,14 @@
   "name": "Чай Greenfield Flying Dragon зеленый в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 469.99,
-  "priceWithCard": 460.59,
-  "promo": {
-    "discountedPriceRegular": 333.69,
-    "discountedPriceWithCard": 327.02,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "469.99",
+  "priceWithCard": "460.59",
+  "discountPercent": 29,
+  "discountedPrice": "327.02",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "чай зеленый",
   "information": [
     {

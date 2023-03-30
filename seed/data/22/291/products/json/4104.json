@@ -2,16 +2,14 @@
   "name": "Зубная паста Новый Жемчуг Малина детская 50мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": {
-    "discountedPriceRegular": 63.99,
-    "discountedPriceWithCard": 60.15,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "78.39",
+  "discountPercent": 20,
+  "discountedPrice": "62.71",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "sorbitol, hydrated silica, aqua, sodium lauryl sulfate, trisodium phosphate, xanthan gum, calcium lactate, sodium saccharin, aroma, sodium benzoate, mica, glycerin, ci 77891, ci 12490",
   "information": [
     {

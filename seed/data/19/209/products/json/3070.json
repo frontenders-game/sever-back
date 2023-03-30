@@ -2,11 +2,14 @@
   "name": "Корм влажный Whiskas Курица и индейка желе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 19.39,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "18.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "мясо и субпродукты (в том числе курица и индейка), продукты животного происхождения, пшеничная мука, загустители, аминокислоты (в том числе таурин), минеральные вещества, витамины, свекловичный жом, сахара, натуральные красители",
   "information": [
     {

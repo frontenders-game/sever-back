@@ -2,11 +2,14 @@
   "name": "Корм влажный Kitekat Сочная говядина в желе для взрослых кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 17.49,
-  "priceWithCard": 16.27,
-  "promo": null,
+  "priceRegular": "17.49",
+  "priceWithCard": "16.44",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 88,
+  "stockCount": 84,
   "ingredients": "мясо и субпродукты (в том числе говядина), продукты животного происхождения, продукты растительного происхождения, загустители, минеральные вещества, аминокислоты (в том числе таурин), сахара, витамины, натуральный карамельный краситель",
   "information": [
     {

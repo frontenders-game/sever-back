@@ -2,16 +2,14 @@
   "name": "Подгузники Pampers Active Baby-Dry р.5 11-16кг 60шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1499.0,
-  "priceWithCard": 1364.09,
-  "promo": {
-    "discountedPriceRegular": 1214.19,
-    "discountedPriceWithCard": 1104.91,
-    "discountPercent": 19,
-    "isActive": true
-  },
+  "priceRegular": "1499.00",
+  "priceWithCard": "1394.07",
+  "discountPercent": 19,
+  "discountedPrice": "1129.20",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "целлюлоза, суперабсорбент, полимерные и нетканые материалы",
   "information": [
     {

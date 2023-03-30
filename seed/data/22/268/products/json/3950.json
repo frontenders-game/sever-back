@@ -2,16 +2,14 @@
   "name": "Патчи LINMIN Glitter Eye Patch для глаз 3шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 52.79,
-  "promo": {
-    "discountedPriceRegular": 47.29,
-    "discountedPriceWithCard": 45.4,
-    "discountPercent": 14,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 10,
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 14,
+  "discountedPrice": "44.93",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 6,
   "ingredients": "aqua, glycerin, carrageenan, euglena gracilis polysaccharide, xanthan gum,\nphenoxyethanol, hydrolyzed collagen, allantoin, peg-40 hydrogenated castor oil,\nchlorphenesin, calcium aluminum borosilicate, butylene glycol, ci 77891, parfum, ci\n45410, tin oxide, glycyrrhiza glabra root extract, centella  asiatica extract, scutellaria baicalensis root extract, polygonum cuspidatum root extract, chamomilla recutita flower extract, camellia sinensis leaf extract, rosmarinus officinalis leaf extract\n",
   "information": [
     {

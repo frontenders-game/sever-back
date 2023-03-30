@@ -2,16 +2,14 @@
   "name": "Нектар Добрый апельсиновый 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 135.79,
-  "promo": {
-    "discountedPriceRegular": 110.59,
-    "discountedPriceWithCard": 107.27,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "135.79",
+  "discountPercent": 21,
+  "discountedPrice": "107.27",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "апельсиновый сок, сахар, регулятор кислотности - лимонная кислота, вода. Изготовлен из концентрированного сока\n",
   "information": [
     {

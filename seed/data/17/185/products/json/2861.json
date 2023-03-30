@@ -2,11 +2,14 @@
   "name": "Рис круглозернистый шлифованный, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.99,
-  "priceWithCard": 57.22,
-  "promo": null,
+  "priceRegular": "58.99",
+  "priceWithCard": "56.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Рис.",
   "information": [
     {

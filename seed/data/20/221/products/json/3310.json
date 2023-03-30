@@ -2,16 +2,14 @@
   "name": "Каша Nestle безмолочная овсяная с 5 мес. 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 172.89,
-  "promo": {
-    "discountedPriceRegular": 161.49,
-    "discountedPriceWithCard": 146.96,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "189.99",
+  "priceWithCard": "182.39",
+  "discountPercent": 15,
+  "discountedPrice": "155.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "овсяная мука (86,6%) (содержит глютен), мальтодекстрин, минеральные вещества (кальция карбонат, железа (II) фумарат, цинка сульфат, йодид калия), витамины (С (L-аскорбиновая кислота), E (DL-альфа-токоферола ацетат), РР (никотинамид), A (ретинола ацетат), В1 (тиамина мононитрат), В6 (пиридоксин гидрохлорид), В2 (рибофлавин), B9 (фолиевая кислота), D (D3 холекальциферол)), бифидобактерии не менее 1х10^6 КОЕ/г. Продукт может содержать молоко. Продукт упакован в модифицированной атмосфере с азотом",
   "information": [
     {

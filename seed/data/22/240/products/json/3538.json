@@ -2,11 +2,14 @@
   "name": "Капсулы для стирки Persil Power Caps 4in1 Свежесть от Vernel концентрированные 14шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 664.99,
-  "priceWithCard": 618.44,
-  "promo": null,
+  "priceRegular": "664.99",
+  "priceWithCard": "651.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "15-30% анионных ПАВ, неионогенных ПАВ, 5-15% мыла, < 5% фосфонатов, энзимов, отдушки (в т.ч. гераниола, линалоола), консерванта, красителя, оптического отбеливателя.",
   "information": [
     {

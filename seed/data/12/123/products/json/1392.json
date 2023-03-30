@@ -2,11 +2,14 @@
   "name": "Помело",
   "unitsOfMeasurement": "кг",
   "step": "1.1",
-  "priceRegular": 175.99,
-  "priceWithCard": 172.47,
-  "promo": null,
+  "priceRegular": "175.99",
+  "priceWithCard": "168.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": null,
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай холодный Yes! Tea Клубника-малина зеленый 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 78.39,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 68.98,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "76.79",
+  "discountPercent": 12,
+  "discountedPrice": "67.58",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "вода, сахар, вкусо-ароматическая основа \"Зеленый чай\" (интвертный сахарный сироп, экстракт зеленого чая), регуляторы кислотности: лимонная кислота, E331iii; ароматизаторы пищевые натуральные: \"тип Пайнберри\" (регулятор кислотности E260); \"тип Зеленый чай\", \"тип Малиновый\" (регулятор кислотности E260); антиоксилитель аскорбиновая кислота, сок клубничный концентрированный, сок малиновый концентрированный.",
   "information": [
     {

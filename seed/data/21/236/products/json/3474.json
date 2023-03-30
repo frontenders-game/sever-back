@@ -2,16 +2,14 @@
   "name": "Колбаски Мясницкий Ряд Кabanos Jalapeno сырокопченые 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 115.19,
-  "promo": {
-    "discountedPriceRegular": 76.79,
-    "discountedPriceWithCard": 73.72,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": 36,
+  "discountedPrice": "74.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 59,
+  "stockCount": 55,
   "ingredients": "свинина, мясо птицы курица, растительный соевый белок, перец халапеньо, загуститель альгинат натрия, смесь посолочно-нитритная (соль поваренная пищевая, фиксатор окраски нитрит натрия), пшеничные волокна, пшеничный белок гидролизированный, мальтодекстрин, стабилизаторы (цитрат натрия, Е466), регуляторы кислотности (лактат кальция, молочная кислота), красители (экстракт паприки, кармины)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Хлебцы Protein Rex Crispy протеиново-злаковые кокосовый крамбл, 55г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 104.49,
-  "promo": {
-    "discountedPriceRegular": 90.19,
-    "discountedPriceWithCard": 85.68,
-    "discountPercent": 18,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 18,
+  "priceRegular": "109.99",
+  "priceWithCard": "106.69",
+  "discountPercent": 18,
+  "discountedPrice": "87.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 14,
   "ingredients": "Протеиновый комплекс (концентрат молочного белка, изолят горохового белка, концентрат сывороточного белка, овсяный белок), изомальтоолигосахариды (пищевые волокна), инулин (пищевые волокна), кокосовая стружка: миндальная мука, крупа рисовая, масло растительное, мука рисовая, кокосовое масло, какао-порошок, крупа кукурузная, молоко сухое обезжиренное, подсластитель эритрит, сукралоза: влагоудерживающий агент глицерин, соль поваренная пищевая, эмульгатор лецитин соевый, ароматизаторы натуральные.",
   "information": [
     {

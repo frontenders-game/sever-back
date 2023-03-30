@@ -2,11 +2,14 @@
   "name": "Сырок творожный Свитлогорье с ванилином в карамельной глазури 23%, 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 55.99,
-  "priceWithCard": 54.87,
-  "promo": null,
+  "priceRegular": "55.99",
+  "priceWithCard": "52.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Творог, сахар-песок, кондитерская глазурь \"Карамельная\" (сахар, заменитель какао масла – лауриновый (CBS), какао порошок, молоко сухое обезжиренное, эмульгатор - лецитин, ароматизатор пищевой, карамель, краситель натуральный - бета-каротин), сливочное масло, ароматизатор пищевой).",
   "information": [
     {

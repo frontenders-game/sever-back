@@ -2,16 +2,14 @@
   "name": "Кофе в зернах Lavazza Qualita Oro 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1999.0,
-  "priceWithCard": 1839.08,
-  "promo": {
-    "discountedPriceRegular": 1799.1,
-    "discountedPriceWithCard": 1655.17,
-    "discountPercent": 10,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 6,
+  "priceRegular": "1999.00",
+  "priceWithCard": "1859.07",
+  "discountPercent": 10,
+  "discountedPrice": "1673.16",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 2,
   "ingredients": "100% натуральный кофе, 100% Арабика",
   "information": [
     {

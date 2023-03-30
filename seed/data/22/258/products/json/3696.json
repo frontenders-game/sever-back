@@ -2,16 +2,14 @@
   "name": "Шампунь-бальзам-ополаскиватель Head&Shoulders С ментолом 2в1 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 260.39,
-  "promo": {
-    "discountedPriceRegular": 221.19,
-    "discountedPriceWithCard": 205.71,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "279.99",
+  "priceWithCard": "268.79",
+  "discountPercent": 21,
+  "discountedPrice": "212.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "aqua, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, zinc carbonate, sodium chloride, sodium xylenesulfonate, dimethicone, zinc pyrithione, cocamidopropyl betaine, parfum, menthol, sodium benzoate, guar hydroxypropyltrimonium chloride, hydrochloric acid, magnesium carbonate hydroxide, hexyl cinnamal, linalool, magnesium nitrate, sodium polynaphthalenesulfonate, methylchloroisothiazolinone, magnesium chloride, ci 42090, methylisothiazolinone, ci 17200",
   "information": [
     {

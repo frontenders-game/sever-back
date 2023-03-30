@@ -2,11 +2,14 @@
   "name": "Сливки Campina для кофе 10% 10х10г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 45,
+  "stockCount": 41,
   "ingredients": "Нормализованные сливки.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Напиток сокосодержащий Любимый Апельсиновое Манго 1.93л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 154.69,
-  "promo": {
-    "discountedPriceRegular": 141.09,
-    "discountedPriceWithCard": 128.39,
-    "discountPercent": 17,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "156.39",
+  "discountPercent": 17,
+  "discountedPrice": "129.80",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "апельсиновый сок, пюре манго, мандариновый сок, сахар (S)** или сахар и глюкозно-фруктозный сироп (G)**, регулятор кислотности – лимонная кислота, вода. **- буква-код используемого ингредиента – см. на верхней панели пакета.",
   "information": [
     {

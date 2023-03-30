@@ -2,16 +2,14 @@
   "name": "Пакет для пищевых продуктов 45х35х15см",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 18.19,
-  "promo": {
-    "discountedPriceRegular": 15.99,
-    "discountedPriceWithCard": 14.55,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "19.99",
+  "priceWithCard": "19.39",
+  "discountPercent": 20,
+  "discountedPrice": "15.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "полиэтилен низкого давления",
   "information": [
     {

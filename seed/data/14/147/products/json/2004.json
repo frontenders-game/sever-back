@@ -2,11 +2,14 @@
   "name": "Пиво Amstel 0.0 светлое безалкогольное 330мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 32.99,
-  "priceWithCard": 30.35,
-  "promo": null,
+  "priceRegular": "32.99",
+  "priceWithCard": "30.02",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "вода питьевая очищенная, солод пивоваренный ячменный светлый, солод пшеничный, хмелепродукты",
   "information": [
     {

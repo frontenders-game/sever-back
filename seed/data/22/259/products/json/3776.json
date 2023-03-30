@@ -2,11 +2,14 @@
   "name": "Тампоны Kotex Супер гигиенические женские 16шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 256.49,
-  "promo": null,
+  "priceRegular": "269.99",
+  "priceWithCard": "248.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Polypropylene, viscose, polyester.",
   "information": [
     {

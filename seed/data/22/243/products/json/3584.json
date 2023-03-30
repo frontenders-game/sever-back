@@ -2,11 +2,14 @@
   "name": "Средство для мытья посуды Sorti бальзам с алоэ вера, 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 79.79,
-  "promo": null,
+  "priceRegular": "83.99",
+  "priceWithCard": "78.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "5% или более, но менее 15%: анионные ПАВ; <5%: неионогенные ПАВ, ароматизирующая добавка (в т.ч. гексилциннамаль), экстракт алоэ вера, регулятор pH, соль этилендиаминтетрауксусной кислоты, консервант, красители.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Вода Рычал су минеральная лечебно-столовая газированная 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.49,
-  "priceWithCard": 67.42,
-  "promo": null,
+  "priceRegular": "72.49",
+  "priceWithCard": "65.97",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "натрий+калий — 1200-1450, магний — <25, кальций — <25, хлор — 450-500, йод — 0.3-0.6, сульфат — <25, гидрокарбонат — 2500-3000",
   "information": [
     {

@@ -10,21 +10,30 @@ import {
 import {
     CreateCategoryInput,
     UpdateCategoryInput,
+    GetCategoryQuery,
     routeCreateCategorySchema,
     routeDeleteCategorySchema,
     routeGetAllCategoriesSchema,
-    routeGetCategorySchema,
+    routeGetCategoryByIdSchema,
+    routeGetCategoryBySlugSchema,
     routeUpdateCategorySchema
 } from "./category.schema";
-import { UuidParamsRequest } from "../shared/schemas";
+import { SlugParams, UuidParams } from "../shared/schemas";
 
 
 const categoryRoute: FastifyPluginAsyncTypebox = async function(server: FastifyInstance) {
-
-    server.get<{ Params: UuidParamsRequest, Reply: FastifyReply }>(
-        "/:id",
+    server.get<{ Querystring: GetCategoryQuery, Params: UuidParams, Reply: FastifyReply }>(
+        "/id/:id",
         {
-            schema: routeGetCategorySchema
+            schema: routeGetCategoryByIdSchema
+        },
+        getCategoryHandler
+    )
+
+    server.get<{ Querystring: GetCategoryQuery, Params: SlugParams, Reply: FastifyReply }>(
+        "/slug/:slug",
+        {
+            schema: routeGetCategoryBySlugSchema
         },
         getCategoryHandler
     )
@@ -45,16 +54,16 @@ const categoryRoute: FastifyPluginAsyncTypebox = async function(server: FastifyI
         createCategoryHandler
     )
 
-    server.patch<{  Params: UuidParamsRequest, Body: UpdateCategoryInput, Reply: FastifyReply }>(
-        "/:id",
+    server.patch<{  Params: UuidParams, Body: UpdateCategoryInput, Reply: FastifyReply }>(
+        "/id/:id",
         {
             schema: routeUpdateCategorySchema
         },
         updateCategoryHandler
     )
 
-    server.delete<{ Params: UuidParamsRequest, Reply: FastifyReply }>(
-        "/:id",
+    server.delete<{ Params: UuidParams, Reply: FastifyReply }>(
+        "/id/:id",
         {
             schema: routeDeleteCategorySchema
         },

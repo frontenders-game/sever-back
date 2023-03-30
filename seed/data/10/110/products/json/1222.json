@@ -2,16 +2,14 @@
   "name": "Соус Рестория Сметанный с грибами 42% 233г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 73.59,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 64.76,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "78.39",
+  "discountPercent": 12,
+  "discountedPrice": "68.98",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "вода, масло подсолнечное, сахар, загустители (Е1442, ксантановая камедь), яичный желток, ароматизаторы, соль, шампиньоны сушеные, сметана, регулятор кислотности - уксусная кислота, лук сушеный, консерванты (сорбиновая кислота, Е385) Продукт содержит лактозу, может содержать следы сельдерея, горчицы и продуктов их переработки",
   "information": [
     {

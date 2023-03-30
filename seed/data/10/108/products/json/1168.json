@@ -2,11 +2,14 @@
   "name": "Сметана Свежее Завтра 15% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 63.69,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "68.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "нормализованные сливки, закваска молочнокислых культур",
   "information": [
     {

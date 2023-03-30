@@ -2,16 +2,14 @@
   "name": "Мыло жидкое Synergetic лаванда биоразлагаемое, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 181.99,
-  "promo": {
-    "discountedPriceRegular": 159.99,
-    "discountedPriceWithCard": 145.59,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "199.99",
+  "priceWithCard": "185.99",
+  "discountPercent": 20,
+  "discountedPrice": "148.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "Дистиллированная вода 30%, А-тензиды ( растительного происхождения ) 5-15%, глицерин (glycerol) 5%, парфюмерная композиция «Лаванда» ( масла лаванды, лавандина, бергамота, муската, шалфея) , пищевой краситель ( кармуазин, бриллиантовый синий).",
   "information": [
     {

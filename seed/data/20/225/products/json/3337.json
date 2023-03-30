@@ -2,16 +2,14 @@
   "name": "Кусочки ФрутоНяня яблочно-малиновые улитки 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 61.74,
-  "promo": {
-    "discountedPriceRegular": 50.04,
-    "discountedPriceWithCard": 47.54,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "64.99",
+  "priceWithCard": "61.74",
+  "discountPercent": 23,
+  "discountedPrice": "47.54",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 51,
+  "stockCount": 47,
   "ingredients": "пюре яблочное концентрированное, сок яблочный концентрированный, сок малиновый концентрированный, сок черной моркови концентрированный, регулятор кислотности-яблочная кислота, ароматизатор натуральный.. Без добавления сахара. *Содержатся сахара природного происхождения",
   "information": [
     {

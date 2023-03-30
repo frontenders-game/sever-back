@@ -2,11 +2,14 @@
   "name": "Нектар Soko Grande Premium тыквенный с мякотью 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 102.29,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "104.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": null,
   "information": [
     {

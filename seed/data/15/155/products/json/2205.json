@@ -2,16 +2,14 @@
   "name": "Яйцо Kinder Сюрприз из молочного шоколада с игрушкой Прозвища, 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 428.99,
-  "priceWithCard": 420.41,
-  "promo": {
-    "discountedPriceRegular": 300.29,
-    "discountedPriceWithCard": 294.29,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "428.99",
+  "priceWithCard": "420.41",
+  "discountPercent": 30,
+  "discountedPrice": "294.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Молочный шоколад, (сахар, сухое цельное молоко, масло какао, тертое какао, эмульгатор: лецитины, ароматизатор), сухое обезжиренное молоко, сахар, растительные жиры, молочный жир, эмульгатор: лецитины, ароматизатор.",
   "information": [
     {

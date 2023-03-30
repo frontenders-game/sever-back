@@ -2,11 +2,14 @@
   "name": "Лимонад Лагидзе экстра тархун 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 96.59,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "101.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "вода подготовленная, сироп натуральный Тархун (сахар, колер, натуральная композиция \"Тархун\" и фрукты, регулятор кислотности – лимонная кислота), двуокись углерода (СО2)",
   "information": [
     {

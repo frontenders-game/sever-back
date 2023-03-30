@@ -2,16 +2,14 @@
   "name": "Шинка Новгородский бекон в нарезке 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": {
-    "discountedPriceRegular": 110.59,
-    "discountedPriceWithCard": 106.17,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "135.79",
+  "discountPercent": 21,
+  "discountedPrice": "107.27",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "свинина, вода, регуляторы кислотности (Е451, ацетаты натрия, цитраты натрия), загуститель (каррагинан), крахмал, соевый белок,  ароматизатор,  усилитель вкуса и аромата глутамат натрия, антиокислитель (Е301), посолочно-нитритная смесь (соль, фиксатор окраски нитрит натрия), соль, ароматизатор, экстракт черного перца (перец, декстроза), декстроза, краситель (кармин)",
   "information": [
     {

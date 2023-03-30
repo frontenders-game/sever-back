@@ -2,11 +2,14 @@
   "name": "Рис Агро-Альянс Кубанский Элитный Экстра шлифованный, 5х80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 99.74,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "101.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Рис.",
   "information": [
     {

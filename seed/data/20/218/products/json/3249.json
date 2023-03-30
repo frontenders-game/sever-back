@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из цыплёнка с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 78.39,
-  "promo": {
-    "discountedPriceRegular": 66.39,
-    "discountedPriceWithCard": 65.06,
-    "discountPercent": 17,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "79.99",
+  "priceWithCard": "77.59",
+  "discountPercent": 17,
+  "discountedPrice": "64.40",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": "мясо цыплят, крупа рисовая, масло подсолнечное, вода",
   "information": [
     {

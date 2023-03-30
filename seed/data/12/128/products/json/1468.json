@@ -2,11 +2,14 @@
   "name": "Семечки От Мартина отборные 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 293.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "293.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "обжаренные семена подсолнуха",
   "information": [
     {

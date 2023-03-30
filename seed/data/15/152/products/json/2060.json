@@ -2,11 +2,14 @@
   "name": "Паста Nutella с добавлением какао ореховая 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 371.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "387.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 49,
+  "stockCount": 45,
   "ingredients": "Сахар, растительный жир, лесной орех, обезжиренный какао-порошок, сухое обезжиренное молоко, сухая молочная сыворотка, эмульгатор: лецитины, ароматизатор. Содержит молоко, продукты их переработки.",
   "information": [
     {

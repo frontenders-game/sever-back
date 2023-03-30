@@ -2,11 +2,14 @@
   "name": "Колготки Golden Lady Lovely 40 den nero размер 2",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 191.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "191.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "88% полиамид, 12% эластан",
   "information": [
     {

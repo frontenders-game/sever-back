@@ -2,11 +2,14 @@
   "name": "Семечки От Мартина Полосатые отборные обжаренные без соли 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 113.99,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "111.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "обжаренные семена подсолнечника",
   "information": [
     {

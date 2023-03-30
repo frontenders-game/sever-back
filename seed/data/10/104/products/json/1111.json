@@ -2,11 +2,14 @@
   "name": "Коктейль молочный Чудо Шоколад 3% 216мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.99,
-  "priceWithCard": 47.03,
-  "promo": null,
+  "priceRegular": "48.99",
+  "priceWithCard": "46.05",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "А – молоко нормализованное, сахар, стабилизаторы (Е1422, Е407), какао-порошок, шоколад темный в порошке.",
   "information": [
     {

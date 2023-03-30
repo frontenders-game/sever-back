@@ -2,16 +2,14 @@
   "name": "Корм сухой Whiskas Вкусные подушечки с нежным паштетом Аппетитный обед с говядиной для кошек, 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 156.79,
-  "promo": {
-    "discountedPriceRegular": 131.19,
-    "discountedPriceWithCard": 128.57,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "159.99",
+  "priceWithCard": "155.19",
+  "discountPercent": 18,
+  "discountedPrice": "127.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Продукты растительного происхождения (в том числе злаки, овощи), продукты животного происхождения (в том числе мука из говядины), жиры и масла (в том числе подсолнечное масло), пивные дрожжи, минеральные вещества (в том числе кальций, цинк, железо), витамины (в том числе витамин А, Е, D3), аминокислоты (в том числе таурин), антиоксиданты, красители.",
   "information": [
     {

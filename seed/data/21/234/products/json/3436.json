@@ -2,11 +2,14 @@
   "name": "Колбаса сыровяленая Мясницкий Ряд Верона полусухая в нарезке, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 111.59,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Свинина, шпик, нитритная соль (поваренная соль, фиксатор окраски (нитрит натрия)), стабилизатор (Е450, Е452), натуральные пряности и их экстракты (мускатный орех, перец белый), усилитель вкуса и аромата (глутамат натрия), глюкоза, антиокислитель (аскорбат натрия, изоаскорбат натрия), гемоглобин, краситель кармин, стартовые культуры.",
   "information": [
     {

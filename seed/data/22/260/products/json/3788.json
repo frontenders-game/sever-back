@@ -2,16 +2,14 @@
   "name": "Зубная щётка Splat Professional Ultra Sensitive Soft с мягкой щетиной",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 255.99,
-  "priceWithCard": 240.63,
-  "promo": {
-    "discountedPriceRegular": 212.47,
-    "discountedPriceWithCard": 199.72,
-    "discountPercent": 17,
-    "isActive": true
-  },
+  "priceRegular": "255.99",
+  "priceWithCard": "243.19",
+  "discountPercent": 17,
+  "discountedPrice": "201.85",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "PЕТ, PBT.",
   "information": [
     {

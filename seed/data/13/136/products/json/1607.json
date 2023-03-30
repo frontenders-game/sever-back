@@ -2,11 +2,14 @@
   "name": "Блинчики Морозко с сердцем 210г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 81.99,
-  "priceWithCard": 75.43,
-  "promo": null,
+  "priceRegular": "81.99",
+  "priceWithCard": "77.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, сердце говяжье, лук репчатый, фарш куриный, шпик, масло растительное, сахар, молоко сухое обезжиренное, соль, сода пищевая, меланж, перец чёрный.",
   "information": [
     {

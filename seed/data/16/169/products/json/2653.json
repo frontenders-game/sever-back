@@ -2,11 +2,14 @@
   "name": "Кофе Jacobs Millicano натуральный растворимый с добавлением молотого, 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 206.79,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "211.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Кофе натуральный растворимый сублимированный, кофе жареный молотый",
   "information": [
     {

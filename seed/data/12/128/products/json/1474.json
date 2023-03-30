@@ -2,16 +2,14 @@
   "name": "Фундук",
   "unitsOfMeasurement": "кг",
   "step": "0.1",
-  "priceRegular": 899.99,
-  "priceWithCard": 854.99,
-  "promo": {
-    "discountedPriceRegular": 800.99,
-    "discountedPriceWithCard": 760.94,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "899.99",
+  "priceWithCard": "872.99",
+  "discountPercent": 11,
+  "discountedPrice": "776.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Фундук крупный 13-15 мм.",
   "information": [
     {

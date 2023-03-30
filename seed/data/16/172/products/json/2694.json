@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах Jardin Allonge 10х5.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 290.99,
-  "promo": null,
+  "priceRegular": "299.99",
+  "priceWithCard": "293.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Арабика, робуста.",
   "information": [
     {

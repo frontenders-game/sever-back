@@ -2,11 +2,14 @@
   "name": "Корм влажный Cesar говядина с овощами в соусе для собак 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 42.99,
-  "priceWithCard": 39.12,
-  "promo": null,
+  "priceRegular": "42.99",
+  "priceWithCard": "41.70",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 40,
+  "stockCount": 36,
   "ingredients": "мясо и субпродукты (в том числе говядина), продукты переработки злаков, продукты животного происхождения, овощи, минеральные вещества, витамины, свекловичный жом, загустители, метионин",
   "information": [
     {

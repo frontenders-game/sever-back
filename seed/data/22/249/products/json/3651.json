@@ -2,16 +2,14 @@
   "name": "Сменный баллон для Air Wick Freshmatic Rare Scents Дикий гранат 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 438.99,
-  "priceWithCard": 421.43,
-  "promo": {
-    "discountedPriceRegular": 333.63,
-    "discountedPriceWithCard": 320.29,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "438.99",
+  "priceWithCard": "408.26",
+  "discountPercent": 24,
+  "discountedPrice": "310.28",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Пропан, цитраль, лимонен, линалоол, бутан, этиловый спирт денатурированный, ароматизатор.",
   "information": [
     {

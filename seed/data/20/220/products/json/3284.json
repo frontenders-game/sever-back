@@ -2,11 +2,14 @@
   "name": "Биолакт Тема Клубника и банан с 8 мес. 3% 206г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.19,
-  "priceWithCard": 45.27,
-  "promo": null,
+  "priceRegular": "46.19",
+  "priceWithCard": "42.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "нормализованное молоко, наполнитель (вода, сахар, пюре клубники концентрированное, пюре банана, загуститель - пектины, натуральные ароматизаторы, лимонный сок концентрированный, сок черной моркови концентрированный), закваска из термофильных молочнокислых стрептококков (Streptococcus thermophilus) и молочнокислых ацидофильных палочек (Lactobacillus acidophilus)",
   "information": [
     {

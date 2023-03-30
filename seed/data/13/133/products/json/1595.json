@@ -2,16 +2,14 @@
   "name": "Смесь овощная Global Village Овощи По-Деревенски быстрозамороженная 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 127.39,
-  "promo": {
-    "discountedPriceRegular": 115.69,
-    "discountedPriceWithCard": 113.38,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "129.99",
+  "priceWithCard": "118.29",
+  "discountPercent": 11,
+  "discountedPrice": "105.28",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 42,
+  "stockCount": 38,
   "ingredients": "картофель, морковь, фасоль стручковая, капуста брокколи, перец сладкий, кукуруза зерно, лук репчатый",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Лакомство Dreamies С лососем и сыром подушечки для взрослых кошек 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": {
-    "discountedPriceRegular": 79.99,
-    "discountedPriceWithCard": 75.99,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "92.99",
+  "discountPercent": 20,
+  "discountedPrice": "74.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "злаки и продукты их переработки, продукты животного происхождения (в том числе из лосося), животные жиры и растительные масла (в том числе подсолнечное масло), гидролизат куриного белка, сырный порошок, краситель, минеральные вещества, витамины, пивные дрожжи, аминокислоты (в том числе таурин), антиоксиданты",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Йогурт Фругурт Вишня 2.5%, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.99,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "46.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Молоко нормализованное, фруктовый наполнитель (вишня, сахар, вода, глюкозно-фруктозный сироп (G)**,стабилизатор - Е1442, красители (антоцианы, кармины), ароматизатор, регулятор кислотности - лимонная кислота), сахар, стабилизаторы (Е1422,гуаровая камедь, пектины), желатин, закваска.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Хек Fish House медальон филе без кожи замороженный 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 369.99,
-  "priceWithCard": 340.39,
-  "promo": null,
+  "priceRegular": "369.99",
+  "priceWithCard": "351.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Хек патагонский (merluccius hubbsi), вода (защитная ледяная оболочка).",
   "information": [
     {

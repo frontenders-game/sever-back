@@ -2,16 +2,14 @@
   "name": "Средство моющее синтетическое ARIEL Экстра защита ткани Color жидкое в растворимых капсулах 12х25,2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 569.99,
-  "priceWithCard": 535.79,
-  "promo": {
-    "discountedPriceRegular": 427.49,
-    "discountedPriceWithCard": 401.84,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "569.99",
+  "priceWithCard": "547.19",
+  "discountPercent": 25,
+  "discountedPrice": "410.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": ">30% Анионные ПАВ, 5-15% Мыло, <5% Неионогенные ПАВ, Фосфонаты, Энзимы, Оптические Отбеливатели, Ароматизирующие Добавки, Бензилсалицилат, Лимонен, Линалоол",
   "information": [
     {

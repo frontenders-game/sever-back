@@ -2,16 +2,14 @@
   "name": "Укроп Global Village 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 38.79,
-  "promo": {
-    "discountedPriceRegular": 29.99,
-    "discountedPriceWithCard": 29.09,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "39.99",
+  "priceWithCard": "36.79",
+  "discountPercent": 25,
+  "discountedPrice": "27.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

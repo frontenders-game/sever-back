@@ -2,16 +2,14 @@
   "name": "Освежитель воздуха Air Wick Мальдивские мечты Тропические цветы-пачули 290мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 154.69,
-  "promo": {
-    "discountedPriceRegular": 141.09,
-    "discountedPriceWithCard": 128.39,
-    "discountPercent": 17,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "164.89",
+  "discountPercent": 17,
+  "discountedPrice": "136.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "сжатый воздух, меньше 5% неионогенные ПАВ, денатурат, консервант, ароматизатор",
   "information": [
     {

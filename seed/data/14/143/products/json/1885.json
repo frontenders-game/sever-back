@@ -2,11 +2,14 @@
   "name": "Напиток Черноголовка Дюшес газированный 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 96.59,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "100.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "вода, сахар, регулятор кислотности кислота лимонная, ароматизатор натуральный, консервант бензоат натрия, краситель сахарный колер IV",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Шоколад Cho ko-te молочный со вкусом малины и манго 43г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 44.09,
-  "promo": {
-    "discountedPriceRegular": 30.14,
-    "discountedPriceWithCard": 29.54,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "40.94",
+  "discountPercent": 33,
+  "discountedPrice": "27.43",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Сахар, масла растительные, молоко сухое обезжиренное, сыворотка молочная сухая, какао-порошок алкализованный, малина сублимационной сушки в виде кусочков, манго сублимационной сушки в виде кусочков, эмульгаторы (лецитин соевый, Е492), молочный белок, ароматизаторы. Может содержать незначительное количество экстракта ячменно-солодового. ",
   "information": [
     {

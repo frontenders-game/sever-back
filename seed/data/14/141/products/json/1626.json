@@ -2,16 +2,14 @@
   "name": "Вода Святой источник со вкусом клубники 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 72.79,
-  "promo": {
-    "discountedPriceRegular": 66.39,
-    "discountedPriceWithCard": 60.42,
-    "discountPercent": 17,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 17,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": 17,
+  "discountedPrice": "63.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 13,
   "ingredients": "Вода питьевая, сахар, ароматизаторы, регуляторы кислотности кислота лимонная и цитрат натрия, антиокислитель кислота аскорбиновая, консерванты сорбат калия и бензоат натрия, подсластитель сукралоза.",
   "information": [
     {

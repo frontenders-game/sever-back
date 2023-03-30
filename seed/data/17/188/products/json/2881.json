@@ -2,16 +2,14 @@
   "name": "Хлопья овсяные Ясно Солнышко №1 быстрого приготовления, 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 96.59,
-  "priceWithCard": 92.73,
-  "promo": {
-    "discountedPriceRegular": 84.03,
-    "discountedPriceWithCard": 80.68,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "96.59",
+  "priceWithCard": "93.69",
+  "discountPercent": 13,
+  "discountedPrice": "81.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Хлопья овсяные.",
   "information": [
     {

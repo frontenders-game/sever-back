@@ -2,11 +2,14 @@
   "name": "Бублики Каравай Украинские 2 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 47.99,
-  "priceWithCard": 45.11,
-  "promo": null,
+  "priceRegular": "47.99",
+  "priceWithCard": "43.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "мука пшеничная хлебопекарная первого сорта, вода питьевая, сахар, маргарин (рафинированные дезодорированные растительные масла, вода, эмульгаторы (Е471, Е475), соль, ароматизатор, краситель каротины, регулятор кислотности лимонная кислота), дрожжи хлебопекарные, мак пищевой, соль.",
   "information": [
     {

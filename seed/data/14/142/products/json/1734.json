@@ -2,11 +2,14 @@
   "name": "Напиток сокосодержащий Global Village Тропическое манго из апельсинов манго и мандаринов негазированный 950мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 68.59,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "апельсиновый сок, пюре из манго, мандариновый сок, сахар, регулятор кислотности-лимонная кислота, ароматизатор натуральный «Тип Манго», вода",
   "information": [
     {

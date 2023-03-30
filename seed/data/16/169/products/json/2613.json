@@ -2,16 +2,14 @@
   "name": "Кофе Nescafe Gold растворимый 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 759.99,
-  "priceWithCard": 729.59,
-  "promo": {
-    "discountedPriceRegular": 357.2,
-    "discountedPriceWithCard": 342.91,
-    "discountPercent": 53,
-    "isActive": true
-  },
+  "priceRegular": "759.99",
+  "priceWithCard": "737.19",
+  "discountPercent": 53,
+  "discountedPrice": "346.48",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "Натуральный растворимый сублимированный кофе, натуральный жареный молотый кофе.",
   "information": [
     {

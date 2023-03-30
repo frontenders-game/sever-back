@@ -2,11 +2,14 @@
   "name": "Молоко сухое Си-Продукт ГОСТ цельное 26% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 247.99,
-  "priceWithCard": 240.55,
-  "promo": null,
+  "priceRegular": "247.99",
+  "priceWithCard": "240.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "молоко сухое цельное",
   "information": [
     {

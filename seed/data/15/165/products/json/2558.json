@@ -2,16 +2,14 @@
   "name": "Вафли Шарлиз Парижские сахарные, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 60.19,
-    "discountedPriceWithCard": 57.78,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "65.79",
+  "discountPercent": 14,
+  "discountedPrice": "56.58",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Мука пшеничная общего назначения, маргарин (масла растительные: пальмовое, подсолнечное, кокосовое; эмульгаторы: моно - и диглицериды жирных кислот, полиглицерина и жирных кислот эфиры; ароматизатор, регулятор кислотности - кислота лимонная, краситель - бета-каротин, консервант-сорбат калия), сахар, продукты яичные, сыворотка молочная сухая, соль. (Может содержать следы арахиса, кунжута, соевой муки, молока сухого).",
   "information": [
     {

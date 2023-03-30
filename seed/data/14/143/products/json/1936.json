@@ -2,16 +2,14 @@
   "name": "Напиток Chillout Bitter Тоник грейпфрут газированный 0.33л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 59.79,
-  "promo": {
-    "discountedPriceRegular": 50.04,
-    "discountedPriceWithCard": 46.04,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "64.99",
+  "priceWithCard": "61.74",
+  "discountPercent": 23,
+  "discountedPrice": "47.54",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 62,
+  "stockCount": 58,
   "ingredients": "вода, сахар, концентрированный сон грейпфрута, регуляторы кислотности(кислота лимонная, цитрат натрия з-замещенный), ароматизаторы натуральные, хинин, стабилизаторы(гуммиарабик, эфиры глицерина и смоляных кислот), антиокислитель аскорбиновая кислота, консервант бензоат натрия, краситель каротины",
   "information": [
     {

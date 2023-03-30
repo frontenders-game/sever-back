@@ -2,11 +2,14 @@
   "name": "Печенье Зерница Традиционное, 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.89,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "28.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Мука пшеничная высшего сорта (глютен), сахар, жир кондитерский (растительные масла, антиокислитель - концентрат смеси токоферолов), вода, яичные продукты, соль, разрыхлители (гидрокарбонат натрия, карбонат аммония), эмульгатор лецитины, молоко сухое цельное, ароматизатор, регулятор кислотности лимонная кислота.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Биотворог Верховье Персик 4.2% 140г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.89,
-  "promo": {
-    "discountedPriceRegular": 45.09,
-    "discountedPriceWithCard": 44.19,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "50.04",
+  "discountPercent": 18,
+  "discountedPrice": "41.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "молоко нормализованное, наполнитель (сахар, крахмал кукурузный, концентрированный морковный сок, натуральные ароматизатор персика, концентрированный лимонный сок), закваска молочнокислых микроорганизмов, закваска пробиотическая howaru dophilus",
   "information": [
     {

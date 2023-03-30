@@ -2,16 +2,14 @@
   "name": "Средство для мытья посуды AOS бальзам, 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 92.73,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 40,
+  "priceRegular": "139.99",
+  "priceWithCard": "132.99",
+  "discountPercent": 28,
+  "discountedPrice": "95.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 36,
   "ingredients": "5-15%: анионные ПАВ; <5%: неионогенные ПАВ, амфотерные ПАВ, соль этилендиаминтетрауксусной кислоты, ароматизирующая добавка (в т.ч. лимонен, линалоол), красители, алоэ вера гель регулятор рН, консервант.",
   "information": [
     {

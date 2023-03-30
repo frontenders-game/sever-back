@@ -2,16 +2,14 @@
   "name": "Пюре Heinz Яблоко, абрикос, облепиха с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 70.14,
-  "priceWithCard": 66.63,
-  "promo": {
-    "discountedPriceRegular": 61.02,
-    "discountedPriceWithCard": 57.97,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "70.14",
+  "priceWithCard": "63.83",
+  "discountPercent": 13,
+  "discountedPrice": "55.53",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "пюре яблочное, вода, пюре абрикоса концентрированное, облепиха",
   "information": [
     {

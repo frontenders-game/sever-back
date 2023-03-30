@@ -2,16 +2,14 @@
   "name": "Спагетти Шебекинские №2 тонкие 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 55.29,
-    "discountedPriceWithCard": 53.08,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": 21,
+  "discountedPrice": "51.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 81,
+  "stockCount": 77,
   "ingredients": "Мука из твердой пшеницы,вода питьевая. Содержит натуральный белок злаковых культур - глютен.",
   "information": [
     {

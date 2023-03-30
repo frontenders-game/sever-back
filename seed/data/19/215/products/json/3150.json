@@ -2,11 +2,14 @@
   "name": "Подушечки для собак Titbit Золотая Коллекция с обсыпкой из рубца говяжьего 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "73.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "злаки и продукты растительного происхождения, мясо и субпродукты (говядина 16%, рубец говяжий 4%), мальтодекстрин, дрожжи пивные, растительные масла и животные жиры, смесь токоферолов и экстракт розмарина",
   "information": [
     {

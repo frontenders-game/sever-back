@@ -2,16 +2,14 @@
   "name": "Напиток Fresh Bar Double Funny 1.0 газированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": {
-    "discountedPriceRegular": 70.19,
-    "discountedPriceWithCard": 64.58,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 12,
+  "priceRegular": "89.99",
+  "priceWithCard": "84.59",
+  "discountPercent": 22,
+  "discountedPrice": "65.98",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 8,
   "ingredients": "подготовленная вода, сахар, регуляторы кислотности кислота лимонная и цитрат натрия, концентрированный яблочный сок, ароматизаторы, консервант бензоат натрия,  краситель синий блестящий FCF. Содержит сок и натуральные ингредиенты",
   "information": [
     {

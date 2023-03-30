@@ -2,16 +2,14 @@
   "name": "Краска для волос Garnier Color Naturals тёмный каштан 3",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 209.29,
-  "promo": {
-    "discountedPriceRegular": 200.09,
-    "discountedPriceWithCard": 182.08,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "229.99",
+  "priceWithCard": "211.59",
+  "discountPercent": 13,
+  "discountedPrice": "184.08",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Aqua/water, cetearyl alcohol, propylene glycol, deceth-3 laureth-12, ammonium hydroxide, oleth-30, lauric acid, hexadimethrine chloride, glycol distearate, polyquaternium-6, ethanolamine, silica dimethyl silylate, p-phenylenediamine, ci 77891/titanium dioxide, 2,4-diaminophenoxyethanol hcl, m-aminophenol, ascorbic acid, sodium metabisulfite, olea europaea oil/olive fruit oil, dimethicone, pentasodium pentetate, n,n-bis(2-hydroxyethyl)-p-phenylenediamine sulfate, carbomer, resorcinol parfum/fragrance.",
   "information": [
     {

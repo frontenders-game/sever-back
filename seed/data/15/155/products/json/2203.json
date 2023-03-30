@@ -2,11 +2,14 @@
   "name": "Яйцо Kinder Joy из молочного шоколада с игрушкой в ассортименте 20г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 128.99,
-  "priceWithCard": 121.25,
-  "promo": null,
+  "priceRegular": "128.99",
+  "priceWithCard": "123.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 65,
+  "stockCount": 61,
   "ingredients": "Сахар, растительные жиры, сухое обезжиренное молоко, пшеничная мука, обезжиренный какао-порошок, ростки пшеницы, пшеничный крахмал, тертое какао, сухой экстракт ячменного солода, эмульгатор: лецетин, растительное масло, сывороточные белки, масло какао, ароматизаторы, разрыхлители: Е500ii, E503ii; соль.",
   "information": [
     {

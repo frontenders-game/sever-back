@@ -2,11 +2,14 @@
   "name": "Сметана 20% Станция Молочная 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 71.99,
-  "priceWithCard": 66.95,
-  "promo": null,
+  "priceRegular": "71.99",
+  "priceWithCard": "65.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Клетчатка Сибирская Клетчатка Витаминная поляна, 280г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 161.49,
-  "promo": null,
+  "priceRegular": "169.99",
+  "priceWithCard": "166.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Оболочка пшеничного зерна, яблоко плоды сушеные, клюква ягода сушеная, черника ягода сушеная, брусника ягода сушеная, шиповник плоды сушеные.",
   "information": [
     {

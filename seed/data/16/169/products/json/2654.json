@@ -2,11 +2,14 @@
   "name": "Кофе Milagro Gold Roast растворимый 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 186.19,
-  "promo": null,
+  "priceRegular": "189.99",
+  "priceWithCard": "184.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "натуральный растворимый кофе",
   "information": [
     {

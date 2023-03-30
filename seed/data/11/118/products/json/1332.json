@@ -2,11 +2,14 @@
   "name": "Хлебцы Зерница Столовые хрустящие 110г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.99,
-  "priceWithCard": 24.95,
-  "promo": null,
+  "priceRegular": "25.99",
+  "priceWithCard": "23.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Дыня.",
   "information": [
     {

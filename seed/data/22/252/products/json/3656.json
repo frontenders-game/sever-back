@@ -2,11 +2,14 @@
   "name": "Средство Mr.Muscle Профессионал Утренняя роса для мытья стёкол 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 248.39,
-  "promo": null,
+  "priceRegular": "269.99",
+  "priceWithCard": "264.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "вода, моногексиловый эфир этиленгликоля, изопропаноламин, отдушка, гидроксид аммония, а-ПАВ < 5%, амфотерное ПАВ < 5%, красители",
   "information": [
     {

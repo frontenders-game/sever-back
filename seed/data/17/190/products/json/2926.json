@@ -2,16 +2,14 @@
   "name": "Пшено Селяночка шлифованное 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 60.19,
-    "discountedPriceWithCard": 57.78,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "68.59",
+  "discountPercent": 14,
+  "discountedPrice": "58.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "пшено",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Вода Borjomi минеральная лечебно-столовая газированная 0.33л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 55.99,
-  "priceWithCard": 51.51,
-  "promo": null,
+  "priceRegular": "55.99",
+  "priceWithCard": "52.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "минерализация: 5,0 – 7,5 г/л. Основной состав, мг/л: кальций 20 – 150, магний 20 – 150, натрий 1000 – 2000, гидрокарбонаты 3500 – 5000, хлориды 250 – 500, сульфаты <10",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пюре Фрумка яблоко-персик для детей от 5 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.99,
-  "priceWithCard": 34.95,
-  "promo": null,
+  "priceRegular": "37.99",
+  "priceWithCard": "35.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "пюре из яблок, пюре из персиков",
   "information": [
     {

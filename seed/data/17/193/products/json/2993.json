@@ -2,11 +2,14 @@
   "name": "Пюре Роллтон картофельное сухариками, 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 41.79,
-  "promo": null,
+  "priceRegular": "43.99",
+  "priceWithCard": "40.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Картофельные хлопья, сухие сливки, соль, сахар.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня яблоко манго с йогуртом с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 58.23,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 44.84,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 24,
+  "priceRegular": "63.99",
+  "priceWithCard": "58.23",
+  "discountPercent": 23,
+  "discountedPrice": "44.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 20,
   "ingredients": "Пюре из яблок, пюре из манго, йогурт, сок яблочный концентрированный.",
   "information": [
     {

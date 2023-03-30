@@ -2,11 +2,14 @@
   "name": "Вода Арза минеральная лечебно-столовая газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.19,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "гидрокарбонаты: 200–650 мг/л; хлориды: 400–1000 мг/л; сульфаты: 900–1600 мг/л; кальций: 50–200 мг/л; магний: 50–130 мг/л; натрий+калий: 400–1000 мг/л",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Макароны Ладные рожки, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 41.39,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "44.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Мука из твердых сортов пшеницы (дурум), вода.",
   "information": [
     {

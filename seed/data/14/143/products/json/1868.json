@@ -2,11 +2,14 @@
   "name": "Напиток Добрый Cola газированный 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 52.49,
-  "priceWithCard": 49.87,
-  "promo": null,
+  "priceRegular": "52.49",
+  "priceWithCard": "48.82",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Очищенная вода, сахар, краситель сахарный колер IV, регулятор кислотности ортофосфорная кислота, натуральный ароматизатор, кофеин (менее 150 мг/л).",
   "information": [
     {

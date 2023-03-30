@@ -2,11 +2,14 @@
   "name": "Йогурт Активиа манго 3% 110г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.99,
-  "priceWithCard": 35.27,
-  "promo": null,
+  "priceRegular": "35.99",
+  "priceWithCard": "35.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "нормализованное молоко, восстановленное молоко из сухого молока, наполнитель (вода; сахар; манго; стабилизатор – Е1442; концентрированное пюре манго; красители – каротины, экстракт паприки; ароматизатор; регулятор кислотности – лимонная кислота), сахар, йогуртовая закваска, бифидобактерии ActiRegularis®. Может содержать следы глютена, соевого лецитина, орехов, яйца куриного, фрагменты фруктовой косточки",
   "information": [
     {

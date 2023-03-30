@@ -2,11 +2,14 @@
   "name": "Прокладки урологические Tereza Lady Mini 20шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 203.99,
-  "priceWithCard": 191.75,
-  "promo": null,
+  "priceRegular": "203.99",
+  "priceWithCard": "185.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": null,
   "information": [
     {

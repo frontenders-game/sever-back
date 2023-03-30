@@ -2,11 +2,14 @@
   "name": "Макаронные изделия Царь Лапша гречневая соба 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 42.99,
-  "priceWithCard": 40.41,
-  "promo": null,
+  "priceRegular": "42.99",
+  "priceWithCard": "39.12",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, мука гречневая, вода.",
   "information": [
     {

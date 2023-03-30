@@ -2,11 +2,14 @@
   "name": "Пакеты Liberhaus для продуктов 26x36см, 100шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 57.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "54.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Полиэтилен.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Шампунь Honey Kid детский 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 96.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, decyl glucoside, coco-glucoside (and) glyceryl oleate, sodium chloride, sodium cocoamphoacetate, disodium laureth sulfosuccinate, d-panthenol (vitamin b5), retinyl palmitate (vitamin a), tocopheryl acetate (vitamin e), chamomilla recutita flower extract, lavandula angustifolia flower extract, calendula officinalis flower extract, parfum, disodium edta, citric acid, benzyl alcohol, methylisothiazolinone, methylсhloroisothiazolinone",
   "information": [
     {

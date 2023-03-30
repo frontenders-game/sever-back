@@ -2,11 +2,14 @@
   "name": "Дымовица Останкино из лопатки варено-копченая нарезка 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 122.84,
-  "promo": null,
+  "priceRegular": "134.99",
+  "priceWithCard": "132.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "свинина, вода, комплексные пищевые добавки (регуляторы кислотности: Е450 (i, iii, v), Е451 (i), Е262 (i, ii), Е331 (iii) ; стабилизаторы: Е407, Е415, Е452 (i), Е1442; соевый белок, сахар, антиокислитель Е301, пряности, усилитель вкуса и аромата Е621, ароматизаторы); крахмал картофельный, соль, нитритно-посолочная смесь (соль, фиксатор окраски Е250), краситель Е120",
   "information": [
     {

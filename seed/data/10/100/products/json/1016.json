@@ -2,11 +2,14 @@
   "name": "Молоко Большая Кружка ультрапастеризованное 3.2%, 1.98кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "213.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Цельное молоко, обезжиренное молоко.",
   "information": [
     {

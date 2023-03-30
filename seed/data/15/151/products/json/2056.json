@@ -2,11 +2,14 @@
   "name": "Зажигалка Genesis",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 64.39,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 38,
+  "stockCount": 34,
   "ingredients": "Пластмасса, газ, пьезо элемент, металлическая головка",
   "information": [
     {

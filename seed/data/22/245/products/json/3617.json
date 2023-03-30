@@ -2,16 +2,14 @@
   "name": "Кондиционер для белья Vernel Свежесть летнего утра суперконцентрат 910мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 237.49,
-  "promo": {
-    "discountedPriceRegular": 214.99,
-    "discountedPriceWithCard": 204.24,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "249.99",
+  "priceWithCard": "232.49",
+  "discountPercent": 14,
+  "discountedPrice": "199.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "5-15% катионные ПАВ; <5% отдушка (в т.ч. гексилциннамаль, цитронеллол, бензилсалицилат, альфа-изометилионон, бутилфенил метилпропиональ, лимонен), консервант, пеногаситель, краситель; глицерин, вода.",
   "information": [
     {

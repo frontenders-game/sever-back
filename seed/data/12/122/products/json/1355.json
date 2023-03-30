@@ -2,11 +2,14 @@
   "name": "Лук красный",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 99.99,
-  "priceWithCard": 93.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Лук красный.",
   "information": [
     {

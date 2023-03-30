@@ -2,16 +2,14 @@
   "name": "Туалетная бумага Zewa Just.1 4 слоя 4шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 254.79,
-  "promo": {
-    "discountedPriceRegular": 190.39,
-    "discountedPriceWithCard": 173.26,
-    "discountPercent": 32,
-    "isActive": true
-  },
+  "priceRegular": "279.99",
+  "priceWithCard": "268.79",
+  "discountPercent": 32,
+  "discountedPrice": "182.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "первичное волокно",
   "information": [
     {

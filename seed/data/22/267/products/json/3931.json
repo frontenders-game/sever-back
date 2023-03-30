@@ -2,11 +2,14 @@
   "name": "Гель-уход для душа Nivea Увлажнение и забота 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 369.99,
-  "priceWithCard": 347.79,
-  "promo": null,
+  "priceRegular": "369.99",
+  "priceWithCard": "351.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, peg-7 glyceryl cocoate, parfum, glycerin, glyceryl glucoside, prunus amygdalus dulcis oil, sodium chloride, PEG-40 hydrogenated castor oil, polyquaternium-7, styrene/acrylates copolymer, citric acid, PEG-200 hydrogenated glyceryl palmate, sodium benzoate, linalool, limonene, citronellol, benzyl alcohol, geraniol, butylphenyl methylpropional, alpha-isomethyl ionone",
   "information": [
     {

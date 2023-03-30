@@ -2,11 +2,14 @@
   "name": "Шоколад Победа Вкуса Classic сливочный пористый, 65г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 36.39,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "38.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Сахар, масло какао, сухое обезжиренное молоко, тертое какао, молочный жир, сливки сухие, эмульгатор (лецитин соевый), ароматизатор (ванилин).",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Лосьон после бритья Forx Men Care Успокаивающий для чувствительной кожи 100мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 309.99,
-  "priceWithCard": 297.59,
-  "promo": null,
+  "priceRegular": "309.99",
+  "priceWithCard": "282.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": null,
   "information": [
     {

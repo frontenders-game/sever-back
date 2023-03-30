@@ -2,11 +2,14 @@
   "name": "Хлебные палочки Saltletts Классические солёные, 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 33.99,
-  "priceWithCard": 33.31,
-  "promo": null,
+  "priceRegular": "33.99",
+  "priceWithCard": "31.61",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное, соль морская пищевая, соль поваренная пищевая, экстракт солодовый жидкий (солод ячменный, вода питьевая, солод ржаной), регулятор кислотности: гидроксид натрия, дрожжи хлебопекарные прессованные. Продукт может содержать следы семян кунжута.",
   "information": [
     {

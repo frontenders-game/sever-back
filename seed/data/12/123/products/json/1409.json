@@ -2,16 +2,14 @@
   "name": "Айва",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 146.99,
-  "priceWithCard": 144.05,
-  "promo": {
-    "discountedPriceRegular": 130.82,
-    "discountedPriceWithCard": 128.2,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "146.99",
+  "priceWithCard": "139.64",
+  "discountPercent": 11,
+  "discountedPrice": "124.28",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Айва.",
   "information": [
     {

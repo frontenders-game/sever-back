@@ -2,16 +2,14 @@
   "name": "Шоколад Фабрика Имени Крупской Особый молочный с тонкоизмельченными добавлениями 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 86.39,
-  "promo": {
-    "discountedPriceRegular": 80.09,
-    "discountedPriceWithCard": 76.89,
-    "discountPercent": 11,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 22,
+  "priceRegular": "89.99",
+  "priceWithCard": "82.79",
+  "discountPercent": 11,
+  "discountedPrice": "73.68",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 18,
   "ingredients": "сахар, масло какао, какао-тёртое, сыворотка молочная сухая, молоко цельное сухое, эмульгаторы (лецитин соевый, Е476), соль, ароматизатор. Противопоказано при индивидуальной непереносимости к белку молока",
   "information": [
     {

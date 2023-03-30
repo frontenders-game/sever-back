@@ -2,11 +2,14 @@
   "name": "Корм сухой Kitekat Мясной пир для кошек 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 209.99,
-  "priceWithCard": 195.29,
-  "promo": null,
+  "priceRegular": "209.99",
+  "priceWithCard": "197.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "злаки и продукты их переработки, муки животного происхождения, гидролизат куриного белка, животные жиры и растительные масла (в том числе подсолнечное масло), свекловичный жом, соль, минеральные вещества, витамины, аминокислоты (в том числе таурин), красители, антиоксиданты, морковь сушёная",
   "information": [
     {

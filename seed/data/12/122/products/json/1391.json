@@ -2,11 +2,14 @@
   "name": "Огурцы колючие среднеплодные",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 199.99,
-  "priceWithCard": 181.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "191.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "огурец свежий",
   "information": [
     {

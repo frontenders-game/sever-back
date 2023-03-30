@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня из брокколи с 4 мес. 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 52.24,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 43.88,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "50.04",
+  "discountPercent": 16,
+  "discountedPrice": "42.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Капуста брокколи, вода питьевая.",
   "information": [
     {

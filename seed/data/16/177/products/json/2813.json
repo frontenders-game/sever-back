@@ -2,16 +2,14 @@
   "name": "Напиток чайный Вкус и польза Шиповник-каркаде 20x1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 63.69,
-  "promo": {
-    "discountedPriceRegular": 60.19,
-    "discountedPriceWithCard": 54.77,
-    "discountPercent": 14,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 15,
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": 14,
+  "discountedPrice": "57.18",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 11,
   "ingredients": "каркаде, шиповник",
   "information": [
     {

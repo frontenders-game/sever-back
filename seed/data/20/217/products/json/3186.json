@@ -2,11 +2,14 @@
   "name": "Пюре Heinz Фруктовый салатик и злаки с 6 месяцев, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.99,
-  "priceWithCard": 64.01,
-  "promo": null,
+  "priceRegular": "65.99",
+  "priceWithCard": "64.01",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "Пюре яблочное, пюре банановое, пюре грушевое, мука (рисовая, овсяная, гречневая), сок яблочный, сок лимонный (регулятор кислотности), витамин С.",
   "information": [
     {

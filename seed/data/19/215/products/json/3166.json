@@ -2,11 +2,14 @@
   "name": "Лакомство для собак Деревенские лакомства Грудки куриные 55г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "225.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "куриное филе",
   "information": [
     {

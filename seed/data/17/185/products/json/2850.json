@@ -2,11 +2,14 @@
   "name": "Рис пропаренный шлифованный 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "77.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Рис.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Туалетная бумага Zewa Deluxe 3 слоя в ассортименте 8шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 319.99,
-  "priceWithCard": 313.59,
-  "promo": {
-    "discountedPriceRegular": 252.79,
-    "discountedPriceWithCard": 247.74,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 20,
+  "priceRegular": "319.99",
+  "priceWithCard": "291.19",
+  "discountPercent": 21,
+  "discountedPrice": "230.04",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 16,
   "ingredients": "Целлюлоза.",
   "information": [
     {

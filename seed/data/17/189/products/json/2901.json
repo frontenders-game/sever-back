@@ -2,11 +2,14 @@
   "name": "Завтрак Хрутка готовый шоколадный обогащенный 650г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 373.99,
-  "priceWithCard": 344.07,
-  "promo": null,
+  "priceRegular": "373.99",
+  "priceWithCard": "344.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "пшеница (содержит глютен), сахар, крупа кукурузная, какао-порошок алкализованный, карбонат кальция, масло подсолнечное, соль, ароматизатор натуральный (ваниль), карамельный сироп. Продукт может содержать молоко",
   "information": [
     {

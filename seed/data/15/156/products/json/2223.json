@@ -2,11 +2,14 @@
   "name": "Драже Tic-Tac Мята 16г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.49,
-  "priceWithCard": 57.78,
-  "promo": null,
+  "priceRegular": "63.49",
+  "priceWithCard": "59.68",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "сахар, мальтодекстрины, фруктоза, загуститель: Е414, рисовый крахмал, ароматизаторы и эфирное масло, вода, агент антислеживающий: Е470, глазирователь: Е903",
   "information": [
     {

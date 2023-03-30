@@ -2,16 +2,14 @@
   "name": "Корм Katty с лососем и форелью в соусе для кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 17.66,
-  "promo": {
-    "discountedPriceRegular": 16.33,
-    "discountedPriceWithCard": 15.19,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "18.99",
+  "priceWithCard": "18.61",
+  "discountPercent": 14,
+  "discountedPrice": "16.00",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "мясо и мясные субпродукты, рыба и рыбные субпродукты (в т.ч. лосось мин. 4%, форель мин. 4%), фарш куриный, злаки, протеины животного происхождения, витаминно- минеральный комплекс для кошек, таурин. Не содержит ГМО",
   "information": [
     {

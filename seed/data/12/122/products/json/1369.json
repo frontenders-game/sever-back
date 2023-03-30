@@ -2,11 +2,14 @@
   "name": "Свекла варёная целая очищенная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 73.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "72.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "свекла вареная.",
   "information": [
     {

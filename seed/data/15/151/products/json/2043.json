@@ -2,11 +2,14 @@
   "name": "Набор Liberhaus одноразовой посуды Вилка ложка нож салфетка",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 16.99,
-  "priceWithCard": 15.46,
-  "promo": null,
+  "priceRegular": "16.99",
+  "priceWithCard": "16.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Полистирол, целлюлоза.",
   "information": [
     {

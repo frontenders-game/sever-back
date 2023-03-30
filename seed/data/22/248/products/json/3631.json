@@ -2,16 +2,14 @@
   "name": "Крем чистящий Cif Актив лимон универсальный 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 289.99,
-  "priceWithCard": 275.49,
-  "promo": {
-    "discountedPriceRegular": 191.39,
-    "discountedPriceWithCard": 181.82,
-    "discountPercent": 34,
-    "isActive": true
-  },
+  "priceRegular": "289.99",
+  "priceWithCard": "278.39",
+  "discountPercent": 34,
+  "discountedPrice": "183.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Менее 5% анионные ПАВ, гипохлорит натрия, неионогенные ПАВ, мыло, отдушка.",
   "information": [
     {

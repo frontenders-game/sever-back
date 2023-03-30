@@ -2,11 +2,14 @@
   "name": "Пюре Картошечка картофельное, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 133.99,
-  "priceWithCard": 121.93,
-  "promo": null,
+  "priceRegular": "133.99",
+  "priceWithCard": "127.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Катофельные хлопья (99%), эмульгатор Е471, антиокислители: аскорбиновая кислота, Е223, Е304, регулятор кислотности лимонная кислота.",
   "information": [
     {

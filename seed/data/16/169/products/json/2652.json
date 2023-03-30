@@ -2,11 +2,14 @@
   "name": "Напиток кофейный Maccoffee Cappuccino di Torino шоколадный, 25.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.32,
-  "priceWithCard": 24.31,
-  "promo": null,
+  "priceRegular": "25.32",
+  "priceWithCard": "23.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 85,
+  "stockCount": 81,
   "ingredients": "Состав: сахар, заменитель сливок [сироп глюкозы, гидрогенизированный растительный жир, молочный белок, лактоза, стабилизаторы (Е340ii, E452i), эмульгаторы (Е471, Е481), агент антислеживающий (Е551)], кофе растворимый, ароматизатор (карамель); темный шоколад [сахар, какао тертое, какао-порошок, ароматизатор (ваниль)].",
   "information": [
     {

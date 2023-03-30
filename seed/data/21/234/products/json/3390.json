@@ -2,11 +2,14 @@
   "name": "Колбаса сыровяленая Casademont Фуэт экстра, 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 371.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "379.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Свинина, шпик, лактоза, нитритно-посолочная смесь (соль, консерванты (нитрат калия, нитрит натрия)), декстроза, перец черный молотый, антиокислитель (изоаскорбат натрия), чеснок, краситель (кармины), сахароза, стартовые культуры. Может содержать следы молока и продуктов его переработки.",
   "information": [
     {

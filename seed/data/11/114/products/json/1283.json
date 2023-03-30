@@ -2,11 +2,14 @@
   "name": "Батон Хлебный Дом Домашний нарезка, 230г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.49,
-  "priceWithCard": 46.55,
-  "promo": null,
+  "priceRegular": "48.49",
+  "priceWithCard": "46.07",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, вода питьевая, сахар, дрожжи хлебопекарные, масло подсолнечное, соль, добавка комплексная пищевая (мука пшеничная, фермент амилаза, антиокислитель - кислота аскорбиновая), стабилизатор - ацетат кальция.",
   "information": [
     {

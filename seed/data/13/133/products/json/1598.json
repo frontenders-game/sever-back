@@ -2,16 +2,14 @@
   "name": "Фасоль Global Village стручковая замороженная, 400 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 128.79,
-  "promo": {
-    "discountedPriceRegular": 125.99,
-    "discountedPriceWithCard": 115.91,
-    "discountPercent": 10,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "127.39",
+  "discountPercent": 10,
+  "discountedPrice": "114.65",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 48,
+  "stockCount": 44,
   "ingredients": "Фасоль зеленая стручковая.",
   "information": [
     {

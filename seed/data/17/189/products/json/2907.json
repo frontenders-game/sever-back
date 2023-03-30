@@ -2,11 +2,14 @@
   "name": "Каша Mollis овсяная с молоком со вкусом абрикоса 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 19.59,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "19.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 83,
+  "stockCount": 79,
   "ingredients": "Хлопья овсяные, сахар, абрикос сушеный, соль, ароматизатор Абрикос.",
   "information": [
     {

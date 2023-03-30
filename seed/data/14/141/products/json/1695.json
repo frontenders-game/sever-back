@@ -2,11 +2,14 @@
   "name": "Вода Святой источник негазированная 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.49,
-  "priceWithCard": 32.65,
-  "promo": null,
+  "priceRegular": "35.49",
+  "priceWithCard": "33.36",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "минерализация: 0,05 – 1,0 г/л. Основной состав мг/л: кальций 0,5 – 130, магний 0,5 – 50, натрий 0,2 – 100, калий 0,1 – 20, гидрокарбонаты 5 – 350, хлориды 0,5 – 200, сульфаты 0,5 – 200. Общая жесткость <7 мг-экв/л",
   "information": [
     {

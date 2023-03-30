@@ -2,16 +2,14 @@
   "name": "Семечки От Мартина отборные с морской солью 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 96.76,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 53,
+  "priceRegular": "139.99",
+  "priceWithCard": "132.99",
+  "discountPercent": 28,
+  "discountedPrice": "95.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 49,
   "ingredients": "семена подсолнечника, морская соль",
   "information": [
     {

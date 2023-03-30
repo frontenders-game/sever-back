@@ -2,11 +2,14 @@
   "name": "Кефир Станция Молочная 3.2%, 930г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Молоко цельное, молоко обезжиренное, закваска, приготовленная на кефирных грибках",
   "information": [
     {

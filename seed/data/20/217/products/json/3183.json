@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Салатик из фруктов с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 62.71,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 48.29,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "61.43",
+  "discountPercent": 23,
+  "discountedPrice": "47.30",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "пюре из бананов, пюре из груш, пюре из яблок, пюре из персиков",
   "information": [
     {

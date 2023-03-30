@@ -2,11 +2,14 @@
   "name": "Зубная паста СВОБОДА Фтородент Фитокомплекс 62г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 34,
+  "stockCount": 30,
   "ingredients": "Aqua, Glycerin, Hydrated Silica, Sodium Lauryl Sulfate, Cellulose Gum, Aroma, Trisodium Phosphate, Urtica Dioica Еxtract, Calcium Lactate, Imidazolidinyl urea, Titanium Dioxide, Carbomer, Sodium Fluoride, Sodium Saccharin, Limonene. Содержит фтористый натрий. Массовая доля фторида 0,10%.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Гель Persil Power gel Свежесть от Vernel для стирки 910мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 449.99,
-  "priceWithCard": 427.49,
-  "promo": {
-    "discountedPriceRegular": 391.49,
-    "discountedPriceWithCard": 371.92,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "449.99",
+  "priceWithCard": "436.49",
+  "discountPercent": 13,
+  "discountedPrice": "379.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "5–15 % анионных ПАВ; < 5 % неионогенных ПАВ, фосфонатов, мыла, энзимов, консерванта, отдушки (в т.ч. лимонена), красителя, оптического отбеливателя",
   "information": [
     {

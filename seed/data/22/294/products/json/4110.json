@@ -2,11 +2,14 @@
   "name": "Набор красок Colorio Луч гуашевых с кисточкой в баночках 20мл 6 цветов",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 101.89,
-  "priceWithCard": 98.83,
-  "promo": null,
+  "priceRegular": "101.89",
+  "priceWithCard": "95.78",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "вода питьевая, декстрин, глицерин, пигменты, наполнители, консервант",
   "information": [
     {

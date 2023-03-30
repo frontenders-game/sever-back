@@ -2,11 +2,14 @@
   "name": "Корм влажный Purina ONE с говядиной и морковью в соусе для взрослых кошек при домашнем образе жизни 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 26.99,
-  "priceWithCard": 25.91,
-  "promo": null,
+  "priceRegular": "26.99",
+  "priceWithCard": "26.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 102,
+  "stockCount": 98,
   "ingredients": "мясо и мясные ингредиенты (включая говядину), экстракты растительного белка, рыба и продукты ее переработки, продукты переработки растительного сырья, аминокислоты, минеральные вещества, масла и жиры, овощи (морковь), сахара, загустители, витамины",
   "information": [
     {

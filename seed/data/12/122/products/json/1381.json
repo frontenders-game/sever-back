@@ -2,11 +2,14 @@
   "name": "Капуста Китайская",
   "unitsOfMeasurement": "кг",
   "step": "1.3",
-  "priceRegular": 131.99,
-  "priceWithCard": 124.07,
-  "promo": null,
+  "priceRegular": "131.99",
+  "priceWithCard": "121.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Капуста.",
   "information": [
     {

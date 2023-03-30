@@ -2,11 +2,14 @@
   "name": "Кофе Lalibela Coffee Classico жареный молотый 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 163.79,
-  "promo": null,
+  "priceRegular": "179.99",
+  "priceWithCard": "169.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Кофе жареный молотый натуральный.",
   "information": [
     {

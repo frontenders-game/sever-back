@@ -2,16 +2,14 @@
   "name": "Сок Добрый Супер Джус Мультифрукт 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 35.99,
-  "priceWithCard": 33.83,
-  "promo": {
-    "discountedPriceRegular": 26.99,
-    "discountedPriceWithCard": 25.37,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "35.99",
+  "priceWithCard": "34.55",
+  "discountPercent": 25,
+  "discountedPrice": "25.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "яблочный сок, банановое пюре, апельсиновый сок, ананасовый сок, витаминный комплекс «Active kid» (B2, B3, B5, B12)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Вода Шишкин лес питьевая газированная 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 41.39,
-  "priceWithCard": 40.56,
-  "promo": {
-    "discountedPriceRegular": 36.01,
-    "discountedPriceWithCard": 35.29,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "41.39",
+  "priceWithCard": "39.32",
+  "discountPercent": 13,
+  "discountedPrice": "34.21",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "содержание co2, не менее 0.4%, по массе содержание анионов и катионов, мг/л. не более: натрий-200, кальций-20, магний - 5, сульфаты-100, f-1.5, гидрокарбонаты-400",
   "information": [
     {

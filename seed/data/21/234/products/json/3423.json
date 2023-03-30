@@ -2,11 +2,14 @@
   "name": "Колбаса полукопчёная Папа Может Чесночная, 420г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 319.98,
-  "priceWithCard": 307.18,
-  "promo": null,
+  "priceRegular": "319.98",
+  "priceWithCard": "297.58",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "Свинина, филе грудок куриных,вода, шкурка свиная, шпик, комплексные пищевые добавки (молоко сухое обезжиренное, посолочно-нитритная смесь (соль, фиксатор окраски Е250), сахар, регуляторы кислотности: Е450 (I), E 262(I, II), E 331(III), стабилизаторы: E401, E407, E412, E415, E417, E452 (I, V); лактоза, ароматизаторы, уплотнитель E516); крахмал картофельный, соль, свекловичная клетчатка, чеснок, краситель E120.",
   "information": [
     {

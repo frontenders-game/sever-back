@@ -2,16 +2,14 @@
   "name": "Мармелад Нева Мармелайф Ассорти желейный глазированный 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 191.99,
-  "promo": {
-    "discountedPriceRegular": 149.99,
-    "discountedPriceWithCard": 143.99,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "199.99",
+  "priceWithCard": "181.99",
+  "discountPercent": 25,
+  "discountedPrice": "136.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "сахар, глазурь (сахар, заменитель масла какао не темперируемый лауринового типа (жир растительный, эмульгаторы (Е492, Е322)), какао-порошок, эмульгатор лецитин соевый), вода питьевая, патока, агент желирующий пектин, регулятор кислотности кислота лимонная, агент влагоудерживающий лактат натрия, ароматизаторы «Ананас», «Апельсин», «Клубника» красители лютеин, экстракт паприки, антоциан",
   "information": [
     {

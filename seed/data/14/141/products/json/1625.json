@@ -2,11 +2,14 @@
   "name": "Вода Нарзан Элита минеральная лечебно-столовая газированная 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 66.19,
-  "priceWithCard": 61.56,
-  "promo": null,
+  "priceRegular": "66.19",
+  "priceWithCard": "62.88",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Гидрокарбонаты НСО3: 1000 – 1700, сульфаты SO4: 250 – 500, хлориды Cl: 50 – 200, кальций Ca: 200 – 500, магний Mg: 50 – 150, натрий+калий Na++K+: 50 – 250 Природное содержание биологически активного компонента СО2: 1000- 2500 мг/л.",
   "information": [
     {

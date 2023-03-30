@@ -2,11 +2,14 @@
   "name": "Айран Лесная Сказка Актив 1%, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.49,
-  "priceWithCard": 45.1,
-  "promo": null,
+  "priceRegular": "48.49",
+  "priceWithCard": "47.52",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "Произведен из восстановленного молока с использованием бактериальной закваски (чистые культуры термофильных молочнокислых стрептококков,молочнокислой болгарской палочки и лактосбраживающих дрожжей),воды питьевой,соли поваренной пищевой.",
   "information": [
     {

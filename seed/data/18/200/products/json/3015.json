@@ -2,16 +2,14 @@
   "name": "Отруби На Здоровье овсяные 175г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.39,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 47.37,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "55.19",
+  "discountPercent": 16,
+  "discountedPrice": "46.36",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "отруби овсяные, крупа овсяная, рис цельносмолотый, соль, пищевые волокна",
   "information": [
     {

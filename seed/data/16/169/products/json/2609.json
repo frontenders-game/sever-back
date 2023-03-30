@@ -2,16 +2,14 @@
   "name": "Кофе Nescafe Classic Crema растворимый 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.99,
-  "priceWithCard": 329.79,
-  "promo": {
-    "discountedPriceRegular": 180.19,
-    "discountedPriceWithCard": 174.79,
-    "discountPercent": 47,
-    "isActive": true
-  },
+  "priceRegular": "339.99",
+  "priceWithCard": "312.79",
+  "discountPercent": 47,
+  "discountedPrice": "165.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "100% натуральный растворимый порошкообразный кофе",
   "information": [
     {

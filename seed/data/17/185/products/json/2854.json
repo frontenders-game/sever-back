@@ -2,11 +2,14 @@
   "name": "Рис Селяночка длиннозёрный пропаренный, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 108.99,
-  "priceWithCard": 99.18,
-  "promo": null,
+  "priceRegular": "108.99",
+  "priceWithCard": "99.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Крупа рисовая шлифованная пропаренная.",
   "information": [
     {

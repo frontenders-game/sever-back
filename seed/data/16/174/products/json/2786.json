@@ -2,16 +2,14 @@
   "name": "Чай зеленый Assand Chinese Green байховый листовой 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 112.79,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 94.74,
-    "discountPercent": 16,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 17,
+  "priceRegular": "119.99",
+  "priceWithCard": "111.59",
+  "discountPercent": 16,
+  "discountedPrice": "93.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 13,
   "ingredients": "Чай зеленый байховый крупнолистовой китайский",
   "information": [
     {

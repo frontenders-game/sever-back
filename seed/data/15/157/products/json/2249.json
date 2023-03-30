@@ -2,11 +2,14 @@
   "name": "Трюфели Chocmod cocoa dusted truffles 160г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "209.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "жир кондитерский (масло кокосовое рафинированное дезодорированное), сахар, какао-порошок с низким содержанием жира, сыворотка молочная сухая, какао-порошок 1 %, эмульгатор: соевый лецитин; натуральный ароматизатор: ваниль",
   "information": [
     {

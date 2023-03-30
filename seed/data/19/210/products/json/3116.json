@@ -2,11 +2,14 @@
   "name": "Корм сухой Felix Мясное объедение с курицей для взрослых кошек 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 104.99,
-  "priceWithCard": 97.64,
-  "promo": null,
+  "priceRegular": "104.99",
+  "priceWithCard": "99.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "злаки, экстракты растительного белка, мясо и мясные ингредиенты (включая курицу), животные жиры, продукты переработки растительного сырья, дрожжи, минеральные вещества, аминокислоты, консерванты, красители, витамины, антиоксиданты",
   "information": [
     {

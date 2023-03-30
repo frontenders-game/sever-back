@@ -2,16 +2,14 @@
   "name": "Пюре Бабушкино лукошко из цветной капусты с 4 месяцев 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.99,
-  "priceWithCard": 61.37,
-  "promo": {
-    "discountedPriceRegular": 47.51,
-    "discountedPriceWithCard": 44.19,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 9,
+  "priceRegular": "65.99",
+  "priceWithCard": "62.03",
+  "discountPercent": 28,
+  "discountedPrice": "44.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 5,
   "ingredients": "цветная капуста, вода питьевая",
   "information": [
     {

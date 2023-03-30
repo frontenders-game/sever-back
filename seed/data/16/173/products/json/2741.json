@@ -2,11 +2,14 @@
   "name": "Чай Richard Роял Цейлон чёрный байховый в пакетиках, 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 346.99,
-  "priceWithCard": 319.23,
-  "promo": null,
+  "priceRegular": "346.99",
+  "priceWithCard": "333.11",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Чай черный байховый цейлонский.",
   "information": [
     {

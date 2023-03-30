@@ -2,11 +2,14 @@
   "name": "Пудинг молочный Grand Dessert шоколад 5.2%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 93.49,
-  "priceWithCard": 91.62,
-  "promo": null,
+  "priceRegular": "93.49",
+  "priceWithCard": "88.82",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Обезжиренное молоко, сливки, глюкозно-фруктозный сироп, вода, сахар, загустители: модифицированный кукурузный крахмал (Е1422, Е 1442), каррагинан, гуаровая камедь, пищевой желатин; какао-порошок, сывороточный продукт, какао-порошок «Арриба», эмульгатор: Е472b; натуральный сливочный ароматизатор.",
   "information": [
     {

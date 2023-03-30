@@ -2,11 +2,14 @@
   "name": "Молоко Простоквашино пастеризованное 2.5% 930мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 61.43,
-  "promo": null,
+  "priceRegular": "63.99",
+  "priceWithCard": "59.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "молоко нормализованное",
   "information": [
     {

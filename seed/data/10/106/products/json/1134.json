@@ -2,16 +2,14 @@
   "name": "Напиток миндальный Nemoloko Barista обогащённый витаминами и минеральными веществами, 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 139.49,
-  "promo": {
-    "discountedPriceRegular": 119.99,
-    "discountedPriceWithCard": 111.59,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "146.99",
+  "discountPercent": 20,
+  "discountedPrice": "117.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Вода, миндаль (паста ядер орехов миндаля обжаренных) 2,5%, сахар, витаминно-минеральный премикс (витамин D2, витамин В2 (рибофлавин), кальций (трикальций фосфат), кальция карбонат), стабилизатор Е471, стабилизатор - каррагинан, соль.",
   "information": [
     {

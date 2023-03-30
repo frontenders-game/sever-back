@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах Hollandsche Brands Лунго 10х5.2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 195.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "185.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "100% кофе натуральный жаренный (100% Арабика)",
   "information": [
     {

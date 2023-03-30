@@ -2,16 +2,14 @@
   "name": "Кофе Московская кофейня на паяхъ Суаре растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 338.39,
-  "promo": {
-    "discountedPriceRegular": 251.99,
-    "discountedPriceWithCard": 236.87,
-    "discountPercent": 30,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 10,
+  "priceRegular": "359.99",
+  "priceWithCard": "345.59",
+  "discountPercent": 30,
+  "discountedPrice": "241.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 6,
   "ingredients": "Кофе натуральный растворимый сублимированный.",
   "information": [
     {

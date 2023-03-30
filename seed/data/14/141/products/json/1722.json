@@ -2,11 +2,14 @@
   "name": "Вода Стэлмас MG+ минеральная газированная 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 69.74,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "73.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "вода минеральная",
   "information": [
     {

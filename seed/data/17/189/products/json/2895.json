@@ -2,11 +2,14 @@
   "name": "Мюсли Mollis запеченные с яблоком и грушей 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 101.19,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "107.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Хлопья овсяные, хлопья пшеничные, рапсовое масло, вода питьевая, сахар, мука рисовая экструдированная, патока, изюм, ядра семян подсолнечника, мука пшеничная, сушеные яблоки резаные, сушеная груша резаная (груша, рисовая мука), соль. Продукт может содержать незначительное количество орехов, арахиса и кунжута",
   "information": [
     {

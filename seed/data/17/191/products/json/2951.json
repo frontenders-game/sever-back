@@ -2,11 +2,14 @@
   "name": "Вермишель Домшим фунчоза 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 137.99,
-  "priceWithCard": 129.71,
-  "promo": null,
+  "priceRegular": "137.99",
+  "priceWithCard": "126.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": null,
   "information": [
     {

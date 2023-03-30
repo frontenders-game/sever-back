@@ -2,11 +2,14 @@
   "name": "Журнал ПАНОРАМА ТВ",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 48.99,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "48.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": null,
   "information": [
     {

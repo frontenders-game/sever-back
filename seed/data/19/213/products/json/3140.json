@@ -2,16 +2,14 @@
   "name": "Корм Pedigree с говядиной в соусе для взрослых собак всех пород 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 22.99,
-  "priceWithCard": 22.53,
-  "promo": {
-    "discountedPriceRegular": 20.0,
-    "discountedPriceWithCard": 19.6,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "22.99",
+  "priceWithCard": "22.07",
+  "discountPercent": 13,
+  "discountedPrice": "19.20",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "мясо и субпродукты (в том числе говядина), пшеничная мука, продукты животного происхождения, минеральные вещества, свекловичный жом, подсолнечное масло, метионин, натуральный краситель, антиоксиданты",
   "information": [
     {

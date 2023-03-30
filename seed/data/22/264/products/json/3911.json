@@ -2,11 +2,14 @@
   "name": "Крем для бритья Arko Men Sensitive 65г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 112.99,
-  "priceWithCard": 105.08,
-  "promo": null,
+  "priceRegular": "112.99",
+  "priceWithCard": "102.82",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "aqua, glycerin, palmitic acid, stearic acid, coconut acid, potassium hydroxyde, sodium hydroxide, cetearyl alcohol, sodium borate, sodium silicate, potassium chloride, lavandula angustifolia oil, tocopheryl acetate, aloe barbadensis leaf juice, potassium sorbate, sodium benzoate, linalool",
   "information": [
     {

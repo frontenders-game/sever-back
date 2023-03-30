@@ -2,16 +2,14 @@
   "name": "Средство чистящее Domestos Ультра белый для унитаза 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 194.99,
-  "priceWithCard": 179.39,
-  "promo": {
-    "discountedPriceRegular": 130.64,
-    "discountedPriceWithCard": 120.19,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "194.99",
+  "priceWithCard": "189.14",
+  "discountPercent": 33,
+  "discountedPrice": "126.72",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "< 5% гипохлорит натрия, анионные ПАВ, неионогенные ПАВ, мыло, отдушка.",
   "information": [
     {

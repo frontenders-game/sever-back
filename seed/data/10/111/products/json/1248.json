@@ -2,11 +2,14 @@
   "name": "Сливки стерилизованные Домик в деревне 10%, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.99,
-  "priceWithCard": 58.27,
-  "promo": null,
+  "priceRegular": "61.99",
+  "priceWithCard": "56.41",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Сливки нормализованные.",
   "information": [
     {

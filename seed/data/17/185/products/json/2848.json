@@ -2,11 +2,14 @@
   "name": "Рис длиннозёрный 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.99,
-  "priceWithCard": 57.03,
-  "promo": null,
+  "priceRegular": "61.99",
+  "priceWithCard": "57.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Крупа рисовая шлифованная.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Пюре фруктовое Агуша Яблоко-Банан-Печенье с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.04,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 42.03,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 16,
+  "discountedPrice": "43.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Яблочное пюре, банановое пюре, натуральный ароматизатор «печенье», лимонный сок.",
   "information": [
     {

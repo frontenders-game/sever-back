@@ -2,16 +2,14 @@
   "name": "Печенье Oreo Original какао-ваниль 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": {
-    "discountedPriceRegular": 62.09,
-    "discountedPriceWithCard": 57.13,
-    "discountPercent": 31,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 53,
+  "priceRegular": "89.99",
+  "priceWithCard": "87.29",
+  "discountPercent": 31,
+  "discountedPrice": "60.23",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 49,
   "ingredients": "Мука пшеничная, сахар, жир растительный, масло растительное, вода, какао-порошок, крахмал кукурузный, сироп глюкозно-фруктозный, соль, разрыхлитель (гидрокарбонат натрия), эмульгаторы (лецитин соевый, лецитин подсолнечный), ароматизатор ванилин. Содержит пшеницу, глютен, лецитин соевый. Может содержать следы яиц, молочных продуктов",
   "information": [
     {

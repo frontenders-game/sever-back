@@ -2,16 +2,14 @@
   "name": "Подгузники Nishoomi 4L 9-14 кг 38шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1149.0,
-  "priceWithCard": 1045.59,
-  "promo": {
-    "discountedPriceRegular": 907.71,
-    "discountedPriceWithCard": 826.02,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 6,
+  "priceRegular": "1149.00",
+  "priceWithCard": "1103.04",
+  "discountPercent": 21,
+  "discountedPrice": "871.40",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 2,
   "ingredients": "нетканый материал, бамбуковое волокно, суперабсорбент, пленка полиэтиленовая, спандекс, клей",
   "information": [
     {

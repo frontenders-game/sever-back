@@ -2,11 +2,14 @@
   "name": "Прокладки Always Ultra super, 16шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 227.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "227.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Целлюлоза распушенная, абсорбент айрлейд, спанбонд.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Коктейль молочный Ам-ам Мамина забота Шоколад с 12 мес. 2.5% 205г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.99,
-  "priceWithCard": 44.64,
-  "promo": null,
+  "priceRegular": "46.99",
+  "priceWithCard": "43.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "нормализированное молоко, наполнитель «Шоколад» (сахар, вода, глюкозно-фруктозный сироп, ароматизатор натуральный «Шоколад», карамельный сироп, экстракт какао, темный шоколад (сахар, какао тертое, какао-порошок, ароматизатор натуральный: ваниль))",
   "information": [
     {

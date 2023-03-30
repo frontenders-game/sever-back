@@ -2,11 +2,14 @@
   "name": "Зажигалка FOXlite FX-25 в ассортименте 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 55.79,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "58.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 73,
+  "stockCount": 69,
   "ingredients": null,
   "information": [
     {

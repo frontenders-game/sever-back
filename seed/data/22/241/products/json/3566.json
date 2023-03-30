@@ -2,16 +2,14 @@
   "name": "Чистящее Средство Cillit BANG Антиналет + Блеск 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 259.19,
-  "promo": {
-    "discountedPriceRegular": 232.19,
-    "discountedPriceWithCard": 222.9,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "251.09",
+  "discountPercent": 14,
+  "discountedPrice": "215.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "менее 5%: неионогенные ПАВ, щавелевая кислота,  ароматизирующие добавки",
   "information": [
     {

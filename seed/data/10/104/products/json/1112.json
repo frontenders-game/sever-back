@@ -2,11 +2,14 @@
   "name": "Коктейль молочный Топтыжка клубника со сливками ультрапастеризованный 3.2% 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.49,
-  "priceWithCard": 37.52,
-  "promo": null,
+  "priceRegular": "39.49",
+  "priceWithCard": "37.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "молоко цельное, молоко обезжиренное, сахар-песок, молоко сухое обезжиренное, ароматизаторы пищевые «Сливочный» и «Клубника» (вкусоароматические вещества антиокислитель альфа-Токоферол), комплексная пищевая добавка (вода питьевая, эмульгатор Е433, краситель кармин, мальтодекстрин), стабилизатор каррагинан",
   "information": [
     {

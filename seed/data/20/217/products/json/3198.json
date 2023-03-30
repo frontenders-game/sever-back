@@ -2,16 +2,14 @@
   "name": "Пюре Honey Kid из яблок малины и клубники с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 42.74,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 38.04,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "43.64",
+  "discountPercent": 11,
+  "discountedPrice": "38.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "пюре яблочное (90%), пюре малиновое (5%), пюре клубничное (5%). Содержит сахара природного (естественного) происхождения",
   "information": [
     {

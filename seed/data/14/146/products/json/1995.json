@@ -2,11 +2,14 @@
   "name": "Напиток Yes! Tea Черный чай со вкусом персика негазированный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 108.99,
-  "priceWithCard": 101.36,
-  "promo": null,
+  "priceRegular": "108.99",
+  "priceWithCard": "99.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

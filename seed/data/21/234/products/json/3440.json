@@ -2,11 +2,14 @@
   "name": "Колбаса варёная Великолукский МК Докторская в нарезке категория А, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 130.19,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "137.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Свинина,говядина, вода питьевая, меланж яичный, молоко коровье сухое цельное, соль, сахар, натуральные пряности (орех мускатный), стабилизатор(Е450 iii), антиокислитель(аскорбиновая кислота), фиксатор окраски (нитрит натрия).",
   "information": [
     {

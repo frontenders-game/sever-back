@@ -2,11 +2,14 @@
   "name": "Чебурек Жаренки с мясом, 125г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 51.69,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "52.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Тесто (мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное, соль, яичный порошок), фарш ( говядина, фарш куриный, лук репчатый, вода питьевая, мука соевая, соль, пряности), жир жидкий для фритюра (масла растительные, антиокислитель лимонная кислота). Продукт может содержать следы молочных и горчичных продуктов.",
   "information": [
     {

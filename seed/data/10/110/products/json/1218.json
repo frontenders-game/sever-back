@@ -2,16 +2,14 @@
   "name": "Соус Astoria Чесночный Оригинальный 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 106.69,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 68.28,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "102.29",
+  "discountPercent": 36,
+  "discountedPrice": "65.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "вода, масло подсолнечное, чеснок сушеный, сахар, соль, яичный желток, загустители (Е1442, ксантановая камедь), лук сушеный, регулятор кислотности уксусная кислота, специи и пряности (кориандр, перец красный, перец черный, паприка красная, пряность  &#38#34;Карри&#38#34;),  ароматизаторы  натуральные,  консерванты (сорбиновая кислота, Е385). Продукт может содержать следы сельдерея, молока, горчицы и продуктов их переработки",
   "information": [
     {

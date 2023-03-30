@@ -2,11 +2,14 @@
   "name": "Бальзам Schauma 7 трав для нормальных и жирных волос 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 274.99,
-  "priceWithCard": 266.74,
-  "promo": null,
+  "priceRegular": "274.99",
+  "priceWithCard": "266.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "aqua (water, eau), cetearyl alcohol, chamomilla recutita (matricaria) flower extract, salvia officinalis (sage) leaf extract, melissa officinalis leaf extract, urtica dioica (nettle) extract, equisetum arvense extract, rosmarinus officinalis (rosemary) leaf extract, humulus lupulus (hops) extract, isopropyl myristate, cetrimonium chloride, glyceryl stearate, polyquaternium-37, sodium benzoate, dicaprylyl carbonate, parfum (fragrance), citric acid, linalool, lauryl glucoside, hexyl cinnamal, benzyl alcohol, phenoxyethanol, potassium sorbate",
   "information": [
     {

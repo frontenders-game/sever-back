@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Белочка с цельным фундуком, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 112.79,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 94.74,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "112.79",
+  "discountPercent": 16,
+  "discountedPrice": "94.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Сахар, молоко цельное сухое, ядра фундука, масло какао, какао-тертое, эмульгаторы (лецитин соевый, Е476), ароматизатор “Ванилин”, вкусоароматическая добавка экстракт мускатного ореха.",
   "information": [
     {

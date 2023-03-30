@@ -2,11 +2,14 @@
   "name": "Сметана Сарафаново 20%, 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 57.99,
-  "priceWithCard": 52.77,
-  "promo": null,
+  "priceRegular": "57.99",
+  "priceWithCard": "54.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Нормализованные сливки, закваска молочнокислых микроорганизмов.",
   "information": [
     {

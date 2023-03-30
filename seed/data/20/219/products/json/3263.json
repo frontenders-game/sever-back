@@ -2,11 +2,14 @@
   "name": "Творог Агуша Черника 3.9% с 6 мес. 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 35.88,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "34.40",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "творог (молоко нормализованное, закваска), фруктовый наполнитель «Черника» (сахар, вода, концентрированный черничный сок, концентрированный сок из черной моркови (в качестве красящего вещества), загуститель - пектины, концентрированный сок из красной свеклы (в качестве красящего вещества), ароматизатор натуральный «Черника», регулятор кислотности - цитрат натрия 3-замещенный)",
   "information": [
     {

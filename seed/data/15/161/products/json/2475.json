@@ -2,16 +2,14 @@
   "name": "Зефир Шармэль Классический в шоколаде 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 323.99,
-  "priceWithCard": 311.03,
-  "promo": {
-    "discountedPriceRegular": 272.15,
-    "discountedPriceWithCard": 261.27,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "323.99",
+  "priceWithCard": "304.55",
+  "discountPercent": 16,
+  "discountedPrice": "255.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Патока, темный шоколад (сахар-песок, како тертое, масло какао, какао-порошок, эмульгатор - лецитин подсолнечника, ароматизатор натуральный); сахар-песок, пюре яблочное, белок яичный сухой, желирующий агент - агар, регулятор кислотности - цитрат натрия, ароматизатор \"Ваниль\".",
   "information": [
     {

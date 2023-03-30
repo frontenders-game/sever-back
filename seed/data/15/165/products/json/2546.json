@@ -2,11 +2,14 @@
   "name": "Вафли Яшкино шоколадные 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.49,
-  "priceWithCard": 90.71,
-  "promo": null,
+  "priceRegular": "94.49",
+  "priceWithCard": "89.77",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Мука пшеничная общего назначения, сахар, жир кондитерский (рафинированные дезодорированные растительные масла: пальмовое, подсолнечное: антиокислители: Е319, лимонная кислота), какао-порошок, крахмал кукурузный, эмульгатор: лецитин соевый, продукты яичные сухие: меланж, какао-масло, соль, разрыхлители: карбонаты натрия, карбонаты аммония, ароматизатор: шоколад молочный, вода.",
   "information": [
     {

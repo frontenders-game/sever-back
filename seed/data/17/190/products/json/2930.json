@@ -2,11 +2,14 @@
   "name": "Крупа пшеничная Полтавская №2, 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.19,
-  "priceWithCard": 23.68,
-  "promo": null,
+  "priceRegular": "25.19",
+  "priceWithCard": "24.18",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Крупа пшеничная.",
   "information": [
     {

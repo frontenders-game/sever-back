@@ -2,11 +2,14 @@
   "name": "Кисель Русский продукт Клюквенный 190г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 58.49,
-  "priceWithCard": 56.15,
-  "promo": null,
+  "priceRegular": "58.49",
+  "priceWithCard": "53.23",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "сахар и сироп глюкозно-фруктозный, крахмал ( картофельный, кукурузный) сок клюквенный натуральный концентрированный, регулятор кислотности - кислота лимонная, ароматизатор, краситель - антоцианин",
   "information": [
     {

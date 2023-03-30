@@ -2,11 +2,14 @@
   "name": "Суперклей Liberhaus гель 3г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 51.19,
-  "priceWithCard": 47.09,
-  "promo": null,
+  "priceRegular": "51.19",
+  "priceWithCard": "49.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Ethyl 2-cyanoacrylate, Polymethyl methacrylate, Hydroquinone.",
   "information": [
     {

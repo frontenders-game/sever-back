@@ -2,16 +2,14 @@
   "name": "Сок Сады Придонья зеленое яблоко восстановленный осветлённый 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.49,
-  "priceWithCard": 32.08,
-  "promo": {
-    "discountedPriceRegular": 30.01,
-    "discountedPriceWithCard": 27.91,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "34.49",
+  "priceWithCard": "33.80",
+  "discountPercent": 13,
+  "discountedPrice": "29.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Произведен из концентрированного яблочного сока из зеленых яблок сортов: «Курский Золотой», «Синап Северный», «Синап Орловский», «Избранница» плодового хозяйства «Сады Придонья».",
   "information": [
     {

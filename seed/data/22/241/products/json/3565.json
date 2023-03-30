@@ -2,16 +2,14 @@
   "name": "Средство чистящее Domestos свежесть Атлантики универсальное 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 194.99,
-  "priceWithCard": 191.09,
-  "promo": {
-    "discountedPriceRegular": 130.64,
-    "discountedPriceWithCard": 128.03,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "194.99",
+  "priceWithCard": "187.19",
+  "discountPercent": 33,
+  "discountedPrice": "125.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "<5% гипохлорит натрия, анионные ПАВ, неионогенные ПАВ, мыло, отдушка.",
   "information": [
     {

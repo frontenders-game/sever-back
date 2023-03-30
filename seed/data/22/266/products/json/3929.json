@@ -2,11 +2,14 @@
   "name": "Салфетки влажные Tolli Plus Зелёный чай освежающие, 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 14.49,
-  "priceWithCard": 13.19,
-  "promo": null,
+  "priceRegular": "14.49",
+  "priceWithCard": "13.48",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 70,
+  "stockCount": 66,
   "ingredients": "Нетканый материал, деминерализованная вода, пропиленгликоль, ПЭГ-40 гидрогенизированное касторовое масло, кокамидпропилбетаин цетримониум хлорид, ЭДТА (трилон Б), бензоизотиазолинон, метилизотиазолинон, йодопропинилбутилкарбамат, лимонная кислота, отдушка.",
   "information": [
     {

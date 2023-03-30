@@ -2,11 +2,14 @@
   "name": "Лаваш Арнаут круглый мини 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 62.99,
-  "priceWithCard": 61.1,
-  "promo": null,
+  "priceRegular": "62.99",
+  "priceWithCard": "59.84",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мука пшеничная хлебопекарная высшего сорта, вода питьевая, соль",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Капуста Традиции вкуса квашеная с морковью 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 64.39,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "капуста свежая, морковь свежая, соль пищевая",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Кофе Bushido Red Katana молотый 227г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 629.99,
-  "priceWithCard": 579.59,
-  "promo": {
-    "discountedPriceRegular": 440.99,
-    "discountedPriceWithCard": 405.71,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "629.99",
+  "priceWithCard": "598.49",
+  "discountPercent": 30,
+  "discountedPrice": "418.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "молотое кофейное зерно, 100% арабика",
   "information": [
     {

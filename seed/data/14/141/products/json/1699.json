@@ -2,11 +2,14 @@
   "name": "Вода Aqua Minerale негазированная 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.49,
-  "priceWithCard": 37.91,
-  "promo": null,
+  "priceRegular": "39.49",
+  "priceWithCard": "36.33",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "доочищенная вода централизованного источника водоснабжения\n",
   "information": [
     {

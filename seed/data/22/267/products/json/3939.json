@@ -2,16 +2,14 @@
   "name": "Гель для душа Palmolive Super Food Ягоды асаи и овес 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 299.99,
-  "priceWithCard": 272.99,
-  "promo": {
-    "discountedPriceRegular": 191.99,
-    "discountedPriceWithCard": 174.71,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "299.99",
+  "priceWithCard": "290.99",
+  "discountPercent": 36,
+  "discountedPrice": "186.23",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "aqua, sodium laureth sulfate, cocamidopropyl betaine, sodium chloride, glycerin, parfum, cocamide mea, sodium salicylate, styrene/acrylates copolymer, sodium benzoate, polyquaternium-7, citric acid, tetrasodium edta, euterpe oleracea fruit extract, maltodextrin, avena sativa straw extract, citrus limon peel oil, lavandula angustifolia oil, limonene, linalool, ci 16035, ci 19140, ci 42090",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Рис Агро-Альянс Экстра длиннозерный 5x80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": {
-    "discountedPriceRegular": 74.99,
-    "discountedPriceWithCard": 71.24,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "96.99",
+  "discountPercent": 25,
+  "discountedPrice": "72.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "рис длиннозерный шлифованный",
   "information": [
     {

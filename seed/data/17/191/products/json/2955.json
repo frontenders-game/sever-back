@@ -2,11 +2,14 @@
   "name": "Макароны Шебекинские спирали №366, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Мука из твердой пшеницы, вода питьевая. Содержит натуральный белок злаковых культур - глютен.",
   "information": [
     {

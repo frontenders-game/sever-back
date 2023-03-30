@@ -2,11 +2,14 @@
   "name": "Суп Главсуп Борщ с курицей 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 112.99,
-  "priceWithCard": 109.6,
-  "promo": null,
+  "priceRegular": "112.99",
+  "priceWithCard": "107.34",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Вода питьевая, курица, свекла свежая, капуста белокочанная свежая, картофель свежий, лук репчатый, морковь свежая, томатная паста 36%, масло подсолнечное рафинированное, перец болгарский замороженный, соль поваренная пищевая, чеснок свежий, сахар-песок, приправа универсальная, укроп сушеный, перец черный, лавровый лист, регулятор кислотности уксусная кислота.",
   "information": [
     {

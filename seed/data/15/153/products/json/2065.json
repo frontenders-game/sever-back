@@ -2,11 +2,14 @@
   "name": "Шоколад Спартак горький-элитный 90% 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.79,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "65.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "какао тёртое, какао-порошок, какао-масло, сахарная пудра, эмульгатор (лецитин соевый), ароматизатор натуральный \"Ваниль”. Продукт может содержать следы молочных продуктов, арахиса, орехов, глютена, сульфитов",
   "information": [
     {

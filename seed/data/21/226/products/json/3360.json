@@ -2,11 +2,14 @@
   "name": "Бедро куриное охлажденное",
   "unitsOfMeasurement": "кг",
   "step": "0.8",
-  "priceRegular": 149.99,
-  "priceWithCard": 143.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "142.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "бедро куриное",
   "information": [
     {

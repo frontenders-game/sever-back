@@ -2,16 +2,14 @@
   "name": "Конфеты Красный Октябрь Красная шапочка шоколадные",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 1299.99,
-  "priceWithCard": 1234.99,
-  "promo": {
-    "discountedPriceRegular": 701.99,
-    "discountedPriceWithCard": 666.89,
-    "discountPercent": 46,
-    "isActive": true
-  },
+  "priceRegular": "1299.99",
+  "priceWithCard": "1182.99",
+  "discountPercent": 46,
+  "discountedPrice": "638.81",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Шоколадная глазурь, какао-порошок, эмульгаторы: лецитин соевый, E476, ароматизатор Ванильный, сахар, арахис тертый, вафли листовые, меланж сухой яичный, эмульгатор лецитин соевый, соль.",
   "information": [
     {

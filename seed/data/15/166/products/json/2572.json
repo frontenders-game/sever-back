@@ -2,11 +2,14 @@
   "name": "Халва Азовская КФ подсолнечная с арахисом, 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 105.59,
-  "promo": null,
+  "priceRegular": "109.99",
+  "priceWithCard": "101.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Ядро подсолнечника протертое, патока крахмальная, сахар-песок, арахис обжаренный, пенообразовывающий экстракт солодкового корня, ароматизатор \"Ванилин\". Возможно наличие незначительного количества мака и сушеных фруктов.",
   "information": [
     {

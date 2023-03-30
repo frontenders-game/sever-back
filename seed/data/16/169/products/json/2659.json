@@ -2,16 +2,14 @@
   "name": "Напиток кофейный Jacobs Классика 3в1 растворимый 13.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 17.85,
-  "promo": {
-    "discountedPriceRegular": 13.1,
-    "discountedPriceWithCard": 12.32,
-    "discountPercent": 31,
-    "isActive": true
-  },
+  "priceRegular": "18.99",
+  "priceWithCard": "18.04",
+  "discountPercent": 31,
+  "discountedPrice": "12.45",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "сахар, сироп глюкозный, масло растительное кокосовое, кофе растворимый порошкообразный, стабилизаторы (Е340 ii, Е452i), молочный белок, соль, эмульгаторы (Е471, Е481), агент антислеживающий (Е551), подсластители (ацесульфам калия, аспартам), ароматизатор",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Печенье ФрутоНяня пшеничное 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 115.99,
-  "priceWithCard": 113.67,
-  "promo": {
-    "discountedPriceRegular": 95.11,
-    "discountedPriceWithCard": 93.21,
-    "discountPercent": 18,
-    "isActive": true
-  },
+  "priceRegular": "115.99",
+  "priceWithCard": "111.35",
+  "discountPercent": 18,
+  "discountedPrice": "91.31",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука пшеничная, сахар, масло сливочное, молоко сухое цельное, крахмал пшеничный, меланж яичный, экстракт солодовый, разрыхлитель: гидрокарбонат аммония, ароматизатор «Ванилин», витамины (С, РР, В5, В6, В1, В2), минеральные вещества (кальций, фосфор, железо, цинк)",
   "information": [
     {

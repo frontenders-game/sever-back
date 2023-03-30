@@ -2,11 +2,14 @@
   "name": "Вода Шишкин лес питьевая негазированная 5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "содержание анионов и катионов, мг/л, не более Na-200, кальций-20, магний-5, сульфаты-100, F-1.5, гидрокарбонаты-400",
   "information": [
     {

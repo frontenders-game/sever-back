@@ -2,11 +2,14 @@
   "name": "Паста ореховая Milka с добавлением какао 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 379.99,
-  "promo": null,
+  "priceRegular": "399.99",
+  "priceWithCard": "363.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сахар, масло подсолнечное, сыворотка сухая молочная, фундук обжаренный тертый, молоко сухое обезжиренное, какао-порошок, масло какао, эмульгатор (лецитин подсолнечный, соль, ароматизаторы",
   "information": [
     {

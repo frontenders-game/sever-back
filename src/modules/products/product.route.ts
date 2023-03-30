@@ -8,32 +8,31 @@ import {
 } from "./product.controller";
 import {
     CreateProductInput,
-    UpdateProductInput,
     routeCreateProductSchema,
     routeDeleteProductSchema,
     routeGetProductSchema,
-    routeUpdateProductSchema
+    routeUpdateProductSchema,
+    UpdateProductInput
 } from "./product.schema";
-import { UuidParamsRequest } from "../shared/schemas";
+import { IImage, UuidParams } from "../shared/schemas";
 import {
     routeDeleteProductImageSchema,
     routeGetProductImageSchema,
     routeUploadProductImageSchema,
-    UploadProductImage,
-    UuidImageParamsRequest, UuidProductIdParamsRequest
+    UuidImageParamsRequest,
+    UuidProductIdParamsRequest
 } from "./images/image.schema";
 import {
     deleteProductImageHandler,
     getProductImageHandler,
-     uploadProductImageHandler
+    uploadProductImageHandler
 } from "./images/image.controller";
 
 
-
-const productRoute: FastifyPluginAsyncTypebox = async function(server: FastifyInstance) {
+const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyInstance) {
 
     // Products
-    server.get<{ Params: UuidParamsRequest, Reply: FastifyReply }>(
+    server.get<{ Params: UuidParams, Reply: FastifyReply }>(
         "/:id",
         {
             schema: routeGetProductSchema
@@ -50,7 +49,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function(server: FastifyIn
         createProductHandler
     )
 
-    server.patch<{  Params: UuidParamsRequest, Body: UpdateProductInput, Reply: FastifyReply }>(
+    server.patch<{ Params: UuidParams, Body: UpdateProductInput, Reply: FastifyReply }>(
         "/:id",
         {
             schema: routeUpdateProductSchema
@@ -58,7 +57,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function(server: FastifyIn
         updateProductHandler
     )
 
-    server.delete<{ Params: UuidParamsRequest, Reply: FastifyReply }>(
+    server.delete<{ Params: UuidParams, Reply: FastifyReply }>(
         "/:id",
         {
             schema: routeDeleteProductSchema
@@ -76,7 +75,7 @@ const productRoute: FastifyPluginAsyncTypebox = async function(server: FastifyIn
     )
 
 
-    server.post<{ Params: UuidProductIdParamsRequest, Body: UploadProductImage, Reply: FastifyReply }>(
+    server.post<{ Params: UuidProductIdParamsRequest, Body: IImage, Reply: FastifyReply }>(
         "/:productId/images/upload",
         {
             schema: routeUploadProductImageSchema

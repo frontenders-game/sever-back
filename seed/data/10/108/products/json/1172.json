@@ -2,16 +2,14 @@
   "name": "Сметана Большая Кружка Классическая 20% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 83.99,
-  "priceWithCard": 80.63,
-  "promo": {
-    "discountedPriceRegular": 70.55,
-    "discountedPriceWithCard": 67.73,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "83.99",
+  "priceWithCard": "78.95",
+  "discountPercent": 16,
+  "discountedPrice": "66.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "нормализованные сливки, закваска молочнокислых культур",
   "information": [
     {

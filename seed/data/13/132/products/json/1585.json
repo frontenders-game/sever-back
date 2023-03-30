@@ -2,11 +2,14 @@
   "name": "Треска Гостово Лойн филе спинки без кожи атлантическая замороженная 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 579.99,
-  "priceWithCard": 527.79,
-  "promo": null,
+  "priceRegular": "579.99",
+  "priceWithCard": "545.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "треска филе (Gadus morhua), вода питьевая. Продукт может содержать следы ракообразных, моллюсков",
   "information": [
     {

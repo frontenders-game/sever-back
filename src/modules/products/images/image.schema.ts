@@ -1,30 +1,6 @@
 import { Static, Type } from "@sinclair/typebox";
-import { responseMessage, uuidType } from "../../shared/schemas";
-import { MultipartFile } from "@fastify/multipart";
+import { idSchema, responseMessage, uploadImageSchema, uuidType } from "../../shared/schemas";
 import { routeSchema } from "../../../types";
-
-export const productImageIdSchema = Type.Object(
-    {
-        id:  uuidType
-    },
-    {$id: "productImageIdSchema", additionalProperties: false}
-)
-
-export type ImageId = Static<typeof productImageIdSchema>
-
-
-export const uploadProductImageSchema = Type.Strict(
-    Type.Object(
-        {
-            file: Type.Unknown()
-        },
-        {additionalProperties: false}
-    )
-)
-
-export interface UploadProductImage {
-    file: MultipartFile
-}
 
 export const createProductImageSchema = Type.Object({
         productId:  uuidType,
@@ -39,23 +15,21 @@ export const createProductImageSchema = Type.Object({
 export type CreateProductImageInput = Static<typeof createProductImageSchema>
 
 export const responseProductImageSchema = Type.Omit(Type.Intersect([
-        productImageIdSchema,
+        idSchema,
         createProductImageSchema
     ]), ["productId"],
     {$id: "responseProductImageSchema", additionalProperties: false}
 )
 
-export type ResponseProductImage = Static<typeof responseProductImageSchema>
-
 
 export const uuidProductIdParamsSchema = Type.Object({
-    productId:  uuidType,
+    productId: uuidType,
 })
 export type UuidProductIdParamsRequest = Static<typeof uuidProductIdParamsSchema>
 
 export const uuidImageParams = Type.Object({
-    productId:  uuidType,
-    imageId:  uuidType
+    productId: uuidType,
+    imageId: uuidType
 })
 export type UuidImageParamsRequest = Static<typeof uuidImageParams>
 
@@ -71,18 +45,6 @@ export const routeGetProductImageSchema = routeSchema({
     },
 })
 
-//
-// export const routeCreateProductImageSchema = routeSchema({
-//     tags: ['products/images'],
-//     body: createProductImageSchema,
-//     response: {
-//         201: {
-//             message: responseMessage,
-//             data: responseProductImageSchema
-//         }
-//     }
-// })
-
 export const routeDeleteProductImageSchema = routeSchema({
     tags: ['products/images'],
     params: uuidImageParams,
@@ -97,7 +59,7 @@ export const routeUploadProductImageSchema = routeSchema({
     tags: ['products/images'],
     consumes: ['multipart/form-data'],
     params: uuidProductIdParamsSchema,
-    body: uploadProductImageSchema,
+    body: uploadImageSchema,
     response: {
         200: {
             message: responseMessage,

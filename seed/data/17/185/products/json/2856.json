@@ -2,16 +2,14 @@
   "name": "Рис Мистраль Янтарь длиннозерный пропаренный 5х80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 103.99,
-  "priceWithCard": 98.79,
-  "promo": {
-    "discountedPriceRegular": 80.07,
-    "discountedPriceWithCard": 76.07,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "103.99",
+  "priceWithCard": "98.79",
+  "discountPercent": 23,
+  "discountedPrice": "76.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "рис",
   "information": [
     {

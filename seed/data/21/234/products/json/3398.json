@@ -2,16 +2,14 @@
   "name": "Колбаса Великолукский МК молочная вареная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 264.59,
-  "promo": {
-    "discountedPriceRegular": 180.89,
-    "discountedPriceWithCard": 177.28,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "261.89",
+  "discountPercent": 33,
+  "discountedPrice": "175.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "свинина, говядина, молоко коровье, яйца куриные, натуральные пряности (перец чёрный, перец душистый, орех мускатный), вода питьевая, соль поваренная, сахар, стабилизатор(Е450 i), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

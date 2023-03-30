@@ -2,16 +2,14 @@
   "name": "Зубная щетка Colgate ЗигЗаг средней жесткости в ассортименте 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 113.99,
-  "promo": {
-    "discountedPriceRegular": 100.79,
-    "discountedPriceWithCard": 95.75,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "117.59",
+  "discountPercent": 16,
+  "discountedPrice": "98.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "100% пластик",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Кофе Jacobs Monarch классический жареный молотый 230г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 439.99,
-  "priceWithCard": 400.39,
-  "promo": {
-    "discountedPriceRegular": 272.79,
-    "discountedPriceWithCard": 248.24,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "439.99",
+  "priceWithCard": "431.19",
+  "discountPercent": 38,
+  "discountedPrice": "267.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "кофе жареный молотый",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кашка молочная Heinz многозерновая с бананом и малиной для детей с 6 мес. 0.2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 66.99,
-  "priceWithCard": 60.96,
-  "promo": null,
+  "priceRegular": "66.99",
+  "priceWithCard": "62.30",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "молоко нормализованное, вода, мука (пшеничная, овсяная, кукурузная), пюре банановое, фруктоза, крахмал кукурузный, сок малины концентрированный. Продукт содержит глютен",
   "information": [
     {

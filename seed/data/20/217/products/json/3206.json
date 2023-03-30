@@ -2,16 +2,14 @@
   "name": "Пюре Агуша яблоко-груша-банан-манго с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.04,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 42.03,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.79",
+  "discountPercent": 16,
+  "discountedPrice": "44.34",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "пюре яблочное, пюре грушевое, пюре банановое, пюре из манго, сок яблочный, сок лимонный Продукт изготовлен из концентрированных сока и пюре",
   "information": [
     {

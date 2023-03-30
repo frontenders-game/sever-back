@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня яблоко-малина со сливками с 6 месяцев, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 81.33,
-  "promo": {
-    "discountedPriceRegular": 64.73,
-    "discountedPriceWithCard": 63.44,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "82.99",
+  "priceWithCard": "80.50",
+  "discountPercent": 22,
+  "discountedPrice": "62.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Пюре из яблок, сливки, пюре из малины, сахар.",
   "information": [
     {

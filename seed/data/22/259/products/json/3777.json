@@ -2,11 +2,14 @@
   "name": "Прокладки ежедневные Bella Panty soft, 60шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 143.99,
-  "priceWithCard": 135.35,
-  "promo": null,
+  "priceRegular": "143.99",
+  "priceWithCard": "133.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Целлюлоза, нетканый материал, пленка полиэтиленовая паропропускающая.",
   "information": [
     {

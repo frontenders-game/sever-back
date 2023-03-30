@@ -2,16 +2,14 @@
   "name": "Порошок стиральный Tide Альпийская свежесть аква-пудра 3кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 599.0,
-  "priceWithCard": 551.08,
-  "promo": {
-    "discountedPriceRegular": 413.31,
-    "discountedPriceWithCard": 380.25,
-    "discountPercent": 31,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 36,
+  "priceRegular": "599.00",
+  "priceWithCard": "551.08",
+  "discountPercent": 31,
+  "discountedPrice": "380.25",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 32,
   "ingredients": "5-15% Anionic Surfactants, <5% Non-Ionic Surfactants, Oxygen-Based Bleaching Agents, Phosphonates, Polycarboxylates, Zeolites, Enzymes, Optical Brighteners, Perfumes.",
   "information": [
     {

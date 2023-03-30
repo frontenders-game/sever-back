@@ -2,11 +2,14 @@
   "name": "Каша молочная Агуша Засыпайка злаки-груша-банан с 6 мес. 2.7% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 38.79,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "37.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "молоко нормализованное, вода, сахар, мука экструдированная – «Рисовая», «Пшеничная», «Овсяная», пребиотические вещества (фибрегам, олигофруктоза), фруктовые порошки – «Груша», «Банан», ароматизаторы натуральные – «Груша», «Банан»",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Вода Заповедник здоровья Нагутская-26 минеральная лечебно-столовая газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 62.07,
-  "promo": null,
+  "priceRegular": "63.99",
+  "priceWithCard": "60.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Содержание анионов и катионов мг/л: гидрокарбонат 2300-4000, сульфат <150, хлорид 500-650, кальций <100, магний <50, натрий + калий 1000-3000, минрерализация 4,0-7,0.",
   "information": [
     {

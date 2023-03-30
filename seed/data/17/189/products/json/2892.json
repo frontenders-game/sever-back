@@ -2,11 +2,14 @@
   "name": "Подушечки Ухтышки с какао 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "90.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "мука пшеничная, сахар, мука кукурузная, масло подсолнечное рафинированное дезодорированное, вода питьевая, какао-порошок, крахмал кукурузный, молоко сухое цельное, мука овсяная, сыворотка молочная сухая, соль пищевая, эмульгатор лецитин соевый, ароматизатор “шоколад”",
   "information": [
     {

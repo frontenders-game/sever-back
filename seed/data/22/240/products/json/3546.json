@@ -2,16 +2,14 @@
   "name": "Капсулы для стирки Ariel 3in1 Pods Горный Родник автомат, 15х28.8г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 649.99,
-  "priceWithCard": 630.49,
-  "promo": {
-    "discountedPriceRegular": 435.49,
-    "discountedPriceWithCard": 422.43,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "649.99",
+  "priceWithCard": "597.99",
+  "discountPercent": 33,
+  "discountedPrice": "400.65",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": ">30% Анионные ПАВ, 5-15% Мыло, <5% Неионогенные ПАВ, Фосфонаты, Энзимы, Оптические Отбеливатели, Ароматизирующие Добавки, Бензилсалицилат, Лимонен, Линалоол.",
   "information": [
     {

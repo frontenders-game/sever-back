@@ -2,11 +2,14 @@
   "name": "Набор для ухи Меридиан из форели замороженный 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 162.99,
-  "priceWithCard": 151.58,
-  "promo": null,
+  "priceRegular": "162.99",
+  "priceWithCard": "159.73",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "головы и хребты форели радужной (Oncorhynchus mykiss)",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Напиток Черноголовка Кола без сахара газированный 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 144.99,
-  "priceWithCard": 139.19,
-  "promo": null,
+  "priceRegular": "144.99",
+  "priceWithCard": "131.94",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "вода, краситель сахарный колер IV, регулятор кислотности кислота орто-фосфорная, подсластители (цикламат натрия, ацесульфам калия, сукралоза, сахаринат натрия), ароматизаторы, консервант бензоат натрия, кофеин (не более 150 мг/л)",
   "information": [
     {

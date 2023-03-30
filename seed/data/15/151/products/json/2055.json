@@ -2,11 +2,14 @@
   "name": "Открытка код М",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 105.99,
-  "priceWithCard": 98.57,
-  "promo": null,
+  "priceRegular": "105.99",
+  "priceWithCard": "98.57",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Бумага.",
   "information": [
     {

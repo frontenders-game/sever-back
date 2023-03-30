@@ -2,11 +2,14 @@
   "name": "Напиток Aloe Fresh алоэ негазированный 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 54.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "54.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Специально подготовленная вода, сахар, кусочки Алоэ Вера, лимонная кислота Е330 (регулятор кислотности), комплексная пищевая добавка чс-31 (стабилизатор геллановая камедь. регулятор кислотности цитрат натрия, агент антислеживающий карбонат кальция, загуститель конжаковая камедь), ароматизатор, антиокислитель аскорбиновая кислота, консерванты: сорбат калия, бензоат натрия.",
   "information": [
     {

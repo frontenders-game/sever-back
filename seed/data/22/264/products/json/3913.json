@@ -2,16 +2,14 @@
   "name": "Пена для бритья Gillette Sensitive Skin, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 245.69,
-  "promo": {
-    "discountedPriceRegular": 202.49,
-    "discountedPriceWithCard": 184.27,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "269.99",
+  "priceWithCard": "259.19",
+  "discountPercent": 25,
+  "discountedPrice": "194.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Aqua, Triethanolamine, Palmitic Acid, Stearic Acid, Isobutane, Laureth-23, Sodium Lauryl Sulfate, Propane, Glycerin, Sorbitol, Parfum, Geraniol, Citronellol, Limonene, Linalool, Coumarin, BHT.",
   "information": [
     {

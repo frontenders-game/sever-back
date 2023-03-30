@@ -2,16 +2,14 @@
   "name": "Лапша Шебекинские Лингвини в/с №011 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.99,
-  "priceWithCard": 70.07,
-  "promo": {
-    "discountedPriceRegular": 56.2,
-    "discountedPriceWithCard": 53.95,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "72.99",
+  "priceWithCard": "66.42",
+  "discountPercent": 23,
+  "discountedPrice": "51.14",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука из твердых сортов пшеницы, вода питьевая",
   "information": [
     {

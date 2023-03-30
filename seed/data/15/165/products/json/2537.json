@@ -2,11 +2,14 @@
   "name": "Вафли Спартак лимонные 72г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.99,
-  "priceWithCard": 24.43,
-  "promo": null,
+  "priceRegular": "25.99",
+  "priceWithCard": "25.47",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 46,
+  "stockCount": 42,
   "ingredients": "сахарная пудра, мука пшеничная высшего сорта, жир кондитерский, эмульгатор (Лецитин), масло кокосовое, кислота лимонная пищевая, соль поваренная пищевая йодированная, сода пищевая (натрий двууглекислый), ароматизатор натуральный «Лимонное масло», крошка этих же вафель.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Молоко Parmalat безлактозное ультрапастеризованное 1.8% 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 141.99,
-  "priceWithCard": 139.15,
-  "promo": null,
+  "priceRegular": "141.99",
+  "priceWithCard": "137.73",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "нормализованное молоко",
   "information": [
     {

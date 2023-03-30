@@ -2,16 +2,14 @@
   "name": "Мед Медовый Край Разнотравье цветочный натуральный 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 187.99,
-  "promo": {
-    "discountedPriceRegular": 169.99,
-    "discountedPriceWithCard": 159.79,
-    "discountPercent": 15,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 9,
+  "priceRegular": "199.99",
+  "priceWithCard": "187.99",
+  "discountPercent": 15,
+  "discountedPrice": "159.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 5,
   "ingredients": "Мед натуральный цветочный фасованный.",
   "information": [
     {

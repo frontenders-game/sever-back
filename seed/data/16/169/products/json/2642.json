@@ -2,16 +2,14 @@
   "name": "Кофе Jardin Colombia Medellin растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 399.99,
-  "priceWithCard": 391.99,
-  "promo": {
-    "discountedPriceRegular": 239.99,
-    "discountedPriceWithCard": 235.19,
-    "discountPercent": 40,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 17,
+  "priceRegular": "399.99",
+  "priceWithCard": "387.99",
+  "discountPercent": 40,
+  "discountedPrice": "232.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 13,
   "ingredients": "кофе",
   "information": [
     {

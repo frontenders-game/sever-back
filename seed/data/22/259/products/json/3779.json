@@ -2,11 +2,14 @@
   "name": "Прокладки Always Ultra normal, 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 265.99,
-  "promo": null,
+  "priceRegular": "279.99",
+  "priceWithCard": "271.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Целлюлоза распушенная, абсорбент айрлейд, спанбонд.",
   "information": [
     {

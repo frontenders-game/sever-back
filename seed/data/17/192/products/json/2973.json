@@ -2,11 +2,14 @@
   "name": "Спагетти Зерница высший сорт, 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 42.99,
-  "priceWithCard": 39.98,
-  "promo": null,
+  "priceRegular": "42.99",
+  "priceWithCard": "39.55",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 57,
+  "stockCount": 53,
   "ingredients": "Мука из твердой пшеницы для макаронных изделий, вода питьевая.",
   "information": [
     {

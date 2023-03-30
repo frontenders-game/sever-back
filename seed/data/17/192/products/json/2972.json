@@ -2,16 +2,14 @@
   "name": "Паста Barilla Bavette n.13 группа А высший сорт, 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 86.44,
-  "promo": {
-    "discountedPriceRegular": 80.74,
-    "discountedPriceWithCard": 73.47,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "94.99",
+  "priceWithCard": "86.44",
+  "discountPercent": 15,
+  "discountedPrice": "73.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "мука из твердой пшеницы высшего сорта, вода.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Сок Фруктовый сад Яблоко, вишня, черноплодная рябина 0.85л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 125.99,
-  "priceWithCard": 122.21,
-  "promo": null,
+  "priceRegular": "125.99",
+  "priceWithCard": "114.65",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "яблочный сок, вишневый сок, сок из черноплодной рябины. изготовлен из концентрированных соков",
   "information": [
     {

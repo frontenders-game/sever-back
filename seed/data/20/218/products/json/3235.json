@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Мой первый салатик из брокколи кабачков и цветной капусты с 5 месяцев, 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 52.79,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 44.34,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "50.04",
+  "discountPercent": 16,
+  "discountedPrice": "42.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Капуста брокколи, кабачки, цветная капуста, вода питьевая. Производится из кабачков различных сортов.",
   "information": [
     {

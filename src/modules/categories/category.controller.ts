@@ -1,5 +1,5 @@
 import { FastifyReply, FastifyRequest } from "fastify";
-import { CreateCategoryInput, UpdateCategoryInput } from "./category.schema";
+import { CreateCategoryInput, GetCategoryQuery, UpdateCategoryInput } from "./category.schema";
 import {
     createCategoryService,
     deleteCategoryService,
@@ -7,17 +7,17 @@ import {
     getCategoryService,
     updateCategoryService
 } from "./category.service";
-import { UuidParamsRequest } from "../shared/schemas";
+import { UuidOrSlugParams, UuidParams } from "../shared/schemas";
 
 export async function getCategoryHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest }>,
+    request: FastifyRequest<{ Querystring: GetCategoryQuery, Params: UuidOrSlugParams }>,
     reply: FastifyReply
 ) {
-    const id = request.params.id
-    const category = await getCategoryService(id)
+    const category = await getCategoryService(request.params, request.query)
+    if (!category) return reply.code(404).send({error: `Category with id ${JSON.stringify(request.params)} not found.`});
     return category
         ? reply.code(200).send({message: "Success", data: category})
-        : reply.code(404).send({error: `Category with id ${id} not found.`});
+        : reply.code(404).send({error: `Category with id ${JSON.stringify(request.params)} not found.`});
 }
 
 export async function getAllCategoriesHandler(
@@ -36,20 +36,20 @@ export async function createCategoryHandler(
     reply: FastifyReply
 ) {
     const result = await createCategoryService(request.body);
-    return reply.code(201).send({message: "category created", data: result});
+    return reply.code(201).send({message: "Category created", data: result});
 }
 
 
 export async function updateCategoryHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest, Body: UpdateCategoryInput }>,
+    request: FastifyRequest<{ Params: UuidParams, Body: UpdateCategoryInput }>,
     reply: FastifyReply
 ) {
     const result = await updateCategoryService(request.params.id, request.body);
-    return reply.code(200).send({message: "category updated", data: result});
+    return reply.code(200).send({message: "Category updated", data: result});
 }
 
 export async function deleteCategoryHandler(
-    request: FastifyRequest<{ Params: UuidParamsRequest }>,
+    request: FastifyRequest<{ Params: UuidParams }>,
     reply: FastifyReply
 ) {
     const id = request.params.id

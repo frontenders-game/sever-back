@@ -2,11 +2,14 @@
   "name": "Чай черный Dilmah Ceylon Orange Pekoe крупнолистовой 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 123.49,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "122.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "чай черный листовой цейлонский",
   "information": [
     {

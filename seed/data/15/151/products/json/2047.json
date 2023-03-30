@@ -2,11 +2,14 @@
   "name": "Набор одноразовой посуды Econta на 6 персон белый",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 60.99,
-  "priceWithCard": 57.33,
-  "promo": null,
+  "priceRegular": "60.99",
+  "priceWithCard": "59.16",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Пластик.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Сливки ЭкоНива ультрапастеризованные 10% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 44.09,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "44.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "сливки, молоко обезжиренное",
   "information": [
     {

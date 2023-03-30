@@ -2,16 +2,14 @@
   "name": "Капсулы для стирки Tide Альпийская свежесть 15шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 715.99,
-  "priceWithCard": 701.67,
-  "promo": {
-    "discountedPriceRegular": 465.39,
-    "discountedPriceWithCard": 456.09,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "715.99",
+  "priceWithCard": "665.87",
+  "discountPercent": 35,
+  "discountedPrice": "432.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": ">30% Анионные ПАВ, 5-15% Мыло, <5% Неионогенные ПАВ, Фосфонаты, Энзимы, Оптические Отбеливатели, Ароматизирующие Добавки, Цитронеллол, Эвгенол.",
   "information": [
     {

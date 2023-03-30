@@ -2,16 +2,14 @@
   "name": "Чистящее средство Vanish для ковров 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 439.99,
-  "priceWithCard": 404.79,
-  "promo": {
-    "discountedPriceRegular": 351.99,
-    "discountedPriceWithCard": 323.83,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "439.99",
+  "priceWithCard": "422.39",
+  "discountPercent": 20,
+  "discountedPrice": "337.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Менее 5% кислородосодержащий отбеливатель, неионогенные и анионные ПАВ, поликарбоксилаты, ароматизатор, гексилкоричный альдегид.",
   "information": [
     {

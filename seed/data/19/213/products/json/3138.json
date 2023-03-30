@@ -2,11 +2,14 @@
   "name": "Корм для собак Мясное Ассорти с говядиной в желе 850г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 127.39,
-  "promo": null,
+  "priceRegular": "139.99",
+  "priceWithCard": "135.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "мясо (говядина не менее 4%) и мясные субпродукты, фарш куриный и куриные субпродукты, мясной бульон, злаки, растительное масло,  желирующие добавки",
   "information": [
     {

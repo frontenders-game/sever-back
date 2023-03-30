@@ -2,11 +2,14 @@
   "name": "Пельмени Ложкаревъ из отборной говядины и свинины, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 336.99,
-  "priceWithCard": 316.77,
-  "promo": null,
+  "priceRegular": "336.99",
+  "priceWithCard": "320.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, говядина, вода питьевая, свинина, мясо куриное, лук репчатый свежий, белок растительный, крахмал картофельный, соль поваренная пищевая, яичный порошок, клетчатка растительная, масло растительное рафинированное дезодорированное, перец черный молотый.",
   "information": [
     {

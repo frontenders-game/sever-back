@@ -2,16 +2,14 @@
   "name": "Кофе растворимый Bushido Kodo с добавлением молотого 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1099.0,
-  "priceWithCard": 1033.06,
-  "promo": {
-    "discountedPriceRegular": 604.45,
-    "discountedPriceWithCard": 568.18,
-    "discountPercent": 45,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "1099.00",
+  "priceWithCard": "1022.07",
+  "discountPercent": 45,
+  "discountedPrice": "562.14",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": "кофе натуральный растворимый сублимированный, кофе натуральный жареный молотый",
   "information": [
     {

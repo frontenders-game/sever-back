@@ -2,11 +2,14 @@
   "name": "Какао-порошок Золотой Ярлык 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "119.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "какао-Порошок, ароматизатор «ваниль»",
   "information": [
     {

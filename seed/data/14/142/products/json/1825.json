@@ -2,16 +2,14 @@
   "name": "Напиток Фрутмотив Ягодный микс негазированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": {
-    "discountedPriceRegular": 84.99,
-    "discountedPriceWithCard": 80.74,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": 15,
+  "discountedPrice": "78.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "вода питьевая подготовленная, сахар или глюкозно-фруктозный сироп и сахар или глюкохно-фруктозный сироп, сокосодержащая основа «Мультифрукт» (концентраты соков: апельсина, лимона, винограда, малины, черной смородины, вишни, ежевики, бузины, голубики, черники), регулятор кислотности – лимонная кислота, ароматизатор",
   "information": [
     {

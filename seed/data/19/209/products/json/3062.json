@@ -2,11 +2,14 @@
   "name": "Корм влажный Purina ONE с курицей и морковью в соусе для взрослых кошек при чувствительном пищеварении 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 26.99,
-  "priceWithCard": 25.91,
-  "promo": null,
+  "priceRegular": "26.99",
+  "priceWithCard": "25.64",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 56,
+  "stockCount": 52,
   "ingredients": "мясо и мясные ингредиенты (включая курицу), экстракты растительного белка, рыба и продукты ее переработки, продукты переработки растительного сырья, аминокислоты, минеральные вещества, масла и жиры, овощи (морковь), загустители, сахара, витамины",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Майонез Селяночка Провансаль 67% 720мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 132.29,
-  "promo": null,
+  "priceRegular": "134.99",
+  "priceWithCard": "132.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "масло подсолнечное, вода, сахар, яичный желток, соль (содержит агент антислеживающий Е536), уксусная кислота пищевая 70%, стабилизатор ксантановая камедь, консервант сорбат калия, ароматизатор горчицы, краситель Е160а (содержит антиокислитель Е307)",
   "information": [
     {

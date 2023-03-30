@@ -2,16 +2,14 @@
   "name": "Пюре Агуша яблоко-банан-клубника-киви с 8 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 50.59,
-  "promo": {
-    "discountedPriceRegular": 46.19,
-    "discountedPriceWithCard": 42.5,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "54.99",
+  "priceWithCard": "52.24",
+  "discountPercent": 16,
+  "discountedPrice": "43.88",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "пюре яблочное, пюре банановое, пюре клубничное, сок яблочный, сок из киви, сок лимонный. Продукт изготовлен из концентрированных сока и пюре",
   "information": [
     {

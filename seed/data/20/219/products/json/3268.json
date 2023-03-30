@@ -2,11 +2,14 @@
   "name": "Творог Тема со вкусом клубники и банана 4.2% 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 36.25,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "35.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Нормализованное молоко, наполнитель «Клубника-банан» (сахарный сироп; пюре клубники; сок и пюре банана; сок моркови; сок красной свеклы; кукурузный крахмал; натуральные ароматизаторы; концентрированный лимонный сок), закваска молочнокислых культур и бифидобактерий.",
   "information": [
     {

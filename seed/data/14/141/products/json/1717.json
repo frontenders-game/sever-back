@@ -2,16 +2,14 @@
   "name": "Вода Сенежская минеральная газированная 1.5 л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": {
-    "discountedPriceRegular": 33.99,
-    "discountedPriceWithCard": 33.31,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "39.99",
+  "priceWithCard": "37.99",
+  "discountPercent": 15,
+  "discountedPrice": "32.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "гидрокарбонаты 250-450 мг/л, кальций 50-80 мг/л, магний15-40 мг/л, минерализация 0,3-0,5 г/л, содержит фториды.",
   "information": [
     {

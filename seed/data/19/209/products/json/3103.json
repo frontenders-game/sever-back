@@ -2,16 +2,14 @@
   "name": "Корм для котят Brit Premium цыпленок в соусе влажный 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 78.39,
-  "promo": {
-    "discountedPriceRegular": 59.99,
-    "discountedPriceWithCard": 58.79,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "72.79",
+  "discountPercent": 25,
+  "discountedPrice": "54.59",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "мясо и мясные субпродукты 75 % (в том числе мясо цыплят 10 %), мука рисовая, мука пшеничная, рыбий жир, минерально-витаминный комплекс, загуститель. Пищевая ценность на 100 г (средние значения) : сырой протеин 9, 5 %, сырой жир 5 %, сырая зола 2, 5 %, сырая клетчатка 0, 4 %, влага 81 %. Питательные добавки на 1 кг: витамин d3 250 МЕ, витамин Е 100 мг, цинк 10 мг, марганец 2 мг, йод 0, 7 мг, медь 0, 2 мг, таурин 450 мг, биотин 0, 1 мг",
   "information": [
     {

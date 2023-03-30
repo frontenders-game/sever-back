@@ -2,11 +2,14 @@
   "name": "Колбаски Titbit Лакомый кусочек сливочные для кошек 20г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.99,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "39.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 32,
+  "stockCount": 28,
   "ingredients": "мясо и мясные субпродукты (говядина 92%), растительные масла, альбумин черный, молоко сухое, гидролизат печени, минеральные вещества, смесь токоферолов и экстракт розмарина",
   "information": [
     {

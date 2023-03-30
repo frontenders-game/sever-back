@@ -2,11 +2,14 @@
   "name": "Пюре Honey Kid Фруктово-ягодное ассорти с 6 месяцев 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 47.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "45.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": null,
   "information": [
     {

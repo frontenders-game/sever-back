@@ -2,16 +2,14 @@
   "name": "Конфеты Райские Облака Суфле сливочное",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 549.99,
-  "priceWithCard": 505.99,
-  "promo": {
-    "discountedPriceRegular": 401.49,
-    "discountedPriceWithCard": 369.37,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "549.99",
+  "priceWithCard": "522.49",
+  "discountPercent": 27,
+  "discountedPrice": "381.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "сахар, патока, жиры растительные, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахар, лактоза), какао-порошок, влагоудерживающий агент - сорбитовый сироп, какао-тертое, масло сливочное, белок яичный сухой, комплексная пищевая добавка агар (агент желирующий агар, декстроза), консервант - сорбиновая кислота, эмульгаторы: лецитин соевый, E476; ароматизаторы, комплексная пищевая добавка (антиокислители альфа-токоферол, аскорбиновая кислота)",
   "information": [
     {

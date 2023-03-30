@@ -2,16 +2,14 @@
   "name": "Вода Архыз Легенда Гор минеральная негазированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.99,
-  "promo": {
-    "discountedPriceRegular": 47.39,
-    "discountedPriceWithCard": 45.02,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": 21,
+  "discountedPrice": "45.02",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "HCO 50 - 200мг/л, Ca менее 50мг/л, Mg - менее 20мг/л, Na - K - менее 40мг/л. \nМинерализация 01-0,25г/л.",
   "information": [
     {

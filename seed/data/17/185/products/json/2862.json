@@ -2,11 +2,14 @@
   "name": "Рис Селяночка шлифованный круглозёрный быстроразваривающаяся, 5x80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 67.99,
-  "priceWithCard": 66.63,
-  "promo": null,
+  "priceRegular": "67.99",
+  "priceWithCard": "65.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Рис шлифованный, круглозерный, высший сорт.",
   "information": [
     {

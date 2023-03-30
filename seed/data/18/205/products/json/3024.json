@@ -2,16 +2,14 @@
   "name": "Хумус Рестория Шеф Классический 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 93.14,
-  "priceWithCard": 86.62,
-  "promo": {
-    "discountedPriceRegular": 81.03,
-    "discountedPriceWithCard": 75.36,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "93.14",
+  "priceWithCard": "91.28",
+  "discountPercent": 13,
+  "discountedPrice": "79.41",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "нут вареный (нут, вода), кунжутная паста (кунжут), масло подсолнечное, вода, соль, чеснок молотый, перец красный молотый, антиокислитель лимонная кислота, консерванты: сорбат калия, бензоат натрия",
   "information": [
     {

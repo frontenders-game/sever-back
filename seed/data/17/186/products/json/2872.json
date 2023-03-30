@@ -2,16 +2,14 @@
   "name": "Гречка Prosto ядрица 8х62.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.19,
-  "priceWithCard": 86.51,
-  "promo": {
-    "discountedPriceRegular": 75.81,
-    "discountedPriceWithCard": 73.53,
-    "discountPercent": 15,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 18,
+  "priceRegular": "89.19",
+  "priceWithCard": "84.73",
+  "discountPercent": 15,
+  "discountedPrice": "72.02",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 14,
   "ingredients": "крупа гречневая ядрица быстроразваривающаяся, калиброванная. Сорт высший. Может содержать следы глютена",
   "information": [
     {

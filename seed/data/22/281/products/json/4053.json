@@ -2,11 +2,14 @@
   "name": "Светодиодная лампа Старт ECO LEDGLS E27 20W 30",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 185.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "183.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

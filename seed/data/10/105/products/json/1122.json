@@ -2,16 +2,14 @@
   "name": "Масло сладкосливочное Рэп 82.5%, 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 194.99,
-  "priceWithCard": 191.09,
-  "promo": {
-    "discountedPriceRegular": 150.14,
-    "discountedPriceWithCard": 147.14,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "194.99",
+  "priceWithCard": "181.34",
+  "discountPercent": 23,
+  "discountedPrice": "139.63",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 49,
+  "stockCount": 45,
   "ingredients": "Пастеризованные сливки из коровьего молока.",
   "information": [
     {

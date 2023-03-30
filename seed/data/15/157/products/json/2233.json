@@ -2,16 +2,14 @@
   "name": "Леденец Lenco Сердечко клубника 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": {
-    "discountedPriceRegular": 48.99,
-    "discountedPriceWithCard": 47.52,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "65.79",
+  "discountPercent": 30,
+  "discountedPrice": "46.05",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "сахар, патока, натуральный краситель кармин, натуральный ароматизатор",
   "information": [
     {

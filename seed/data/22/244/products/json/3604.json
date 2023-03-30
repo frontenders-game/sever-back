@@ -2,11 +2,14 @@
   "name": "Кондиционер Vernel Детский для белья концентрированный 910мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 208.99,
-  "promo": null,
+  "priceRegular": "219.99",
+  "priceWithCard": "213.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "5-15 % катионных ПАВ; < 5 % отдушки, консерванта, пеногасителя",
   "information": [
     {

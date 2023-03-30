@@ -2,11 +2,14 @@
   "name": "Тыква Баттернат",
   "unitsOfMeasurement": "кг",
   "step": "3.6",
-  "priceRegular": 89.99,
-  "priceWithCard": 81.89,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "81.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Тыква баттернат.",
   "information": [
     {

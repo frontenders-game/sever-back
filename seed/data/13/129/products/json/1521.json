@@ -2,16 +2,14 @@
   "name": "Мороженое пломбир Хладокомбинат №1 крем-брюле сахарная трубочка в шоколадной глазури, 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 68.99,
-  "priceWithCard": 66.92,
-  "promo": {
-    "discountedPriceRegular": 50.36,
-    "discountedPriceWithCard": 48.85,
-    "discountPercent": 27,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 79,
+  "priceRegular": "68.99",
+  "priceWithCard": "64.16",
+  "discountPercent": 27,
+  "discountedPrice": "46.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 75,
   "ingredients": "Сироп крем-брюле (молоко цельное сгущенное с сахаром, сахар),  cливки, масло сливочное, молоко сухое обезжиренное, глюкозный сироп, сахар, эмульгатор моно- и диглицериды жирных кислот, стабилизаторы: камедь рожкового дерева, гуаровая камедь, каррагинан; карамель (сахар, глюкозный сироп, вода)",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Лакомство Titbit Золотая Коллекция Пармская для собак 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 92.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "мясо и мясные субпродукты (говядина 52%, курица 40%), растительные масла, мускатный орех, минеральные вещества, смесь токоферолов и экстракт розмарина",
   "information": [
     {

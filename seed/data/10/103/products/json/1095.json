@@ -2,16 +2,14 @@
   "name": "Сырок глазированный Простоквашино с вареной сгущенкой 23% 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 43.99,
-  "priceWithCard": 41.35,
-  "promo": {
-    "discountedPriceRegular": 36.07,
-    "discountedPriceWithCard": 33.91,
-    "discountPercent": 18,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 54,
+  "priceRegular": "43.99",
+  "priceWithCard": "40.03",
+  "discountPercent": 18,
+  "discountedPrice": "32.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 50,
   "ingredients": "Творожная часть: творог, сахар, масло сливочное, ароматизаторы, консервант - сорбат калия, ароматизатор; какао-порошок, эмульгаторы (лецитин соевый, Е476), ароматизаторы; крем кондитерский Сгущенка вареная (сахар, вода, сухое обезжиренное молоко, растительный жир, стабилизатор - полифосфат натрия, консервант - сорбат калия).",
   "information": [
     {

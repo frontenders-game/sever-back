@@ -2,16 +2,14 @@
   "name": "Туалетная бумага Zewa Плюс 2 слоя 12шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 356.99,
-  "priceWithCard": 328.43,
-  "promo": {
-    "discountedPriceRegular": 282.02,
-    "discountedPriceWithCard": 259.46,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "356.99",
+  "priceWithCard": "342.71",
+  "discountPercent": 21,
+  "discountedPrice": "270.74",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": "вторичное волокно",
   "information": [
     {

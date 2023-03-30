@@ -2,11 +2,14 @@
   "name": "Хлеб Каравай Столовый ржано-пшеничный половинка высший сорт, 375г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.99,
-  "priceWithCard": 31.84,
-  "promo": null,
+  "priceRegular": "34.99",
+  "priceWithCard": "32.54",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Мука хлебопекарная: ржаная обдирная, пшеничная 2с; вода питьевая, сахар, соль, дрожжи хлебопекарные.",
   "information": [
     {

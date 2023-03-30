@@ -2,16 +2,14 @@
   "name": "Завтрак Хрутка Медовые шарики 230г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 134.99,
-  "priceWithCard": 129.59,
-  "promo": {
-    "discountedPriceRegular": 101.24,
-    "discountedPriceWithCard": 97.19,
-    "discountPercent": 25,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 15,
+  "priceRegular": "134.99",
+  "priceWithCard": "122.84",
+  "discountPercent": 25,
+  "discountedPrice": "92.13",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 11,
   "ingredients": "зерновые продукты (пшеница (содержит глютен) 42,1 %, кукуруза 38,5 %), сахар, карбонат кальция, ячменно-солодовый экстракт (содержит глютен), мед натуральный 0,6 %, регулятор кислотности (фосфаты натрия), соль, масло подсолнечное, краситель натуральный (каротины).продукт может содержать молоко",
   "information": [
     {

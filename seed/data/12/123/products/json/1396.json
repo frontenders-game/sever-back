@@ -2,11 +2,14 @@
   "name": "Яблоки Роял Гала",
   "unitsOfMeasurement": "кг",
   "step": "1.4",
-  "priceRegular": 124.99,
-  "priceWithCard": 113.74,
-  "promo": null,
+  "priceRegular": "124.99",
+  "priceWithCard": "119.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 53,
+  "stockCount": 49,
   "ingredients": "яблоко",
   "information": [
     {

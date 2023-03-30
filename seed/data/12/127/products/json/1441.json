@@ -2,11 +2,14 @@
   "name": "Десерт Сила традиции манго-клубника 2х100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 111.59,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "111.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "клубника, манго",
   "information": [
     {

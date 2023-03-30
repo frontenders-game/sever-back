@@ -2,16 +2,14 @@
   "name": "Корм сухой Purina ONE с говядиной с цельными злаками для взрослых кошек 750г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 379.99,
-  "priceWithCard": 364.79,
-  "promo": {
-    "discountedPriceRegular": 300.19,
-    "discountedPriceWithCard": 288.18,
-    "discountPercent": 21,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 18,
+  "priceRegular": "379.99",
+  "priceWithCard": "368.59",
+  "discountPercent": 21,
+  "discountedPrice": "291.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 14,
   "ingredients": "говядина (16%), цельная пшеница (17%), сухой белок птицы, кукуруза, кукурузный глютен, кукурузная крупа, животный жир,  высушенный корень цикория (2%), вкусоароматическая добавка, пшеничный глютен, минеральные вещества, дрожжи, рыбий жир, витамины",
   "information": [
     {

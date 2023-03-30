@@ -2,16 +2,14 @@
   "name": "Подушечки Любятово Шоколадные 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 204.59,
-  "promo": {
-    "discountedPriceRegular": 171.59,
-    "discountedPriceWithCard": 159.58,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "219.99",
+  "priceWithCard": "202.39",
+  "discountPercent": 22,
+  "discountedPrice": "157.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "зерновые продукты (крупа (мука) пшеничная, овсяная, рисовая), сахар, масло растительное, какао-порошок,  крахмал кукурузный, соль, эмульгатор: лецитин соевый, молоко обезжиренное сухое. Продукт содержит молочный белок, глютен, сою, сульфаты. Продукт может содержать следы орехов",
   "information": [
     {

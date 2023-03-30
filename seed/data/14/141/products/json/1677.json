@@ -2,11 +2,14 @@
   "name": "Вода Семь ручьев Скважина №2434 минеральная газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.19,
-  "priceWithCard": 43.88,
-  "promo": null,
+  "priceRegular": "46.19",
+  "priceWithCard": "44.80",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "химический состав минеральной воды мг/дм3: HCO3 - 500-700, NA++K+ - 150-350, CO2 > 0,20%. Содержит фториды",
   "information": [
     {

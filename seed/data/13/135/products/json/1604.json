@@ -2,11 +2,14 @@
   "name": "Вареники Морозко украинские с картофелем, 900г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 254.79,
-  "promo": null,
+  "priceRegular": "259.99",
+  "priceWithCard": "236.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Картофель свежий, мука пшеничная хлебопекарная высшего сорта, вода питьевая, масло растительное, меланж пастеризованный (продукт яичный), молоко сухое обезжиренное, соль, перец черный молотый, консервант сорбат калия.",
   "information": [
     {

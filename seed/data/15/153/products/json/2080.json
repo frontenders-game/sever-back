@@ -2,11 +2,14 @@
   "name": "Шоколад молочный Kinder Макси с молочной начинкой 21г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 31.99,
-  "priceWithCard": 29.11,
-  "promo": null,
+  "priceRegular": "31.99",
+  "priceWithCard": "30.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 87,
+  "stockCount": 83,
   "ingredients": "Сахар, сухое цельное молоко, масло какао, тертое какао, эмульгатор: лецитины (сои), ароматизатор; начинка: сахар, сухое обезжиренное молоко, растительный жир, молочный жир, эмульгатор: лецитины (сои), ароматизатор.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Пиво безалкогольное Балтика №0 светлое 0.5% 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 47.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "47.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 50,
+  "stockCount": 46,
   "ingredients": "вода питьевая очищенная, Солод ячменный светлый, Солодовый экстракт, Ячмень пивоваренный, хмелепродукты",
   "information": [
     {

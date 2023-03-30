@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Красный Октябрь Алёнка, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 73.59,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 64.76,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "75.99",
+  "discountPercent": 12,
+  "discountedPrice": "66.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "сахар, сухое цельное молоко, масло какао, какао тёртое, эмульгаторы: лецитин соевый, Е476; ароматизаторы. Противопоказано при индивидуальной непереносимости белка молока. Массовые доли: общего сухого остатка какао – не менее 32,0%; сухого обезжиренного остатка какао – не менее 5,9%; сухого обезжиренного остатка молока – не менее 15,2%; молочного жира – не менее 5,4%. Возможно наличие незначительных количеств миндаля, фундука",
   "information": [
     {

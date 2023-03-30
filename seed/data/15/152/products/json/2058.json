@@ -2,16 +2,14 @@
   "name": "Арахисовая паста Cuisine Royale кремовая 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 161.49,
-  "promo": {
-    "discountedPriceRegular": 130.89,
-    "discountedPriceWithCard": 124.35,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "163.19",
+  "discountPercent": 23,
+  "discountedPrice": "125.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "жаренный арахис 90%, сахар, гидрогенизированные растительные масла (семена хлопчатника, соевые бобы, рапс), соль. Продукт может содержать следы фисташек, фундука и сои",
   "information": [
     {

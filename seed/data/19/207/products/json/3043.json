@@ -2,11 +2,14 @@
   "name": "Корм влажный Sheba Кролик ломтики в желе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 29.39,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "27.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 64,
+  "stockCount": 60,
   "ingredients": "мясо и субпродукты (в том числе кролик), злаки и продукты их переработки, аминокислоты (в том числе таурин), загустители, минеральные вещества, витамины, сахара, натуральный карамельный краситель",
   "information": [
     {

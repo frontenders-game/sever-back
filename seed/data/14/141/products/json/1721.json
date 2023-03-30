@@ -2,11 +2,14 @@
   "name": "Вода Новотерская Целебная минеральная газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.19,
-  "priceWithCard": 66.42,
-  "promo": null,
+  "priceRegular": "69.19",
+  "priceWithCard": "65.73",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "сульфат 900-1700, гидрокарбонат 1000-2000, хлорид 300-500, кальций 300-400, магний  не менее 100, натрий+калий 700-1200, кремниевая кислота 30-90",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Манго",
   "unitsOfMeasurement": "кг",
   "step": "0.8",
-  "priceRegular": 321.99,
-  "priceWithCard": 293.01,
-  "promo": {
-    "discountedPriceRegular": 280.13,
-    "discountedPriceWithCard": 254.92,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 12,
+  "priceRegular": "321.99",
+  "priceWithCard": "296.23",
+  "discountPercent": 13,
+  "discountedPrice": "257.72",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 8,
   "ingredients": "Манго.",
   "information": [
     {

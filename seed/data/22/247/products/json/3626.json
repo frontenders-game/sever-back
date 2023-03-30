@@ -2,11 +2,14 @@
   "name": "Губка для обуви Econta Двойной блеск бесцветная, 25г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 27.99,
-  "priceWithCard": 26.59,
-  "promo": null,
+  "priceRegular": "27.99",
+  "priceWithCard": "26.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Пенополиуретан, пропитка (содержит: силикон > 30%, отдушка <5%).",
   "information": [
     {

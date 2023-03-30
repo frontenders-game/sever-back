@@ -2,16 +2,14 @@
   "name": "Чай Tess Pleasure черный с шиповником и яблоком в пакетиках 25х1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 124.99,
-  "priceWithCard": 117.49,
-  "promo": {
-    "discountedPriceRegular": 89.99,
-    "discountedPriceWithCard": 84.59,
-    "discountPercent": 28,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 14,
+  "priceRegular": "124.99",
+  "priceWithCard": "114.99",
+  "discountPercent": 28,
+  "discountedPrice": "82.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 10,
   "ingredients": "чай черный байховый, плоды шиповника, яблоко сушеное, лимонное сорго, ароматизатор \"тропические фрукты\", лепестки василька",
   "information": [
     {

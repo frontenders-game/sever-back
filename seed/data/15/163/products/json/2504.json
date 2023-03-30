@@ -2,16 +2,14 @@
   "name": "Джем Махеевъ лимонный 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 146.99,
-  "promo": {
-    "discountedPriceRegular": 110.99,
-    "discountedPriceWithCard": 108.77,
-    "discountPercent": 26,
-    "isActive": true
-  },
+  "priceRegular": "149.99",
+  "priceWithCard": "136.49",
+  "discountPercent": 26,
+  "discountedPrice": "101.00",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "лимоны свежие, сахар, глюкозно-фруктозный сироп, загуститель пектин, регулятор кислотности кислота лимонная",
   "information": [
     {

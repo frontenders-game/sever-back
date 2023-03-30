@@ -2,11 +2,14 @@
   "name": "Гель для лица Nivea Care очищающий, 225мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 269.99,
-  "priceWithCard": 251.09,
-  "promo": null,
+  "priceRegular": "269.99",
+  "priceWithCard": "245.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Aqua, Glycerin, Sodium Laureth Sulfate, Coco-Glucoside, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, PEG-7 Glyceryl Cocoate, Sodium Benzoate, Sodium Hydroxide, PEG-40 Hydrogenated Castor Oil, Benzophenone-4, Tocopheryl Acetate, Linalool, Benzyl Alcohol, Geraniol, Tocopherol, Parfum.",
   "information": [
     {

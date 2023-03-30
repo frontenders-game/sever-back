@@ -2,11 +2,14 @@
   "name": "Конфеты Fruit-Tella Super Fruits жевательные со вкусами черной смородины, киви, граната 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 197.99,
-  "priceWithCard": 194.03,
-  "promo": null,
+  "priceRegular": "197.99",
+  "priceWithCard": "182.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "глюкозный сироп, сахар, гидрогенизированное кокосовое масло, концентрированные соки из фруктов (киви, черная смородина, гранат), регулятор кислотности (лимонная кислота), желатин, агент влагоудерживающий (глицерин), концентраты (морковь, тыква, редис, лимон, черная смородина), натуральные ароматизаторы, загустители (гуммиарабик, декстрины), концентрированный сок бузины, экстракт спирулины.",
   "information": [
     {

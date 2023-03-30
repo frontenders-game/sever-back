@@ -2,16 +2,14 @@
   "name": "Изделия сдобные Акульчев Мяфли сдобные, 310г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 172.89,
-  "promo": {
-    "discountedPriceRegular": 161.49,
-    "discountedPriceWithCard": 146.96,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "189.99",
+  "priceWithCard": "176.69",
+  "discountPercent": 15,
+  "discountedPrice": "150.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Мука пшеничная в/с, продукты яичные (меланж), сахар-песок, масло подсолнечное рафинированное дезодорированное, вода, сыворотка молочная сухая, влагоудерживающий агент – глицерин, соль поваренная пищевая, эмульгатор – лецитин соевый, разрыхлитель – карбонат аммония, ароматизатор “Масло-сливки”, консервант – сорбиновая кислота, антиокислитель – аскорбиновая кислота.",
   "information": [
     {

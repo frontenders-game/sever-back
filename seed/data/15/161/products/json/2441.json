@@ -2,16 +2,14 @@
   "name": "Мармелад Mix Bar жевательный со вкусом колы 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.64,
-  "promo": {
-    "discountedPriceRegular": 30.14,
-    "discountedPriceWithCard": 29.24,
-    "discountPercent": 33,
-    "isActive": true
-  },
+  "priceRegular": "44.99",
+  "priceWithCard": "43.19",
+  "discountPercent": 33,
+  "discountedPrice": "28.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "патока, сахар, желатин, регулятор кислотности -  молочная кислота, сок яблочный концентрированный, комплексная пищевая добавка глянцеватель (масло кокосовое, глазирователь - воск пчелиный), краситель -  сахарный колер II (сульфиты), ароматизатор \"Кола\". Продукт может содержать диоксид серы",
   "information": [
     {

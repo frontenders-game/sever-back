@@ -2,16 +2,14 @@
   "name": "Пюре Heinz из яблок клубники и злаков с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 70.14,
-  "priceWithCard": 68.74,
-  "promo": {
-    "discountedPriceRegular": 61.02,
-    "discountedPriceWithCard": 59.8,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "70.14",
+  "priceWithCard": "68.04",
+  "discountPercent": 13,
+  "discountedPrice": "59.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "пюре яблочное, пюре клубники, мука (рисовая, овсяная, гречневая), сок яблочный, сок лимонный (регулятор кислотности), витамин С",
   "information": [
     {

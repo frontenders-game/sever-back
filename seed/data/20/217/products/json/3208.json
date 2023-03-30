@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Груша с 4 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 58.23,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 44.84,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "62.07",
+  "discountPercent": 23,
+  "discountedPrice": "47.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "Пюре из груш. Без добавления сахара. Содержит сахара природного происхождения. Продукт изготовлен из концентрированного пюре.",
   "information": [
     {

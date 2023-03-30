@@ -2,11 +2,14 @@
   "name": "Галеты Любятово Классические, 185г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 70.49,
-  "priceWithCard": 64.15,
-  "promo": null,
+  "priceRegular": "70.49",
+  "priceWithCard": "64.85",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "Мука пшеничная, сахар, соль, разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия (сода пищевая); дрожжи хлебопекарные, регулятор кислотности: лимонная кислота, антиокислитель: пиросульфит натрия Продукт содержит глютен, сульфиты Продукт может содержать следы молочного белка, сои.",
   "information": [
     {

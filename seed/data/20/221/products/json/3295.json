@@ -2,11 +2,14 @@
   "name": "Каша Heinz овсяная с молоком и персиком с 5 месяцев 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 193.99,
-  "priceWithCard": 180.41,
-  "promo": null,
+  "priceRegular": "193.99",
+  "priceWithCard": "184.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Мука овсяная, сухое цельное молоко, сахар, персиковое пюре концентрированное, волокна цикория пребиотические (инулин), порошкообразно-инкапсулированный очищенный рыбий жир, витамины и минеральные вещества.",
   "information": [
     {

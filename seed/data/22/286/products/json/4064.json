@@ -2,11 +2,14 @@
   "name": "PANINI Блистер с наклейками",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 404.19,
-  "promo": null,
+  "priceRegular": "429.99",
+  "priceWithCard": "395.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": null,
   "information": [
     {

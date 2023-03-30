@@ -2,11 +2,14 @@
   "name": "Вафли Спартак Халвичный Топ с начинкой 72г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 25.99,
-  "priceWithCard": 24.43,
-  "promo": null,
+  "priceRegular": "25.99",
+  "priceWithCard": "23.91",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "мука пшеничная высшего сорта, сахарная пудра, жир кондитерский, халва подсолнечная, масло кокосовое, соль поваренная пищевая йодированная, эмульгатор (лецитин), сода пищевая (натрий двууглекислый), ароматизатор «ванилин», крошка этих же вафель. Продукт может содержать следы арахиса, орехов, молочных и яичных продуктов, сульфитов",
   "information": [
     {

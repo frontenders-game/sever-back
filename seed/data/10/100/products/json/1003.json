@@ -2,11 +2,14 @@
   "name": "Молоко Домик в деревне пастеризованное 2.5% 930мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Молоко нормализованное.",
   "information": [
     {

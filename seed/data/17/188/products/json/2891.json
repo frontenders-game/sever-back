@@ -2,11 +2,14 @@
   "name": "Хлопья овсяные Ясно Солнышко №3, 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 86.19,
-  "priceWithCard": 78.43,
-  "promo": null,
+  "priceRegular": "86.19",
+  "priceWithCard": "78.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Хлопья овсянные.",
   "information": [
     {

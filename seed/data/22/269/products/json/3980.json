@@ -2,11 +2,14 @@
   "name": "Презервативы Contex Classic 3 шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 168.99,
-  "priceWithCard": 162.23,
-  "promo": null,
+  "priceRegular": "168.99",
+  "priceWithCard": "165.61",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Натуральный латекс, силиконовая смазка.",
   "information": [
     {

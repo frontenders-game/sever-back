@@ -2,11 +2,14 @@
   "name": "Печенье Спартак со вкусом лимона 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 28.19,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "27.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "мука пшеничная высшего сорта, сахар, маргарин, яичный порошок, инвертный сироп, соль поваренная пищевая йодированная, сода пищевая (натрий двууглекислый), молоко сухое (массовая доля жира 25%), ароматизатор натуральный «Лимонное масло», углеаммонийная соль, ароматизатор «Ванилин",
   "information": [
     {

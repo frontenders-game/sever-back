@@ -2,11 +2,14 @@
   "name": "Лакомство для собак Деревенские лакомства Колбаски мясные из утки 45г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 169.19,
-  "promo": null,
+  "priceRegular": "179.99",
+  "priceWithCard": "170.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "мясо утки, кукурузный крахмал",
   "information": [
     {

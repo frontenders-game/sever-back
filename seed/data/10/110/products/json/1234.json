@@ -2,16 +2,14 @@
   "name": "Майонез Mr. Ricco на перепелином яйце 67%, 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 116.39,
-  "promo": {
-    "discountedPriceRegular": 85.19,
-    "discountedPriceWithCard": 82.64,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 19,
+  "priceRegular": "119.99",
+  "priceWithCard": "115.19",
+  "discountPercent": 29,
+  "discountedPrice": "81.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 15,
   "ingredients": "Масло подсолнечное рафинированное дезодорированное, вода, сахар, яичный желток, соль, пищевые волокна цитрусовые, регулятор кислотности уксусная кислота , масло горчичное, масло оливковое рафинированное, краситель бета-каротин.",
   "information": [
     {

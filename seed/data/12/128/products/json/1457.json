@@ -2,11 +2,14 @@
   "name": "Изюм светлый",
   "unitsOfMeasurement": "кг",
   "step": "0.3",
-  "priceRegular": 369.99,
-  "priceWithCard": 347.79,
-  "promo": null,
+  "priceRegular": "369.99",
+  "priceWithCard": "355.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": null,
   "information": [
     {

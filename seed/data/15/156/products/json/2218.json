@@ -2,16 +2,14 @@
   "name": "Драже Skittles дыня-клубника-арбуз-манго-персик-малина-лимон-вишня-лимонад 70г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 65.79,
-  "promo": {
-    "discountedPriceRegular": 48.99,
-    "discountedPriceWithCard": 46.05,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "68.59",
+  "discountPercent": 30,
+  "discountedPrice": "48.01",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "сахар, глюкозный сироп (пшеничный, кукурузный), жир специального назначения (пальмовое масло), регуляторы кислотности: Е330, Е331; загустители: Е1400, Е1422; ароматизаторы, глазирователь Е903, жир специального назначения, красители: Е120, Е170, Е100, Е132, Е133, Е160а, Е160е",
   "information": [
     {

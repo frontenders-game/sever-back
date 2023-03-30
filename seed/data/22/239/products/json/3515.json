@@ -2,11 +2,14 @@
   "name": "Порошок стиральный Миф 3в1 Свежий цвет автомат 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 66.49,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "68.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "5-15% Анионные ПАВ, <5% Неионогенные ПАВ, Поликарбоксилаты, Энзимы, Ароматизирующие Добавки, Бензилсалицилат, Гексилкоричный Альдегид, Лимонен, Линалоол.",
   "information": [
     {

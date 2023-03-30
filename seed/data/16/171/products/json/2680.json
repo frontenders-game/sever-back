@@ -2,16 +2,14 @@
   "name": "Кофе Egoiste Noir в зернах 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 2099.0,
-  "priceWithCard": 1952.07,
-  "promo": {
-    "discountedPriceRegular": 1511.28,
-    "discountedPriceWithCard": 1405.49,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "2099.00",
+  "priceWithCard": "2015.04",
+  "discountPercent": 28,
+  "discountedPrice": "1450.83",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "100% Арабика",
   "information": [
     {

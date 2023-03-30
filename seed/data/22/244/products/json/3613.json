@@ -2,16 +2,14 @@
   "name": "Порошок стиральный Meine Liebe для детского белья 1кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 565.99,
-  "priceWithCard": 537.69,
-  "promo": {
-    "discountedPriceRegular": 384.87,
-    "discountedPriceWithCard": 365.63,
-    "discountPercent": 32,
-    "isActive": true
-  },
+  "priceRegular": "565.99",
+  "priceWithCard": "532.03",
+  "discountPercent": 32,
+  "discountedPrice": "361.78",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "< 5%: мыло, А-тензиды, Н-тензиды; 5-15%: отбеливающее вещество на основе кислорода; ароматизатор гипоаллергенный",
   "information": [
     {

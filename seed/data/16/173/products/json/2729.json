@@ -2,11 +2,14 @@
   "name": "Чай Принцесса Гита черный индийский в пакетиках 25x2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 34.99,
-  "priceWithCard": 32.19,
-  "promo": null,
+  "priceRegular": "34.99",
+  "priceWithCard": "32.54",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "чай черный байховый индийский",
   "information": [
     {

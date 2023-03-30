@@ -2,11 +2,14 @@
   "name": "Стейк Рестория свиной на кости 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 178.59,
-  "promo": null,
+  "priceRegular": "189.99",
+  "priceWithCard": "178.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "свинина на кости",
   "information": [
     {

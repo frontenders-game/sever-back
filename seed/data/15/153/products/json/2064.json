@@ -2,11 +2,14 @@
   "name": "Шоколад Спартак молочный 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "63.69",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 30,
+  "stockCount": 26,
   "ingredients": "сахарная пудра, какао-масло, молоко сухое (массовая доля жира 25%), какао тёртое, сыворотка молочная сухая, эмульгатор (лецитин соевый), ароматизатор натуральный «Ваниль». Продукт может содержать следы арахиса, орехов, глютена, сульфитов",
   "information": [
     {

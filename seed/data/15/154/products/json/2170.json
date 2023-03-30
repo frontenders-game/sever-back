@@ -2,11 +2,14 @@
   "name": "Конфета Акконд Прохлада с кокосом 40г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 24.99,
-  "priceWithCard": 23.99,
-  "promo": null,
+  "priceRegular": "24.99",
+  "priceWithCard": "23.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "сахар, патока, кокосовая стружка, жир растительный, влагоудерживающий агент – сорбитовый сироп, какао-порошок, сыворотка сухая молочная, сухое обезжиренное молоко, продукты яичные, соль, эмульгатор - соевый лецитин, ароматизаторы – кокос, сливки; антиокислители - аскорбиновая кислота, альфа-токоферол. Может содержать следы орехов, арахиса, глютена, кунжута, диоксида серы.",
   "information": [
     {

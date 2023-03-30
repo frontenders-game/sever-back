@@ -2,11 +2,14 @@
   "name": "Колготки Omsa Daino 40den размер XL 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 181.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "191.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "88% полиамид, 11% эластан, 1% полипропилен",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Козинаки AgroSputnik Богучарские 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 189.99,
-  "priceWithCard": 172.89,
-  "promo": null,
+  "priceRegular": "189.99",
+  "priceWithCard": "182.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "ядро подсолнечника, патока, семена кунжута,сахар, растительное  подсолнечное масло , ароматизатор  «ванилин»",
   "information": [
     {

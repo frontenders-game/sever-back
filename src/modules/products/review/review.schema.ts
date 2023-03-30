@@ -1,14 +1,6 @@
 import { Static, Type } from "@sinclair/typebox";
 import {  uuidType } from "../../shared/schemas";
 
-export const productReviewIdSchema = Type.Object(
-    {
-        id:  uuidType
-    },
-    {$id: "reviewIdSchema", additionalProperties: false}
-)
-
-export type ProductReviewId = Static<typeof productReviewIdSchema>
 
 const basicReviewSchema = {
     name: Type.String(),

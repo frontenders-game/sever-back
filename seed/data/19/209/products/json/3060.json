@@ -2,11 +2,14 @@
   "name": "Корм влажный Whiskas Курица рагу для котят 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 19.99,
-  "priceWithCard": 19.39,
-  "promo": null,
+  "priceRegular": "19.99",
+  "priceWithCard": "19.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "мясо и субпродукты (в том числе курица), продукты животного происхождения, пшеничная мука, загустители, минеральные вещества, аминокислоты (в том числе таурин), растительное масло, витамины, свекловичный жом, сахара, натуральные красители",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Изделия макаронные MAKFA Спагетти вермишель длинная группа А высший сорт 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 77.49,
-  "priceWithCard": 75.94,
-  "promo": {
-    "discountedPriceRegular": 55.02,
-    "discountedPriceWithCard": 53.92,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 64,
+  "priceRegular": "77.49",
+  "priceWithCard": "70.52",
+  "discountPercent": 29,
+  "discountedPrice": "50.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 60,
   "ingredients": "Мука из твердой пшеницы для макаронных изделий высшего сорта, вода питьевая.",
   "information": [
     {

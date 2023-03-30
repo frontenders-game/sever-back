@@ -2,11 +2,14 @@
   "name": "Минтай Fish House филе без кожи замороженное, 600г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 239.99,
-  "priceWithCard": 220.79,
-  "promo": null,
+  "priceRegular": "239.99",
+  "priceWithCard": "227.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Минтай.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня яблоко-черничное с печеньем с 6 месяцев, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 58.87,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 45.33,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "60.15",
+  "discountPercent": 23,
+  "discountedPrice": "46.32",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 45,
+  "stockCount": 41,
   "ingredients": "Пюре из яблок, пюре из черники, вода питьевая, печенье (мука пшеничная, сахар, масло сливочное , яйцо куриное, экстракт солодовый, молоко сухое цельное, крахмал кукурузный, разрыхлители (карбонаты аммония, карбонаты натрия), натуральный ароматизатор \"Печенье\".",
   "information": [
     {

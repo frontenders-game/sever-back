@@ -2,11 +2,14 @@
   "name": "Пакет Пятерочка 65*40 см",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 7.99,
-  "priceWithCard": 7.59,
-  "promo": null,
+  "priceRegular": "7.99",
+  "priceWithCard": "7.75",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 1144,
+  "stockCount": 1140,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

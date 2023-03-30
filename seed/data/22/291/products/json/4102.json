@@ -2,11 +2,14 @@
   "name": "Мыло детское Honey Kid с экстрактом ромашки 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.49,
-  "priceWithCard": 26.84,
-  "promo": null,
+  "priceRegular": "29.49",
+  "priceWithCard": "27.13",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "натриевые соли жирных кислот пищевых жиров, пальмового, кокосового или пальмоядрового масел, вода, глицерин, парфюмерная композиция (линалоол, кумарин, гераниол), экстракт ромашки, хлорид натрия, антиоксидант-пластификатор, гидраксид натрия, C.I. 77891",
   "information": [
     {

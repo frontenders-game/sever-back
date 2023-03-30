@@ -2,16 +2,14 @@
   "name": "Хлопья Селяночка пшенные не требующие варки 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 68.59,
-  "promo": {
-    "discountedPriceRegular": 60.19,
-    "discountedPriceWithCard": 58.99,
-    "discountPercent": 14,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 12,
+  "priceRegular": "69.99",
+  "priceWithCard": "67.89",
+  "discountPercent": 14,
+  "discountedPrice": "58.39",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 8,
   "ingredients": "хлопья пшенные",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Котлеты Четверг рыбные из трески замороженные 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 177.99,
-  "priceWithCard": 174.43,
-  "promo": null,
+  "priceRegular": "177.99",
+  "priceWithCard": "174.43",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "фарш трески, сухари панировочные (мука пшеничная хлебопекарная, вода питьевая, дрожжи хлебопекарные, соль поваренная пищевая), лук репчатый, вода питьевая, масло подсолнечное, масло сливочное, крупа манная, яйцо куриное, крахмал картофельный, сахар, соль, перец черный молотый",
   "information": [
     {

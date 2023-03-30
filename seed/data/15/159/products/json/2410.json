@@ -2,11 +2,14 @@
   "name": "Печенье Любятово Топленое молоко 267г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 80.99,
-  "priceWithCard": 78.56,
-  "promo": null,
+  "priceRegular": "80.99",
+  "priceWithCard": "79.37",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 25,
+  "stockCount": 21,
   "ingredients": "мука пшеничная, масло растительное, сахар, сироп инвертный [сахар, регуляторы кислотности: молочная кислота, гидрокарбонат натрия], разрыхлители: гидрокарбонат аммония, гидрокарбонат натрия (сода пищевая); молоко топлёное, соль, ароматизатор, эмульгаторы: эфиры глицерина и диацетилвинной и жирных кислот, лецитин соевый; меланж яичный сухой",
   "information": [
     {

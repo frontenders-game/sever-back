@@ -2,16 +2,14 @@
   "name": "Гель Calgon 3в1 для смягчения воды и предотвращения образования известкового налёта 750мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 395.59,
-  "promo": {
-    "discountedPriceRegular": 382.69,
-    "discountedPriceWithCard": 352.08,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "399.89",
+  "discountPercent": 11,
+  "discountedPrice": "355.90",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "5% или более, но менее 15%: поликарбоксилаты; менее 5%: консервант, ароматизирующие добавки.",
   "information": [
     {

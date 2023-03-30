@@ -2,16 +2,14 @@
   "name": "Очиститель Tiret 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 289.99,
-  "priceWithCard": 272.59,
-  "promo": {
-    "discountedPriceRegular": 260.99,
-    "discountedPriceWithCard": 245.33,
-    "discountPercent": 10,
-    "isActive": true
-  },
+  "priceRegular": "289.99",
+  "priceWithCard": "266.79",
+  "discountPercent": 10,
+  "discountedPrice": "240.11",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "15% или более, но менее 30%: лимонная кислота, менее 5%: неионогенные ПАВ, ароматизатор.",
   "information": [
     {

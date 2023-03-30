@@ -2,16 +2,14 @@
   "name": "Очищающая пенка Garnier Skin Naturals гиалуроновая 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 534.69,
-  "priceWithCard": 513.3,
-  "promo": {
-    "discountedPriceRegular": 267.35,
-    "discountedPriceWithCard": 256.65,
-    "discountPercent": 50,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 9,
+  "priceRegular": "534.69",
+  "priceWithCard": "491.91",
+  "discountPercent": 50,
+  "discountedPrice": "245.96",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 5,
   "ingredients": "aqua/water, sorbitol, lauric acid, stearic acid, myristic acid, potassium hydroxide, glycol distearate, palmitic acid, kaolin, sodium cocoamphoacetate, coco-betaine, parfum / fragrance, aloe barbadensis leaf juice powder, sodium chloride, sodium hyaluronate, ascorbyl glucoside, disodium edta, hydroxypropyl methylcellulose, polyquaternium-7, sodium benzoate, phenoxyethanol",
   "information": [
     {

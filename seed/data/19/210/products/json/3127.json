@@ -2,16 +2,14 @@
   "name": "Корм сухой Purina One с говядиной и пшеницей для стерилизованных кошек 750г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 379.99,
-  "priceWithCard": 349.59,
-  "promo": {
-    "discountedPriceRegular": 300.19,
-    "discountedPriceWithCard": 276.18,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "379.99",
+  "priceWithCard": "372.39",
+  "discountPercent": 21,
+  "discountedPrice": "294.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "говядина (16%), пшеница (16%), сухой белок домашней птицы, соевая мука, кукурузный глютен, кукуруза, животный жир, высушенная мякоть свеклы, высушенный корень цикория (2%), минеральные вещества, вкусоароматическая кормовая добавка, дрожжи (1%), рыбий жир, витамины",
   "information": [
     {

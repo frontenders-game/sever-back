@@ -2,16 +2,14 @@
   "name": "Соус Astoria Бургер-соус 30%, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 104.49,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 66.87,
-    "discountPercent": 36,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "103.39",
+  "discountPercent": 36,
+  "discountedPrice": "66.17",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "вода, масло подсолнечное, сахар, томатная паста, уксус, загустители (Е1442, ксантановая камедь, Е1450), соль, яичный желток, чеснок сушеный, лук сушеный, паприка, кориандр, перец кайенский, черный перец, ароматизаторы (содержат коптильный ароматизатор), консерванты (сорбиновая кислота, Е385), регулятор кислотности диацетат натрия; продукт содержит молоко, может содержать следы сельдерея, орехов, горчицы и продуктов их переработки",
   "information": [
     {

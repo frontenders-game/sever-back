@@ -2,11 +2,14 @@
   "name": "Вода Honey Kid негазированная с 0 мес. 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 39.19,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "36.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "кальций 30-65, калий 2-10, магний 5-30, бикарбонаты 130-280, хлориды ⩽ 10, сульфаты ⩽ 20, фторид-ион 0.6-1.0, иодид-ион 0.04-0.06, общая минерализация 200-300 мг/л, жесткость 3.0-4.5 мг-экв/л",
   "information": [
     {

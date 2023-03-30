@@ -2,16 +2,14 @@
   "name": "Мыло хозяйственное Ушастый Нянь против пятен 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 66.49,
-  "priceWithCard": 60.51,
-  "promo": {
-    "discountedPriceRegular": 53.19,
-    "discountedPriceWithCard": 48.41,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "66.49",
+  "priceWithCard": "61.17",
+  "discountPercent": 20,
+  "discountedPrice": "48.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 27,
+  "stockCount": 23,
   "ingredients": "натриевые соли жирных кислот животных жиров и растительных масел, вода, глицерин, энзим, диоксид титана, триэталамин, ПЭГ-9, динатриевая соль, ЭТА, лимонная кислота, натрий карбоксиметилцеллюло­­за, бензойная кислота, натрия хлорид",
   "information": [
     {

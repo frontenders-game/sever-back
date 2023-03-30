@@ -2,11 +2,14 @@
   "name": "Колбаса Великолукский МК Любительская варёная 500г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 279.99,
-  "priceWithCard": 274.39,
-  "promo": null,
+  "priceRegular": "279.99",
+  "priceWithCard": "274.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "свинина, говядина, шпик, натуральные пряности (перец чёрный, орех мускатный), вода питьевая, соль, сахар, стабилизатор (Е450 iii), антиокислитель (аскорбиновая кислота), фиксатор окраски (нитрит натрия)",
   "information": [
     {

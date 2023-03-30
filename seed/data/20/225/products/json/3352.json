@@ -2,11 +2,14 @@
   "name": "Фруктовые кусочки ФрутоНяня Яблоко Малина с 12 мес. 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.49,
-  "priceWithCard": 45.56,
-  "promo": null,
+  "priceRegular": "46.49",
+  "priceWithCard": "45.10",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": "пюре из яблок концентрированное, сок из яблок концентрированный, пюре из малины, сок из рябины черноплодной концентрированный, агент желирующий-пектин, пищевые волокна",
   "information": [
     {

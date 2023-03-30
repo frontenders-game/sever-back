@@ -2,16 +2,14 @@
   "name": "Зубная паста Parodontax Комплексная защита 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 259.99,
-  "priceWithCard": 254.79,
-  "promo": {
-    "discountedPriceRegular": 130.0,
-    "discountedPriceWithCard": 127.39,
-    "discountPercent": 50,
-    "isActive": true
-  },
+  "priceRegular": "259.99",
+  "priceWithCard": "246.99",
+  "discountPercent": 50,
+  "discountedPrice": "123.50",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": null,
   "information": [
     {

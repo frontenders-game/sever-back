@@ -2,11 +2,14 @@
   "name": "Напиток Fresh Cola газированный 2л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 86.39,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "86.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "вода питьевая подготовленная, сахар, ароматизатор натуральный «тип Кола, часть 2» (содержит краситель Е150d, стабилизатор гуммиарабик), ароматизатор «Кола, часть 1» (содержит регулятор кислотности ортофосфорная кислота, краситель Е150d, ароматизатор: кофеин), регулятор кислотности лимонная кислота, консервант бензоат натрия",
   "information": [
     {

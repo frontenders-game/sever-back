@@ -2,11 +2,14 @@
   "name": "Кофе в капсулах L'or Espresso Splendente жареный молотый 10х52г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 359.99,
-  "priceWithCard": 341.99,
-  "promo": null,
+  "priceRegular": "359.99",
+  "priceWithCard": "334.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "кофе натуральный жареный молотый",
   "information": [
     {

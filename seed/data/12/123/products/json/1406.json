@@ -2,11 +2,14 @@
   "name": "Бананы фасованные",
   "unitsOfMeasurement": "кг",
   "step": "1.2",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "77.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Бананы.",
   "information": [
     {

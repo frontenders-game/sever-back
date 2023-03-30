@@ -2,16 +2,14 @@
   "name": "Напиток Святой источник Со вкусом лимона негазированный 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.19,
-  "priceWithCard": 42.86,
-  "promo": {
-    "discountedPriceRegular": 39.33,
-    "discountedPriceWithCard": 38.15,
-    "discountPercent": 11,
-    "isActive": true
-  },
+  "priceRegular": "44.19",
+  "priceWithCard": "43.31",
+  "discountPercent": 11,
+  "discountedPrice": "38.55",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 54,
+  "stockCount": 50,
   "ingredients": "вода питьевая, сахар, ароматизаторы натуральные, концентрированный лимонный сок (в составе антиокислитель кислота аскорбиновая), регуляторы кислотности кислота лимонная и цитрат натрия, консерванты сорбат калия и бензоат натрия, подсластитель сукралоза",
   "information": [
     {

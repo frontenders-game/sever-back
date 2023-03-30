@@ -2,11 +2,14 @@
   "name": "Сок J7 Яблоко осветленный 300мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 64.99,
-  "priceWithCard": 63.04,
-  "promo": null,
+  "priceRegular": "64.99",
+  "priceWithCard": "62.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "без добавления сахара. Содержит сахара природного (естественного) происхождения. Продукт может содержать следы глютена\n",
   "information": [
     {

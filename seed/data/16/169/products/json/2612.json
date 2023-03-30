@@ -2,16 +2,14 @@
   "name": "Кофе Fresco Doppio растворимый с добавлением молотого, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 459.99,
-  "priceWithCard": 418.59,
-  "promo": {
-    "discountedPriceRegular": 271.39,
-    "discountedPriceWithCard": 246.97,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "459.99",
+  "priceWithCard": "423.19",
+  "discountPercent": 41,
+  "discountedPrice": "249.68",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Сублимированный кофе, жаренный молотый кофе.",
   "information": [
     {

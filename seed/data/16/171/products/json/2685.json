@@ -2,16 +2,14 @@
   "name": "Кофе в зернах Bushido Sensei 227г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 679.99,
-  "priceWithCard": 659.59,
-  "promo": {
-    "discountedPriceRegular": 441.99,
-    "discountedPriceWithCard": 428.73,
-    "discountPercent": 35,
-    "isActive": true
-  },
+  "priceRegular": "679.99",
+  "priceWithCard": "639.19",
+  "discountPercent": 35,
+  "discountedPrice": "415.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "кофейное зерно, 100% Арабика",
   "information": [
     {

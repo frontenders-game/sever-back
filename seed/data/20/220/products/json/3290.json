@@ -2,11 +2,14 @@
   "name": "Коктейль молочный Ам-ам Мамина забота Малина с 12 мес. 2.5% 205г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 42.29,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "42.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "нормализованное молоко, наполнитель «Малина» (сахар, глюкозно-фруктозный сироп, малина (сок концентрированный), натуральный ароматизатор «Малина»).",
   "information": [
     {

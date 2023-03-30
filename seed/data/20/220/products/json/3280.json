@@ -2,11 +2,14 @@
   "name": "Коктейль Маша и Медведь шоколадный 2.3%, 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 41.99,
-  "priceWithCard": 39.89,
-  "promo": null,
+  "priceRegular": "41.99",
+  "priceWithCard": "41.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Нормализованное молоко, сахар, какао-порошок, молоко сухое обезжиренное, стабилизатор каррагинан.",
   "information": [
     {

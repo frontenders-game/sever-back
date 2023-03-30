@@ -2,16 +2,14 @@
   "name": "Сельдерей стебель 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 103.49,
-  "priceWithCard": 101.42,
-  "promo": {
-    "discountedPriceRegular": 90.04,
-    "discountedPriceWithCard": 88.24,
-    "discountPercent": 13,
-    "isActive": true
-  },
+  "priceRegular": "103.49",
+  "priceWithCard": "94.18",
+  "discountPercent": 13,
+  "discountedPrice": "81.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": null,
   "information": [
     {

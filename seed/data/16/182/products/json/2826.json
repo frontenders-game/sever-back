@@ -2,11 +2,14 @@
   "name": "Чай травяной Honey Kid яблоко-липовый цвет-мелисса инстантный с 4 месяцев, 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 127.39,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "127.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Моногидрат декстрозы, порошок фруктовый «Яблочный» (мальтодекстрин, сок яблочный концентрированный), экстракт липового цвета, экстракт мелиссы.",
   "information": [
     {

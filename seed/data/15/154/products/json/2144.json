@@ -2,16 +2,14 @@
   "name": "Конфета Nuts Брауни с фундуком 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": {
-    "discountedPriceRegular": 54.59,
-    "discountedPriceWithCard": 52.95,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": 22,
+  "discountedPrice": "51.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 61,
+  "stockCount": 57,
   "ingredients": "сахар, патока, пальмовое масло, фундук целый (6,1%), молоко сухое обезжиренное, какао тертое, масло какао, сыворотка молочная сухая, какао порошок с пониженным содержанием жира, молочный жир, эквивалент масла какао (масло пальмовое, масло ши), ароматизаторы натуральные, молоко сухое цельное , эмульгаторы (лецитины, Е476), белок яичный сухой, арахис, регулятор кислотности (лимонная кислота), соль",
   "information": [
     {

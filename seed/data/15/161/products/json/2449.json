@@ -2,11 +2,14 @@
   "name": "Мармелад Сладоград желейный ассорти дольки, 300 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 82.79,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "87.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Сахар, вода, патока, желирующие агенты: пектин, агар; регуляторы кислотности: кислота лимонная, кислота молочная, цитрат натрия; белок яичный сухой, ароматизаторы: Лимон, Апельсин, Грейпфрут, Киви, красители: куркумин, кармины, медные комплексы хлорофиллинов, сахар колер IV.",
   "information": [
     {

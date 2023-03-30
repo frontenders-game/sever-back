@@ -2,11 +2,14 @@
   "name": "Вода Пилигрим Талая минеральная питьевая столовая газированная 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 20.99,
-  "priceWithCard": 19.1,
-  "promo": null,
+  "priceRegular": "20.99",
+  "priceWithCard": "20.15",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "мг/л: гидрокабонаты 30-160, хлориды 5-30, сульфаты 5-20, кальций 10-100, магний 0-20, натрий+калий 10-50",
   "information": [
     {

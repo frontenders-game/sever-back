@@ -1,8 +1,9 @@
 node_modules
-.build
-.public/products/images
+/build/
+/public/products/images/
 # Keep environment variables out of version control
 .env
 
 # except c
+
 

@@ -2,16 +2,14 @@
   "name": "Напиток чайный Assand ромашка в пакетиках, 25х1.5г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 90.99,
-  "promo": {
-    "discountedPriceRegular": 84.99,
-    "discountedPriceWithCard": 77.34,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "96.99",
+  "discountPercent": 15,
+  "discountedPrice": "82.44",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": null,
   "information": [
     {

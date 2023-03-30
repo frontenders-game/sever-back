@@ -2,11 +2,14 @@
   "name": "Ролик Econta для чистки одежды в ассортименте 1шт.",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 65.99,
-  "priceWithCard": 61.37,
-  "promo": null,
+  "priceRegular": "65.99",
+  "priceWithCard": "61.37",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "Размер ролика: 23x10,5x5 см. Количество слоев: 50. Ширина липкой ленты: 10 см. Материал: бумага, полипропилен.",
   "information": [
     {

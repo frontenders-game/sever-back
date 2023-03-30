@@ -2,11 +2,14 @@
   "name": "Майонез Рестория Оливковый 67% 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 89.29,
-  "promo": null,
+  "priceRegular": "94.99",
+  "priceWithCard": "93.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 44,
+  "stockCount": 40,
   "ingredients": "масла растительные (подсолнечное и оливковое), вода, сахар, яичный желток, уксус, соль, эфирное горчичное масло, экстракт перца, загуститель – ксантановая камедь, экстракт моркови",
   "information": [
     {

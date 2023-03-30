@@ -2,16 +2,14 @@
   "name": "Напиток Черноголовка Байкал газированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 114.99,
-  "priceWithCard": 110.39,
-  "promo": {
-    "discountedPriceRegular": 80.49,
-    "discountedPriceWithCard": 77.27,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "114.99",
+  "priceWithCard": "108.09",
+  "discountPercent": 30,
+  "discountedPrice": "75.66",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "вода, сахар и сироп глюкозно-фруктозный экстракты: элеутерококка, черного чая, краситель сахарный  колер IV. Натуральные вкус ароматические вещества, регулятор кислотности кислота лимонная",
   "information": [
     {

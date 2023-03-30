@@ -2,16 +2,14 @@
   "name": "Корм Katty с телятиной и индейкой в соусе для кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 17.66,
-  "promo": {
-    "discountedPriceRegular": 15.19,
-    "discountedPriceWithCard": 14.13,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 13,
+  "priceRegular": "18.99",
+  "priceWithCard": "17.85",
+  "discountPercent": 20,
+  "discountedPrice": "14.28",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 9,
   "ingredients": "мясо и мясные субпродукты ( в т.ч. телятина мин. 4%), фарш куриный, фарш индейки (мин. 4%), рыба и рыбные субпродукты, злаки, протеины животного происхождения, витаминно-минеральный комплекс для кошек, таурин. Не содержит ГМО",
   "information": [
     {

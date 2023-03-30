@@ -2,16 +2,14 @@
   "name": "Ряженка Большая Кружка с персиком 3.5% 280г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 57.99,
-  "priceWithCard": 54.51,
-  "promo": {
-    "discountedPriceRegular": 43.49,
-    "discountedPriceWithCard": 40.88,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "57.99",
+  "priceWithCard": "56.83",
+  "discountPercent": 25,
+  "discountedPrice": "42.62",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "молоко нормализованное топленое, наполнитель \"Персик\" (сахар, концентрированное пюре персика, вода питьевая, крахмал кукурузный, концентрат из моркови, загуститель - пектины, ароматизатор натуральный, концентрированный лимонный сок), закваска молочнокислых микроорганизмов",
   "information": [
     {

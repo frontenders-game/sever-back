@@ -2,11 +2,14 @@
   "name": "Масло сладкосливочное Брест-Литовск несолёное высшего сорта 82.5% 180г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 197.99,
-  "priceWithCard": 182.15,
-  "promo": null,
+  "priceRegular": "197.99",
+  "priceWithCard": "194.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Изготовлен из пастеризованных сливок.",
   "information": [
     {

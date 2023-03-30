@@ -2,11 +2,14 @@
   "name": "Печенье Шарлиз Кокосанка сдобное 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 159.99,
-  "priceWithCard": 156.79,
-  "promo": null,
+  "priceRegular": "159.99",
+  "priceWithCard": "150.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Кокосовая стружка, сахар-песок, патока, мука пшеничная в с, вода, маргарин, крахмал, яичный порошок, консервант - сорбат калия, стабилизатор - гуаровая камедь (Е412).",
   "information": [
     {

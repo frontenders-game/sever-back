@@ -2,11 +2,14 @@
   "name": "Порошок Ушастый Нянь для стирки детского белья 2.4кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 489.99,
-  "priceWithCard": 445.89,
-  "promo": null,
+  "priceRegular": "489.99",
+  "priceWithCard": "475.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "сульфат (15-30%), фосфаты (15-30%), кислородосодержащие отбеливающие вещества (5-15%), анионные ПАВ (5-15%), карбонаты (5-15%), силикаты (5-15%), неионогенные ПАВ (менее 5%), пеногаситель (менее 5%), антиресорбент (менее 5%), энзимы, оптические отбеливатели, отдушка",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Арахис Mixbar жареный соленый 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": {
-    "discountedPriceRegular": 70.39,
-    "discountedPriceWithCard": 65.46,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "76.79",
+  "discountPercent": 12,
+  "discountedPrice": "67.58",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Ядра арахиса, растительное масло, соль поваренная пищевая.",
   "information": [
     {

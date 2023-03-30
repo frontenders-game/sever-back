@@ -2,11 +2,14 @@
   "name": "Перец красный сладкий",
   "unitsOfMeasurement": "кг",
   "step": "0.4",
-  "priceRegular": 359.99,
-  "priceWithCard": 341.99,
-  "promo": null,
+  "priceRegular": "359.99",
+  "priceWithCard": "338.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Перец красный сладкий.",
   "information": [
     {

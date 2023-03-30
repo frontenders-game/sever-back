@@ -2,16 +2,14 @@
   "name": "Конфеты Рот Фронт ромашки",
   "unitsOfMeasurement": "кг",
   "step": "0.2",
-  "priceRegular": 699.99,
-  "priceWithCard": 650.99,
-  "promo": {
-    "discountedPriceRegular": 405.99,
-    "discountedPriceWithCard": 377.57,
-    "discountPercent": 42,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 6,
+  "priceRegular": "699.99",
+  "priceWithCard": "650.99",
+  "discountPercent": 42,
+  "discountedPrice": "377.57",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 2,
   "ingredients": "Сахар, шоколадная глазурь (сахар, какао тертое, эквивалент масла какао, какао-порошок, эмульгаторы: е322, е476, ароматизатор, идентичный натуральному \"ванильный\"), сгущенное с сахаром молоко, патока, заменитель молочного жира (растительный), коньяк, ароматизаторы, идентичные натуральным: \"ром\", \"ванильный\".",
   "information": [
     {

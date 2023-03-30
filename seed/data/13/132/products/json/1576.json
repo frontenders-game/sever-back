@@ -2,16 +2,14 @@
   "name": "Горбуша Капитан Норд стейк с кожей мороженая",
   "unitsOfMeasurement": "кг",
   "step": "0.5",
-  "priceRegular": 599.99,
-  "priceWithCard": 575.99,
-  "promo": {
-    "discountedPriceRegular": 449.99,
-    "discountedPriceWithCard": 431.99,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "599.99",
+  "priceWithCard": "587.99",
+  "discountPercent": 25,
+  "discountedPrice": "440.99",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "горбуша (Oncorhynchus gorbuscha),вода питьевая (глазурь). Продукт может содержать следы ракообразных и моллюсков",
   "information": [
     {

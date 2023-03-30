@@ -2,16 +2,14 @@
   "name": "Крупа Global Village пшеничная полтавская 5x80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.19,
-  "promo": {
-    "discountedPriceRegular": 60.19,
-    "discountedPriceWithCard": 57.78,
-    "discountPercent": 14,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "63.69",
+  "discountPercent": 14,
+  "discountedPrice": "54.77",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "крупа пшеничная",
   "information": [
     {

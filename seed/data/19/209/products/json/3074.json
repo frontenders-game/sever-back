@@ -2,11 +2,14 @@
   "name": "Корм влажный Felix Природа Вкуса Лосось для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 20.99,
-  "priceWithCard": 20.15,
-  "promo": null,
+  "priceRegular": "20.99",
+  "priceWithCard": "20.57",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 42,
+  "stockCount": 38,
   "ingredients": "мясо и мясные ингредиенты, злаки, рыба и продукты ее переработки (включая лосось), аминокислоты, минеральные вещества, загустители, сахара, витамины",
   "information": [
     {

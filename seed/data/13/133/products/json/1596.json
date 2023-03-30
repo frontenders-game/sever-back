@@ -2,16 +2,14 @@
   "name": "Смесь овощная Global Village 8 Овощей быстрозамороженная 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 116.39,
-  "promo": {
-    "discountedPriceRegular": 105.59,
-    "discountedPriceWithCard": 102.42,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "119.99",
+  "priceWithCard": "116.39",
+  "discountPercent": 12,
+  "discountedPrice": "102.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "цветная капуста, картофель, морковь, фасоль красная бобы, томаты, кабачок, фасоль стручковая резаная, зеленый горошек",
   "information": [
     {

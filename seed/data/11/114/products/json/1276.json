@@ -2,11 +2,14 @@
   "name": "Хлеб Каравай Ржаной половинка нарезка, 415г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 28.79,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "27.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Мука ржаная хлебопекарная обдирная, вода, соль, дрожжи хлебопекарные.",
   "information": [
     {

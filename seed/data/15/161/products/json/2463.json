@@ -2,11 +2,14 @@
   "name": "Жевательный Мармелад Chupa Chups Роллсы с Апельсиново-лимонным вкусом кислые 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 137.99,
-  "priceWithCard": 126.95,
-  "promo": null,
+  "priceRegular": "137.99",
+  "priceWithCard": "133.85",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "сахар, глюкозный сироп, крахмал (кукурузный), загуститель (крахмал окисленный), регуляторы кислотности (лимонная кислота, яблочная кислота, малаты натрия, цитрат натрия 3-замещенный), агент влагоудерживающий (сорбит), растительное масло, ароматизатор, соль, красители (куркумин, кармины, бриллиантовый голубой FCF)",
   "information": [
     {

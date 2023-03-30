@@ -2,11 +2,14 @@
   "name": "Батон Селяночка нарезной 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 34.77,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "33.66",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": null,
   "information": [
     {

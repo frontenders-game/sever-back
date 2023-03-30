@@ -2,16 +2,14 @@
   "name": "Зефир Лянеж со вкусом крем-брюле глазированный 260г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 339.99,
-  "priceWithCard": 333.19,
-  "promo": {
-    "discountedPriceRegular": 170.0,
-    "discountedPriceWithCard": 166.59,
-    "discountPercent": 50,
-    "isActive": true
-  },
+  "priceRegular": "339.99",
+  "priceWithCard": "329.79",
+  "discountPercent": 50,
+  "discountedPrice": "164.90",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "сахар, глазурь (сахар, заменитель масла какао нетемперируемый лауринового типа (жир растительный, эмульгаторы (Е492, Е322) ), какао-порошок, эмульгатор лецитин соевый), патока, вода питьевая, пюре яблочное, белок яичный, агент желирующий пектин, регулятор кислотности кислота молочная, агент влагоудерживающий лактат натрия, краситель сахарный колер iii, ароматизатор «Крем-брюле», консервант диоксид серы",
   "information": [
     {

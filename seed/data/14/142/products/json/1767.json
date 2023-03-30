@@ -2,16 +2,14 @@
   "name": "Напиток Добрый Ягодный микс сокосодержащий 0.95л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 94.99,
-  "promo": {
-    "discountedPriceRegular": 84.99,
-    "discountedPriceWithCard": 80.74,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "97.99",
+  "discountPercent": 15,
+  "discountedPrice": "83.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "яблочный сок, яблочное пюре, пюре из сливы, сок из черноплодной рябины, сок из вишни, сок из черной смородины, сок из красной смородины, сахар, регулятор кислотности - лимонная кислота, витамин С, вода. Изготовлен из концентрированных соков и пюре",
   "information": [
     {

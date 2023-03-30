@@ -2,16 +2,14 @@
   "name": "Кинза Global Village 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 48.49,
-  "promo": {
-    "discountedPriceRegular": 29.99,
-    "discountedPriceWithCard": 29.09,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "49.99",
+  "priceWithCard": "47.99",
+  "discountPercent": 40,
+  "discountedPrice": "28.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Кинза.",
   "information": [
     {

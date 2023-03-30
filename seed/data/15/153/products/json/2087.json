@@ -2,11 +2,14 @@
   "name": "Шоколад Alpen Gold молочный Соленый миндаль и Карамель 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 54.99,
-  "priceWithCard": 53.34,
-  "promo": null,
+  "priceRegular": "54.99",
+  "priceWithCard": "51.14",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Сахар, какао тертое, масло какао, миндаль обжаренный соленый дробленый (миндаль, масло пальмовое, соль поваренная пищевая), сухое цельное молоко, сухая молочная сыворотка, кусочки карамели (сахар, сироп глюкозный, разрыхлитель (сода пищевая)), молочный жир, эмульгаторы (лецитин соевый, Е476), ароматизатор идентичный натуральному Ванилин.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Морс Клюквенный осветленный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 88.19,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "86.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 28,
+  "stockCount": 24,
   "ingredients": "сок клюквенный концентрированный, сахар, регулятор кислотности -  кислота лимонная, натуральный ароматизатор \"тип Клюква\" (регулятор кислотности- кислота молочная), вода подготовленная. Изготовлен из концентрированного сока. Минимальная объемная доля сока - 15%",
   "information": [
     {

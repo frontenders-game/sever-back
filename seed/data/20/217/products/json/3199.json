@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Шарлотка с 6 месяцев, 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 62.71,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 48.29,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 20,
+  "priceRegular": "63.99",
+  "priceWithCard": "58.23",
+  "discountPercent": 23,
+  "discountedPrice": "44.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 16,
   "ingredients": "Пюре из яблок, печенье (мука пшеничная, сахар, масло сливочное, яйцо куриное, экстракт солодовый, молоко сухое цельное, крахмал кукурузный, разрыхлитель - гидрокарбонат натрия), сок яблочный концентрированный, экстракт ванили, экстракт корицы, вода питьевая.",
   "information": [
     {

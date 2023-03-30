@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Dirol White Мята 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.49,
-  "priceWithCard": 35.62,
-  "promo": null,
+  "priceRegular": "37.49",
+  "priceWithCard": "35.24",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 58,
+  "stockCount": 54,
   "ingredients": "подсластители (изомальт, сорбит, ксилит, мальтит, мальтитный сироп, аспарам, ацесульфам калия, сукралоза) резиновая основа, носитель (карбонат кальция), ароматизаторы, загуститель (E414), эмульгаторы (E470a, лецитин подсолнечный, E472a), агент влагоудерживающий ( E422), краситель (E171), глазирователь (E903), антиокислитель (E321), содержит источник фенилаланина, содержит подсластители",
   "information": [
     {

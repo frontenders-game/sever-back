@@ -2,16 +2,14 @@
   "name": "Торт Шарлиз медовик 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 219.99,
-  "priceWithCard": 200.19,
-  "promo": {
-    "discountedPriceRegular": 171.59,
-    "discountedPriceWithCard": 156.15,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "219.99",
+  "priceWithCard": "202.39",
+  "discountPercent": 22,
+  "discountedPrice": "157.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": null,
   "information": [
     {

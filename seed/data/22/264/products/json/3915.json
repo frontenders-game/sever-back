@@ -2,11 +2,14 @@
   "name": "Кассеты для бритья Gillette Fusion Proglide, 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1059.99,
-  "priceWithCard": 996.39,
-  "promo": null,
+  "priceRegular": "1059.99",
+  "priceWithCard": "1028.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Peg-115m, peg-7m, peg-100, Silica, Paraffinum Liquidum, Tocopheryl Acetate, Pentaerythrityl, Tetra-Di-T-Butyl, Hydroxyhydrocinnamate, Tris(Di-T-Butyl) Phosphite, Aloe Barbadensis Leaf Juice, BHT, Glycol.",
   "information": [
     {

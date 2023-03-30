@@ -2,11 +2,14 @@
   "name": "Полотенца бумажные Мягкий знак Mr.Big Extra",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 229.99,
-  "priceWithCard": 223.09,
-  "promo": null,
+  "priceRegular": "229.99",
+  "priceWithCard": "218.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "100% целлюлоза",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кефир Простоквашино 2.5% 930 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.99,
-  "priceWithCard": 67.15,
-  "promo": null,
+  "priceRegular": "72.99",
+  "priceWithCard": "70.80",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Р - нормализованное молоко, закваска на кефирных грибках У - нормализованное молоко, восстановленное молоко из сухого молока, закваска на кефирных грибках",
   "information": [
     {

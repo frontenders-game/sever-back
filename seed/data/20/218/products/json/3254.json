@@ -2,11 +2,14 @@
   "name": "Пюре мясное Агуша Цыпленок 6% с 6 месяцев 80г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 82.99,
-  "priceWithCard": 76.35,
-  "promo": null,
+  "priceRegular": "82.99",
+  "priceWithCard": "79.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Мясо индейки, вода, мука рисовая, масло растительное.",
   "information": [
     {

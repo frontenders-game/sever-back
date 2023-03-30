@@ -2,16 +2,14 @@
   "name": "Гель для стирки BiMax Color, 1.3кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 632.99,
-  "priceWithCard": 588.68,
-  "promo": {
-    "discountedPriceRegular": 373.46,
-    "discountedPriceWithCard": 347.32,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "632.99",
+  "priceWithCard": "614.00",
+  "discountPercent": 41,
+  "discountedPrice": "362.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

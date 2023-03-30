@@ -2,16 +2,14 @@
   "name": "Бальзам-ополаскиватель Чистая Линия Крапива для всех типов волос укрепляющий 380мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 193.99,
-  "promo": {
-    "discountedPriceRegular": 155.99,
-    "discountedPriceWithCard": 151.31,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "199.99",
+  "priceWithCard": "189.99",
+  "discountPercent": 22,
+  "discountedPrice": "148.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "Aqua, Cetearyl Alcohol, Parfum, Achillea Millefolium Extract, Chamomilla Recutita (Matricaria) Flower, Chelidonium Majus Extract, Hydrolyzed Wheat Protein, Hypericum Perforatum Flower/Leaf/Stem Extract, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, Urtica Dioica (Nettle) Leaf Extract (Экстракт крапивы), Urtica Dioica (Nettle) Leaf Powder, Behentrimonium Chloride, Ceteareth-20, Cetrimonium Chloride, Citric Acid, Glycerin, Isopropyl Alcohol, Methylchloroisothiazolinone, Methylisothiazolinone, Panthenol, Pantolactone, Phenoxyethanol, Sodium Benzoate, Benzyl Salicylate, Butylphenyl Methylpropional, Citronellol, Limonene, Linalool.",
   "information": [
     {

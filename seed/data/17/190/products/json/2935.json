@@ -2,16 +2,14 @@
   "name": "Маш Золотая долина Продовольственный 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 103.39,
-  "promo": {
-    "discountedPriceRegular": 90.19,
-    "discountedPriceWithCard": 84.78,
-    "discountPercent": 18,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 8,
+  "priceRegular": "109.99",
+  "priceWithCard": "100.09",
+  "discountPercent": 18,
+  "discountedPrice": "82.07",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 4,
   "ingredients": "маш продовольственный",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Кофе натуральный Poetti Daily Arabica жареный в зернах 1000г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1299.0,
-  "priceWithCard": 1234.05,
-  "promo": null,
+  "priceRegular": "1299.00",
+  "priceWithCard": "1247.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Кофе.",
   "information": [
     {

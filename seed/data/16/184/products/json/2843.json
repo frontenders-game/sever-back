@@ -2,11 +2,14 @@
   "name": "Корица Kotanyi молотая 25г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.49,
-  "priceWithCard": 65.97,
-  "promo": null,
+  "priceRegular": "72.49",
+  "priceWithCard": "70.32",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 42,
+  "stockCount": 38,
   "ingredients": "Корица.",
   "information": [
     {

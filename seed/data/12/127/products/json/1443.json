@@ -2,11 +2,14 @@
   "name": "Хренодёр Global Village классический упаковка в ассортименте 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "73.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Томаты свежие, корень хрена, чеснок, соль поваренная пищевая, регулятор кислотности лимонная кислота, консерванты: сорбат калия, бензоат натрия, усилитель вкуса и аромата глутамат натрия, комплексная пищевая добавка Аспасвит 185 (подсластители Е952, Е954).",
   "information": [
     {

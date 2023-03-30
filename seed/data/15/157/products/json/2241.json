@@ -2,16 +2,14 @@
   "name": "Леденцы HALLS со вкусом меда и лимона 25г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.64,
-  "promo": {
-    "discountedPriceRegular": 40.04,
-    "discountedPriceWithCard": 38.84,
-    "discountPercent": 11,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 27,
+  "priceRegular": "44.99",
+  "priceWithCard": "41.39",
+  "discountPercent": 11,
+  "discountedPrice": "36.84",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 23,
   "ingredients": "Сахар, патока мальтозная, мед, регуляторы кислотности (Е270, Е330, Е332(ii)), ароматизатор, эвкалиптовое масло, ментол, краситель (Е160а).",
   "information": [
     {

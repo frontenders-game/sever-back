@@ -2,11 +2,14 @@
   "name": "Мороженое Вологодский Пломбир ванильное 15%, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 140.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "136.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "Молоко коровье цельное, молоко цельное сгущённое с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза)), вода питьевая, масло сливочное, сухой глюкозный сироп, комплексная пищевая добавка (эмульгатор - моно- и диглицериды жирных кислот, стабилизаторы: гуаровая камедь, камедь рожкового дерева, тары камедь, каррагинан). Массовая доля жира -15%",
   "information": [
     {

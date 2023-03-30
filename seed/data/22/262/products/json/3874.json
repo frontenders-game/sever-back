@@ -2,16 +2,14 @@
   "name": "Антиперспирант-дезодорант Rexona Нежно и сочно спрей 150мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 234.99,
-  "promo": {
-    "discountedPriceRegular": 189.99,
-    "discountedPriceWithCard": 178.59,
-    "discountPercent": 24,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 11,
+  "priceRegular": "249.99",
+  "priceWithCard": "242.49",
+  "discountPercent": 24,
+  "discountedPrice": "184.29",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 7,
   "ingredients": "isobutane, cyclopentasiloxane, propane, ppg-14 butyl ether, aluminum chlorohydrate, butane, parfum, disteardimonium hectorite, octyldodecanol, bht, helianthus annuus seed oil, propylene carbonate, dimethiconol, citric acid, alpha-isomethyl ionone, benzyl alcohol, benzyl salicylate, butylphenyl methylpropional, citronellol, hexyl cinnamal, hydroxycitronellal, limonene, linalool",
   "information": [
     {

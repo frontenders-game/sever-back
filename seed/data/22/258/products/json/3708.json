@@ -2,16 +2,14 @@
   "name": "Кондиционер для волос Tresemme Восстанавливающий 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 369.99,
-  "priceWithCard": 362.59,
-  "promo": {
-    "discountedPriceRegular": 270.09,
-    "discountedPriceWithCard": 264.69,
-    "discountPercent": 27,
-    "isActive": true
-  },
+  "priceRegular": "369.99",
+  "priceWithCard": "362.59",
+  "discountPercent": 27,
+  "discountedPrice": "264.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Aqua, Cetearyl Alcohol, Dimethicone, Stearamidopropyl Dimethylamine, Amodimethicone, Biotin, Gluconolactone, Sodium Sulfate, Trehalose, Acetic Acid, Behentrimonium Chloride, Cetrimonium Chloride, Citric Acid, Dipropylene Glycol, Disodium EDTA, Disodium Phosphate, Ethylhexyl Methoxycinnamate, Lactic Acid, Magnesium Chloride, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum, PEG-7 Propylheptylether, Phenoxyethanol, Sodium Chloride, Urea, Benzyl Salicylate, Butylphenyl Methylpropional, Hexyl Cinnamal, Limonene, Linalool.",
   "information": [
     {

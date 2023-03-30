@@ -2,11 +2,14 @@
   "name": "Корм сухой Purina One с лососем и пшеницей для стерилизованных кошек 1.5кг",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 799.99,
-  "priceWithCard": 783.99,
-  "promo": null,
+  "priceRegular": "799.99",
+  "priceWithCard": "759.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "л​осось (15%), сухой белок птицы, пшеница (15%), соевая мука, кукуруза, кукурузный глютен, пшеничный глютен, животный жир, высушенная мякоть свеклы, высушенный корень цикория, сухой белок рыбы, минеральные вещества, клетчатка, консерванты, вкусоароматическая кормовая добавка (c добавлением 0,025% высушенной инактивированной нагреванием смеси культур Lactobacillus fermentum и Lactobacillus delbrueckii), дрожжи, витамины, антиоксиданты",
   "information": [
     {

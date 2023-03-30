@@ -2,11 +2,14 @@
   "name": "Восточные сладости Mixbar Козинак подсолнечный, 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 14.99,
-  "priceWithCard": 13.79,
-  "promo": null,
+  "priceRegular": "14.99",
+  "priceWithCard": "13.64",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "Ядро подсолнечника обжаренное, сахар, патока, вода питьевая.Возможно наличие незначительного количества кунжута, арахиса, мака и орехов (миндаль, фундук, грецкий орех).",
   "information": [
     {

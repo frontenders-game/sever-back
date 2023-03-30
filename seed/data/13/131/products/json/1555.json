@@ -2,11 +2,14 @@
   "name": "Наггетсы Золотой петушок Традиционные из мяса цыплёнка, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 203.99,
-  "priceWithCard": 187.67,
-  "promo": null,
+  "priceRegular": "203.99",
+  "priceWithCard": "185.63",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Мясо цыпленка (филе грудки), сухари панировочные (мука пшеничная, вода питьевая, дрожжи хлебопекарные, соль пищевая, куркума, краситель аннато), вода питьевая, масло растительное, мука (пшеничная, рисовая), клетчатка пшеничная, крахмал (кукурузный, гороховый), соль пищевая, белок яичный, сахар.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Корм влажный Katty с кроликом и индейкой в соусе для кошек 85г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 18.99,
-  "priceWithCard": 18.42,
-  "promo": null,
+  "priceRegular": "18.99",
+  "priceWithCard": "17.47",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 44,
+  "stockCount": 40,
   "ingredients": null,
   "information": [
     {

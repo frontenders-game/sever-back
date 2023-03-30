@@ -2,16 +2,14 @@
   "name": "Конфеты Werthers Original Карамель сливочная, 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": {
-    "discountedPriceRegular": 50.39,
-    "discountedPriceWithCard": 48.88,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "69.99",
+  "priceWithCard": "64.39",
+  "discountPercent": 28,
+  "discountedPrice": "46.36",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 36,
+  "stockCount": 32,
   "ingredients": "Сахар, глюкозный сироп, сливки пастеризованные (7,4%), сыворотка молочная сгущенная подсырная, масло сливочное (4,8%), сироп из тростникового сахара, соль поваренная пищевая, эмульгатор соевый лецитин (Е322), ароматизатор ванилин.",
   "information": [
     {

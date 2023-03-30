@@ -2,11 +2,14 @@
   "name": "Молоко сгущённое Вологодские Молочные Продукты цельное с сахаром ГОСТ 8.5%, 270г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 111.59,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "115.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "Молоко цельное, молоко обезжиренное, сахар-песок (сахароза), молочный сахар (лактоза).",
   "information": [
     {

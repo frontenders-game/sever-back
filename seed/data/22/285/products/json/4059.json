@@ -2,16 +2,14 @@
   "name": "Ороситель HK Kiana Group садовый 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 289.99,
-  "priceWithCard": 278.39,
-  "promo": {
-    "discountedPriceRegular": 101.5,
-    "discountedPriceWithCard": 97.44,
-    "discountPercent": 65,
-    "isActive": true
-  },
+  "priceRegular": "289.99",
+  "priceWithCard": "278.39",
+  "discountPercent": 65,
+  "discountedPrice": "97.44",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Материал: полимерные материалы, металл.",
   "information": [
     {

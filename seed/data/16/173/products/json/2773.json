@@ -2,11 +2,14 @@
   "name": "Чай Greenfield Kenyan Sunrise черный в пакетиках 100х2г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 419.99,
-  "priceWithCard": 386.39,
-  "promo": null,
+  "priceRegular": "419.99",
+  "priceWithCard": "398.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "чай черный байховый кенийский",
   "information": [
     {

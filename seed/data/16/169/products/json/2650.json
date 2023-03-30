@@ -2,11 +2,14 @@
   "name": "Кофе Jacobs Monarch Intense натуральный растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 479.99,
-  "priceWithCard": 451.19,
-  "promo": null,
+  "priceRegular": "479.99",
+  "priceWithCard": "455.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "кофе натуральный растворимый сублимированный",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Средство чистящее Адрилан 5в1 для сантехники, 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 85.49,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "82.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": ">5-15% анионные ПАВ, >5-15% фруктовые кислоты, <5% функциональные добавки, <5% парфюмерная композиция, <5% краситель.",
   "information": [
     {

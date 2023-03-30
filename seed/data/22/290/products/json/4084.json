@@ -2,16 +2,14 @@
   "name": "Трусики-подгузники Huggies для мальчиков и девочек р.4 9-14 кг 52шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 1249.0,
-  "priceWithCard": 1149.08,
-  "promo": {
-    "discountedPriceRegular": 999.2,
-    "discountedPriceWithCard": 919.26,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 5,
+  "priceRegular": "1249.00",
+  "priceWithCard": "1149.08",
+  "discountPercent": 20,
+  "discountedPrice": "919.26",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 1,
   "ingredients": null,
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Яблоки красные",
   "unitsOfMeasurement": "кг",
   "step": "0.8",
-  "priceRegular": 124.99,
-  "priceWithCard": 113.74,
-  "promo": {
-    "discountedPriceRegular": 109.99,
-    "discountedPriceWithCard": 100.09,
-    "discountPercent": 12,
-    "isActive": true
-  },
+  "priceRegular": "124.99",
+  "priceWithCard": "118.74",
+  "discountPercent": 12,
+  "discountedPrice": "104.49",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 59,
+  "stockCount": 55,
   "ingredients": "Яблоки.",
   "information": [
     {

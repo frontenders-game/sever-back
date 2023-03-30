@@ -2,16 +2,14 @@
   "name": "Молоко Агуша 3.2% стерилизованное с 3 лет 950г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 127.99,
-  "priceWithCard": 116.47,
-  "promo": {
-    "discountedPriceRegular": 115.19,
-    "discountedPriceWithCard": 104.82,
-    "discountPercent": 10,
-    "isActive": true
-  },
+  "priceRegular": "127.99",
+  "priceWithCard": "116.47",
+  "discountPercent": 10,
+  "discountedPrice": "104.82",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 31,
+  "stockCount": 27,
   "ingredients": "Молоко нормализованное.",
   "information": [
     {

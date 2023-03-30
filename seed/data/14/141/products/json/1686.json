@@ -2,11 +2,14 @@
   "name": "Вода Societe Minerale минеральная газированная 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 20.49,
-  "priceWithCard": 19.06,
-  "promo": null,
+  "priceRegular": "20.49",
+  "priceWithCard": "19.06",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": null,
   "information": [
     {

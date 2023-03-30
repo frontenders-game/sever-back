@@ -2,11 +2,14 @@
   "name": "Жевательные конфеты Halls Fresh & Chewy Арбуз 47г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 54.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "сахар, сироп глюкозный, масло растительное (пальмовое), регулятор кислотности (лимонная кислота), желатин говяжий, концентрат яблочного сока, эмульгаторы (моно- и диглицериды жирных кислот, лецитины), ароматизаторы, краситель (красный свекольный)",
   "information": [
     {

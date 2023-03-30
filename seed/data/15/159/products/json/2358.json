@@ -2,16 +2,14 @@
   "name": "Печенье Зерница традиционное сахарное глазированное 120г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 58.19,
-  "promo": {
-    "discountedPriceRegular": 35.99,
-    "discountedPriceWithCard": 34.91,
-    "discountPercent": 40,
-    "isActive": true
-  },
+  "priceRegular": "59.99",
+  "priceWithCard": "54.59",
+  "discountPercent": 40,
+  "discountedPrice": "32.75",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 39,
+  "stockCount": 35,
   "ingredients": null,
   "information": [
     {

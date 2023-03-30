@@ -2,11 +2,14 @@
   "name": "Хлеб Каравай Столичный нарезка 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.99,
-  "priceWithCard": 36.85,
-  "promo": null,
+  "priceRegular": "37.99",
+  "priceWithCard": "35.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "мука ржаная хлебопекарная обдирная, мука пшеничная хлебопекарная первого сорта, вода питьевая, сахар, соль, дрожжи хлебопекарные. Продукт может содержать следы молока, сои, кунжута и продукты их переработки",
   "information": [
     {

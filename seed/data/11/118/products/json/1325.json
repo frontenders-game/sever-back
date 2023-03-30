@@ -2,11 +2,14 @@
   "name": "Хлебцы Зерница с луком хрустящие 110 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 31.99,
-  "priceWithCard": 30.07,
-  "promo": null,
+  "priceRegular": "31.99",
+  "priceWithCard": "30.71",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 24,
+  "stockCount": 20,
   "ingredients": "Мука ржаная обдирная, мука пшеничная 1 сорт, отруби пшеничные, вода питьевая, лук сушеный, соль поваренная пищевая.",
   "information": [
     {

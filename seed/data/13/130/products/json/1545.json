@@ -2,11 +2,14 @@
   "name": "Пельмени Цезарь Гордость Сибири, 800г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 529.99,
-  "priceWithCard": 482.29,
-  "promo": null,
+  "priceRegular": "529.99",
+  "priceWithCard": "487.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, говядина охлажденная, свинина, бедро куриное, вода питьевая, меланж пастеризованный (продукт яичный), лук репчатый, соль, натуральное пищевое волокно, перец черный.",
   "information": [
     {

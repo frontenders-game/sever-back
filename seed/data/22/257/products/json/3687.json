@@ -2,16 +2,14 @@
   "name": "Бумажные полотенца Zewa Premium Decor 2шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 163.19,
-  "promo": {
-    "discountedPriceRegular": 130.89,
-    "discountedPriceWithCard": 125.66,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "156.39",
+  "discountPercent": 23,
+  "discountedPrice": "120.42",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

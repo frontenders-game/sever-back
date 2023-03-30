@@ -2,11 +2,14 @@
   "name": "Сметана Брест-Литовск 15% 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 74.99,
-  "priceWithCard": 73.49,
-  "promo": null,
+  "priceRegular": "74.99",
+  "priceWithCard": "71.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "сливки нормализованные пастеризованные, закваска",
   "information": [
     {

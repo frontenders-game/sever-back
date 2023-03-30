@@ -2,11 +2,14 @@
   "name": "Семечки Бабкины Семечки, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 136.49,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "142.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "Семечки подсолнечника жареные, соль.",
   "information": [
     {

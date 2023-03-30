@@ -2,11 +2,14 @@
   "name": "Напиток Добрый Яблоко-лимон сокосодержащий 0.95л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 115.99,
-  "priceWithCard": 107.87,
-  "promo": null,
+  "priceRegular": "115.99",
+  "priceWithCard": "113.67",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "яблочный сок, лимонный сок, сахар, мякоть апельсина, загуститель-пектины, натуральные ароматизаторы, натуральный ароматизатор «Садовая мята», антиокислитель - аскорбиновая кислота, очищенная артезианская вода. Изготовлен из концентрированных соков",
   "information": [
     {

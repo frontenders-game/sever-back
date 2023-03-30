@@ -2,11 +2,14 @@
   "name": "Салфетки влажные Top Energy для пластика, 30 шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 68.59,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "нетканый материал, пропитывающий лосьон (деминерализованная вода, менее 5%: водная эмульсия полидиметилсилоксана, оптимизированная смесь НПАВ и КПАВ, ЭДТА, консервант, отдушка).",
   "information": [
     {

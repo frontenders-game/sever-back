@@ -2,11 +2,14 @@
   "name": "Напиток Street газированный 1.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 119.99,
-  "priceWithCard": 112.79,
-  "promo": null,
+  "priceRegular": "119.99",
+  "priceWithCard": "110.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "вода подготовленная, сахар, регулятор кислотности - лимонная кислота, сок лимона и лайма, растительные экстракты, натуральные ароматизаторы",
   "information": [
     {

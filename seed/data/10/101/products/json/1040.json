@@ -2,11 +2,14 @@
   "name": "Биойогурт Верховье отруби-злаки 2.9% 150г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 44.99,
-  "priceWithCard": 43.64,
-  "promo": null,
+  "priceRegular": "44.99",
+  "priceWithCard": "42.74",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "молоко нормализованное, наполнитель (сахар, вода, крупа пшеничная, яблочный сок восстановленный, отруби ржаные, крахмал кукурузный, натуральный ароматизатор печенье, отруби овсяные, концентрированный лимонный сок), молоко сухое обезжиренное, сахар, закваска молочнокислых микроорганизмов, закваска пробиотическая howaru dophilus",
   "information": [
     {

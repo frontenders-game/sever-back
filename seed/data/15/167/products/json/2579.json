@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Dirol White Уголь-мята без сахара 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 37.99,
-  "priceWithCard": 35.33,
-  "promo": null,
+  "priceRegular": "37.99",
+  "priceWithCard": "34.95",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 43,
+  "stockCount": 39,
   "ingredients": "подсластители (сорбит, изомальт, мальтит, мальтитный сироп, сукралоза), резиновая основа, ароматизаторы, загуститель (гуммиарабик), эмульгаторы (Е470а, лецитин), агент влагоудерживающий (глицерин), краситель (уголь растительный (0,26%)), глазирователь (воск карнаубский)",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Шоколад молочный Алёнка 15г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 24.99,
-  "priceWithCard": 23.49,
-  "promo": {
-    "discountedPriceRegular": 17.99,
-    "discountedPriceWithCard": 16.91,
-    "discountPercent": 28,
-    "isActive": true
-  },
+  "priceRegular": "24.99",
+  "priceWithCard": "23.49",
+  "discountPercent": 28,
+  "discountedPrice": "16.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 65,
+  "stockCount": 61,
   "ingredients": "сахар, сухое цельное молоко, масло какао, какао тертое, эмульгатор лецитин соевый , ароматизатор \"Ваниль\". Противопоказано при индивидуальной непереносимости белка молока. Возможно наличие незначительных количеств миндаля, фундука. Массовые доли общего сухого остатка какао не менее 29,8%, сухого обезжиренного какао не менее 5,7%, сухого обезжиренного остатка молока не менее 16,3%, молочного жира не менее 5,5%",
   "information": [
     {

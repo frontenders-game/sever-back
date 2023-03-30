@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из цыплёнка с кроликом с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 93.72,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 73.1,
-    "discountPercent": 22,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 21,
+  "priceRegular": "102.99",
+  "priceWithCard": "99.90",
+  "discountPercent": 22,
+  "discountedPrice": "77.92",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 17,
   "ingredients": "мясо цыплят, мясо кролика, крупа рисовая, масло подсолнечное, вода",
   "information": [
     {

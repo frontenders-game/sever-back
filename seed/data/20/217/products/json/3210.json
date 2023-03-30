@@ -2,11 +2,14 @@
   "name": "Пюре ФрутоНяня Фруктовый салатик яблоко-груша-персик с 5 месяцев 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 48.19,
-  "priceWithCard": 46.26,
-  "promo": null,
+  "priceRegular": "48.19",
+  "priceWithCard": "46.26",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "пюре из яблок, пюре из груш, пюре из персиков. Без добавления сахара. Содержит сахара природного происхождения. Продукт изготовлен из концентрированных пюре",
   "information": [
     {

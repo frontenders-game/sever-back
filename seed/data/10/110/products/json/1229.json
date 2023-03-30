@@ -2,16 +2,14 @@
   "name": "Соус Слобода сырный 60%, 220мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 109.99,
-  "priceWithCard": 107.79,
-  "promo": {
-    "discountedPriceRegular": 83.59,
-    "discountedPriceWithCard": 81.92,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "109.99",
+  "priceWithCard": "105.59",
+  "discountPercent": 24,
+  "discountedPrice": "80.25",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 37,
+  "stockCount": 33,
   "ingredients": "Подсолнечное масло, вода, сахар, яичный желток, соль поваренная, сырный порошок, уксус.",
   "information": [
     {

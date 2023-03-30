@@ -2,11 +2,14 @@
   "name": "Салфетки бумажные Tolli Classic универсальные, 100шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 69.99,
-  "priceWithCard": 67.89,
-  "promo": null,
+  "priceRegular": "69.99",
+  "priceWithCard": "66.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "100% целлюлоза.",
   "information": [
     {

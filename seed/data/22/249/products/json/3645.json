@@ -2,16 +2,14 @@
   "name": "Сменный баллон для Air Wick Freshmatic Нежность шёлка-лилия, 250мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 406.99,
-  "priceWithCard": 370.36,
-  "promo": {
-    "discountedPriceRegular": 309.31,
-    "discountedPriceWithCard": 281.47,
-    "discountPercent": 24,
-    "isActive": true
-  },
+  "priceRegular": "406.99",
+  "priceWithCard": "370.36",
+  "discountPercent": 24,
+  "discountedPrice": "281.47",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Пропан, цитраль, лимонен, линалоол, бутан, этиловый спирт денатурированный, ароматизатор.",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Чай Kingstone зеленый листовой 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 72.44,
-  "priceWithCard": 66.64,
-  "promo": {
-    "discountedPriceRegular": 63.02,
-    "discountedPriceWithCard": 57.98,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 16,
+  "priceRegular": "72.44",
+  "priceWithCard": "68.82",
+  "discountPercent": 13,
+  "discountedPrice": "59.87",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 12,
   "ingredients": "чай зеленый байховый листовой",
   "information": [
     {

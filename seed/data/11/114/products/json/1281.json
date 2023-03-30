@@ -2,11 +2,14 @@
   "name": "Хлеб Хлебный Дом Столичный половинка 350г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.99,
-  "priceWithCard": 37.04,
-  "promo": null,
+  "priceRegular": "38.99",
+  "priceWithCard": "37.04",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Вода питьевая, мука ржаная хлебопекарная обдирная, мука пшеничная хлебопекарная первого сорта, сахар, соль, дрожжи хлебопекарные.",
   "information": [
     {

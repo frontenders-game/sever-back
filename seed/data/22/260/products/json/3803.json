@@ -2,16 +2,14 @@
   "name": "Зубная щётка Colgate 360 Optic White средней жёсткости",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 328.99,
-  "priceWithCard": 319.12,
-  "promo": {
-    "discountedPriceRegular": 190.81,
-    "discountedPriceWithCard": 185.09,
-    "discountPercent": 42,
-    "isActive": true
-  },
+  "priceRegular": "328.99",
+  "priceWithCard": "309.25",
+  "discountPercent": 42,
+  "discountedPrice": "179.36",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "100% пластик.",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Конверт для денег Арт и Дизайн ФК",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 77.59,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "72.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 94,
+  "stockCount": 90,
   "ingredients": "Бумага.",
   "information": [
     {

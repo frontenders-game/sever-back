@@ -2,11 +2,14 @@
   "name": "Жевательная резинка Orbit белоснежный нежная мята 13.6г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 38.19,
-  "priceWithCard": 35.52,
-  "promo": null,
+  "priceRegular": "38.19",
+  "priceWithCard": "35.52",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 35,
+  "stockCount": 31,
   "ingredients": "Резиновая основа, подсластители: мальтит е965, сорбитовый сироп е420ii,сорбит е420i; загуститель е414, ароматизаторы, регулятор кислотности е431, эмульгатор соевый лецитин, подсластители: маннит е421, аспартам е951, ацесульфам е950; глазирователь е903, красители: е171,е133; антиокислитель е320.",
   "information": [
     {

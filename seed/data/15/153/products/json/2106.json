@@ -2,11 +2,14 @@
   "name": "Шоколад Cuisine Royale молочный 175г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 137.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "142.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Сок Фруктовый сад Яблочный 0.85л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 125.99,
-  "priceWithCard": 117.17,
-  "promo": null,
+  "priceRegular": "125.99",
+  "priceWithCard": "117.17",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "сок яблочный осветлен-ный. пастеризованный. восстановленный",
   "information": [
     {

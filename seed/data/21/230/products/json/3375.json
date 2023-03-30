@@ -2,11 +2,14 @@
   "name": "Фарш домашний Рестория 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 179.99,
-  "priceWithCard": 172.79,
-  "promo": null,
+  "priceRegular": "179.99",
+  "priceWithCard": "174.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "свинина, говядина, вода, животный белок, регуляторы кислотности",
   "information": [
     {

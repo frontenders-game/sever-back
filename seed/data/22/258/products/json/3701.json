@@ -2,11 +2,14 @@
   "name": "Крем-краска Palette N6 Средне-русый стойкая 110мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 197.99,
-  "priceWithCard": 190.07,
-  "promo": null,
+  "priceRegular": "197.99",
+  "priceWithCard": "192.05",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "Окрашивающий крем: Aqua, Cetearyl Alcohol, Ammonium Hydroxide, Glyceryl Stearate, Ceteareth-20, Octyldodecanol, Sodium Laureth Sulfate, Toluene-2,5-Diamine Sulfate, Sodium Cetearyl Sulfate, Parfum, Oleic Acid, Ethanolamine, Silica, Resorcinol, Potassium Stearate, Glycerin, Tetrasodium EDTA, Sodium Sulfite, Carbomer, 2,7-Naphthalenediol, Potassium Hydroxide, 2-Methylresorcinol, Serine, Ascorbic Acid, m-Aminophenol, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Propylene Glycol, Sodium Sulfate\nПроявляющая эмульсия: Aqua, Hydrogen Peroxide, Cetearyl Alcohol, Propylene Glycol, Ceteareth-20, Steartrimonium Chloride, Paraffinum Liquidum, Etidronic Acid, 2,6-Dicarboxypyridine, Disodium Pyrophosphate, Potassium Hydroxide, Isopropyl Alcohol, Sodium Benzoate\nМаска-уход: Aqua, Cetearyl Alcohol, Quaternium-87, Hydrolyzed Keratin, Panthenol, Prunus Armeniaca Kernel Oil, Niacinamide, Stearamidopropyl Dimethylamine, Ceteareth-20, Propylene Glycol, Isopropyl Myristate, Distearoylethyl Hydroxyethylmonium Methosulfate, Citric Acid, Phenoxyethanol, Parfum, Glyceryl Stearate, Sodium Methyl\nparaben, Hexyl Cinnamal, Butylphenyl Methylpropional, Benzyl Salicylate, Linalool, Benzyl Alcohol, Limonene.",
   "information": [
     {

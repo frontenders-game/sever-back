@@ -2,11 +2,14 @@
   "name": "Модуль сменный Аквафор D5 фильтрующий",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 377.99,
-  "priceWithCard": 359.09,
-  "promo": null,
+  "priceRegular": "377.99",
+  "priceWithCard": "359.09",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 7,
+  "stockCount": 3,
   "ingredients": "Указан на упаковке.",
   "information": [
     {

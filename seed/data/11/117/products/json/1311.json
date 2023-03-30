@@ -2,11 +2,14 @@
   "name": "Крекер Зерница с солью 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 49.99,
-  "priceWithCard": 45.49,
-  "promo": null,
+  "priceRegular": "49.99",
+  "priceWithCard": "46.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 17,
+  "stockCount": 13,
   "ingredients": "мука пшеничная общего назначения М 55-23, жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде ( пальмовое и его фракции, подсолнечное), антиокислитель концентрат смеси токоферолов), сахар, соль йодированная, разрыхлители (гдирокарбонат натрия (ii), карбонат аммония (i)), регулятор кислотности кислота лимонная, вода питьевая.",
   "information": [
     {

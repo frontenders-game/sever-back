@@ -2,11 +2,14 @@
   "name": "Булочка Арнаут Босоногое детство, 200г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 61.99,
-  "priceWithCard": 60.75,
-  "promo": null,
+  "priceRegular": "61.99",
+  "priceWithCard": "58.27",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "Мука пшеничная хлебопекарная высшего сорта, сахар, вода, меланж жидкий, маргарин, дрожжи, улучшитель хлебопекарный, молоко сухое обезжиренное, соль, ароматизатор.",
   "information": [
     {

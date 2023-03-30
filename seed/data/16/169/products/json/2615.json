@@ -2,16 +2,14 @@
   "name": "Кофе растворимый Jacobs Caramel натуральный сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 519.99,
-  "priceWithCard": 509.59,
-  "promo": {
-    "discountedPriceRegular": 322.39,
-    "discountedPriceWithCard": 315.95,
-    "discountPercent": 38,
-    "isActive": true
-  },
+  "priceRegular": "519.99",
+  "priceWithCard": "488.79",
+  "discountPercent": 38,
+  "discountedPrice": "303.05",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Кофе натуральный растворимый сублимированный.",
   "information": [
     {

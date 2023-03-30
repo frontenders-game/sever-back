@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из цыплёнка с говядиной с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 87.9,
-  "priceWithCard": 82.63,
-  "promo": {
-    "discountedPriceRegular": 70.32,
-    "discountedPriceWithCard": 66.1,
-    "discountPercent": 20,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 15,
+  "priceRegular": "87.90",
+  "priceWithCard": "86.14",
+  "discountPercent": 20,
+  "discountedPrice": "68.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 11,
   "ingredients": "мясо цыплят, говядина, крупа рисовая, масло подсолнечное, вода",
   "information": [
     {

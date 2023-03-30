@@ -2,11 +2,14 @@
   "name": "Лакомство для собак Зубочистики Мятные 60г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 195.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "195.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "пшеничный протеин, пептиды протеина, клетчатка, глицерин, казеинат натрия, моностеарин, хлорофилл, пивные дрожжи, стеарат магния, эфирные масла, натуральные вкусовые добавки (мята)",
   "information": [
     {

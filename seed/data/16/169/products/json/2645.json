@@ -2,16 +2,14 @@
   "name": "Кофе Carte Noire натуральный растворимый сублимированный 95г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 799.99,
-  "priceWithCard": 727.99,
-  "promo": {
-    "discountedPriceRegular": 400.0,
-    "discountedPriceWithCard": 364.0,
-    "discountPercent": 50,
-    "isActive": true
-  },
+  "priceRegular": "799.99",
+  "priceWithCard": "783.99",
+  "discountPercent": 50,
+  "discountedPrice": "392.00",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": true,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Кофе натуральный растворимый сублимированный.",
   "information": [
     {

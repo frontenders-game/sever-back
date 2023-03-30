@@ -2,16 +2,14 @@
   "name": "Кофе Жокей По-восточному натуральный жареный молотый, 250г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 289.99,
-  "priceWithCard": 272.59,
-  "promo": {
-    "discountedPriceRegular": 231.99,
-    "discountedPriceWithCard": 218.07,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "289.99",
+  "priceWithCard": "281.29",
+  "discountPercent": 20,
+  "discountedPrice": "225.03",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Кофе.",
   "information": [
     {

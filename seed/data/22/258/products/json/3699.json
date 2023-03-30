@@ -2,16 +2,14 @@
   "name": "Шампунь Syoss Color с экстрактом японской камелии для окрашенных и мелированных волос 450мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 404.19,
-  "promo": {
-    "discountedPriceRegular": 253.69,
-    "discountedPriceWithCard": 238.47,
-    "discountPercent": 41,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "399.89",
+  "discountPercent": 41,
+  "discountedPrice": "235.94",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Aqua (water, eau), sodium laureth sulfate, cocamidopropyl betaine, peg-7 glyceryl cocoate, sodium chloride, amodimethicone/morpholinomethyl silsesquioxane copolymer, benzophenone-4, magnesium citrate, magnesium chloride, steardimonium hydroxypropyl hydrolyzed keratin, hydrolyzed keratin, panthenol, disodium cocoamphodiacetate, citric acid, sodium benzoate, cocamide mea, dimethicone, parfum (fragrance), peg-40 hydrogenated castor oil, glyccol distearate, hydrogenated castor oil, guar hydroxypropyltrimonium chloride, laureth-4, peg-120 methyl glucose dioleate, linalool, hexyl cinnamal, propylene glycol, laureth-23, limonene, trideceth-5, sodium sulfate.",
   "information": [
     {

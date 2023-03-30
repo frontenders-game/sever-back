@@ -1,6 +1,5 @@
 import { FastifyReply, FastifyRequest } from "fastify";
 import {
-    UploadProductImage,
     UuidImageParamsRequest,
     UuidProductIdParamsRequest } from "./image.schema";
 import {
@@ -10,6 +9,7 @@ import {
     getProductImageMaxOrderValue
 } from "./image.service";
 import ImageResizer from "../../../utils/image-utils";
+import { IImage } from "../../shared/schemas";
 
 
 export async function getProductImageHandler(
@@ -45,7 +45,7 @@ export async function deleteProductImageHandler(
 }
 
 export async function uploadProductImageHandler(
-    request: FastifyRequest<{ Params: UuidProductIdParamsRequest, Body: UploadProductImage }>,
+    request: FastifyRequest<{ Params: UuidProductIdParamsRequest, Body: IImage }>,
     reply: FastifyReply
 ) {
     if (!request.isMultipart()) {

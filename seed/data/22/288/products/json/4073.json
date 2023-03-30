@@ -2,11 +2,14 @@
   "name": "Щетка Spean&Clean Techno для снега + съемный скребок для льда 1шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 249.99,
-  "priceWithCard": 242.49,
-  "promo": null,
+  "priceRegular": "249.99",
+  "priceWithCard": "242.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "полипропилен, пэт, этиленвинилацетат ева",
   "information": [
     {

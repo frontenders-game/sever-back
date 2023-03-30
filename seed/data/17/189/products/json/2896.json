@@ -2,16 +2,14 @@
   "name": "Завтрак готовый Хрутка медовый 210г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 124.79,
-  "promo": {
-    "discountedPriceRegular": 90.99,
-    "discountedPriceWithCard": 87.35,
-    "discountPercent": 30,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 10,
+  "priceRegular": "129.99",
+  "priceWithCard": "118.29",
+  "discountPercent": 30,
+  "discountedPrice": "82.80",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 6,
   "ingredients": "кукуруза, сахар, патока, карбонат кальция, мед натуральный, ячменно-солодовый экстракт (содержит глютен), соль, масло подсолнечное, антиокислитель (токоферолы, концентрат смеси), краситель (каротины). Продукт может содержать молоко",
   "information": [
     {

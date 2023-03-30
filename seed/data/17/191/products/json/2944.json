@@ -2,11 +2,14 @@
   "name": "Макароны Trattoria di Maestro Turatti Farfalle Бантики 450г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 76.79,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "73.59",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 19,
+  "stockCount": 15,
   "ingredients": "Мука из твердых тсортов пшеницы, вода питьевая.",
   "information": [
     {

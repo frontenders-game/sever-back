@@ -2,11 +2,14 @@
   "name": "Варенье Варенька вишневое 380г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 143.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "139.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "сахар, вишня без косточки",
   "information": [
     {

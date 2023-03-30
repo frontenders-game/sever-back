@@ -2,11 +2,14 @@
   "name": "Чай Азерчай черный байховый с бергамотом в пакетиках 50г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 76.99,
-  "priceWithCard": 73.14,
-  "promo": null,
+  "priceRegular": "76.99",
+  "priceWithCard": "70.83",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "чай черный байховый, высшего сорта, ароматизатор бергамот",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Варенье Варенька клубничное 380г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 169.99,
-  "priceWithCard": 156.39,
-  "promo": {
-    "discountedPriceRegular": 130.89,
-    "discountedPriceWithCard": 120.42,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "169.99",
+  "priceWithCard": "161.49",
+  "discountPercent": 23,
+  "discountedPrice": "124.35",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": null,
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Лакомство Зубочистики для здоровой шерсти и кожи для собак до 25кг 35г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 128.99,
-  "priceWithCard": 119.96,
-  "promo": null,
+  "priceRegular": "128.99",
+  "priceWithCard": "122.54",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "картофельный крахмал, пищевой глицерин, овсяная мука, авокадо, рыбий жир, масло ши, казеинат натрия, пивные дрожжи, натуральные вкусовые добавки, витаминный комплекс, кальций",
   "information": [
     {

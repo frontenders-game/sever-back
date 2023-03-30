@@ -2,16 +2,14 @@
   "name": "Пюре Тёма из говядины с 6 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 102.99,
-  "priceWithCard": 98.87,
-  "promo": {
-    "discountedPriceRegular": 80.33,
-    "discountedPriceWithCard": 77.12,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "102.99",
+  "priceWithCard": "96.81",
+  "discountPercent": 22,
+  "discountedPrice": "75.51",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 10,
+  "stockCount": 6,
   "ingredients": "говядина, крупа рисовая, масло подсолнечное, вода.",
   "information": [
     {

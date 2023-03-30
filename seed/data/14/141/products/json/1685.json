@@ -2,11 +2,14 @@
   "name": "Напиток Aqua Minerale Active Цитрус 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.99,
-  "priceWithCard": 54.59,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "56.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 18,
+  "stockCount": 14,
   "ingredients": "вода, сахар, регуляторы кислотности (Е330, E331(iii)), ароматизатор, минеральные соли (хлорид калия, сульфат магния), консерванты (Е202, Е211), витамины (ниацин, пантотеновая кислота, В6)",
   "information": [
     {

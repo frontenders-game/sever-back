@@ -2,11 +2,14 @@
   "name": "Творог фруктовый Агуша Груша 3.9% с 6 мес. 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 36.99,
-  "priceWithCard": 35.51,
-  "promo": null,
+  "priceRegular": "36.99",
+  "priceWithCard": "34.03",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "творог (молоко нормализованное, закваска), фруктовый наполнитель «Груша» (сахар, вода, концентрированное грушевое пюре, загуститель - пектины, ароматизатор натуральный «Груша», концентрированный лимонный сок (для корректировки кислотности))",
   "information": [
     {

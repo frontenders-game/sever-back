@@ -2,11 +2,14 @@
   "name": "Грибы Вешенки 300 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 129.99,
-  "priceWithCard": 118.29,
-  "promo": null,
+  "priceRegular": "129.99",
+  "priceWithCard": "120.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Грибы вешенки.",
   "information": [
     {

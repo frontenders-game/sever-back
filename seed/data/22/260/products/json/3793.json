@@ -2,16 +2,14 @@
   "name": "Зубная щётка Splat Professional Whitening Hard жёсткая",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 257.99,
-  "priceWithCard": 239.93,
-  "promo": {
-    "discountedPriceRegular": 162.53,
-    "discountedPriceWithCard": 151.16,
-    "discountPercent": 37,
-    "isActive": true
-  },
+  "priceRegular": "257.99",
+  "priceWithCard": "234.77",
+  "discountPercent": 37,
+  "discountedPrice": "147.91",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "PP, PBT, TPE.",
   "information": [
     {

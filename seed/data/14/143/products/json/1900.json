@@ -2,16 +2,14 @@
   "name": "Напиток Ухтышки Вишня-Бабл гам газированный 0.75л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 130.19,
-  "promo": {
-    "discountedPriceRegular": 109.19,
-    "discountedPriceWithCard": 101.55,
-    "discountPercent": 22,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "131.59",
+  "discountPercent": 22,
+  "discountedPrice": "102.64",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 6,
+  "stockCount": 2,
   "ingredients": "вода подготовленная, насыщенная двуокисью углерода; сахар; концентрированный вишневый сок; ароматизаторы пищевые натуральные: «Тип Вишня», «Вишня», «Бабл Гам»; регулятор кислотности − лимонная кислота; консервант − бензоат натрия",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Напиток соевый Nemoloko с бананом 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 115.99,
-  "priceWithCard": 106.71,
-  "promo": {
-    "discountedPriceRegular": 93.95,
-    "discountedPriceWithCard": 86.44,
-    "discountPercent": 19,
-    "isActive": true
-  },
+  "priceRegular": "115.99",
+  "priceWithCard": "112.51",
+  "discountPercent": 19,
+  "discountedPrice": "91.13",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "вода питьевая, соевая мука, соевый белок (изолят), сахар, рапсовое масло, сок банановый концентрированный, витаминно-минеральный премикс (витамин D2, витамин В2 (рибофлавин), кальций (трикальций фосфат), кальция карбонат), соль, концентрат сафлора, натуральный ароматизатор",
   "information": [
     {

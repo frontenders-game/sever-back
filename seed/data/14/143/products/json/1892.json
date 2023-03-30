@@ -2,11 +2,14 @@
   "name": "Напиток Evervess Индиан Тоник газированный 1л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 85.49,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "85.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 16,
+  "stockCount": 12,
   "ingredients": "вода, сахар, регулятор кислотности (Е330), консервант (E211), хинин, ароматизатор",
   "information": [
     {

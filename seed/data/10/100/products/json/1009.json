@@ -2,11 +2,14 @@
   "name": "Молоко Сарафаново детское ультрапастеризованное 2.5% 970мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 93.99,
-  "promo": null,
+  "priceRegular": "99.99",
+  "priceWithCard": "93.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "нормализованное молоко.",
   "information": [
     {

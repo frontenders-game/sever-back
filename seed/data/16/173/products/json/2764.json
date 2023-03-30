@@ -2,11 +2,14 @@
   "name": "Чай Азерчай Букет черный байховый крупнолистовой 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 157.99,
-  "priceWithCard": 146.93,
-  "promo": null,
+  "priceRegular": "157.99",
+  "priceWithCard": "148.51",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "чай черный байховый крупнолистовой высшего сорта",
   "information": [
     {

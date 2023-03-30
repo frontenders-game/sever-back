@@ -2,16 +2,14 @@
   "name": "Рулетики Яшкино вафельные со вкусом сгущённого молока 160г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 84.99,
-  "priceWithCard": 79.04,
-  "promo": {
-    "discountedPriceRegular": 60.34,
-    "discountedPriceWithCard": 56.12,
-    "discountPercent": 29,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 12,
+  "priceRegular": "84.99",
+  "priceWithCard": "79.04",
+  "discountPercent": 29,
+  "discountedPrice": "56.12",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 8,
   "ingredients": "мука пшеничная хлебопекарная общего назначения, вода питьевая, сахар белый, жир кондитерский (рафинированные дезодорированные растительные масла в натуральном и модифицированном виде, в том числе соевое, эмульгатор – соевый лецитин, антиокислитель концентрат смеси токоферолов), крахмал кукурузный, масло кокосовое дезодорированное рафинированное, эмульгатор – лецитин соевый, соль поваренная пищевая, ароматизатор – «Сгущенное молоко», краситель натуральный – E160b",
   "information": [
     {

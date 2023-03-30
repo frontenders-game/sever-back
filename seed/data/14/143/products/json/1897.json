@@ -2,16 +2,14 @@
   "name": "Лимонад Старые добрые традиции оригинальный 500мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 59.49,
-  "priceWithCard": 56.52,
-  "promo": {
-    "discountedPriceRegular": 42.24,
-    "discountedPriceWithCard": 40.13,
-    "discountPercent": 29,
-    "isActive": true
-  },
+  "priceRegular": "59.49",
+  "priceWithCard": "55.92",
+  "discountPercent": 29,
+  "discountedPrice": "39.70",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 21,
+  "stockCount": 17,
   "ingredients": "подготовленная питьевая вода, сахар, ароматизаторы, краситель сахарный колер I, регулятор кислотности лимонная кислота",
   "information": [
     {

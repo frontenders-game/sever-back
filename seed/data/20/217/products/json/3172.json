@@ -2,16 +2,14 @@
   "name": "Пюре ФрутоНяня Витаминный Салатик с 5 месяцев 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 61.43,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 47.3,
-    "discountPercent": 23,
-    "isActive": true
-  },
+  "priceRegular": "63.99",
+  "priceWithCard": "61.43",
+  "discountPercent": 23,
+  "discountedPrice": "47.30",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 29,
+  "stockCount": 25,
   "ingredients": "Пюре из яблок, пюре из шиповника, пюре из клюквы, сахар, аскорбиновая кислота - витамин С. Продукт изготовлен из концентрированного яблочного пюре.",
   "information": [
     {

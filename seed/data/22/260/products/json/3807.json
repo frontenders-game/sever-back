@@ -2,11 +2,14 @@
   "name": "Зубная паста Новый Жемчуг Кальций 125г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 89.99,
-  "priceWithCard": 87.29,
-  "promo": null,
+  "priceRegular": "89.99",
+  "priceWithCard": "88.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "Calcium carbonate, aqua, sorbitol, glycerin, hydrated silica, xanthan gum, sodium lauryl sulfate, calcium lactate, sodium saccharin, aroma, sodium methylparaben, sodium propylparaben.",
   "information": [
     {

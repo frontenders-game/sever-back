@@ -2,11 +2,14 @@
   "name": "Колготки SiSi Vanity 40 den nero размер 2",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 199.99,
-  "priceWithCard": 195.99,
-  "promo": null,
+  "priceRegular": "199.99",
+  "priceWithCard": "185.99",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 9,
+  "stockCount": 5,
   "ingredients": "88% полиамид, 12% эластан",
   "information": [
     {

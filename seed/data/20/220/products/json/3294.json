@@ -2,11 +2,14 @@
   "name": "Биолакт Тёма без сахара с 8 месяцев 3.4%, 206г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 46.19,
-  "priceWithCard": 42.49,
-  "promo": null,
+  "priceRegular": "46.19",
+  "priceWithCard": "44.80",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "нормализованное молоко, закваска из термофильных молочнокислых стрептококов (Stptococcus thermophilus) и молочнокислых ацидофильных палочек (Lactobacillus acidophillus).",
   "information": [
     {

@@ -2,16 +2,14 @@
   "name": "Маршмеллоу Mixbar клубника, 100г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": {
-    "discountedPriceRegular": 59.99,
-    "discountedPriceWithCard": 56.39,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "79.99",
+  "priceWithCard": "74.39",
+  "discountPercent": 25,
+  "discountedPrice": "55.79",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 20,
+  "stockCount": 16,
   "ingredients": "Сахар, патока крахмальная, глюкоза, желатин пищевой, влагоудерживающий агент - сорбитовый сироп, ароматизатор Клубника со сливками,краситель кармин, возможно содержание незначительного количества яичного белка.",
   "information": [
     {

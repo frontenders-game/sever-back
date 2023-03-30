@@ -2,16 +2,14 @@
   "name": "Прокладки Always Platinum ultra night ультратонкие размер 4, 12шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 310.49,
-  "priceWithCard": 291.86,
-  "promo": {
-    "discountedPriceRegular": 270.13,
-    "discountedPriceWithCard": 253.92,
-    "discountPercent": 13,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 6,
+  "priceRegular": "310.49",
+  "priceWithCard": "288.76",
+  "discountPercent": 13,
+  "discountedPrice": "251.22",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 2,
   "ingredients": "Целлюлоза распушенная, абсорбент айрлейд, спанбонд.",
   "information": [
     {

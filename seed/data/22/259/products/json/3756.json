@@ -2,11 +2,14 @@
   "name": "Прокладки Ola! Silk Sense Daily Large Deo Ромашка ежедневные 20шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 152.99,
-  "priceWithCard": 146.87,
-  "promo": null,
+  "priceRegular": "152.99",
+  "priceWithCard": "142.28",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "Мягкий, как хлопок, нетканый материал, природная распушенная целлюлоза, полиэтилен, клей, бумага, отдушка.",
   "information": [
     {

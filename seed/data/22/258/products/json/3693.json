@@ -2,11 +2,14 @@
   "name": "Шампунь Bodyart для всех типов волос 400мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 74.39,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "75.19",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "water (aqua), sodium laureth sulfate, sodium chloride, cocamidopropyl betaine, cocamide dea, peg-7 glyceryl cocoate, aloe barbadensis leaf extract (экстракт алоэ вера), urtica dioica (nettle) leaf extract (экстракт крапивы), chamomilla recutita (matricaria) flower extract (экстракт ромашки), calendula officinalis flower extract (экстракт календулы), arctium lappa root extract (экстракт репейника), hippophae rhamnoides (sea buckthorn) oil (облепиховое масло), parfum (fragrance), propylene glycol, сitric acid, disodium edta, magnesium chloride, magnesium nitrate, methylchloroisothiazolinone, methylisothiazolinone, hexyl cinnamal, butylphenyl methylpropional, linalool, ci 42090, ci 19140",
   "information": [
     {

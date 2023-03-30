@@ -2,11 +2,14 @@
   "name": "Батончик Кремлина финик шоколадный с арахисом глазированный 30г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.89,
-  "promo": null,
+  "priceRegular": "29.99",
+  "priceWithCard": "27.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 12,
+  "stockCount": 8,
   "ingredients": "финик сушеный, глазурь кондитерская (сахар-песок, заменитель масла какао, какао-порошок, эмульгатор лецитин соевый, ароматизатор \"Ванилин\"), арахис жареный дробленый,  сахар, патока крахмальная",
   "information": [
     {

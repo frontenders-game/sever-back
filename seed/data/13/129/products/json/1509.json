@@ -2,16 +2,14 @@
   "name": "Пломбир Коровка Из Кореновки с шоколадной стружкой, 400г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 319.99,
-  "priceWithCard": 310.39,
-  "promo": {
-    "discountedPriceRegular": 252.79,
-    "discountedPriceWithCard": 245.21,
-    "discountPercent": 21,
-    "isActive": true
-  },
+  "priceRegular": "319.99",
+  "priceWithCard": "307.19",
+  "discountPercent": 21,
+  "discountedPrice": "242.68",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "Сливки, молоко цельное сгущенное с сахаром (молоко нормализованное, сахар), сахар, шоколадная глазурь (сахар, какао тертое, какао-масло, обезжиренный молочный жир, эмульгатор лецитин, ароматизатор ванилин, эмульгатор Е476), стабилизатор “Кремодан” (стабилизатор: моно- и диглицериды жирных кислот, камедь рожкового дерева, гуаровая камедь, каррагинан).",
   "information": [
     {

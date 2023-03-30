@@ -2,16 +2,14 @@
   "name": "Влажный корм Perfect Fit Паштет с индейкой для стерилизованных котов  и кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 29.99,
-  "priceWithCard": 27.29,
-  "promo": {
-    "discountedPriceRegular": 25.19,
-    "discountedPriceWithCard": 22.92,
-    "discountPercent": 16,
-    "isActive": true
-  },
+  "priceRegular": "29.99",
+  "priceWithCard": "27.89",
+  "discountPercent": 16,
+  "discountedPrice": "23.43",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 47,
+  "stockCount": 43,
   "ingredients": "мясо и субпродукты (в том числе индейка), загустители,аминокислоты (в том числе метионин и таурин), минеральные вещества, рисовая мука, витамины, ксилоза, подсолнечное масло, L-карнитин",
   "information": [
     {

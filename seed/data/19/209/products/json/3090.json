@@ -2,11 +2,14 @@
   "name": "Корм влажный Lamour с говядиной в соусе для взрослых кошек 75г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 12.99,
-  "priceWithCard": 11.95,
-  "promo": null,
+  "priceRegular": "12.99",
+  "priceWithCard": "11.82",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 33,
+  "stockCount": 29,
   "ingredients": "субпродукты и продукты животного происхождения (в том числе говядина – минимум 4%), растительные компоненты, минеральные добавки, загустители, витамины",
   "information": [
     {

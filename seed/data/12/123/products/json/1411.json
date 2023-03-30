@@ -2,11 +2,14 @@
   "name": "Груша сезонная",
   "unitsOfMeasurement": "кг",
   "step": "0.6",
-  "priceRegular": 154.99,
-  "priceWithCard": 142.59,
-  "promo": null,
+  "priceRegular": "154.99",
+  "priceWithCard": "151.89",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 15,
+  "stockCount": 11,
   "ingredients": "Груша.",
   "information": [
     {

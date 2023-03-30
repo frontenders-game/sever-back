@@ -2,16 +2,14 @@
   "name": "Пюре фруктовое ФрутоНяня Яблоко земляника ежевика с овсяным печеньем с 6 мес. 90г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 63.99,
-  "priceWithCard": 58.23,
-  "promo": {
-    "discountedPriceRegular": 49.27,
-    "discountedPriceWithCard": 44.84,
-    "discountPercent": 23,
-    "isActive": true
-  },
-  "isNew": true,
-  "stockCount": 21,
+  "priceRegular": "63.99",
+  "priceWithCard": "58.87",
+  "discountPercent": 23,
+  "discountedPrice": "45.33",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": false,
+  "stockCount": 17,
   "ingredients": "пюре из яблок, пюре из земляники, овсяное печенье (мука пшеничная, сахар, мука овсяная, масло сливочное, молоко сухое цельное, яйцо куриное, крахмал кукурузные, разрыхлитель — гидрокарбонат натрия), сок яблочный концентрированный, пюре из ежевики, вода питьевая, натуральный ароматизатор",
   "information": [
     {

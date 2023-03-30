@@ -2,11 +2,14 @@
   "name": "Снеки Фрутоняня Фрутопаффсы мультизлаковые звездочки с яблоком с 12 мес. 21г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 53.99,
-  "priceWithCard": 50.75,
-  "promo": null,
+  "priceRegular": "53.99",
+  "priceWithCard": "51.29",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "мука овсяная, мука пшеничная, сок яблочный концентрированный, мука рисовая, мука кукурузная, мука гречневая, сок морковный концентрированный, ароматизатор натуральный",
   "information": [
     {

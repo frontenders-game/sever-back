@@ -2,16 +2,14 @@
   "name": "Зубочистки Liberhaus бамбуковые, 400шт",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 47.99,
-  "priceWithCard": 46.55,
-  "promo": {
-    "discountedPriceRegular": 38.39,
-    "discountedPriceWithCard": 37.24,
-    "discountPercent": 20,
-    "isActive": true
-  },
+  "priceRegular": "47.99",
+  "priceWithCard": "46.07",
+  "discountPercent": 20,
+  "discountedPrice": "36.86",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 22,
+  "stockCount": 18,
   "ingredients": "материал: бамбук",
   "information": [
     {

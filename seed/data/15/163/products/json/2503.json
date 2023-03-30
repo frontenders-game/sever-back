@@ -2,16 +2,14 @@
   "name": "Топпинг Махеевъ мягкая карамель, 300г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 139.99,
-  "priceWithCard": 134.39,
-  "promo": {
-    "discountedPriceRegular": 104.99,
-    "discountedPriceWithCard": 100.79,
-    "discountPercent": 25,
-    "isActive": true
-  },
+  "priceRegular": "139.99",
+  "priceWithCard": "131.59",
+  "discountPercent": 25,
+  "discountedPrice": "98.69",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 23,
+  "stockCount": 19,
   "ingredients": "Глюкозный сироп, молоко цельное сгущенное с сахаром (молоко цельное, молоко обезжиренное, сахар (сахароза), сахар молочный (лактоза)), сахар, вода питьевая, загуститель пектины, краситель сахарный колер I, ароматизаторы (содержат продукты переработки молока), соль пищевая, консервант сорбат калия.",
   "information": [
     {

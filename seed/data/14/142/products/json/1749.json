@@ -2,16 +2,14 @@
   "name": "Напиток Добрый Тропический микс сокосодержащий 0.95л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 99.99,
-  "priceWithCard": 91.99,
-  "promo": {
-    "discountedPriceRegular": 84.99,
-    "discountedPriceWithCard": 78.19,
-    "discountPercent": 15,
-    "isActive": true
-  },
+  "priceRegular": "99.99",
+  "priceWithCard": "91.99",
+  "discountPercent": 15,
+  "discountedPrice": "78.19",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 13,
+  "stockCount": 9,
   "ingredients": "апельсиновый сок, мандариновый сок, пюре из манго, анансовый сок, сахар, регулятор кислотности лимонная кислота, стабилизатор-камедь, целлюлозы, витамин С, натуральный ароматизатор, витаминный комплекс В2, В3, В5, В12, краситель каротины, вода",
   "information": [
     {

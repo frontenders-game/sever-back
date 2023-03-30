@@ -2,11 +2,14 @@
   "name": "Яблоки микс",
   "unitsOfMeasurement": "кг",
   "step": "1.2",
-  "priceRegular": 59.99,
-  "priceWithCard": 56.39,
-  "promo": null,
+  "priceRegular": "59.99",
+  "priceWithCard": "55.79",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 47,
+  "stockCount": 43,
   "ingredients": "Яблоки.",
   "information": [
     {

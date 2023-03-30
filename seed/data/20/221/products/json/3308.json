@@ -2,11 +2,14 @@
   "name": "Каша Агуша Укрепляй-ка Черника-малина-яблоко молочная злаковая 2.7% 200мл",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 39.99,
-  "priceWithCard": 37.99,
-  "promo": null,
+  "priceRegular": "39.99",
+  "priceWithCard": "38.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 11,
+  "stockCount": 7,
   "ingredients": "молоко нормализованное, вода, мука (рисовая, пшеничная, овсяная), сахар, сок из черной моркови концентрированный, фруктовые порошки («Черничный», «Малиновый», «Яблочный»), ароматизатор натуральный «Малина», витамины: D (D3-холекальциферол), фолиевая кислота, В12 (цианокобаламин)",
   "information": [
     {

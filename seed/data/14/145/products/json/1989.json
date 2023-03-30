@@ -2,16 +2,14 @@
   "name": "Double you Арбуз-гуава энергетический напиток 0.450л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 94.99,
-  "priceWithCard": 87.39,
-  "promo": {
-    "discountedPriceRegular": 85.49,
-    "discountedPriceWithCard": 78.65,
-    "discountPercent": 10,
-    "isActive": true
-  },
-  "isNew": false,
-  "stockCount": 46,
+  "priceRegular": "94.99",
+  "priceWithCard": "89.29",
+  "discountPercent": 10,
+  "discountedPrice": "80.36",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
+  "isNew": true,
+  "stockCount": 42,
   "ingredients": "вода, сахар, сироп глюкозно-фруктозный, регуляторы кислотности (кислота лимонная, цитрат натрия 3-х замещенный), стабилизаторы (гуммиарабик, Е445, Е466), таурин, кофеин, ароматизаторы, экстракт из семян гуараны, экстракт женьшеня, витамины: (В6, В12), красители (Е110, Е102), консервант бензоат натрия.",
   "information": [
     {

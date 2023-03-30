@@ -2,11 +2,14 @@
   "name": "Капуста брокколи Global Village замороженная, 400 г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 149.99,
-  "priceWithCard": 143.99,
-  "promo": null,
+  "priceRegular": "149.99",
+  "priceWithCard": "139.49",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 8,
+  "stockCount": 4,
   "ingredients": "Капуста брокколи.",
   "information": [
     {

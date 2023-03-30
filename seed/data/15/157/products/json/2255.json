@@ -2,16 +2,14 @@
   "name": "Набор конфет Minis Mix 324г",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 429.99,
-  "priceWithCard": 404.19,
-  "promo": {
-    "discountedPriceRegular": 300.99,
-    "discountedPriceWithCard": 282.93,
-    "discountPercent": 30,
-    "isActive": true
-  },
+  "priceRegular": "429.99",
+  "priceWithCard": "421.39",
+  "discountPercent": 30,
+  "discountedPrice": "294.97",
+  "discountIsActive": true,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 14,
+  "stockCount": 10,
   "ingredients": "шоколадные батончики Snickers Minis, Milky Way Minis, Mars Minis, конфеты Bounty, печенье Twix Minis",
   "information": [
     {

@@ -2,11 +2,14 @@
   "name": "Холодный чай Lipton лимон 0.5л",
   "unitsOfMeasurement": "шт",
   "step": "1.0",
-  "priceRegular": 79.99,
-  "priceWithCard": 75.19,
-  "promo": null,
+  "priceRegular": "79.99",
+  "priceWithCard": "78.39",
+  "discountPercent": null,
+  "discountedPrice": null,
+  "discountIsActive": false,
+  "discountExpiresAt": null,
   "isNew": false,
-  "stockCount": 26,
+  "stockCount": 22,
   "ingredients": "Вода, сахар, регуляторы кислотности (лимонная кислота, цитрат натрия 3-замещенный), экстракт черного чая, концентрированный лимонный сок, ароматизатор, антиокислитель аскорбиновая кислота, подсластитель натуральный экстракт стевии.",
   "information": [
     {
