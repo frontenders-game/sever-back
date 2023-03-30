@@ -56,6 +56,9 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
 export async function getAllCategoriesService(): Promise<Category[]> {
     // @todo filter categories that contain products
     return prisma.category.findMany({
+        where: {
+            parentCategoryId: null
+        },
         orderBy: {
             order: 'asc'
         },
