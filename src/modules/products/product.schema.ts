@@ -87,9 +87,9 @@ export type FilterProductsQuery = Static<typeof filterProductsQuery>
 
 export const processProductsSchema = Type.Object({
     products: Type.Optional(Type.Array(responseProductSchema)),
-    productsMinPrice: Type.Optional(Type.Number()),
-    productsMaxPrice: Type.Optional(Type.Number()),
     productsResultCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
+    productsResultMinPrice: Type.Optional(Type.Number()),
+    productsResultMaxPrice: Type.Optional(Type.Number()),
 })
 export type ProcessProducts  = Static<typeof processProductsSchema>
 

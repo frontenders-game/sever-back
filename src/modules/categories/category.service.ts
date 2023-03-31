@@ -63,11 +63,21 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
     )
 }
 
-export async function getCategoryProductsCount(categoryId: string){
-    return prisma.product.count({
+export async function getCategoryStats(categoryId: string){
+    return prisma.product.aggregate({
         where: {
             categoryId: categoryId
-    }
+    },
+        _count: {
+            id: true
+        },
+        _min: {
+            priceWithCard: true,
+            discountedPrice: true
+        },
+        _max: {
+            priceRegular: true
+        }
     })
 }
 

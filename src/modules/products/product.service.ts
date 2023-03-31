@@ -24,12 +24,12 @@ export async function processProducts(products: ResponseProduct[]): Promise<Proc
     const result = {
         products: products,
         productsResultCount: products.length,
-        productsMaxPrice: 0,
-        productsMinPrice: 0
+        productsResultMaxPrice: 0,
+        productsResultMinPrice: 0
     }
     if (prices.length > 0) {
-        result.productsMaxPrice = Math.max(...prices)
-        result.productsMinPrice = Math.min(...prices)
+        result.productsResultMaxPrice = Math.max(...prices)
+        result.productsResultMinPrice = Math.min(...prices)
     }
     return result
 }

@@ -80,6 +80,8 @@ export const responseCategorySchema =
             processProductsSchema,
             Type.Object({
                 productsTotalCount: Type.Optional(Type.Number()),
+                productsTotalMinPrice: Type.Optional(Type.Number()),
+                productsTotalMaxPrice: Type.Optional(Type.Number()),
             })
         ],
         {$id: "responseCategorySchema", additionalProperties: false}

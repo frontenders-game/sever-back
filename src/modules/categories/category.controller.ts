@@ -8,7 +8,8 @@ import {
 import {
     createCategoryService,
     deleteCategoryService,
-    getAllCategoriesService, getCategoryProductsCount,
+    getAllCategoriesService,
+    getCategoryStats,
     getCategoryService,
     updateCategoryService
 } from "./category.service";
@@ -23,15 +24,18 @@ async function processCategory(category: ResponseCategory, filterData: FilterCat
             const productsData = await processProducts(category.products)
             category.productsResultCount = productsData.productsResultCount
             category.products = productsData.products
-            category.productsMinPrice = productsData.productsMinPrice
-            category.productsMaxPrice = productsData.productsMaxPrice
+            category.productsResultMinPrice = productsData.productsResultMinPrice
+            category.productsResultMaxPrice = productsData.productsResultMaxPrice
         } else {
             category.productsResultCount = 0
-            category.productsMinPrice = undefined  // todo fix typing to null
-            category.productsMaxPrice = undefined // todo fix typing to null
+            category.productsResultMinPrice = undefined  // todo fix typing to null
+            category.productsResultMaxPrice = undefined // todo fix typing to null
         }
     }
-    category.productsTotalCount = await getCategoryProductsCount(category.id)
+    const stats = await getCategoryStats(category.id)
+    category.productsTotalCount = stats._count.id
+    category.productsTotalMinPrice = Math.min(Number(stats._min.priceWithCard), Number(stats._min.discountedPrice))
+    category.productsTotalMaxPrice = Math.min(Number(stats._max.priceRegular))
     return category
 }
 
