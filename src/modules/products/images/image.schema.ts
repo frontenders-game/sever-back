@@ -1,6 +1,7 @@
 import { Static, Type } from "@sinclair/typebox";
-import { idSchema, responseMessage, uploadImageSchema, uuidType } from "../../shared/schemas";
+import { idSchema, responseMessage, uuidType } from "../../shared/schemas";
 import { routeSchema } from "../../../types";
+import { uploadImageSchema } from "../../shared/image.schemas";
 
 export const createProductImageSchema = Type.Object({
         productId:  uuidType,

@@ -11,7 +11,8 @@ export default class ImageResizer {
     constructor(private readonly imageBuffer: Buffer,
                 private readonly productId: string,
                 private readonly imageOrder: number,
-                private readonly saveFolder: string = `${String(process.env.PUBLIC_DIR)}/products/images/`) {
+                private readonly saveEntity: string = `products`,
+                private readonly saveFolder: string = `${String(process.env.PUBLIC_DIR)}/`) {
     }
 
     private async resizeAndWrite(width: number,
@@ -20,8 +21,7 @@ export default class ImageResizer {
                                  fileExtension: string = 'jpg',
                                  quality: number = 95
     ): Promise<string> {
-        const relativePath = `${this.saveFolder}${this.productId}/${this.imageOrder}/${fileName}.${fileExtension}`
-        const savePath = relativePath // ./${process.env.BUILD_DIR}/${relativePath}
+        const savePath = `${this.saveFolder}${this.saveEntity}/images/${this.productId}/${this.imageOrder}/${fileName}.${fileExtension}`
 
         const image = await Jimp.read(this.imageBuffer);
         const w = image.bitmap.width
@@ -34,7 +34,7 @@ export default class ImageResizer {
         }
         if (quality > 0) await image.quality(quality)
         await image.writeAsync(savePath);
-        return `${process.env.SERVER_URL}/${relativePath}`
+        return `${process.env.SERVER_URL}/${savePath}`
     }
 
     public async saveFull(): Promise<string> {
@@ -58,7 +58,7 @@ export default class ImageResizer {
 
     }
 
-    public async saveNoResize(fileName: string): Promise<string> {
+    public async saveWithoutResizing(fileName: string): Promise<string> {
         return await this.resizeAndWrite(Jimp.AUTO, Jimp.AUTO, fileName, 'jpg')
     }
 

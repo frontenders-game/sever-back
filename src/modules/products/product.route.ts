@@ -15,7 +15,8 @@ import {
     routeUpdateProductSchema,
     UpdateProductInput
 } from "./product.schema";
-import { IImage, SlugParams, UuidParams } from "../shared/schemas";
+import { SlugParams, UuidParams } from "../shared/schemas";
+import { IImage } from "../shared/image.schemas";
 import {
     routeDeleteProductImageSchema,
     routeGetProductImageSchema,

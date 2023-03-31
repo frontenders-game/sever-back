@@ -1,23 +1,22 @@
+import { FastifyInstance } from "fastify";
 import {
     createProductInformationSchema,
     createProductSchema,
     responseProductImageSchema,
     responseProductReviewSchema,
     responseProductInformationSchema,
-    responseProductSchema
+    responseProductSchema, filterProductQuery
 } from "../../modules/products/product.schema";
+
 import {
     createCategorySchema,
-    getCategoryQuery,
     responseCategorySchema,
 } from "../../modules/categories/category.schema";
-
-import { FastifyInstance } from "fastify";
 import { registerUserSchema } from "../../modules/users/user.schema";
 
 export default function addSchemas(server: FastifyInstance) {
     [
-        getCategoryQuery,
+        filterProductQuery,
         createProductInformationSchema,
         createProductSchema,
         responseProductInformationSchema,

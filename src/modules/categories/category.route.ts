@@ -1,28 +1,30 @@
 import { FastifyPluginAsyncTypebox } from "@fastify/type-provider-typebox";
 import { FastifyInstance, FastifyReply } from "fastify";
+import { SlugParams, UuidParams } from "../shared/schemas";
+import { FilterProductQuery } from "../products/product.schema"
+import {
+    CreateCategoryInput,
+    CreateSubcategoryInput,
+    routeCreateCategorySchema,
+    routeCreateSubcategorySchema,
+    routeDeleteCategorySchema,
+    routeGetAllCategoriesSchema,
+    routeGetCategoryByIdSchema,
+    routeGetCategoryBySlugSchema,
+    routeUpdateCategorySchema,
+    UpdateCategoryInput
+} from "./category.schema";
 import {
     createCategoryHandler,
     deleteCategoryHandler,
     getAllCategoriesHandler,
     getCategoryHandler,
     updateCategoryHandler
-} from "../categories/category.controller";
-import {
-    CreateCategoryInput,
-    UpdateCategoryInput,
-    GetCategoryQuery,
-    routeCreateCategorySchema,
-    routeDeleteCategorySchema,
-    routeGetAllCategoriesSchema,
-    routeGetCategoryByIdSchema,
-    routeGetCategoryBySlugSchema,
-    routeUpdateCategorySchema
-} from "./category.schema";
-import { SlugParams, UuidParams } from "../shared/schemas";
+} from "./category.controller";
 
 
-const categoryRoute: FastifyPluginAsyncTypebox = async function(server: FastifyInstance) {
-    server.get<{ Querystring: GetCategoryQuery, Params: UuidParams, Reply: FastifyReply }>(
+const categoryRoute: FastifyPluginAsyncTypebox = async function (server: FastifyInstance) {
+    server.get<{ Querystring: FilterProductQuery, Params: UuidParams, Reply: FastifyReply }>(
         "/id/:id",
         {
             schema: routeGetCategoryByIdSchema
@@ -30,7 +32,7 @@ const categoryRoute: FastifyPluginAsyncTypebox = async function(server: FastifyI
         getCategoryHandler
     )
 
-    server.get<{ Querystring: GetCategoryQuery, Params: SlugParams, Reply: FastifyReply }>(
+    server.get<{ Querystring: FilterProductQuery, Params: SlugParams, Reply: FastifyReply }>(
         "/slug/:slug",
         {
             schema: routeGetCategoryBySlugSchema
@@ -54,7 +56,15 @@ const categoryRoute: FastifyPluginAsyncTypebox = async function(server: FastifyI
         createCategoryHandler
     )
 
-    server.patch<{  Params: UuidParams, Body: UpdateCategoryInput, Reply: FastifyReply }>(
+    server.post<{ Body: CreateSubcategoryInput, Reply: FastifyReply }>(
+        "/subcategory",
+        {
+            schema: routeCreateSubcategorySchema
+        },
+        createCategoryHandler
+    )
+
+    server.patch<{ Params: UuidParams, Body: UpdateCategoryInput, Reply: FastifyReply }>(
         "/id/:id",
         {
             schema: routeUpdateCategorySchema

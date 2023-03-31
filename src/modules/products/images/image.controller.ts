@@ -9,7 +9,7 @@ import {
     getProductImageMaxOrderValue
 } from "./image.service";
 import ImageResizer from "../../../utils/image-utils";
-import { IImage } from "../../shared/schemas";
+import { IImage } from "../../shared/image.schemas";
 
 
 export async function getProductImageHandler(
@@ -18,7 +18,7 @@ export async function getProductImageHandler(
 ) {
     const id = request.params.imageId
     const image = await getProductImageService(id)
-    image ?
+    return image ?
         reply.code(200).send({message: "Success", data: image}) :
         reply.code(404);
 }

@@ -1,16 +1,16 @@
 import prisma from "../../utils/prisma";
+import { Category } from "@prisma/client";
+import { FilterProductQuery } from "../products/product.schema";
 import {
     CreateSubcategoryInput,
-    GetCategoryQuery,
     GetCategoryWhereCondition,
     UpdateCategoryInput
 } from "./category.schema";
 import { slugifyString } from "../../utils/misc";
-import { Category } from "@prisma/client";
 
 
 export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
-                                         filterOptions: GetCategoryQuery) {
+                                         filterOptions: FilterProductQuery) {
     const {sortPrice, subcategoryId, productOffset, productLimit, minPrice, maxPrice} = filterOptions
     return prisma.category.findUnique({
             where: {

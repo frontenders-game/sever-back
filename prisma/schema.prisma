@@ -1,6 +1,6 @@
 generator client {
   provider        = "prisma-client-js"
-  previewFeatures = ["fullTextSearch", "filteredRelationCount"]
+  previewFeatures = ["fullTextSearch", "clientExtensions"]
 }
 
 datasource db {
@@ -91,12 +91,14 @@ model Review {
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
   content   String?  @db.VarChar(1024)
-  rating    Int      @default(0)
-  user      User     @relation(fields: [userId], references: [id])
-  userId    String
+  rating    Int
+  user      User?     @relation(fields: [userId], references: [id])
+  userId    String?
+  userName  String?
   product   Product  @relation(fields: [productId], references: [id])
   productId String
 
+  @@index([rating])
   @@map("reviews")
 }
 
@@ -213,7 +215,7 @@ model Category {
   id               String     @id @unique @default(uuid())
   createdAt        DateTime   @default(now())
   updatedAt        DateTime   @updatedAt
-  order            Int        @default(autoincrement())
+  order            Int?
   name             String     @unique @db.VarChar(255)
   slug             String     @unique @db.VarChar(255)
   description      String?

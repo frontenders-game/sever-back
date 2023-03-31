@@ -1,6 +1,37 @@
 import prisma from "../../utils/prisma";
-import { CreateProductInput, GetProductWhereCondition, UpdateProductInput } from "./product.schema";
+import {
+    CreateProductInput,
+    GetProductWhereCondition,
+    ProcessProducts,
+    ResponseProduct,
+    UpdateProductInput
+} from "./product.schema";
 import { slugifyString } from "../../utils/misc";
+
+
+export async function processProducts(products: ResponseProduct[]): Promise<ProcessProducts> {
+
+    const prices = []
+    for (const product of products) {
+        product.averageRating = (Array.isArray(product.reviews) && product.reviews.length > 0)
+            ? product.reviews.reduce((acc, review) => acc + review.rating, 0) / product.reviews.length
+            : 0
+        prices.push(Number(product.priceRegular))
+        prices.push(Number(product.priceWithCard))
+        if (product.discountedPrice) prices.push(Number(product.discountedPrice))
+
+    }
+    const result = {
+        products: products,
+        productsMaxPrice: 0,
+        productsMinPrice:  0
+    }
+    if (prices.length > 0) {
+        result.productsMaxPrice = Math.max(...prices)
+        result.productsMinPrice = Math.min(...prices)
+    }
+    return result
+}
 
 
 export async function getProductService(whereFilter: GetProductWhereCondition) {

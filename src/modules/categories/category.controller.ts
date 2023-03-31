@@ -1,5 +1,5 @@
 import { FastifyReply, FastifyRequest } from "fastify";
-import { CreateCategoryInput, GetCategoryQuery, UpdateCategoryInput } from "./category.schema";
+import { CreateCategoryInput, ResponseCategory, UpdateCategoryInput } from "./category.schema";
 import {
     createCategoryService,
     deleteCategoryService,
@@ -8,16 +8,42 @@ import {
     updateCategoryService
 } from "./category.service";
 import { UuidOrSlugParams, UuidParams } from "../shared/schemas";
+import { FilterProductQuery } from "../products/product.schema";
+import { processProducts } from "../products/product.service";
+
+async function processCategory(category: ResponseCategory, filterData: FilterProductQuery) {
+    category.filter = filterData
+    category.subcategoriesCount = category.subcategories ? category.subcategories.length : 0
+    if (!category.parentCategoryId) {
+        if (category.products) {
+            category.productsCount = category.products.length
+            const productsData = await processProducts(category.products)
+            category.products = productsData.products
+            category.productsMinPrice = productsData.productsMinPrice
+            category.productsMaxPrice = productsData.productsMaxPrice
+        } else {
+            category.productsCount = 0
+            category.productsMinPrice = undefined  // todo fix typing to null
+            category.productsMaxPrice = undefined // todo fix typing to null
+        }
+    }
+    return category
+}
+
 
 export async function getCategoryHandler(
-    request: FastifyRequest<{ Querystring: GetCategoryQuery, Params: UuidOrSlugParams }>,
+    request: FastifyRequest<{ Querystring: FilterProductQuery, Params: UuidOrSlugParams }>,
     reply: FastifyReply
 ) {
     const category = await getCategoryService(request.params, request.query)
     if (!category) return reply.code(404).send({error: `Category with id ${JSON.stringify(request.params)} not found.`});
-    return category
-        ? reply.code(200).send({message: "Success", data: category})
-        : reply.code(404).send({error: `Category with ${JSON.stringify(request.params)} not found.`});
+
+    reply.code(200).send(
+        {
+            message: "Success",
+            //                           todo fix typing
+            data: await processCategory(category as any, request.query)
+        })
 }
 
 export async function getAllCategoriesHandler(
@@ -36,7 +62,8 @@ export async function createCategoryHandler(
     reply: FastifyReply
 ) {
     const result = await createCategoryService(request.body);
-    return reply.code(201).send({message: "Category created", data: result});
+    const categoryType = Boolean(result.parentCategoryId) ? 'Subcategory' : 'Category'
+    return reply.code(201).send({message: `${categoryType} created`, data: result});
 }
 
 

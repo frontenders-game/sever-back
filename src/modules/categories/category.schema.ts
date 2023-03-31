@@ -7,38 +7,22 @@ import {
     slugType,
     uuidOrSlugParamsType,
     uuidParamsType,
-    uuidType,
-    sortPriceType
+    uuidType
 } from "../shared/schemas";
-import { responseProductSchema } from "../products/product.schema";
+import { filterProductQuery, responseProductSchema } from "../products/product.schema";
 import { routeSchema } from "../../types";
 
-export const getCategoryQuery = Type.Object({
-        productOffset: Type.Optional(Type.Integer({default: 0})),
-        productLimit: Type.Optional(Type.Integer({default: 40})),
-        minPrice: Type.Optional(Type.Number()),
-        maxPrice: Type.Optional(Type.Number()),
-        sortPrice: Type.Optional(sortPriceType),
-        subcategoryId: Type.Optional(uuidType),
-    },
-    {$id: "getCategoryQuery", additionalProperties: false}
-)
-
-export type GetCategoryQuery = Static<typeof getCategoryQuery>
 
 export const getCategoryWhereCondition = uuidOrSlugParamsType
 
 export type GetCategoryWhereCondition = Static<typeof getCategoryWhereCondition>
 
-const basicCategory = {
-    name: nameType,
-    // imageId: Type.Optional(uuidType),
-    description: Type.Optional(Type.String()),
-}
 
 export const createCategorySchema = Type.Object(
     {
-        ...basicCategory
+        name: nameType,
+        order: Type.Optional(Type.Integer()),
+        description: Type.Optional(Type.String()),
     },
     {$id: "createCategorySchema", additionalProperties: false}
 )
@@ -60,29 +44,33 @@ export type UpdateCategoryInput = Static<typeof updateCategorySchema>
 
 // export const updateSubcategorySchema = Type.Intersect([createSubcategorySchema, idSchema])
 // export type UpdateSubcategoryInput = Static<typeof updateSubcategorySchema>
+
 export const responseCategorySchema =
     Type.Object(
         {
-            ...basicCategory,
             id: uuidType,
-            parentCategoryId: Type.Optional(uuidType),
-            order: Type.Integer({minimum: 1}),
+            name: nameType,
             slug: slugType,
-            filter: Type.Optional(Type.Ref(getCategoryQuery)),
-            subcategoriesCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
+            order: Type.Integer({minimum: 1}),
+            description: Type.Optional(Type.String()),
+            parentCategoryId: Type.Optional(uuidType),
             subcategories: Type.Optional(Type.Array(Type.Intersect([idSchema, createCategorySchema, Type.Object({slug: slugType})]))),
-            // productsCount: Type.Integer({default: 0, minimum: 0}),
+            subcategoriesCount: Type.Optional(Type.Integer({minimum: 0})),
+            filter: Type.Optional(Type.Ref(filterProductQuery)),
+            productsCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
+            productsMinPrice: Type.Optional(Type.Integer()),
+            productsMaxPrice: Type.Optional(Type.Integer()),
             products: Type.Optional(Type.Array(Type.Ref(Type.Omit(responseProductSchema, ['categoryId'])))),
-
         },
         {$id: "responseCategorySchema", additionalProperties: false}
     )
 
+export type ResponseCategory = Static<typeof responseCategorySchema>
 
 export const routeGetCategoryByIdSchema = routeSchema({
     tags: ['categories'],
     params: uuidParamsType,
-    querystring: getCategoryQuery,
+    querystring: filterProductQuery,
     response: {
         200: {
             message: responseMessage,
@@ -95,7 +83,7 @@ export const routeGetCategoryByIdSchema = routeSchema({
 export const routeGetCategoryBySlugSchema = routeSchema({
     tags: ['categories'],
     params: slugParamsType,
-    querystring: getCategoryQuery,
+    querystring: filterProductQuery,
     response: {
         200: {
             message: responseMessage,
@@ -116,6 +104,16 @@ export const routeGetAllCategoriesSchema = routeSchema({
 export const routeCreateCategorySchema = routeSchema({
     tags: ['categories'],
     body: createCategorySchema,
+    response: {
+        201: {
+            message: responseMessage,
+            data: responseCategorySchema
+        }
+    }
+})
+export const routeCreateSubcategorySchema = routeSchema({
+    tags: ['subcategories'],
+    body: createSubcategorySchema,
     response: {
         201: {
             message: responseMessage,
@@ -151,7 +149,7 @@ export const routeDeleteCategorySchema = routeSchema({
 // export const routeGetSubcategoryByIdSchema = routeSchema({
 //     tags: ['subcategories'],
 //     params: uuidParamsType,
-//     querystring: getCategoryQuery,
+//     querystring: filterProductQuery,
 //     response: {
 //         200: {
 //             message: responseMessage,
@@ -164,7 +162,7 @@ export const routeDeleteCategorySchema = routeSchema({
 // export const routeGetSubcategoryBySlugSchema = routeSchema({
 //     tags: ['subcategories'],
 //     params: slugParamsType,
-//     querystring: getCategoryQuery,
+//     querystring: filterProductQuery,
 //     response: {
 //         200: {
 //             message: responseMessage,

@@ -29,10 +29,10 @@ export async function createProductImageService(imageInput: CreateProductImageIn
     })
 }
 
-export async function deleteProductImageService(imageId: string) {
+export async function deleteProductImageService(id: string) {
     return prisma.productImage.delete({
         where: {
-            id: imageId,
+            id
         },
     })
 }

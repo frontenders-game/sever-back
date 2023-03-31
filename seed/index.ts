@@ -35,12 +35,15 @@ async function addImageToProduct(productPath: string, productId: string): Promis
 async function seedifyCategoriesAndProducts(dataDir: string) {
     const categories = readDir(dataDir);
     // iter categories
+    let orderCategory = 1
     for (const categoryFolder of categories) {
         const categoryDir = path.join(dataDir, categoryFolder.name)
         const category = readCategory(categoryDir)
         console.log('Working on Category: ', category.name, 'id ', categoryFolder.name)
         const addedCategory: Category = await createCategoryService(
-            {name: category.name, description: `Категория: ${category.name}`})
+            {name: category.name,
+                description: `Категория: ${category.name}`,
+                order: orderCategory++})
         const subcategories = readDir(categoryDir)
         // iter subcategories
         for (const subcategoryFolder of subcategories) {
