@@ -24,6 +24,7 @@ export const filterProductQuery = Type.Object({
         productsLimit: Type.Optional(Type.Integer({default: 40})),
         productsFilterNew: Type.Optional(Type.Boolean()),
         productsFilterWithDiscount: Type.Optional(Type.Boolean()),
+        productsFilterInStock: Type.Optional(Type.Boolean()),
         productsMinPrice: Type.Optional(Type.Number()),
         productsMaxPrice: Type.Optional(Type.Number()),
         productsSortPrice: Type.Optional(Type.Union(

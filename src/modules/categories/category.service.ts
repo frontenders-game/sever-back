@@ -11,8 +11,15 @@ import { slugifyString } from "../../utils/misc";
 
 export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                                          filterOptions: FilterProductQuery) {
-    const {productsSortPrice, subcategoryId, productsOffset, productsLimit,
-        productsFilterNew, productsFilterWithDiscount, productsMaxPrice, productsMinPrice} = filterOptions
+    const {productsOffset,
+        productsLimit,
+        productsFilterNew,
+        productsFilterWithDiscount,
+        productsFilterInStock,
+        productsSortPrice,
+        productsMaxPrice,
+        productsMinPrice,
+        subcategoryId} = filterOptions
     return prisma.category.findUnique({
             where: {
                 ...whereFilter
@@ -35,7 +42,10 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                         },
                         subcategoryId: subcategoryId ? subcategoryId: undefined,
                         isNew: productsFilterNew ? productsFilterNew: undefined,
-                        discountIsActive: productsFilterWithDiscount ? productsFilterWithDiscount: undefined
+                        discountIsActive: productsFilterWithDiscount ? productsFilterWithDiscount: undefined,
+                        stockCount: {
+                            gt: productsFilterInStock ? 0 : undefined
+                        }
                     },
                     skip: productsOffset,
                     take: productsLimit,
