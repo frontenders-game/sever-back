@@ -50,6 +50,7 @@ export type UpdateProductInput = Static<typeof updateProductSchema>
 export const responseProductSchema = Type.Object({
         id: uuidType,
         categoryId: Type.Optional(uuidType),
+        subcategoryId: Type.Optional(uuidType),
         ...basicProduct,
         slug: slugType,
         images: Type.Optional(Type.Array(Type.Ref(responseProductImageSchema))),
@@ -58,7 +59,7 @@ export const responseProductSchema = Type.Object({
         reviews: Type.Optional(Type.Array(Type.Ref(responseProductReviewSchema))),
         information: Type.Optional(Type.Array(Type.Ref(responseProductInformationSchema)))
     },
-    {$id: "responseProductSchema", additionalProperties: true}
+    {$id: "responseProductSchema", additionalProperties: false}
 )
 export type ResponseProduct = Static<typeof responseProductSchema>
 
