@@ -58,8 +58,8 @@ export const responseCategorySchema =
             subcategoriesCount: Type.Optional(Type.Integer({minimum: 0})),
             filter: Type.Optional(Type.Ref(filterProductQuery)),
             productsCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
-            productsMinPrice: Type.Optional(Type.Integer()),
-            productsMaxPrice: Type.Optional(Type.Integer()),
+            productsMinPrice: Type.Optional(Type.Number()),
+            productsMaxPrice: Type.Optional(Type.Number()),
             products: Type.Optional(Type.Array(Type.Ref(Type.Omit(responseProductSchema, ['categoryId'])))),
         },
         {$id: "responseCategorySchema", additionalProperties: false}

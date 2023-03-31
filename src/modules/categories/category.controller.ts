@@ -41,7 +41,7 @@ export async function getCategoryHandler(
     reply.code(200).send(
         {
             message: "Success",
-            //                           todo fix typing
+            //  todo fix typing
             data: await processCategory(category as any, request.query)
         })
 }
