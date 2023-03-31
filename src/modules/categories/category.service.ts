@@ -11,8 +11,8 @@ import { slugifyString } from "../../utils/misc";
 
 export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                                          filterOptions: FilterProductQuery) {
-    const {sortPrice, subcategoryId, productsOffset, productsLimit,
-        filterNew, filterWithDiscount, minPrice, maxPrice} = filterOptions
+    const {productsSortPrice, subcategoryId, productsOffset, productsLimit,
+        productsFilterNew, productsFilterWithDiscount, productsMaxPrice, productsMinPrice} = filterOptions
     return prisma.category.findUnique({
             where: {
                 ...whereFilter
@@ -30,12 +30,12 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                 products: {
                     where: {
                         priceWithCard: {
-                            gte: minPrice,
-                            lte: maxPrice
+                            gte: productsMinPrice,
+                            lte: productsMaxPrice
                         },
                         subcategoryId: subcategoryId ? subcategoryId: undefined,
-                        isNew: filterNew ? filterNew: undefined,
-                        discountIsActive: filterWithDiscount ? filterWithDiscount: undefined
+                        isNew: productsFilterNew ? productsFilterNew: undefined,
+                        discountIsActive: productsFilterWithDiscount ? productsFilterWithDiscount: undefined
                     },
                     skip: productsOffset,
                     take: productsLimit,
@@ -44,8 +44,8 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                         reviews: true,
                         information: true
                     },
-                    orderBy: sortPrice ? {
-                        priceWithCard: sortPrice
+                    orderBy: productsSortPrice ? {
+                        priceWithCard: productsSortPrice
                     }: undefined
                 }
             }
