@@ -8,7 +8,7 @@ import {
 import {
     createCategoryService,
     deleteCategoryService,
-    getAllCategoriesService,
+    getAllCategoriesService, getCategoryProductsCount,
     getCategoryService,
     updateCategoryService
 } from "./category.service";
@@ -21,16 +21,17 @@ async function processCategory(category: ResponseCategory, filterData: FilterCat
     if (!category.parentCategoryId) {
         if (category.products) {
             const productsData = await processProducts(category.products)
-            category.productsCount = productsData.productsCount
+            category.productsResultCount = productsData.productsResultCount
             category.products = productsData.products
             category.productsMinPrice = productsData.productsMinPrice
             category.productsMaxPrice = productsData.productsMaxPrice
         } else {
-            category.productsCount = 0
+            category.productsResultCount = 0
             category.productsMinPrice = undefined  // todo fix typing to null
             category.productsMaxPrice = undefined // todo fix typing to null
         }
     }
+    category.productsTotalCount = await getCategoryProductsCount(category.id)
     return category
 }
 

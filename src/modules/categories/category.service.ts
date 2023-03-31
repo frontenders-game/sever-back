@@ -63,6 +63,13 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
     )
 }
 
+export async function getCategoryProductsCount(categoryId: string){
+    return prisma.product.count({
+        where: {
+            categoryId: categoryId
+    }
+    })
+}
 
 export async function getAllCategoriesService(): Promise<Category[]> {
     // @todo filter categories that contain products

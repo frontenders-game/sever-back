@@ -5,7 +5,7 @@ import {
     nameType,
     responseMessage,
     slugParamsType,
-    slugType,
+    slugType, sortPriceType,
     uuidOrSlugParamsType,
     uuidParamsType,
     uuidType
@@ -77,8 +77,7 @@ export const filterProductsQuery = Type.Object({
         inStock: Type.Optional(Type.Boolean()),
         minPrice: Type.Optional(Type.Number()),
         maxPrice: Type.Optional(Type.Number()),
-        sortPrice: Type.Optional(Type.Union(
-            [Type.Literal('asc'), Type.Literal('desc')]))
+        sortPrice: sortPriceType
     },
     {$id: "filterProductsQuery", additionalProperties: false}
 )
@@ -89,7 +88,7 @@ export const processProductsSchema = Type.Object({
     products: Type.Optional(Type.Array(responseProductSchema)),
     productsMinPrice: Type.Optional(Type.Number()),
     productsMaxPrice: Type.Optional(Type.Number()),
-    productsCount: Type.Optional(Type.Number()),
+    productsResultCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
 })
 export type ProcessProducts  = Static<typeof processProductsSchema>
 

@@ -23,7 +23,7 @@ export async function processProducts(products: ResponseProduct[]): Promise<Proc
     }
     const result = {
         products: products,
-        productsCount: products.length,
+        productsResultCount: products.length,
         productsMaxPrice: 0,
         productsMinPrice: 0
     }

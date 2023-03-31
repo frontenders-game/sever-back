@@ -5,11 +5,12 @@ import {
     responseMessage,
     slugParamsType,
     slugType,
+    sortPriceType,
     uuidOrSlugParamsType,
     uuidParamsType,
     uuidType
 } from "../shared/schemas";
-import {   responseProductSchema } from "../products/product.schema";
+import { processProductsSchema } from "../products/product.schema";
 import { routeSchema } from "../../types";
 
 
@@ -45,7 +46,6 @@ export type UpdateCategoryInput = Static<typeof updateCategorySchema>
 // export type UpdateSubcategoryInput = Static<typeof updateSubcategorySchema>
 
 
-
 export const filterCategoryProductsQuery = Type.Object({
         productsOffset: Type.Optional(Type.Integer({default: 0})),
         productsLimit: Type.Optional(Type.Integer({default: 40})),
@@ -54,8 +54,7 @@ export const filterCategoryProductsQuery = Type.Object({
         productsFilterInStock: Type.Optional(Type.Boolean()),
         productsMinPrice: Type.Optional(Type.Number()),
         productsMaxPrice: Type.Optional(Type.Number()),
-        productsSortPrice: Type.Optional(Type.Union(
-            [Type.Literal('asc'), Type.Literal('desc')])),
+        productsSortPrice: sortPriceType,
         subcategoryId: Type.Optional(uuidType),
     },
     {$id: "filterCategoryProductsQuery", additionalProperties: false}
@@ -65,22 +64,24 @@ export type FilterCategoryProductsQuery = Static<typeof filterCategoryProductsQu
 
 
 export const responseCategorySchema =
-    Type.Object(
-        {
-            id: uuidType,
-            name: nameType,
-            slug: slugType,
-            order: Type.Integer({minimum: 1}),
-            description: Type.Optional(Type.String()),
-            parentCategoryId: Type.Optional(uuidType),
-            subcategories: Type.Optional(Type.Array(Type.Intersect([idSchema, createCategorySchema, Type.Object({slug: slugType})]))),
-            subcategoriesCount: Type.Optional(Type.Integer({minimum: 0})),
-            filter: Type.Optional(Type.Ref(filterCategoryProductsQuery)),
-            productsCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
-            productsMinPrice: Type.Optional(Type.Number()),
-            productsMaxPrice: Type.Optional(Type.Number()),
-            products: Type.Optional(Type.Array(Type.Ref(Type.Omit(responseProductSchema, ['categoryId'])))),
-        },
+    Type.Intersect([
+            Type.Object(
+                {
+                    id: uuidType,
+                    name: nameType,
+                    slug: slugType,
+                    order: Type.Integer({minimum: 1}),
+                    description: Type.Optional(Type.String()),
+                    parentCategoryId: Type.Optional(uuidType),
+                    subcategories: Type.Optional(Type.Array(Type.Intersect([idSchema, createCategorySchema, Type.Object({slug: slugType})]))),
+                    subcategoriesCount: Type.Optional(Type.Integer({minimum: 0})),
+                    filter: Type.Optional(Type.Ref(filterCategoryProductsQuery))
+                }),
+            processProductsSchema,
+            Type.Object({
+                productsTotalCount: Type.Optional(Type.Number()),
+            })
+        ],
         {$id: "responseCategorySchema", additionalProperties: false}
     )
 

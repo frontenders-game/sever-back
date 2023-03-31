@@ -4,6 +4,8 @@ import { Static, TSchema, Type } from "@sinclair/typebox";
 export const uuidType = Type.String({format: 'uuid'})
 export const slugType = Type.String({minLength: 1, maxLength: 255})
 export const nameType = Type.String({minLength: 1, maxLength: 255})
+export const sortPriceType = Type.Optional(Type.Union(
+    [Type.Literal('asc'), Type.Literal('desc')]))
 
 export const idSchema = Type.Object({ id: uuidType})
 
