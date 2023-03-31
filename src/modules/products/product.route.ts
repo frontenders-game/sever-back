@@ -2,14 +2,14 @@ import { FastifyPluginAsyncTypebox } from "@fastify/type-provider-typebox";
 import { FastifyInstance, FastifyReply } from "fastify";
 import {
     createProductHandler,
-    deleteProductHandler,
+    deleteProductHandler, getAllProductsHandler,
     getProductHandler,
     updateProductHandler
 } from "./product.controller";
 import {
-    CreateProductInput,
+    CreateProductInput, FilterProductsQuery,
     routeCreateProductSchema,
-    routeDeleteProductSchema,
+    routeDeleteProductSchema, routeGetAllProductSchema,
     routeGetProductByIdSchema,
     routeGetProductBySlugSchema,
     routeUpdateProductSchema,
@@ -30,10 +30,17 @@ import {
     uploadProductImageHandler
 } from "./images/image.controller";
 
-
 const productRoute: FastifyPluginAsyncTypebox = async function (server: FastifyInstance) {
 
-    // Products
+    server.get<{ Querystring: FilterProductsQuery, Reply: FastifyReply }>(
+        "/",
+        {
+            schema: routeGetAllProductSchema
+        },
+        getAllProductsHandler
+    )
+
+
     server.get<{ Params: UuidParams, Reply: FastifyReply }>(
         "/id/:id",
         {

@@ -1,10 +1,10 @@
 import { FastifyPluginAsyncTypebox } from "@fastify/type-provider-typebox";
 import { FastifyInstance, FastifyReply } from "fastify";
 import { SlugParams, UuidParams } from "../shared/schemas";
-import { FilterProductQuery } from "../products/product.schema"
 import {
     CreateCategoryInput,
     CreateSubcategoryInput,
+    FilterCategoryProductsQuery,
     routeCreateCategorySchema,
     routeCreateSubcategorySchema,
     routeDeleteCategorySchema,
@@ -24,21 +24,6 @@ import {
 
 
 const categoryRoute: FastifyPluginAsyncTypebox = async function (server: FastifyInstance) {
-    server.get<{ Querystring: FilterProductQuery, Params: UuidParams, Reply: FastifyReply }>(
-        "/id/:id",
-        {
-            schema: routeGetCategoryByIdSchema
-        },
-        getCategoryHandler
-    )
-
-    server.get<{ Querystring: FilterProductQuery, Params: SlugParams, Reply: FastifyReply }>(
-        "/slug/:slug",
-        {
-            schema: routeGetCategoryBySlugSchema
-        },
-        getCategoryHandler
-    )
 
     server.get<{ Reply: FastifyReply }>(
         "/",
@@ -46,6 +31,22 @@ const categoryRoute: FastifyPluginAsyncTypebox = async function (server: Fastify
             schema: routeGetAllCategoriesSchema
         },
         getAllCategoriesHandler
+    )
+
+    server.get<{ Querystring: FilterCategoryProductsQuery, Params: UuidParams, Reply: FastifyReply }>(
+        "/id/:id",
+        {
+            schema: routeGetCategoryByIdSchema
+        },
+        getCategoryHandler
+    )
+
+    server.get<{ Querystring: FilterCategoryProductsQuery, Params: SlugParams, Reply: FastifyReply }>(
+        "/slug/:slug",
+        {
+            schema: routeGetCategoryBySlugSchema
+        },
+        getCategoryHandler
     )
 
     server.post<{ Body: CreateCategoryInput, Reply: FastifyReply }>(

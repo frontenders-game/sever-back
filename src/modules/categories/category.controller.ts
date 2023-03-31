@@ -1,5 +1,10 @@
 import { FastifyReply, FastifyRequest } from "fastify";
-import { CreateCategoryInput, ResponseCategory, UpdateCategoryInput } from "./category.schema";
+import {
+    CreateCategoryInput,
+    ResponseCategory,
+    UpdateCategoryInput,
+    FilterCategoryProductsQuery
+} from "./category.schema";
 import {
     createCategoryService,
     deleteCategoryService,
@@ -8,16 +13,15 @@ import {
     updateCategoryService
 } from "./category.service";
 import { UuidOrSlugParams, UuidParams } from "../shared/schemas";
-import { FilterProductQuery } from "../products/product.schema";
 import { processProducts } from "../products/product.service";
 
-async function processCategory(category: ResponseCategory, filterData: FilterProductQuery) {
+async function processCategory(category: ResponseCategory, filterData: FilterCategoryProductsQuery) {
     category.filter = filterData
     category.subcategoriesCount = category.subcategories ? category.subcategories.length : 0
     if (!category.parentCategoryId) {
         if (category.products) {
-            category.productsCount = category.products.length
             const productsData = await processProducts(category.products)
+            category.productsCount = productsData.productsCount
             category.products = productsData.products
             category.productsMinPrice = productsData.productsMinPrice
             category.productsMaxPrice = productsData.productsMaxPrice
@@ -32,7 +36,7 @@ async function processCategory(category: ResponseCategory, filterData: FilterPro
 
 
 export async function getCategoryHandler(
-    request: FastifyRequest<{ Querystring: FilterProductQuery, Params: UuidOrSlugParams }>,
+    request: FastifyRequest<{ Querystring: FilterCategoryProductsQuery, Params: UuidOrSlugParams }>,
     reply: FastifyReply
 ) {
     const category = await getCategoryService(request.params, request.query)

@@ -1,16 +1,16 @@
 import prisma from "../../utils/prisma";
 import { Category } from "@prisma/client";
-import { FilterProductQuery } from "../products/product.schema";
 import {
     CreateSubcategoryInput,
     GetCategoryWhereCondition,
-    UpdateCategoryInput
+    UpdateCategoryInput,
+    FilterCategoryProductsQuery
 } from "./category.schema";
 import { slugifyString } from "../../utils/misc";
 
 
 export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
-                                         filterOptions: FilterProductQuery) {
+                                         filterOptions: FilterCategoryProductsQuery) {
     const {productsOffset,
         productsLimit,
         productsFilterNew,
@@ -41,8 +41,8 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                             lte: productsMaxPrice
                         },
                         subcategoryId: subcategoryId ? subcategoryId: undefined,
-                        isNew: productsFilterNew ? productsFilterNew: undefined,
-                        discountIsActive: productsFilterWithDiscount ? productsFilterWithDiscount: undefined,
+                        isNew: productsFilterNew ? true: undefined,
+                        discountIsActive: productsFilterWithDiscount ? true: undefined,
                         stockCount: {
                             gt: productsFilterInStock ? 0 : undefined
                         }

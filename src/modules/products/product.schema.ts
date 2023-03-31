@@ -19,24 +19,6 @@ export const getProductWhereCondition = uuidOrSlugParamsType
 export type GetProductWhereCondition = Static<typeof getProductWhereCondition>
 
 
-export const filterProductQuery = Type.Object({
-        productsOffset: Type.Optional(Type.Integer({default: 0})),
-        productsLimit: Type.Optional(Type.Integer({default: 40})),
-        productsFilterNew: Type.Optional(Type.Boolean()),
-        productsFilterWithDiscount: Type.Optional(Type.Boolean()),
-        productsFilterInStock: Type.Optional(Type.Boolean()),
-        productsMinPrice: Type.Optional(Type.Number()),
-        productsMaxPrice: Type.Optional(Type.Number()),
-        productsSortPrice: Type.Optional(Type.Union(
-            [Type.Literal('asc'), Type.Literal('desc')])),
-        subcategoryId: Type.Optional(uuidType),
-    },
-    {$id: "filterProductQuery", additionalProperties: false}
-)
-
-export type FilterProductQuery = Static<typeof filterProductQuery>
-
-
 const basicProduct = {
     name: nameType,
     isNew: Type.Boolean({default: false}),
@@ -80,12 +62,56 @@ export const responseProductSchema = Type.Object({
 )
 export type ResponseProduct = Static<typeof responseProductSchema>
 
+//
+// export const getProductsWhereCondition = uuidOrSlugParamsType
+// export type GetProductsWhereCondition = Static<typeof getProductsWhereCondition>
+
+
+
+export const filterProductsQuery = Type.Object({
+        offset: Type.Optional(Type.Integer({default: 0})),
+        limit: Type.Optional(Type.Integer({default: 40})),
+        searchText: Type.Optional(Type.String({minLength: 3})),
+        isNew: Type.Optional(Type.Boolean()),
+        withDiscount: Type.Optional(Type.Boolean()),
+        inStock: Type.Optional(Type.Boolean()),
+        minPrice: Type.Optional(Type.Number()),
+        maxPrice: Type.Optional(Type.Number()),
+        sortPrice: Type.Optional(Type.Union(
+            [Type.Literal('asc'), Type.Literal('desc')]))
+    },
+    {$id: "filterProductsQuery", additionalProperties: false}
+)
+
+export type FilterProductsQuery = Static<typeof filterProductsQuery>
+
 export const processProductsSchema = Type.Object({
     products: Type.Optional(Type.Array(responseProductSchema)),
     productsMinPrice: Type.Optional(Type.Number()),
     productsMaxPrice: Type.Optional(Type.Number()),
+    productsCount: Type.Optional(Type.Number()),
 })
 export type ProcessProducts  = Static<typeof processProductsSchema>
+
+export const responseAllProductsSchema =
+    Type.Intersect([
+        Type.Object({filter: Type.Optional(Type.Ref(filterProductsQuery))}),
+        processProductsSchema
+    ],
+        {$id: "responseAllProductsSchema", additionalProperties: false}
+    )
+
+
+export const routeGetAllProductSchema = routeSchema({
+    tags: ['products'],
+    querystring: filterProductsQuery,
+    response: {
+        200: {
+            message: responseMessage,
+            data: responseAllProductsSchema
+        }
+    },
+})
 
 
 export const routeGetProductByIdSchema = routeSchema({

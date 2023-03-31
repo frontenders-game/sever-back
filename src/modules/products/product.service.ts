@@ -1,6 +1,7 @@
 import prisma from "../../utils/prisma";
 import {
     CreateProductInput,
+    FilterProductsQuery,
     GetProductWhereCondition,
     ProcessProducts,
     ResponseProduct,
@@ -10,7 +11,6 @@ import { slugifyString } from "../../utils/misc";
 
 
 export async function processProducts(products: ResponseProduct[]): Promise<ProcessProducts> {
-
     const prices = []
     for (const product of products) {
         product.averageRating = (Array.isArray(product.reviews) && product.reviews.length > 0)
@@ -23,8 +23,9 @@ export async function processProducts(products: ResponseProduct[]): Promise<Proc
     }
     const result = {
         products: products,
+        productsCount: products.length,
         productsMaxPrice: 0,
-        productsMinPrice:  0
+        productsMinPrice: 0
     }
     if (prices.length > 0) {
         result.productsMaxPrice = Math.max(...prices)
@@ -46,6 +47,48 @@ export async function getProductService(whereFilter: GetProductWhereCondition) {
             category: true,
         }
     })
+}
+
+export async function getAllProductsService(filterOptions: FilterProductsQuery) {
+    const {
+        offset,
+        limit,
+        searchText,
+        isNew,
+        withDiscount,
+        inStock,
+        sortPrice,
+        maxPrice,
+        minPrice
+    } = filterOptions
+    return prisma.product.findMany({
+            where: {
+                priceWithCard: {
+                    gte: minPrice,
+                    lte: maxPrice
+                },
+                name: searchText ? {
+                    contains: searchText,
+                    mode: 'insensitive',
+                } : undefined,
+                isNew: isNew ? true : undefined,
+                discountIsActive: withDiscount ? true : undefined,
+                stockCount: {
+                    gt: inStock ? 0 : undefined
+                }
+            },
+            skip: offset,
+            take: limit,
+            include: {
+                images: true,
+                reviews: true,
+                information: true
+            },
+            orderBy: sortPrice ? {
+                priceWithCard: sortPrice
+            } : undefined
+        }
+    )
 }
 
 export async function createProductService(productInput: CreateProductInput) {
