@@ -22,12 +22,12 @@ export type GetProductWhereCondition = Static<typeof getProductWhereCondition>
 export const filterProductQuery = Type.Object({
         productsOffset: Type.Optional(Type.Integer({default: 0})),
         productsLimit: Type.Optional(Type.Integer({default: 40})),
-        filterNew: Type.Optional(Type.Boolean()),
-        filterWithDiscount: Type.Optional(Type.Boolean()),
-        minPrice: Type.Optional(Type.Number()),
-        maxPrice: Type.Optional(Type.Number()),
-        sortPrice: Type.Optional(Type.Union(
-            [Type.Literal('asc'), Type.Literal('desc')], {default: 'asc'})),
+        productsFilterNew: Type.Optional(Type.Boolean()),
+        productsFilterWithDiscount: Type.Optional(Type.Boolean()),
+        productsMinPrice: Type.Optional(Type.Number()),
+        productsMaxPrice: Type.Optional(Type.Number()),
+        productsSortPrice: Type.Optional(Type.Union(
+            [Type.Literal('asc'), Type.Literal('desc')])),
         subcategoryId: Type.Optional(uuidType),
     },
     {$id: "filterProductQuery", additionalProperties: false}
