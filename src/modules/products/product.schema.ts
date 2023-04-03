@@ -80,7 +80,7 @@ export const filterProductsQuery = Type.Object({
         limit: Type.Optional(Type.Integer({default: 40})),
         searchText: Type.Optional(Type.String({minLength: 3})),
         isNew: Type.Optional(Type.Boolean()),
-        withDiscount: Type.Optional(Type.Boolean()),
+        discountIsActive: Type.Optional(Type.Boolean()),
         inStock: Type.Optional(Type.Boolean()),
         minPrice: Type.Optional(Type.Number()),
         maxPrice: Type.Optional(Type.Number()),

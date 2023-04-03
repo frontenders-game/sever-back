@@ -2,7 +2,8 @@ import { FastifyPluginAsyncTypebox } from "@fastify/type-provider-typebox";
 import { FastifyInstance, FastifyReply } from "fastify";
 import {
     createProductHandler,
-    deleteProductHandler, getAllProductsHandler,
+    deleteProductHandler,
+    getAllProductsHandler,
     getProductHandler,
     updateProductHandler
 } from "./product.controller";

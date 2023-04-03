@@ -51,11 +51,13 @@ export async function getProductService(whereFilter: GetProductWhereCondition) {
 
 export async function getAllProductsService(filterOptions: FilterProductsQuery) {
     const {
+        categoryId,
+        subcategoryId,
         offset,
         limit,
         searchText,
         isNew,
-        withDiscount,
+        discountIsActive,
         inStock,
         sortPrice,
         maxPrice,
@@ -71,8 +73,10 @@ export async function getAllProductsService(filterOptions: FilterProductsQuery) 
                     contains: searchText,
                     mode: 'insensitive',
                 } : undefined,
-                isNew: isNew ? true : undefined,
-                discountIsActive: withDiscount ? true : undefined,
+                categoryId,
+                subcategoryId,
+                isNew,
+                discountIsActive,
                 stockCount: {
                     gt: inStock ? 0 : undefined
                 }
@@ -96,7 +100,7 @@ export async function getProductsStats( filterOptions: FilterProductsQuery) {
    const  { categoryId,
             subcategoryId,
             isNew,
-            withDiscount,
+       discountIsActive,
             inStock,
             maxPrice,
             minPrice
@@ -107,10 +111,10 @@ export async function getProductsStats( filterOptions: FilterProductsQuery) {
                 gte: minPrice,
                 lte: maxPrice
             },
-            categoryId: categoryId ? categoryId : undefined,
-            subcategoryId: subcategoryId ? subcategoryId : undefined,
-            isNew: isNew ? true : undefined,
-            discountIsActive: withDiscount ? true : undefined,
+            categoryId,
+            subcategoryId,
+            isNew,
+            discountIsActive,
             stockCount: inStock ? {gt: 0} : undefined
         },
         _count: {

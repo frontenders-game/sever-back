@@ -26,16 +26,16 @@ export async function getAllProductsHandler(
     request: FastifyRequest<{ Querystring: FilterProductsQuery }>,
     reply: FastifyReply
 ) {
-
-    const products = await getAllProductsService(request.query) as unknown as ResponseProduct[]
+    const filter = request.query
+    const products = await getAllProductsService(filter) as unknown as ResponseProduct[]
     const result = await processProducts(products)
-    const stats = await getProductsStats(request.query)
+    const stats = await getProductsStats(filter)
     result.productsTotalCount = stats._count.id
     result.productsTotalMinPrice = Math.min(Number(stats._min.priceWithCard), Number(stats._min.discountedPrice))
     result.productsTotalMaxPrice = Math.min(Number(stats._max.priceRegular))
     reply.code(200).send({
         message: "Success",
-        data: {result, filter: request.query}
+        data: {...result, filter: request.query}
     })
 }
 
