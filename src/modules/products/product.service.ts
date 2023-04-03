@@ -92,6 +92,40 @@ export async function getAllProductsService(filterOptions: FilterProductsQuery) 
     )
 }
 
+export async function getProductsStats( filterOptions: FilterProductsQuery) {
+   const  { categoryId,
+            subcategoryId,
+            isNew,
+            withDiscount,
+            inStock,
+            maxPrice,
+            minPrice
+    } = filterOptions
+    return prisma.product.aggregate({
+        where: {
+            priceWithCard: {
+                gte: minPrice,
+                lte: maxPrice
+            },
+            categoryId: categoryId ? categoryId : undefined,
+            subcategoryId: subcategoryId ? subcategoryId : undefined,
+            isNew: isNew ? true : undefined,
+            discountIsActive: withDiscount ? true : undefined,
+            stockCount: inStock ? {gt: 0} : undefined
+        },
+        _count: {
+            id: true
+        },
+        _min: {
+            priceWithCard: true,
+            discountedPrice: true
+        },
+        _max: {
+            priceRegular: true
+        }
+    })
+}
+
 export async function createProductService(productInput: CreateProductInput) {
     const subcategory = await prisma.category.findFirst({
         where: {

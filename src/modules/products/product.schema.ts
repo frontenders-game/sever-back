@@ -74,6 +74,8 @@ export type ResponseProduct = Static<typeof responseProductSchema>
 
 
 export const filterProductsQuery = Type.Object({
+        categoryId: Type.Optional(uuidType),
+        subcategoryId: Type.Optional(uuidType),
         offset: Type.Optional(Type.Integer({default: 0})),
         limit: Type.Optional(Type.Integer({default: 40})),
         searchText: Type.Optional(Type.String({minLength: 3})),
@@ -94,6 +96,9 @@ export const processProductsSchema = Type.Object({
     productsResultCount: Type.Optional(Type.Integer({default: 0, minimum: 0})),
     productsResultMinPrice: Type.Optional(Type.Number()),
     productsResultMaxPrice: Type.Optional(Type.Number()),
+    productsTotalCount: Type.Optional(Type.Number()),
+    productsTotalMinPrice: Type.Optional(Type.Number()),
+    productsTotalMaxPrice: Type.Optional(Type.Number()),
 })
 export type ProcessProducts  = Static<typeof processProductsSchema>
 

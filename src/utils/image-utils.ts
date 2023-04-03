@@ -1,10 +1,18 @@
 import Jimp from "jimp";
+import { Static, Type } from "@sinclair/typebox";
 
-interface IImages {
-    full: string,
-    small: string,
-    thumb: string
-}
+
+export const imageSchema = Type.Object(
+    {
+        full: Type.String({format: "uri"}),
+        small: Type.String({format: "uri"}),
+        thumb: Type.String({format: "uri"})
+    },
+    {$id: "createCategorySchema", additionalProperties: false}
+)
+
+export type ImageType = Static<typeof imageSchema>
+
 
 export default class ImageResizer {
 
@@ -49,7 +57,7 @@ export default class ImageResizer {
         return await this.resizeAndWrite(80, 80, '80x80', 'jpg', 100)
     }
 
-    public async saveAll(): Promise<IImages> {
+    public async saveAll(): Promise<ImageType> {
         return {
             full: await this.saveFull(),
             small: await this.saveSmall(),
