@@ -32,7 +32,7 @@ async function processCategory(category: ResponseCategory, filterData: FilterCat
             category.productsResultMaxPrice = undefined // todo fix typing to null
         }
     }
-    const stats = await getCategoryStats(category.id)
+    const stats = await getCategoryStats(category.id, filterData)
     category.productsTotalCount = stats._count.id
     category.productsTotalMinPrice = Math.min(Number(stats._min.priceWithCard), Number(stats._min.discountedPrice))
     category.productsTotalMaxPrice = Math.min(Number(stats._max.priceRegular))

@@ -26,8 +26,8 @@ export const registerUserSchema =  Type.Object(
             email: Type.Optional(userEmail()),
             password: userPassword(),
             gender: Type.Enum(EGender, {description: "Provide Gender", transform: ["toUpperCase"]}),
-            region: Type.String(),
-            town: Type.String(),
+            federalSubjectId: Type.String(),
+            settlement: Type.String(),
             phoneNumber: userPhoneNumber(),
             dateOfBirth: Type.String(), // Type.Date(),
             cardNumber: Type.Optional(Type.Integer({minimum: 100000, maximum: 999999}))

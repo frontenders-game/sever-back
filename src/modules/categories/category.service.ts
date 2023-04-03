@@ -2,16 +2,17 @@ import prisma from "../../utils/prisma";
 import { Category } from "@prisma/client";
 import {
     CreateSubcategoryInput,
+    FilterCategoryProductsQuery,
     GetCategoryWhereCondition,
-    UpdateCategoryInput,
-    FilterCategoryProductsQuery
+    UpdateCategoryInput
 } from "./category.schema";
 import { slugifyString } from "../../utils/misc";
 
 
 export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                                          filterOptions: FilterCategoryProductsQuery) {
-    const {productsOffset,
+    const {
+        productsOffset,
         productsLimit,
         productsFilterNew,
         productsFilterWithDiscount,
@@ -19,7 +20,8 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
         productsSortPrice,
         productsMaxPrice,
         productsMinPrice,
-        subcategoryId} = filterOptions
+        subcategoryId
+    } = filterOptions
     return prisma.category.findUnique({
             where: {
                 ...whereFilter
@@ -40,12 +42,10 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                             gte: productsMinPrice,
                             lte: productsMaxPrice
                         },
-                        subcategoryId: subcategoryId ? subcategoryId: undefined,
-                        isNew: productsFilterNew ? true: undefined,
-                        discountIsActive: productsFilterWithDiscount ? true: undefined,
-                        stockCount: {
-                            gt: productsFilterInStock ? 0 : undefined
-                        }
+                        subcategoryId: subcategoryId ? subcategoryId : undefined,
+                        isNew: productsFilterNew ? true : undefined,
+                        discountIsActive: productsFilterWithDiscount ? true : undefined,
+                        stockCount: productsFilterInStock ? {gt: 0} : undefined
                     },
                     skip: productsOffset,
                     take: productsLimit,
@@ -56,18 +56,34 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                     },
                     orderBy: productsSortPrice ? {
                         priceWithCard: productsSortPrice
-                    }: undefined
+                    } : undefined
                 }
             }
         }
     )
 }
 
-export async function getCategoryStats(categoryId: string){
+export async function getCategoryStats(categoryId: string, filterOptions: FilterCategoryProductsQuery) {
+    const {
+        productsFilterNew,
+        productsFilterWithDiscount,
+        productsFilterInStock,
+        productsMaxPrice,
+        productsMinPrice,
+        subcategoryId
+    } = filterOptions
     return prisma.product.aggregate({
         where: {
-            categoryId: categoryId
-    },
+            categoryId: categoryId,
+            priceWithCard: {
+                gte: productsMinPrice,
+                lte: productsMaxPrice
+            },
+            subcategoryId: subcategoryId ? subcategoryId : undefined,
+            isNew: productsFilterNew ? true : undefined,
+            discountIsActive: productsFilterWithDiscount ? true : undefined,
+            stockCount: productsFilterInStock ? {gt: 0} : undefined
+        },
         _count: {
             id: true
         },
