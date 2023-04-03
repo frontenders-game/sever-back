@@ -82,7 +82,8 @@ export async function getAllProductsService(filterOptions: FilterProductsQuery) 
             include: {
                 images: true,
                 reviews: true,
-                information: true
+                information: true,
+                category: true
             },
             orderBy: sortPrice ? {
                 priceWithCard: sortPrice

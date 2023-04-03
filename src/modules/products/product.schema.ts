@@ -50,6 +50,10 @@ export type UpdateProductInput = Static<typeof updateProductSchema>
 export const responseProductSchema = Type.Object({
         id: uuidType,
         categoryId: Type.Optional(uuidType),
+        category: Type.Object({
+            id: Type.Optional(uuidType),
+            slug: Type.Optional(slugType)}
+        ),
         subcategoryId: Type.Optional(uuidType),
         ...basicProduct,
         slug: slugType,

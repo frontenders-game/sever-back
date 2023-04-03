@@ -52,7 +52,8 @@ export async function getCategoryService(whereFilter: GetCategoryWhereCondition,
                     include: {
                         images: true,
                         reviews: true,
-                        information: true
+                        information: true,
+                        category: true
                     },
                     orderBy: productsSortPrice ? {
                         priceWithCard: productsSortPrice
