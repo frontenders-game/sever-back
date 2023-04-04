@@ -15,16 +15,20 @@ export const searchSchema = Type.Object({
 })
 
 
-export const subcategoryAndProductSearchSchema = Type.Intersect([
+export const subcategorySearchSchema = Type.Intersect([
+    searchSchema, Type.Object({parentCategory: searchSchema})
+])
+
+
+export const productSearchSchema = Type.Intersect([
     searchSchema, Type.Object({category: searchSchema})
 ])
 
 
-
 export const responseSearchSchema = Type.Object({
     categories: Type.Optional(Type.Array(searchSchema)),
-    subcategories: Type.Optional(Type.Array(subcategoryAndProductSearchSchema)),
-    products: Type.Optional(Type.Array(subcategoryAndProductSearchSchema)),
+    subcategories: Type.Optional(Type.Array(subcategorySearchSchema)),
+    products: Type.Optional(Type.Array(productSearchSchema)),
 })
 
 
