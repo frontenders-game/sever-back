@@ -8,7 +8,10 @@ export async function searchProductsService(searchText: string) {
                 contains: searchText,
                 mode: 'insensitive',
             }
-        }
+        },
+        include: {
+            category: true
+        },
     })
 }
 
@@ -44,6 +47,9 @@ export async function searchSubcategoriesService(searchText: string) {
                         not: null
                     }
                 }]
+        },
+        include: {
+            parentCategory: true
         }
     })
 }
